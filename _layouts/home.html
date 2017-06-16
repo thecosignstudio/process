@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Chapters</h1>
+  
+  {{ content }}
+
+  <div class="dynamic-nav">
+    {% include dynamic-nav.html %}
+  </div>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>

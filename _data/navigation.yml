@@ -1,0 +1,10 @@
+chapters:
+  - page: Chapter 1
+    url: /chapters/01-chapter.html
+    subfolderitems:
+      - page: Introduction
+        url: /chapters/01-chapter/01-01-introduction.html
+  - page: Chapter 2
+    url: /chapters/02-chapter.html
+  - page: Chapter 3
+    url: /chapters/03-chapter.html
