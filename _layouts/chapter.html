@@ -1,35 +1,30 @@
 ---
 layout: default
 ---
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="../jquery.toc.min.js"></script>
+<script src="../table_of_content.js"></script>
+<script src="../headers_links.js"></script>
 
 <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  <div class="toc">
-    <h3>Table of Content</h3>
-    {{ content | toc_only }}
-  </div>
-
-  <div class="post-content">
-    {{ content }}
-  </div>
-
-  <div class="nav">
-    <h3>Standard Navigation</h3>
-    {% include standard-nav.html %}
+  <div class="nav" style="display: none">
+    <p>Table of contents</p>
+    {{ site.data["nav"] }}
   </div>
 
   <div class="subnav">
-    <h3>Dynamic Navigation</h3>
+    <p>Table of contents</p>
     {% include dynamic-nav.html %}
   </div>
 
+  <div>
+    {{ content }}
+  </div>
+
   <div class="buttons">
-    <h3>Next Previous Buttons</h3>
     {% include jekyll-collections-prev-next.html %}
   </div>
+
+  {% include share_buttons.html %}
 
 </article>
