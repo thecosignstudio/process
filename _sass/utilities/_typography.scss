@@ -1,0 +1,24 @@
+*,
+*:after,
+*:before {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+  font-family: 'Averta Std';
+  font-weight: 400;
+  src: url('../assets/fonts/AvertaStd-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Averta Std';
+  font-weight: 600;
+  src: url('../assets/fonts/AvertaStd-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Averta Std';
+  font-weight: 800;
+  src: url('../assets/fonts/AvertaStd-Bold.otf') format('opentype');
+}
