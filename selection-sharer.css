@@ -105,6 +105,7 @@
 .selectionSharer ul {
   padding: 0;
   display: inline;
+  margin-left: 0;
 }
 
 .selectionSharer ul li {
