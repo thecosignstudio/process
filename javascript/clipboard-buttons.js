@@ -4,7 +4,7 @@ $( document ).ready(function() {
 });
 
 function addClipboardButtons() {
-  $(':header').filter(':visible').each(function(){
+  $(':header:not(h5):not(h1)').filter(':visible').each(function(){
     var url = window.location.href.split('#')[0];
     var text = $(this).text();
     var href = url + '#' + text.toLowerCase().replace(/ /g,'-');

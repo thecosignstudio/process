@@ -5,7 +5,23 @@ chapter_number: "01"
 
 # Project introduction & setup
 
-Your work begins much earlier than the moment you pick up a pen and paper.  Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and professional during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here. 
+Your work begins much earlier than the moment you pick up a pen and paper.  Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and *professional* during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here. 
+
+Your work begins much earlier than the moment you pick up a pen and paper.  Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and *professional* during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here. 
+
+##### In this section you can learn:
+- What questions to ask a client before and during the first meeting.
+- Communication tips: how to talk to a client
+- How to setup Google Drive/Invision asset folders
+- Questions most frequently asked by clients
+ 
+##### Stakeholders
+- Client
+- Designer(s)
+- Business Development Representative
+- Project Manager
+- Developer(s)
+
 
 ## Chapter 1 H2
 
