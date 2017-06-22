@@ -2,9 +2,13 @@
 layout: default
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="../jquery.toc.min.js"></script>
-<script src="../table_of_content.js"></script>
-<script src="../headers_links.js"></script>
+<script src="../javascript/jquery.toc.min.js"></script>
+<script src="../javascript/application.js"></script>
+<script src="../javascript/selection-sharer.js"></script>
+<script src="../javascript/clipboard.js"></script>
+<script src="../javascript/clipboard-buttons.js"></script>
+<link rel="stylesheet" href="../css/selection-sharer.css" />
+<link rel="stylesheet" href="../css/application.css" />
 
 <article class="post">
   <div class="nav" style="display: none">
@@ -28,3 +32,7 @@ layout: default
   {% include share_buttons.html %}
 
 </article>
+
+<script>
+  $('p').selectionSharer();
+</script>
