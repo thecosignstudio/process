@@ -1,0 +1,54 @@
+.chapter {
+  padding: 8.73rem 5.11rem 0 5.11rem;
+  border: 1px solid $very-light-grey-color;
+  border-top: 0;
+  border-bottom: 0;
+
+  &__content {
+    p {
+      font-size: $fs-3;
+      line-height: 32px;
+      margin-bottom: 3.9rem;
+    }
+
+    p:first-of-type:first-letter {
+      float: left;
+      font-size: $fs-8;
+      font-weight: $fw-bold;
+      line-height: 60px;
+      padding-top: 4px;
+      padding-right: 8px;
+      padding-left: 3px;
+    }
+
+    h1 {
+      font-weight: $fw-bold;
+      font-size: $fs-8;
+      text-align: center;
+      margin-bottom: 5.8rem;
+      margin-top: 0;
+    }
+
+    h2 {
+      font-weight: $fw-bold;
+      font-size: $fs-6;
+      margin-bottom: 2.22rem;
+      margin-top: 0;
+    }
+  }
+
+  &__book-title {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: $fw-semibold;
+    margin-bottom: 2.84rem;
+  }
+
+  &__number {
+    text-align: center;
+    font-size: $fs-5;
+    font-weight: $fw-bold;
+    color: $orange-color;
+    margin-bottom: 0.8rem;
+  }
+}

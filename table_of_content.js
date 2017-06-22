@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-  $("#toc").toc({content: '.nav', headings: 'h1,h2,h3,h4'});
+  $("#toc").toc({content: '.nav', headings: 'h2'});
 
   prepareNavigation();
 });

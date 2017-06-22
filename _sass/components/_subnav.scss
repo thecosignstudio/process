@@ -1,0 +1,32 @@
+.subnav {
+  padding-top: 12.23rem;
+  padding-left: 3.34rem;
+
+  &__chapter-no {
+    position: relative;
+    font-size: $fs-7;
+    font-weight: $fw-bold;
+    color: $light-grey-color;
+
+    &::after {
+      @include sizing(40px 1px);
+      @include absolute(top 50% left 60px);
+      display: block;
+      content: '';
+      background-color: $light-grey-color;
+    }
+  }
+
+  &__chapters-listing {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+
+    li a {
+      font-weight: $fw-semibold;
+      font-size: $fs-1;
+      line-height: 4em;
+      color: $light-grey-color;
+    }
+  }
+}

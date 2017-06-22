@@ -24,6 +24,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# BOOK SETTINGS
+book_title: "Design Process For Pros"
+
 collections:
   chapters:
     output: true

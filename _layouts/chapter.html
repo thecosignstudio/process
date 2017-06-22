@@ -6,18 +6,25 @@ layout: default
 <script src="../table_of_content.js"></script>
 <script src="../headers_links.js"></script>
 
-<article class="container post">
-  <div class="nav" style="display: none">
-    <p>Table of contents</p>
-    {{ site.data["nav"] }}
+<div class="nav" style="display: none">
+  <p>Table of contents</p>
+  {{ site.data["nav"] }}
+</div>
+
+<div class="col-md-3 subnav">
+  {% include dynamic-nav.html %}
+</div>
+
+<article class="col-md-8 chapter">
+  <div class="small-title chapter__book-title">
+    {{ site.book_title }}
   </div>
 
-  <div class="subnav">
-    <p>Table of contents</p>
-    {% include dynamic-nav.html %}
+  <div class="chapter__number">
+    {{ page.chapter_number }}
   </div>
 
-  <div>
+  <div class="chapter__content">
     {{ content }}
   </div>
 

@@ -11,16 +11,16 @@ function addLinks() {
     var text = $(this).text();
     console.log(text)
     var href = url + '#' + text.toLowerCase().replace(/ /g,'-')
-    $(this).after('<p>' +  href + '</p>')
+    $(this).after('<div>' +  href + '</div>')
   });
 }
 
 function hideLinks() {
-  $(':header').filter(':visible').next('p').hide();
+  $(':header').filter(':visible').next('div').hide();
 }
 
 function showLinks() {
-  $(':header').filter(':visible').next('p').show();
+  $(':header').filter(':visible').next('div').show();
 }
 
 function showLinksOnHover() {

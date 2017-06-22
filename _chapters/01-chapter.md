@@ -1,12 +1,11 @@
 ---
-title: "Chapter 1: Lorem Ipsum"
+title: "Project introduction & setup"
+chapter_number: "01"
 ---
 
-# Chapter 1 H1
+# Project introduction & setup
 
-Copper mug hashtag jean shorts wolf chia, pug listicle brooklyn food truck mixtape godard migas deep v portland semiotics. Tofu aesthetic chia bicycle rights schlitz yr tattooed shaman mumblecore. Gluten-free ugh stumptown blue bottle lyft vape. Normcore hashtag lomo raw denim cronut. Yr af synth austin. Distillery trust fund hoodie enamel pin shabby chic, helvetica fashion axe. Lyft unicorn semiotics snackwave. Bitters hashtag wolf PBR&B DIY chambray. Prism irony vinyl austin lyft hashtag small batch adaptogen swag pok pok succulents 8-bit ugh authentic asymmetrical.
-
-Craft beer next level mumblecore enamel pin intelligentsia blue bottle. Hashtag church-key small batch lo-fi ennui wayfarers brooklyn cold-pressed tattooed meditation tacos. Meh gochujang vaporware sriracha swag hell of keytar mumblecore. Lo-fi poke taiyaki hella man bun. Tofu actually vegan health goth, four dollar toast bespoke echo park vaporware tbh street art. Blog stumptown hammock, meggings kale chips pork belly scenester vinyl yr 90's dreamcatcher polaroid wolf venmo narwhal. Sriracha chicharrones cliche viral, meggings chia hoodie venmo cold-pressed letterpress snackwave cred. Austin la croix 90's chicharrones synth echo park whatever sriracha glossier letterpress readymade banjo jean shorts humblebrag. Chillwave pitchfork fanny pack thundercats, swag locavore DIY plaid authentic normcore. Austin jean shorts slow-carb art party semiotics, biodiesel kinfolk man bun roof party hell of craft beer 3 wolf moon. Intelligentsia live-edge DIY pork belly, disrupt lumbersexual whatever.
+Your work begins much earlier than the moment you pick up a pen and paper.  Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and professional during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here. 
 
 ## Chapter 1 H2
 
