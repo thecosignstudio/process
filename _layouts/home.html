@@ -8,10 +8,20 @@ layout: default
 
   {{ content }}
 
-  <div class="dynamic-nav">
-    {% include standard-nav.html %}
+  <div class="nav" style="display: none">
+    <p>Table of contents</p>
+    {{ site.data["nav"] }}
+  </div>
+
+  <div class="subnav">
+    {% include dynamic-nav.html %}
   </div>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 </div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script src="../javascript/jquery.toc.min.js"></script>
+<script src="../javascript/application.js"></script>
