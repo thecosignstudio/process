@@ -25,6 +25,8 @@
     h2,
     h3,
     h4 {
+      // Needed for copy to clipboard button
+      position: relative;
       margin-top: 3.9rem;
     }
 

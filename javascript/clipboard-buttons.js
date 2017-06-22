@@ -1,14 +1,22 @@
+var headerSelector = ".chapter :header:not(h5):not(h1)";
+
 $( document ).ready(function() {
   addClipboardButtons();
-  new Clipboard('.clipboard');
+  new Clipboard('.clipboard-btn');
+
+  $(headerSelector).hover(function() {
+    $(this).find('.clipboard-btn').removeClass('hide');
+  }, function() {
+    $(this).find('.clipboard-btn').addClass('hide');
+  });
 });
 
 function addClipboardButtons() {
-  $(':header:not(h5):not(h1)').filter(':visible').each(function(){
+  $(headerSelector).filter(':visible').each(function(){
     var url = window.location.href.split('#')[0];
     var text = $(this).text();
     var href = url + '#' + text.toLowerCase().replace(/ /g,'-');
-    var className = 'clipboard';
-    $(this).after('<button class=' + className + ' data-clipboard-text=' + href + '>copy to clipboard</button>');
+    var className = '"clipboard-btn hide"';
+    $(this).append('<button class=' + className + ' data-clipboard-text=' + href + '>copy to clipboard</button>');
   });
 }

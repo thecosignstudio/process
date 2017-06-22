@@ -1,5 +1,10 @@
 $( document ).ready(function() {
-  $("#toc").toc({content: '.nav', headings: 'h2'});
+  $("#toc").toc({
+    content: '.chapter',
+    headings: 'h1,h2,h3,h4',
+    highlightOnScroll: true,
+    smoothScrolling: true,
+  });
 
   prepareNavigation();
   hideApplicationSharer();
@@ -14,8 +19,8 @@ function hideApplicationSharer() {
 function prepareNavigation() {
   $('#toc').find('a').each(function(){
     var that = $(this);
-    updateText(that);
-    updateHref(that);
+    //updateText(that);
+    //updateHref(that);
   });
 }
 
