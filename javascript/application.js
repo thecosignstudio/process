@@ -2,7 +2,14 @@ $( document ).ready(function() {
   $("#toc").toc({content: '.nav', headings: 'h2'});
 
   prepareNavigation();
+  hideApplicationSharer();
 });
+
+function hideApplicationSharer() {
+  $(window).click(function(event) {
+    $('#selectionSharerPopover').hide();
+  });
+}
 
 function prepareNavigation() {
   $('#toc').find('a').each(function(){
