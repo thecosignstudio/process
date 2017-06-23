@@ -1,0 +1,10 @@
+machine:
+  ruby:
+    version: 2.3.3
+
+deployment:
+  staging:
+    branch: master
+    commands:
+      - bundle exec jekyll build
+      - bundle exec s3_website push

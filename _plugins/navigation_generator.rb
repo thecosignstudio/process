@@ -32,7 +32,7 @@ class NavigationGenerator < Jekyll::Generator
         else
           rank = doc.content[index-6..index].count('#')
         end
-        links << [anchor_base + heading.split(/$/).first.downcase.gsub(' ','-'), rank]
+        links << [ '/chapters/' + anchor_base + heading.split(/$/).first.downcase.gsub(' ','-'), rank]
       end
     end
     links
