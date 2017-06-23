@@ -7,3 +7,18 @@ html {
   font-size: $fs-1;
   color: $light-grey-color;
 }
+
+.chapter-number {
+  position: relative;
+  font-size: $fs-7;
+  font-weight: $fw-bold;
+  color: $light-grey-color;
+
+  &::after {
+    @include sizing(40px 1px);
+    @include absolute(top 50% left 60px);
+    content: '';
+    display: block;
+    background-color: $light-grey-color;
+  }
+}

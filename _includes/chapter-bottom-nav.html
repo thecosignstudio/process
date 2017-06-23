@@ -1,0 +1,66 @@
+<!-- The buttons use path of pages, so keeping the structure in _chapters is necessary in order to work properly -->
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+  {% if page.collection %}
+    {% assign document = (site[the_collection] | sort: 'path' ) %}
+  {% endif %}
+{% for links in document  %}
+  {% if links.title == page.title %}
+    {% unless forloop.first %}
+      {% assign prev_number = prev.chapter_number %}
+      {% assign prevurl = prev.url %}
+      {% assign prev_title = prev.title %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next = document[forloop.index] %}
+      {% assign next_number = next.chapter_number %}
+      {% assign nexturl = next.url %}
+      {% assign next_title = next.title %}
+    {% endunless %}
+  {% endif %}
+  {% assign prev = links %}
+{% endfor %}
+
+<script>
+  document.body.onkeyup = function(e) {
+    if (e.keyCode == '37') { window.location = '{{prevurl}}'; }
+    if (e.keyCode == '39') { window.location = '{{nexturl}}'; }
+  };
+</script>
+
+<div class="chapter-navigation">
+
+  <div class="chapter-navigation__block chapter-navigation__block--left">
+    {% if prevurl %}
+      <a href="{{prevurl}}" class="chapter-navigation__link">
+        <div class="small-title chapter-navigation__direction">Previous</div>
+        <div class="chapter-navigation__title">
+          {{prev_title}}
+          <div class="chapter-navigation__arrow chapter-navigation__arrow--left">
+            {% include svgs/arrow-left.svg %}
+          </div>
+        </div>
+        <div class="small-title chapter-navigation__chapter-no">
+          {{ prev_number }}
+        </div>
+      </a>
+    {% endif %}
+  </div>
+
+  <div class="chapter-navigation__block">
+    {% if nexturl %}
+      <a href="{{nexturl}}" class="chapter-navigation__link">
+        <div class="small-title chapter-navigation__direction">Next</div>
+        <div class="chapter-navigation__title">
+          {{next_title}}
+
+          <div class="chapter-navigation__arrow">
+            {% include svgs/arrow-right.svg %}
+          </div>
+        </div>
+        <div class="small-title chapter-navigation__chapter-no">
+          {{ next_number }}
+        </div>
+      </a>
+    {% endif %}
+  </div>
+</div>

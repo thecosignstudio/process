@@ -1,24 +1,25 @@
+.chapter-container {
+  border-left: 1px solid $very-light-grey-color;
+}
+
 .chapter {
-  padding: 8.73rem 5.11rem 0 5.11rem;
-  border: 1px solid $very-light-grey-color;
-  border-top: 0;
-  border-bottom: 0;
+  padding: 8.73rem 5.11rem 14rem;
 
   &__content {
     p {
+      margin-bottom: 1.8rem;
       font-size: $fs-3;
       line-height: 1.8rem;
-      margin-bottom: 1.8rem;
     }
 
-    p:first-of-type:first-letter {
+    p:first-of-type::first-letter {
       float: left;
-      font-size: $fs-8;
-      font-weight: $fw-bold;
-      line-height: 60px;
       padding-top: 4px;
       padding-right: 8px;
       padding-left: 3px;
+      font-size: $fs-8;
+      font-weight: $fw-bold;
+      line-height: 60px;
     }
 
     h1,
@@ -31,47 +32,87 @@
     }
 
     h1 {
-      font-weight: $fw-bold;
-      font-size: $fs-8;
-      text-align: center;
       margin-bottom: 5.8rem;
+      font-size: $fs-8;
+      font-weight: $fw-bold;
+      text-align: center;
     }
 
     h2 {
-      font-weight: $fw-bold;
-      font-size: $fs-6;
       margin-bottom: 2.22rem;
+      font-size: $fs-6;
+      font-weight: $fw-bold;
     }
 
     h3 {
-      font-weight: $fw-bold;
-      font-size: $fs-4;
       margin-bottom: 1.6rem;
+      font-size: $fs-4;
+      font-weight: $fw-bold;
     }
 
-    h4, h5 {
-      font-weight: $fw-bold;
-      font-size: $fs-3;
+    h4,
+    h5 {
       margin-bottom: 1.6rem;
+      font-size: $fs-3;
+      font-weight: $fw-bold;
     }
 
     em {
       font-style: italic;
     }
+
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+
+      ul {
+        // This is needed due to the script rendering
+        // scss-lint:disable SelectorDepth
+        li::before {
+          @include sizing(8px);
+          content: '';
+          display: inline-block;
+          margin-right: 15px;
+          margin-bottom: 3px;
+          font-size: $fs-2;
+          background-color: transparent;
+          border: 1px solid $orange-color;
+          border-radius: 8px;
+        }
+      }
+    }
+
+    li {
+      padding-left: 1em;
+      text-indent: 0.7em;
+      line-height: 2.34rem;
+
+      &::before {
+        @include sizing(8px);
+        content: '';
+        display: inline-block;
+        margin-right: 15px;
+        margin-bottom: 3px;
+        font-size: $fs-2;
+        background-color: $orange-color;
+        border-radius: 8px;
+      }
+    }
   }
 
   &__book-title {
-    text-transform: uppercase;
-    text-align: center;
-    font-weight: $fw-semibold;
     margin-bottom: 2.84rem;
+    font-weight: $fw-semibold;
+    text-align: center;
+    text-transform: uppercase;
   }
 
   &__number {
-    text-align: center;
+    margin-bottom: 0.8rem;
     font-size: $fs-5;
     font-weight: $fw-bold;
+    text-align: center;
     color: $orange-color;
-    margin-bottom: 0.8rem;
   }
 }

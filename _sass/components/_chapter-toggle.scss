@@ -1,0 +1,24 @@
+.chapter-toggle {
+  display: block;
+  width: 100%;
+  margin-bottom: $side-nav-top-padding * 2;
+  font-size: $fs-1;
+  font-weight: $fw-bold;
+  text-align: center;
+  background-color: transparent;
+  border: 0;
+
+  &:focus {
+    outline: 0;
+  }
+
+  &__icon {
+    margin-right: 24px;
+
+    &--flipped {
+      margin-right: 0;
+      margin-left: 24px;
+      transform: rotate(-180deg);
+    }
+  }
+}

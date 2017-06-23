@@ -1,32 +1,42 @@
 .subnav {
-  padding-top: 12.23rem;
-  padding-left: 3.34rem;
+  position: fixed;
+  padding-top: $side-nav-top-padding;
+  padding-right: 0;
 
-  &__chapter-no {
-    position: relative;
-    font-size: $fs-7;
-    font-weight: $fw-bold;
-    color: $light-grey-color;
-
-    &::after {
-      @include sizing(40px 1px);
-      @include absolute(top 50% left 60px);
-      display: block;
-      content: '';
-      background-color: $light-grey-color;
-    }
+  &__chapters-container {
+    padding-left: 3.34rem;
   }
 
   &__chapters-listing {
-    list-style-type: none;
     margin-left: 0;
     padding-left: 0;
 
+    ul {
+      margin-left: 0;
+      padding-left: 0;
+      list-style-type: none;
+    }
+
     li a {
-      font-weight: $fw-semibold;
+      position: relative;
+      display: block;
       font-size: $fs-1;
+      font-weight: $fw-semibold;
       line-height: 4em;
       color: $light-grey-color;
+    }
+
+    .toc-active a {
+      color: $black-color;
+
+      &::after {
+        @include absolute(top 50% right 0);
+        @include sizing(1px 2.333333333rem);
+        content: '';
+        display: block;
+        background-color: $orange-color;
+        transform: translateY(-50%);
+      }
     }
   }
 }

@@ -15,31 +15,33 @@ layout: default
   {{ site.data["nav"] }}
 </div>
 
-<div class="col-md-3 subnav">
-  {% include dynamic-nav.html %}
+<div class="container-fluid">
+  <div class="row">
+    {% include chapter-nav.html %}
+    {% include subnav.html %}
+
+    <article class="col-md-8 col-md-offset-3 chapter-container">
+      {% include share_buttons.html %}
+
+      <div class="chapter">
+        <div class="small-title chapter__book-title">
+          {{ site.book_title }}
+        </div>
+
+        <div class="chapter__number">
+          {{ page.chapter_number }}
+        </div>
+
+        <div class="chapter__content">
+          {{ content }}
+        </div>
+      </div> <!-- /.chapter -->
+    </article>
+
+
+    <script>
+      $('p').selectionSharer();
+    </script>
+  </div>
+  {% include chapter-bottom-nav.html %}
 </div>
-
-<article class="col-md-8 chapter">
-  <div class="small-title chapter__book-title">
-    {{ site.book_title }}
-  </div>
-
-  <div class="chapter__number">
-    {{ page.chapter_number }}
-  </div>
-
-  <div class="chapter__content">
-    {{ content }}
-  </div>
-
-  <div class="buttons">
-    {% include jekyll-collections-prev-next.html %}
-  </div>
-
-  {% include share_buttons.html %}
-
-</article>
-
-<script>
-  $('p').selectionSharer();
-</script>

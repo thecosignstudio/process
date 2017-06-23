@@ -17,6 +17,6 @@ function addClipboardButtons() {
     var text = $(this).text();
     var href = url + '#' + text.toLowerCase().replace(/ /g,'-');
     var className = '"clipboard-btn hide"';
-    $(this).append('<button class=' + className + ' data-clipboard-text=' + href + '>copy to clipboard</button>');
+    $(this).append('<button class=' + className + ' data-clipboard-text=' + href + '><img src="../assets/svgs/link.svg" class="clipboard-btn__icon"></button>');
   });
 }

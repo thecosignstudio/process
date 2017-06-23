@@ -1,0 +1,82 @@
+$root: 'chapter-navigation';
+
+.#{$root} {
+  display: flex;
+
+  &__block {
+    width: 50%;
+    padding-top: 6.38rem;
+    padding-right: 0;
+    padding-bottom: 6.38rem;
+    padding-left: 6.11rem;
+    border-top: 1px solid $very-light-grey-color;
+
+    &--left {
+      padding-right: 6.11rem;
+      padding-left: 0;
+      text-align: right;
+    }
+  }
+
+  &__direction {
+    font-weight: $fw-bold;
+    text-transform: uppercase;
+  }
+
+  &__chapter-no {
+    font-weight: $fw-bold;
+  }
+
+  &__title {
+    position: relative;
+    font-size: $fs-6;
+    font-weight: $fw-bold;
+    color: $black-color;
+  }
+
+  &__link {
+    .#{$root}__arrow {
+      background-color: $white-color;
+      transition: background-color 0.5s ease;
+    }
+
+    .svg-arrow g {
+      fill: $black-color;
+      transition: fill 0.5s ease;
+    }
+
+    &:hover {
+      text-decoration: none;
+
+      .#{$root}__arrow {
+        background-color: $orange-color;
+      }
+
+      .svg-arrow {
+        margin: 0 auto;
+
+        g {
+          fill: $white-color;
+        }
+      }
+    }
+  }
+
+  &__arrow {
+    @include sizing(2.33rem);
+    @include absolute(top 50% right 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2.33rem;
+    transform: translateY(-50%);
+
+    &--left {
+      right: auto;
+    }
+  }
+
+  &__arrow-left svg {
+    transform: rotate(-180deg);
+  }
+}
