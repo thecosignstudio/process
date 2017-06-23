@@ -24,6 +24,7 @@ $( document ).ready(function() {
 
   prepareNavigation();
   hideApplicationSharer();
+  $('.chapter p').selectionSharer();
 });
 
 function hideChapterNav() {
@@ -48,7 +49,7 @@ function prepareNavigation() {
 }
 
 function updateText(element) {
-  var currentText = element.text();
+  var currentText = element.text().replace('/chapters/', '');
   var chapterNo = currentText.split('-')[0];
   var newText = currentText.split('#')[1];
   var capitalized = newText.split('-')
