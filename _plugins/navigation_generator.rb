@@ -22,7 +22,7 @@ class NavigationGenerator < Jekyll::Generator
   end
 
   def build_navigation_links(doc)
-    anchor_base = doc.path.split('/').last.split('.').first + '.html#'
+    anchor_base = doc.path.split('/').last.split('.').first + '#'
     links = []
     if (doc.content.split(/^#+ /)[1] != nil)
       doc.content.split(/^#+ /).drop(1).each do |heading|
