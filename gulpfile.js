@@ -7,12 +7,19 @@ const uglify = require('gulp-uglify');
 const buildFolder = './build/js';
 
 gulp.task('watch', () => {
-  gulp.start('vendor');
+  gulp.start(['vendor', 'build']);
   gulp.watch('./javascript/app/**/*.js', ['build']);
 });
 
 gulp.task('vendor', () => {
-  gulp.src('./javascript/vendor/**/*.js')
+  gulp.src(
+      [
+      './node_modules/jquery/dist/jquery.js',
+      './node_modules/clipboard/dist/clipboard.js',
+      './node_modules/selection-sharer/dist/selection-sharer.js',
+      './javascript/vendor/**/*.js',
+      ]
+    )
     .pipe(concat('vendor.js'))
     .pipe(uglify())
     .pipe(gulp.dest(buildFolder));

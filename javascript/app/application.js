@@ -26,6 +26,7 @@ $( document ).ready(function() {
   chapterNavigation.bindEvents();
   prepareNavigation();
   hideApplicationSharer();
+
   $('.chapter p').selectionSharer();
 });
 
