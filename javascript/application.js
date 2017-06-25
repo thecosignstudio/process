@@ -1,7 +1,15 @@
 import prepareNavigation from './utils/prepare-navigation';
 import chapterNavigation from './utils/chapter-navigation';
+import initClipboardButtons from './utils/init-clipboard-buttons';
+
+function hideApplicationSharer() {
+  $(window).click(function(event) {
+    $('#selectionSharerPopover').hide();
+  });
+}
 
 $( document ).ready(function() {
+  initClipboardButtons();
   $("#toc").toc({
     container: '.chapter',
     selectors: 'h1, h2',
@@ -21,8 +29,3 @@ $( document ).ready(function() {
   $('.chapter p').selectionSharer();
 });
 
-function hideApplicationSharer() {
-  $(window).click(function(event) {
-    $('#selectionSharerPopover').hide();
-  });
-}
