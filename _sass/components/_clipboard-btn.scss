@@ -1,12 +1,12 @@
 .clipboard-btn {
   @include absolute(top 50%);
+  margin-left: 1rem;
   font-size: $fs-1;
   font-weight: $fw-regular;
   background-color: transparent;
   border: 0;
-  transform: translateY(-50%);
   opacity: 0.3;
-  margin-left: 1rem;
+  transform: translateY(-50%);
 
   &__icon {
     @include sizing(13px);
