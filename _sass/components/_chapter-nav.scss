@@ -1,5 +1,5 @@
 .chapter-nav {
-  @include fixed(left -480px);
+  @include fixed(left -100vw);
   z-index: $z-index-2;
   height: 100vh;
   max-height: 100vh;
