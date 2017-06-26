@@ -1,6 +1,10 @@
 html {
-  font-size: $fs-3;
+  font-size: $fs-2;
   line-height: $base-sizing;
+
+  @media #{$md-up} {
+    font-size: $fs-3;
+  }
 }
 
 .small-title {
@@ -20,5 +24,13 @@ html {
     content: '';
     display: block;
     background-color: $light-grey-color;
+  }
+}
+
+.hidden-mobile--block {
+  display: none;
+
+  @media #{$md-up} {
+    display: block;
   }
 }

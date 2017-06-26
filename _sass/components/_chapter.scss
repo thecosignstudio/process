@@ -1,16 +1,23 @@
+// Font size needs to be in rems to be adaptive
+// scss-lint:disable VariableForProperty
+
 .chapter-container {
   border-left: 1px solid $very-light-grey-color;
 }
 
 .chapter {
-  padding: ($base-sizing * 2) 5.11rem 14rem;
+  padding: ($base-sizing * 2) 1rem;
+
+  @media #{$md-up} {
+    padding: ($base-sizing * 2) 5.11rem 14rem;
+  }
 
   &__content {
     margin-top: $base-sizing;
 
     p {
       margin-bottom: $base-sizing;
-      font-size: $fs-3;
+      font-size: 1rem;
       line-height: $base-sizing;
 
       + p {
@@ -21,10 +28,8 @@
 
     p:first-of-type::first-letter {
       float: left;
-      padding-top: 4px;
-      padding-right: 8px;
-      padding-left: 3px;
-      font-size: $fs-8;
+      padding: 4px 8px 0 3px;
+      font-size: 3.76rem;
       font-weight: $fw-bold;
       line-height: 60px;
     }
@@ -40,19 +45,29 @@
 
     h1 {
       margin-top: 0;
-      margin-bottom: 3 * $base-sizing;
-      font-size: $fs-8;
+      margin-bottom: 2 * $base-sizing;
+      font-size: $fs-7;
       font-weight: $fw-bold;
-      line-height: 2.06 * $base-sizing;
+      line-height: 1.83 * $base-sizing;
       text-align: center;
+
+      @media #{$md-up} {
+        margin-bottom: 3 * $base-sizing;
+        font-size: $fs-8;
+        line-height: 2.06 * $base-sizing;
+      }
     }
 
     h2 {
       margin: 0;
       margin-top: 2 * $base-sizing;
-      margin-bottom: 0.953 * $base-sizing;
+      margin-bottom: 1.46 * $base-sizing;
       font-size: $fs-6;
       font-weight: $fw-bold;
+
+      @media #{$md-up} {
+        margin-bottom: 0.953 * $base-sizing;
+      }
     }
 
     h3 {
@@ -65,7 +80,7 @@
     h4,
     h5 {
       margin-bottom: $base-sizing;
-      font-size: $fs-3;
+      font-size: 1rem;
       font-weight: $fw-bold;
       line-height: $base-sizing;
     }
@@ -90,7 +105,7 @@
           display: inline-block;
           margin-right: 15px;
           margin-bottom: 3px;
-          font-size: $fs-2;
+          font-size: 1rem;
           background-color: transparent;
           border: 1px solid $orange-color;
           border-radius: 8px;
@@ -99,9 +114,10 @@
     }
 
     li {
-      padding-left: 1em;
+      padding-left: 2.5em;
+      font-size: 1rem;
       line-height: $base-sizing;
-      text-indent: 0.7em;
+      text-indent: -1.4em;
 
       &::before {
         @include sizing(8px);
@@ -109,7 +125,7 @@
         display: inline-block;
         margin-right: 15px;
         margin-bottom: 3px;
-        font-size: $fs-2;
+        font-size: 1rem;
         background-color: $orange-color;
         border-radius: 8px;
       }

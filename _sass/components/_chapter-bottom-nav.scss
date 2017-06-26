@@ -5,16 +5,25 @@ $root: 'chapter-navigation';
 
   &__block {
     width: 50%;
-    padding-top: 6.38rem;
-    padding-right: 0;
+    padding-top: 2 * $base-sizing;
     padding-bottom: 6.38rem;
-    padding-left: 6.11rem;
+    padding-left: 2.5rem;
     border-top: 1px solid $very-light-grey-color;
 
+    @media #{$md-up} {
+      padding-top: 6.38rem;
+      padding-right: 1rem;
+      padding-left: 6.11rem;
+    }
+
     &--left {
-      padding-right: 6.11rem;
-      padding-left: 0;
+      padding-right: 2.5rem;
       text-align: right;
+
+      @media #{$md-up} {
+        padding-right: 6.11rem;
+        padding-left: 1rem;
+      }
     }
   }
 
@@ -29,9 +38,13 @@ $root: 'chapter-navigation';
 
   &__title {
     position: relative;
-    font-size: $fs-6;
+    font-size: $fs-2;
     font-weight: $fw-bold;
     color: $black-color;
+
+    @media #{$md-up} {
+      font-size: $fs-6;
+    }
   }
 
   &__link {
@@ -63,13 +76,17 @@ $root: 'chapter-navigation';
   }
 
   &__arrow {
-    @include sizing(2.33rem);
-    @include absolute(top 50% right 0);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 2.33rem;
-    transform: translateY(-50%);
+    display: none;
+
+    @media #{$md-up} {
+      @include absolute(top 50% right 0);
+      @include sizing(2.33rem);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 2.33rem;
+      transform: translateY(-50%);
+    }
 
     &--left {
       right: auto;

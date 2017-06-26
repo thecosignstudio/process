@@ -4,22 +4,32 @@ export default {
   $overlay: $('.overlay'),
   $showChapterNav: $('.js-show-chapter-nav'),
   $hideChapterNav: $('.js-hide-chapter-nav'),
+  $mobileChapterNav: $('.js-show-chapter-contents-nav'),
 
   show() {
-    this.$subnav.addClass('hide');
     this.$chapterNav.removeClass('hide').addClass('active');
     this.$overlay.removeClass('hide');
   },
 
   hide() {
     this.$chapterNav.removeClass('active');
-    this.$subnav.removeClass('hide');
     this.$overlay.addClass('hide');
+  },
+
+  showMobile() {
+    this.$subnav.removeClass('hidden-mobile--block');
+  },
+
+  hideMobile() {
+    this.$subnav.addClass('hidden-mobile--block');
   },
 
   bindEvents() {
     this.$showChapterNav.click(() => this.show());
     this.$overlay.click(() => this.hide());
     this.$hideChapterNav.click(() => this.hide());
+    this.$mobileChapterNav.click(
+      () => this.showMobile(),
+    );
   }
 };

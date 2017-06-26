@@ -1,7 +1,10 @@
 .subnav {
-  position: fixed;
   padding-top: $side-nav-top-padding;
   padding-right: 0;
+
+  @media #{$md-up} {
+    position: fixed;
+  }
 
   &__chapters-container {
     padding-left: 3.34rem;

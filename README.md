@@ -11,3 +11,9 @@ To run the project, execute following commands:
 ```gulp watch```
 
 # Writing tips
+
+## Use only one h1 heading
+Don't use more than one first-size heading - it's reserved for general chapter
+title, eg:
+
+```# Project introduction & setup```
