@@ -42,7 +42,7 @@ You can insert quotes by using following syntax:
 {% include quote.html text="Quote text goes here" author="Quote author goes here" %}
 ```
 This will produce a following quote:
-![Quote][doc_imgs/quote.png?raw=true]
+![Quote](doc_imgs/quote.png?raw=true)
 
 ## Using Q&A
 You can insert Q&A sections by using following syntax:
@@ -50,7 +50,7 @@ You can insert Q&A sections by using following syntax:
 {% include qa.html question="Why do you want to know the business model?" answer="This will allow us some amount of lorem ipsum dolor sit amet conscetur blah blah" %}
 ```
 This will produce a following outcome:
-![qa][doc_imgs/qa.png?raw=true]
+![qa](doc_imgs/qa.png?raw=true)
 
 ## Using DOs and DON'Ts
 You can insert DOs and DONT's sections by using following syntax:
@@ -64,7 +64,7 @@ Don't use color in your wireframe designs unless it has a solid purpose
 "%}
 ```
 This will produce a following outcome:
-![qa][doc_imgs/dosdonts.png?raw=true]
+![qa](doc_imgs/dosdonts.png?raw=true)
 
 **Note**: You have to separate items in both DOs and DON'Ts list by a pipe (`|`)
 symbol.
