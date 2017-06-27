@@ -22,6 +22,16 @@ Your work begins much earlier than the moment you pick up a pen and paper.  Prep
 - Project Manager
 - Developer(s)
 
+{% include quote.html author="Adam Smith" text="Lorem ipsum dolor sit amet" %}
+{% include qa.html question="Why do you want to know the business model?" answer="This will allow us some amount of lorem ipsum dolor sit amet conscetur blah blah" %}
+{% include dosndonts.html dos="
+Create your wireframes based on a muted color pallete
+|Use color only if it helps defining the idea behind the design
+" donts="
+Don't use color in your wireframe designs unless it has a solid purpose
+| Don't use various tints of grey
+"%}
+
 ## Kick-off meeting checklist:
 
 ### Before the first meeting with the client:
