@@ -7,4 +7,5 @@ deployment:
     branch: master
     commands:
       - bundle exec jekyll build
+      - npm run build
       - bundle exec s3_website push

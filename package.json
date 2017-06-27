@@ -20,8 +20,8 @@
     "selection-sharer": "0.0.16"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "rollup -c -w"
+    "watch": "gulp watch",
+    "build": "gulp build-production"
   },
   "repository": {
     "type": "git",
