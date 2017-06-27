@@ -21,6 +21,11 @@ $( document ).ready(function() {
     selectors: 'h1',
     highlightOnScroll: false,
     smoothScrolling: false,
+    anchorName(i, heading) {
+      return $(heading)
+        .text()
+        .replace('/chapters/', '');
+    }
   });
 
   chapterNavigation.bindEvents();
