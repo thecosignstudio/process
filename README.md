@@ -36,6 +36,14 @@ The main table of contents is generated for you based on the titles of chapters
 (that is what is inside the h1 heading - `# Heading`). The chapter contents are
 generated from the secondary headings (`## Heading`),
 
+## Setting the book title
+To set the book title, change the `book_title` key in `_config.yml`:
+```yml
+# ...
+book_title: "Design Process For Pros"
+# ...
+```
+
 # Writing tips
 ## Include necessary front matter
 When creating file for new chapter remember to add necessary front matter, eg.:
@@ -45,12 +53,13 @@ title: "Project introduction & setup"
 chapter_number: "01"
 ---
 
-# Chapter title goes here
+# Project introduction & setup
 
 Chapter content goes here.
 ```
 Both `title` and `chapter_number` are required. Furthermore `chapter_number`
-needs to include leading zero, if it's less than 10.
+needs to include leading zero, if it's less than 10. Make sure that `title` in
+front matter corresponds to the primary heading - as in the above example.
 
 ## Use only one h1 heading
 Don't use more than one first-size heading - it's reserved for general chapter
@@ -67,6 +76,8 @@ then use it using the `{% include img.html %}` tag, e.g.:
 {% include img.html img="sample.jpg" alt="Sample image" %}
 ```
 This will include image `sample.jpg` placed in `assets/content_imgs`
+**Important**: do not use the markdown version of image tag - this will mess up
+the vertical rhythm of the page.
 
 ## Using quotes
 You can insert quotes by using following syntax:
