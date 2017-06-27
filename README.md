@@ -30,6 +30,12 @@ _chapters
 Chapters should be named according to following naming schema
 `[chapter_number]_chapter.md`.
 
+## Table of contents generation
+There are two tables of contents: main table of contents and chapter contents.
+The main table of contents is generated for you based on the titles of chapters
+(that is what is inside the h1 heading - `# Heading`). The chapter contents are
+generated from the secondary headings (`## Heading`),
+
 # Writing tips
 ## Include necessary front matter
 When creating file for new chapter remember to add necessary front matter, eg.:
