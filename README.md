@@ -18,7 +18,33 @@ bundle exec jekyll serve
 gulp watch
 ```
 
+# Organizing files
+## Where do I put chapter contents?
+You should place files that contain chapter contents into `_chapters` folder,
+e.g:
+```
+_chapters
+  - 01-chapter.md
+  - 02-chapter.md
+```
+Chapters should be named according to following naming schema
+`[chapter_number]_chapter.md`.
+
 # Writing tips
+## Include necessary front matter
+When creating file for new chapter remember to add necessary front matter, eg.:
+```md
+---
+title: "Project introduction & setup"
+chapter_number: "01"
+---
+
+# Chapter title goes here
+
+Chapter content goes here.
+```
+Both `title` and `chapter_number` are required. Furthermore `chapter_number`
+needs to include leading zero, if it's less than 10.
 
 ## Use only one h1 heading
 Don't use more than one first-size heading - it's reserved for general chapter
