@@ -5,9 +5,8 @@ chapter_number: "01"
 
 # Project introduction & setup
 
-Your work begins much earlier than the moment you pick up a pen and paper.  Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and *professional* during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here.
-
-Your work begins much earlier than the moment you pick up a pen and paper.  Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and *professional* during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here.
+Your work [work](http://github.com) much earlier than the moment you pick up a pen and paper.  Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and *professional* during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here.
+{% include image.html img="simon.jpg" %}
 
 **In this section you can learn:**
 - What questions to ask a client before and during the first meeting.
@@ -22,7 +21,7 @@ Your work begins much earlier than the moment you pick up a pen and paper.  Prep
 - Project Manager
 - Developer(s)
 
-{% include quote.html author="Adam Smith" text="Lorem ipsum dolor sit amet" %}
+{% include quote.html author="Quote author goes here" text="Quote text goes here" %}
 {% include qa.html question="Why do you want to know the business model?" answer="This will allow us some amount of lorem ipsum dolor sit amet conscetur blah blah" %}
 {% include dosndonts.html dos="
 Create your wireframes based on a muted color pallete

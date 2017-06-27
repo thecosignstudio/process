@@ -33,5 +33,6 @@ $( document ).ready(function() {
   hideApplicationSharer();
 
   $('.chapter p').selectionSharer();
+  $('.chapter .content-img').baselineElement(32);
 });
 

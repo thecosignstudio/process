@@ -2,6 +2,7 @@
 // scss-lint:disable VariableForProperty
 
 .chapter-container {
+  max-width: 970px;
   border-left: 1px solid $very-light-grey-color;
 }
 
@@ -40,7 +41,6 @@
     h4 {
       // Needed for copy to clipboard button
       position: relative;
-      //margin-top: 3.9rem;
     }
 
     h1 {
@@ -83,6 +83,10 @@
       font-size: 1rem;
       font-weight: $fw-bold;
       line-height: $base-sizing;
+    }
+
+    a {
+      color: $orange-color;
     }
 
     em {

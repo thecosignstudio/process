@@ -1,5 +1,5 @@
 .c-quote {
-  margin: (1.39 * $base-sizing) 0;
+  margin: (1.278 * $base-sizing) 0;
   padding-left: 0;
   text-align: center;
 
@@ -9,6 +9,7 @@
   }
 
   &__text {
+    font-family: $ff-serif;
     font-size: $fs-7;
     font-style: italic;
   }
