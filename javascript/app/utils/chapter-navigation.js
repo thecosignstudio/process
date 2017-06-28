@@ -31,5 +31,5 @@ export default {
     this.$mobileChapterNav.click(
       () => this.showMobile(),
     );
-  }
+  },
 };

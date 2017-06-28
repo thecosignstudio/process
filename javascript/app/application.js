@@ -3,20 +3,20 @@ import chapterNavigation from './utils/chapter-navigation';
 import initClipboardButtons from './utils/init-clipboard-buttons';
 
 function hideApplicationSharer() {
-  $(window).click(function(event) {
+  $(window).click(function () {
     $('#selectionSharerPopover').hide();
   });
 }
 
-$( document ).ready(function() {
+$(document).ready(function () {
   initClipboardButtons();
-  $("#toc").toc({
+  $('#toc').toc({
     container: '.chapter',
     selectors: 'h1, h2',
     highlightOnScroll: true,
   });
 
-  $("#toc-chapters").toc({
+  $('#toc-chapters').toc({
     container: '.nav',
     selectors: 'h1',
     highlightOnScroll: false,
@@ -25,7 +25,7 @@ $( document ).ready(function() {
       return $(heading)
         .text()
         .replace('/chapters/', '');
-    }
+    },
   });
 
   chapterNavigation.bindEvents();

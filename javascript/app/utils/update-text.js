@@ -1,6 +1,6 @@
-const capitalizeFirstLetter = string => {
-    return string.charAt(0).toUpperCase() + string.slice(1);
-};
+function capitalizeFirstLetter(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1);
+}
 
 export default function updateText(element) {
   const currentText = element.text().replace('/chapters/', '');
