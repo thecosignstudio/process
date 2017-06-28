@@ -13,15 +13,13 @@ gulp.task('watch', () => {
 });
 
 gulp.task('vendor', () => {
-  gulp.src(
-    [
-      './node_modules/jquery/dist/jquery.js',
-      './node_modules/clipboard/dist/clipboard.js',
-      './node_modules/selection-sharer/dist/selection-sharer.js',
-      './node_modules/baseline-element/dist/baseline-element.js',
-      './javascript/vendor/**/*.js',
-    ],
-  ).pipe(concat('vendor.js'))
+  gulp.src([
+    './node_modules/jquery/dist/jquery.js',
+    './node_modules/clipboard/dist/clipboard.js',
+    './node_modules/selection-sharer/dist/selection-sharer.js',
+    './node_modules/baseline-element/dist/baseline-element.js',
+    './javascript/vendor/**/*.js',
+  ]).pipe(concat('vendor.js'))
   .pipe(uglify())
   .pipe(gulp.dest(buildFolder));
 });
