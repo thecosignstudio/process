@@ -21,8 +21,7 @@ gulp.task('vendor', () => {
       './node_modules/baseline-element/dist/baseline-element.js',
       './javascript/vendor/**/*.js',
     ],
-  )
-  .pipe(concat('vendor.js'))
+  ).pipe(concat('vendor.js'))
   .pipe(uglify())
   .pipe(gulp.dest(buildFolder));
 });
