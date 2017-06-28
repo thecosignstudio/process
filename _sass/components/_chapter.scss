@@ -1,0 +1,151 @@
+.chapter-container {
+  max-width: 970px;
+  border-left: 1px solid $very-light-grey-color;
+}
+
+.chapter {
+  padding: ($base-sizing * 2) 1rem;
+
+  @media #{$md-up} {
+    padding: ($base-sizing * 2) 5.11rem 14rem;
+  }
+
+  &__content {
+    margin-top: $base-sizing;
+
+    p {
+      margin-bottom: $base-sizing;
+      font-size: $fs-rel-1;
+      line-height: $base-sizing;
+
+      + p {
+        margin-top: 0;
+        margin-bottom: $base-sizing;
+      }
+    }
+
+    p:first-of-type::first-letter {
+      float: left;
+      padding: 4px 8px 0 3px;
+      font-size: $fs-rel-2;
+      font-weight: $fw-bold;
+      line-height: 60px;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+      // Needed for copy to clipboard button
+      position: relative;
+    }
+
+    h1 {
+      margin-top: 0;
+      margin-bottom: 2 * $base-sizing;
+      font-size: $fs-7;
+      font-weight: $fw-bold;
+      line-height: 1.83 * $base-sizing;
+      text-align: center;
+
+      @media #{$md-up} {
+        margin-bottom: 3 * $base-sizing;
+        font-size: $fs-8;
+        line-height: 2.06 * $base-sizing;
+      }
+    }
+
+    h2 {
+      margin: 0;
+      margin-top: 2 * $base-sizing;
+      margin-bottom: 1.46 * $base-sizing;
+      font-size: $fs-6;
+      font-weight: $fw-bold;
+
+      @media #{$md-up} {
+        margin-bottom: 0.953 * $base-sizing;
+      }
+    }
+
+    h3 {
+      margin: $base-sizing 0;
+      font-size: $fs-4;
+      font-weight: $fw-bold;
+      line-height: $base-sizing;
+    }
+
+    h4,
+    h5 {
+      margin-bottom: $base-sizing;
+      font-size: $fs-rel-1;
+      font-weight: $fw-bold;
+      line-height: $base-sizing;
+    }
+
+    a {
+      color: $orange-color;
+    }
+
+    em {
+      font-style: italic;
+    }
+
+    ul {
+      margin: 0;
+      margin-bottom: $base-sizing;
+      padding: 0;
+      list-style: none;
+
+      ul {
+        margin-bottom: 0;
+        // This is needed due to the script rendering
+        // scss-lint:disable SelectorDepth
+        li::before {
+          @include sizing(8px);
+          content: '';
+          display: inline-block;
+          margin-right: 15px;
+          margin-bottom: 3px;
+          font-size: $fs-rel-1;
+          background-color: transparent;
+          border: 1px solid $orange-color;
+          border-radius: 8px;
+        }
+      }
+    }
+
+    li {
+      padding-left: 2.5em;
+      font-size: $fs-rel-1;
+      line-height: $base-sizing;
+      text-indent: -1.4em;
+
+      &::before {
+        @include sizing(8px);
+        content: '';
+        display: inline-block;
+        margin-right: 15px;
+        margin-bottom: 3px;
+        font-size: $fs-rel-1;
+        background-color: $orange-color;
+        border-radius: 8px;
+      }
+
+    }
+  }
+
+  &__book-title {
+    margin-bottom: $base-sizing;
+    font-weight: $fw-semibold;
+    line-height: $base-sizing;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  &__number {
+    font-size: $fs-5;
+    font-weight: $fw-bold;
+    text-align: center;
+    color: $orange-color;
+  }
+}

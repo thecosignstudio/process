@@ -1,0 +1,22 @@
+env:
+  browser: true
+extends: airbnb-base
+rules:
+  indent:
+    - error
+    - 2
+  linebreak-style:
+    - error
+    - unix
+  quotes:
+    - error
+    - single
+  semi:
+    - error
+    - always
+  no-undef:
+    - off
+  func-names:
+    - off
+  prefer-arrow-callback:
+    - off

@@ -24,6 +24,9 @@ url: "http://design-process-staging.s3-website-eu-west-1.amazonaws.com" # the ba
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# BOOK SETTINGS
+book_title: "Design Process For Pros"
+
 collections:
   chapters:
     output: true
@@ -37,6 +40,8 @@ defaults:
 # Build settings
 markdown: kramdown
 theme: minima
+sass:
+  sass_dir: _sass
 gems:
   - jekyll-feed
 exclude:

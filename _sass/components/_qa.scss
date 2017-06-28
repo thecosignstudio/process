@@ -1,0 +1,31 @@
+$root: 'c-qa';
+
+.#{$root} {
+  margin-bottom: $base-sizing;
+
+  &__item {
+    display: flex;
+    align-items: top;
+    margin-bottom: 0.674 * $base-sizing;
+    font-size: $fs-2;
+    font-weight: $fw-bold;
+    line-height: $base-sizing;
+
+    @media #{$md-up} {
+      font-size: $fs-3;
+    }
+
+    &--faded {
+      margin-bottom: 0;
+      font-weight: $fw-regular;
+
+      .#{$root}__bullet {
+        background-color: lighten($orange-color, 20%);
+      }
+    }
+  }
+
+  &__bullet {
+    @include orange-circle();
+  }
+}

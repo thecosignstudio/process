@@ -1,0 +1,25 @@
+{% assign dos_array = include.dos | split: "|" %}
+{% assign donts_array = include.donts | split: "|" %}
+<div class="c-dosndonts">
+  <div class="c-dosndonts__container">
+    <div class="c-dosndonts__heading">
+      <img src="../assets/svgs/dos.svg" class="c-dosndonts__icon"> DOs
+    </div>
+    <ul>
+      {% for do in dos_array %}
+        <li>{{ do }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <div class="c-dosndonts__container c-dosndonts__container--donts">
+    <div class="c-dosndonts__heading c-dosndonts__heading--donts">
+      <img src="../assets/svgs/donts.svg" class="c-dosndonts__icon">DON'Ts
+    </div>
+    <ul>
+      {% for dont in donts_array %}
+        <li>{{ dont }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

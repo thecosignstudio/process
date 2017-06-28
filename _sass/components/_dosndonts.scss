@@ -1,0 +1,42 @@
+.c-dosndonts {
+  display: flex;
+
+  &__container {
+    width: 50%;
+    padding-left: 1.5rem;
+    border-top: 4px solid $green-color;
+
+    &--donts {
+      border-color: $red-color;
+    }
+  }
+
+  &__heading {
+    margin-top: 38px;
+    margin-bottom: 28px;
+    font-size: $fs-1;
+    font-weight: $fw-bold;
+    color: $green-color;
+
+    &--donts {
+      color: $red-color;
+    }
+  }
+
+  &__icon {
+    margin-right: 0.5rem;
+  }
+
+  li {
+    margin-bottom: $base-sizing;
+    padding-left: 0;
+    font-size: $fs-2;
+    line-height: 1.33rem;
+    list-style-type: none;
+    text-indent: 0;
+
+    &::before {
+      content: none;
+    }
+  }
+}

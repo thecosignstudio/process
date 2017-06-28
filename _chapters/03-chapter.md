@@ -1,5 +1,6 @@
 ---
 title: "Chapter 3: Lorem Ipsum"
+chapter_number: "03"
 ---
 
 # Chapter 3 H1

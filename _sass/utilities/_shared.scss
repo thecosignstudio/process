@@ -1,0 +1,41 @@
+html {
+  font-size: $fs-2;
+  line-height: $base-sizing;
+
+  @media #{$md-up} {
+    font-size: $fs-3;
+  }
+}
+
+.small-title {
+  font-size: $fs-1;
+  color: $light-grey-color;
+}
+
+.chapter-number {
+  position: relative;
+  font-size: $fs-7;
+  font-weight: $fw-bold;
+  color: $light-grey-color;
+
+  &::after {
+    @include sizing(40px 1px);
+    @include absolute(top 50% left 60px);
+    content: '';
+    display: block;
+    background-color: $light-grey-color;
+  }
+}
+
+.hidden-mobile--block {
+  display: none;
+
+  @media #{$md-up} {
+    display: block;
+  }
+}
+
+.content-img {
+  margin: $base-sizing 0;
+  width: 100%;
+}

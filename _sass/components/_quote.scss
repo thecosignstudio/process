@@ -1,0 +1,34 @@
+.c-quote {
+  margin: (1.278 * $base-sizing) 0;
+  padding-left: 0;
+  text-align: center;
+
+  @media #{$md-up} {
+    padding-left: 11rem;
+    text-align: left;
+  }
+
+  &__text {
+    font-family: $ff-serif;
+    font-size: $fs-7;
+    font-style: italic;
+  }
+
+  &__author {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0.5 * $base-sizing;
+    font-size: $fs-1;
+    font-weight: $fw-bold;
+    color: $light-grey-color;
+
+    @media #{$md-up} {
+      justify-content: flex-start;
+    }
+  }
+
+  &__bullet {
+    margin-right: 1rem;
+  }
+}

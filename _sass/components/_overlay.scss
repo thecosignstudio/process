@@ -1,0 +1,7 @@
+.overlay {
+  @include fixed(top 0 left 0);
+  @include sizing(100%);
+  z-index: $z-index-1;
+  background: $black-color;
+  opacity: 0.1;
+}

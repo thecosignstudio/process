@@ -1,25 +1,118 @@
 ---
-title: "Chapter 1: Lorem Ipsum"
+title: "Project introduction & setup"
+chapter_number: "01"
 ---
 
-# Chapter 1 H1
+# Project introduction & setup
 
-Copper mug hashtag jean shorts wolf chia, pug listicle brooklyn food truck mixtape godard migas deep v portland semiotics. Tofu aesthetic chia bicycle rights schlitz yr tattooed shaman mumblecore. Gluten-free ugh stumptown blue bottle lyft vape. Normcore hashtag lomo raw denim cronut. Yr af synth austin. Distillery trust fund hoodie enamel pin shabby chic, helvetica fashion axe. Lyft unicorn semiotics snackwave. Bitters hashtag wolf PBR&B DIY chambray. Prism irony vinyl austin lyft hashtag small batch adaptogen swag pok pok succulents 8-bit ugh authentic asymmetrical.
+Your work [work](http://github.com) much earlier than the moment you pick up a pen and paper.  Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and *professional* during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here.
+{% include image.html img="simon.jpg" %}
 
-Craft beer next level mumblecore enamel pin intelligentsia blue bottle. Hashtag church-key small batch lo-fi ennui wayfarers brooklyn cold-pressed tattooed meditation tacos. Meh gochujang vaporware sriracha swag hell of keytar mumblecore. Lo-fi poke taiyaki hella man bun. Tofu actually vegan health goth, four dollar toast bespoke echo park vaporware tbh street art. Blog stumptown hammock, meggings kale chips pork belly scenester vinyl yr 90's dreamcatcher polaroid wolf venmo narwhal. Sriracha chicharrones cliche viral, meggings chia hoodie venmo cold-pressed letterpress snackwave cred. Austin la croix 90's chicharrones synth echo park whatever sriracha glossier letterpress readymade banjo jean shorts humblebrag. Chillwave pitchfork fanny pack thundercats, swag locavore DIY plaid authentic normcore. Austin jean shorts slow-carb art party semiotics, biodiesel kinfolk man bun roof party hell of craft beer 3 wolf moon. Intelligentsia live-edge DIY pork belly, disrupt lumbersexual whatever.
+**In this section you can learn:**
+- What questions to ask a client before and during the first meeting.
+- Communication tips: how to talk to a client
+- How to setup Google Drive/Invision asset folders
+- Questions most frequently asked by clients
 
-## Chapter 1 H2
+**Stakeholders**
+- Client
+- Designer(s)
+- Business Development Representative
+- Project Manager
+- Developer(s)
 
-Hella gentrify cray forage. Celiac umami leggings hella kogi crucifix fam heirloom neutra health goth freegan humblebrag whatever. Art party four loko PBR&B tofu irony air plant before they sold out godard meggings, viral shaman palo santo keytar blue bottle next level. Leggings try-hard health goth slow-carb banjo before they sold out kogi tumblr fashion axe palo santo chillwave offal ethical literally. Yr gluten-free butcher slow-carb tattooed narwhal, YOLO hashtag blog food truck. Polaroid yr edison bulb cred affogato helvetica. Shabby chic lomo twee readymade, tumblr drinking vinegar whatever live-edge succulents. Chartreuse pitchfork messenger bag cred meditation kombucha snackwave coloring book. Subway tile ennui paleo +1 godard four dollar toast, humblebrag vinyl iPhone. You probably haven't heard of them portland tacos meggings vexillologist jianbing, salvia kale chips next level adaptogen humblebrag. Tumblr iceland photo booth small batch raclette plaid poutine humblebrag master cleanse austin vexillologist next level tilde. Skateboard vexillologist listicle vegan. Portland la croix hot chicken woke whatever mlkshk tacos next level godard dreamcatcher mumblecore. Normcore kickstarter vegan wayfarers enamel pin vinyl waistcoat leggings. Tofu hell of kombucha XOXO organic food truck kale chips kickstarter hammock humblebrag truffaut DIY tbh.
+{% include quote.html author="Quote author goes here" text="Quote text goes here" %}
+{% include qa.html question="Why do you want to know the business model?" answer="This will allow us some amount of lorem ipsum dolor sit amet conscetur blah blah" %}
+{% include dosndonts.html dos="
+Create your wireframes based on a muted color pallete
+|Use color only if it helps defining the idea behind the design
+" donts="
+Don't use color in your wireframe designs unless it has a solid purpose
+| Don't use various tints of grey
+"%}
 
-### Chapter 1 H3
+## Kick-off meeting checklist:
 
-Succulents plaid aesthetic taiyaki, semiotics raclette affogato adaptogen jean shorts normcore brooklyn. Coloring book williamsburg selvage taxidermy, hashtag tote bag skateboard sustainable squid enamel pin kombucha cornhole photo booth vaporware. Gastropub kitsch cray, scenester chillwave ugh four dollar toast. Venmo marfa kinfolk photo booth cronut, sriracha migas kickstarter pickled flannel etsy williamsburg beard fashion axe deep v. Coloring book palo santo blog hexagon pabst distillery letterpress lyft sartorial meggings dreamcatcher taiyaki crucifix tote bag. Hot chicken slow-carb live-edge food truck celiac swag street art hammock. Irony crucifix truffaut tbh af. Gentrify stumptown letterpress marfa, tacos heirloom neutra.
+### Before the first meeting with the client:
 
-#### Chapter 1 H4
+Together with the Project Manager, organize a meeting and gather all the project info. Ask the PM, BD and devs – don’t make the client answer the same question twice.
+Things you need to know:
 
-Enamel pin man bun selvage, distillery occupy messenger bag jean shorts poutine aesthetic hell of organic glossier ethical. Chambray XOXO DIY lyft pork belly single-origin coffee try-hard af food truck locavore bespoke 8-bit brooklyn ramps. Ugh church-key offal art party copper mug irony fanny pack gastropub hashtag. Cronut seitan hashtag quinoa irony kombucha. Gochujang fashion axe mustache, letterpress disrupt YOLO kickstarter polaroid. Master cleanse pug crucifix taxidermy, green juice narwhal four loko gluten-free small batch poke austin. Blog offal portland iceland truffaut PBR&B. Banjo tilde ugh gochujang ramps cold-pressed forage. Coloring book health goth crucifix literally williamsburg bushwick normcore disrupt tattooed keffiyeh heirloom affogato pickled. Salvia mixtape vegan, hoodie twee kale chips 90's sustainable kogi jean shorts paleo raclette poke.
+- Does the client have a working product?
+    - If yes, consider a UX Review review first.
+- Does the project have a clear scope?
+    - Y/N (at this stage, the project should already have a scope; otherwise, you need to run a Scoping Session)
+- Is the project idea ready to be turned into a design?
+    - If you think that the project idea needs a review or a Product Design Sprint, check the procedures for other services.
+- What platform will it be designed for?
+- In the case of web design: will it be responsive?
+- Will it be developed by our team?
 
-### Chapter 1 H3
+### First meeting – explaining process to the client:
+- **Educate the client**
+    - Product design is a process. It never ends.
+    - Design is about how things work, not only about how they look. Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning. Useful links:
+        - What to expect from a designer
+        - What are you paying for
+        - Designer-client relationship
+- **Avoid multi-platform designs at the early stages of the project**
+    - If the client needs a multi-platform design, ask another designer for help. If you believe that the scope is really big, always suggest 2+ designers.
 
-Bicycle rights selfies vice bushwick copper mug. Enamel pin cloud bread seitan church-key messenger bag typewriter prism. Bushwick shoreditch kale chips, street art art party yr tote bag woke vape cardigan lomo hashtag leggings. Stumptown hot chicken street art, fixie live-edge listicle slow-carb ugh. Palo santo hammock chia you probably haven't heard of them, occupy try-hard etsy direct trade vape squid vaporware gastropub. Gastropub godard snackwave succulents. 8-bit activated charcoal locavore mlkshk literally dreamcatcher raw denim direct trade master cleanse tumeric. Hot chicken offal 90's ugh umami gentrify. Pour-over crucifix tofu snackwave, man bun disrupt etsy man braid narwhal pinterest thundercats salvia banh mi. Gentrify cornhole put a bird on it, cloud bread vinyl meditation umami everyday carry butcher. Retro migas YOLO bitters thundercats aesthetic. Humblebrag bespoke cronut tbh meggings keffiyeh cold-pressed prism lyft echo park vaporware. Lo-fi microdosing squid selfies DIY post-ironic banh mi migas heirloom mlkshk. Paleo normcore you probably haven't heard of them food truck hammock. Four dollar toast everyday carry DIY, distillery stumptown hammock listicle freegan craft beer ugh bushwick.
+- **Emphasize that it’s impossible to accurately predict users’ behavior**
+    - We rely on research and available data – the validity of a solution can only be assessed with relevant tests.
+- **We cannot guarantee a business success**
+    - Try to make it clear that even the best product design does not guarantee a product success in terms of revenue.
+- **Give a quick overview of all the Product Design phases**
+
+### First meeting – get some info from the client:
+#### General info
+- What is your deadline? (design/release date)
+- What will make the application a success in your opinion?
+- What will make our work a success in your eyes?
+- Have you collected any user feedback yet?
+- Can you grant us access to your analytics tools?
+- Are there any similar products or alternative solutions to the same problem? What are your potential customers doing today instead of using your future product?
+
+#### Questions specific to a Product Design Sprint (pick only relevant questions):
+- What problem do you want to solve during the Product Design Sprint?
+- What do you expect from the Product Design Sprint?
+- What doesn't work in your product? What do you want to change? What's the most important part of your new feature?
+- Do you have any solution on your mind?
+- Do you have a basic scope of work in mind?
+- What are your key assumptions? For example: end users behaving in a certain way, customers willing to pay for X, technology existing for Y?
+
+#### Questions specific to UX Review:
+- On the call, try to establish a scope of the review:
+    - The narrower the better – a more focused scope is superior.
+    - Try to get to know the client’s requirements and expectations for the review.
+    - Try to get to know what user journeys are key to the client.
+        - In a perfect scenario, narrow down the scope to just one.
+- After the call, discuss the client’s requirements within the team and ask the team about possible blockers.
+
+#### Visual:
+- Do you have a branding, brand book, brand guidelines?
+    - If not, give a heads-up about the importance of those in later phases .
+- If the client wants to use corporate fonts in the UI, be sure they own a web/mobile licence.
+- If you suggest an alternative paid font for the UI, be sure that the client is open to buying a licence.
+- Does the client have any benchmarks or a visual style in mind?
+- Does the client have source files for the old designs?
+
+Make sure that all answers are documented and available for other (current and future) team members.
+
+## Communication tips:
+##### General rules:
+- Be active, not passive – recommend solutions.
+- Listen to the client’s expectations, don’t be afraid to ask questions.
+- Consult your solutions with the developers from day one.
+- Make sure you explain to the client how to use communication tools.
+    - e.g. comments in InVision; explain the difference between tour-points and comments
+
+##### Feedback
+- Does the client have time to give you feedback?
+    - If not, try to ask which active stakeholders can actively participate in communication.
+- Make the client aware about the value of an active and collaborative approach (feedback, communication).
+- Make sure that there is only one final point of feedback on the client’s part.
+- Make sure that you will have an opportunity to present your solutions to all stakeholders.
+- Make sure that the client knows that we don’t work on the basis of a fixed number of reviews but rather in a constant feedback-and-iteration mode.
+
+## Another h2

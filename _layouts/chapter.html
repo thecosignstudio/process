@@ -1,38 +1,36 @@
 ---
 layout: default
 ---
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="../javascript/jquery.toc.min.js"></script>
-<script src="../javascript/application.js"></script>
-<script src="../javascript/selection-sharer.js"></script>
-<script src="../javascript/clipboard.js"></script>
-<script src="../javascript/clipboard-buttons.js"></script>
-<link rel="stylesheet" href="../css/selection-sharer.css" />
-<link rel="stylesheet" href="../css/application.css" />
+<div class="nav" style="display: none">
+  <p>Table of contents</p>
+  {{ site.data["nav"] }}
+</div>
 
-<article class="post">
-  <div class="nav" style="display: none">
-    <p>Table of contents</p>
-    {{ site.data["nav"] }}
+<div class="container-fluid">
+  <div class="row">
+
+    {% include chapter-nav.html %}
+    {% include subnav.html %}
+
+    <article class="col-xs-12 col-md-8 col-md-offset-3 chapter-container">
+      {% include share_buttons.html %}
+
+      <div class="chapter">
+        <div class="small-title chapter__book-title">
+          {{ site.book_title }}
+        </div>
+
+        <div class="chapter__number">
+          {{ page.chapter_number }}
+        </div>
+
+        <div class="chapter__content">
+          {{ content }}
+        </div>
+      </div> <!-- /.chapter -->
+    </article>
+
+
   </div>
-
-  <div class="subnav">
-    <p>Table of contents</p>
-    {% include dynamic-nav.html %}
-  </div>
-
-  <div>
-    {{ content }}
-  </div>
-
-  <div class="buttons">
-    {% include jekyll-collections-prev-next.html %}
-  </div>
-
-  {% include share_buttons.html %}
-
-</article>
-
-<script>
-  $('p').selectionSharer();
-</script>
+  {% include chapter-bottom-nav.html %}
+</div>
