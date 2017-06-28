@@ -6,7 +6,7 @@
     {{ content }}
     <div class="overlay hide"></div>
 
-    <script src="../build/js/vendor.js"></script>
-    <script src="../build/js/application.js"></script>
+    <script src="{{ "/build/js/vendor.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/build/js/application.js" | prepend: site.baseurl }}"></script>
   </body>
 </html>
