@@ -8,7 +8,7 @@ deployment:
     commands:
       - npm build
       - bundle exec jekyll build
-      - rm -rf node_modules
+      - rm -rf _site/node_modules
       - STAGING=true bundle exec s3_website push
 
   production:
@@ -16,5 +16,5 @@ deployment:
     commands:
       - npm build
       - bundle exec jekyll build
-      - rm -rf node_modules
+      - rm -rf _site/node_modules
       - bundle exec s3_website push
