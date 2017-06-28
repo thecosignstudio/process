@@ -1,6 +1,13 @@
-s3_id: <%= ENV['AWS_KEY'] %>
+<% if ENV["STAGING"] %>
+s3_id: <%= ENV["AWS_KEY"] %>
 s3_secret: <%= ENV['AWS_SECRET'] %>
 s3_bucket: design-process-staging
+<% else %>
+s3_id: <%= ENV["PROD_AWS_KEY"] %>
+s3_secret: <%= ENV['PROD_AWS_SECRET'] %>
+s3_bucket: design-process-production
+<% end %>
+
 s3_endpoint: eu-west-1
 
 # set s3_token if using temporary credentials with a session token (eg: when assuming a role)
