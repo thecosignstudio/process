@@ -6,11 +6,15 @@ deployment:
   staging:
     branch: master
     commands:
+      - npm build
       - bundle exec jekyll build
+      - rm -rf node_modules
       - STAGING=true bundle exec s3_website push
 
   production:
     branch: production
     commands:
+      - npm build
       - bundle exec jekyll build
+      - rm -rf node_modules
       - bundle exec s3_website push
