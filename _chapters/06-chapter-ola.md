@@ -17,13 +17,13 @@ Talk with the developer of the app before you start preparing assets. Developers
 **Stakeholders:**
 - Designers
 - Client
-- Internal Developers 
+- Internal Developers
 - External Developers
 - Project Manager
 
 ##Tools for better asset production and management
 
-Sketch Measure is a great tool for making specifications for developers. You can find a guide and download links on their website [Sketch Measure](http://utom.design/measure/how-to.html). 
+Sketch Measure is a great tool for making specifications for developers. You can find a guide and download links on their website [Sketch Measure](http://utom.design/measure/how-to.html).
 Besides the native Sketch solution, you can also use plugins such as Sketch Export Assets [Plugin Sketch Export Assets](https://github.com/GeertWille/sketch-export-assets).
 
 **Optimization tools**
@@ -32,7 +32,7 @@ Use optimization tools like [Kraken](https://kraken.io/web-interface), [ImageOpt
 
 ## Asset naming convention
 
-You can decide your own naming pattern for your app, but you must keep in mind the following: 
+You can decide your own naming pattern for your app, but you must keep in mind the following:
 1. The valid charset for naming resources is [a-z, _, 0–9], i.e. all lowercase characters, numbers, and underscore.
 2. The first character of your asset name can be either an underscore _ or a lowercase letter, but it cannot be a number.
 3. Do not use uppercase letters. Not even in extensions such as *.png* or *.jpg*
@@ -46,14 +46,14 @@ You can decide your own naming pattern for your app, but you must keep in mind t
 - asset.png
 - desired folder structure:
 
-{% include img.html img="image6.jpg" alt="Desired folder structure" %}
+{% include image.html img="image6.jpg" alt="Desired folder structure" %}
 
 Set a naming convention for your design team – everyone should follow the same naming convention. To prevent misunderstandings, we recommend that you use a specific terminology for the different states of your elements, just as we do in CSS. Developers will know what you’re talking about without too much explanation.
 
 - **Default.**
-- **Hover.** The state of the element on a mouseover. 
+- **Hover.** The state of the element on a mouseover.
 - **Active.** The state of the element upon press. 
-- **Focus.** The state of element that is currently manipulated by the keyboard, or activated by the mouse (i.e. inputs, text areas). 
+- **Focus.** The state of element that is currently manipulated by the keyboard, or activated by the mouse (i.e. inputs, text areas).
 - **Visited.** The state of the links that have already been visited
 
 A good naming convention will look like this:
@@ -88,13 +88,13 @@ Just remember to ask the developer which way they want the assets to be delivere
 
 **9-patch scaling for Android**
 
-{% include img.html img="9_patch_Android.png" alt="9 patch scaling for Android" %}
+{% include image.html img="9_patch_Android.png" alt="9 patch scaling for Android" %}
 
 If you have assets that are used more than once in your application and are scalable, you can use 9-patch scaling (e.g. for buttons). Things like icons will probably not scale properly, so unfortunately, you have to resize them manually for all the resolutions. The 9-patch guide is always 1 px thick and must be black (#000000), otherwise it won’t work. Your slice will always be 2 px bigger than the asset (1 px left and right and/or at the top and bottom). Thus, if your asset is 48x48 px, your slice will be 50x50 px. You can’t downscale 9-patch images, so you have to deliver them at the smallest size possible. This is also better for the overall performance of the application. You can use the Draw9Patch tool from Android to easily create or check your 9-patch images. For more specific information on 9-patch scaling and/or downloading the draw9patch tool, check the [Android Developers](http://developer.android.com/tools/help/draw9patch.html) website. You can also check [this link](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=320&name=example).
 
 Be sure that App icons and Play Store Assets are provided following [Google’s guidelines](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en).
 
-## iOS platform-specific 
+## iOS platform-specific
 
 You must supply high-resolution images for all artwork in your app and for all the devices your app supports. Depending on the device, you will accomplish this by multiplying the number of pixels in each image by a specific scale factor. We advise you to work on a @1x canvas size of 375x667 px (iPhone 6/7) and export upsized assets
 
@@ -121,6 +121,6 @@ Be sure that App icons and App store Assets will be in accordance with the App S
 
 ### Additional reading:
 
-- [Better Android workflows with Sketch](https://medium.com/@lmindler/using-sketch-3-and-a-bit-of-fairy-dust-for-a-better-android-workflow-f667d0048855#.lgpmpu10m) 
-- [Design like a Developer](https://medium.com/going-your-way-anyway/design-like-a-developer-b92f7a8f4520#.1ynw77olc) 
+- [Better Android workflows with Sketch](https://medium.com/@lmindler/using-sketch-3-and-a-bit-of-fairy-dust-for-a-better-android-workflow-f667d0048855#.lgpmpu10m)
+- [Design like a Developer](https://medium.com/going-your-way-anyway/design-like-a-developer-b92f7a8f4520#.1ynw77olc)
 - [Why should you use Material Design](https://www.netguru.co/blog/why-should-you-use-material-design )

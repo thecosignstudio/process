@@ -5,7 +5,7 @@ chapter_number: "01"
 
 # 01. Project introduction & setup
 ## Project introduction
-Your work begins much earlier than the moment you pick up a pen and paper. Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and professional during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here. 
+Your work begins much earlier than the moment you pick up a pen and paper. Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and professional during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here.
 
 **In this section you can learn:**
 - What questions to ask a client before and during the first meeting.
@@ -35,8 +35,8 @@ Together with the Project Manager, organize a meeting and gather all the project
 - **Educate the client**
     - Product design is a process. It never ends.
     - Design is about how things work, not only about how they look.
-Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning. 
-Useful links: 
+Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning.
+Useful links:
         - [What to expect from a designer](https://www.netguru.co/blog/what-expect-designer)
         - [What are you paying for](https://www.netguru.co/blog/hiring-designers)
         - [Designer-client relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship)
@@ -55,12 +55,12 @@ Try to make it clear that even the best product design does not guarantee a prod
 - Have you collected any user feedback yet?
 - Can you grant us access to your analytics tools?
 - Are there any similar products or alternative solutions to the same problem? What are your potential customers doing today instead of using your future product?
-#### Questions specific to a Product Design Sprint (pick only relevant questions): 
+#### Questions specific to a Product Design Sprint (pick only relevant questions):
 - What problem do you want to solve during the Product Design Sprint?
-- What do you expect from the Product Design Sprint? 
+- What do you expect from the Product Design Sprint?
 - What doesn't work in your product? What do you want to change? What's the most important part of your new feature?
 - Do you have any solution on your mind?
-- Do you have a basic scope of work in mind? 
+- Do you have a basic scope of work in mind?
 - What are your key assumptions? For example: end users behaving in a certain way, customers willing to pay for X, technology existing for Y?
 #### Questions specific to UX Review:
 - On the call, try to establish a scope of the review:
@@ -113,7 +113,7 @@ Make sure that all answers are documented and available for other (current and f
 - Your client’s future often depends on you, your decisions, and your work. Everything you do serves to convince them that their business is in good hands.
 - Don’t ask basic questions for which you can easily find answers on Google.
 - Every decision you make must match the business goals of your client – always and unconditionally.
-- You can use the structure: 
+- You can use the structure:
 [What you did] + [how you came up with the thing you did] + [why you did it/how this will help the client’s business]
 - **There are no maybes – there is confidence.** Be absolutely sure about your statements.
 - Speak about the “whys” of your design and how your work will improve your client’s chances of achieving success.
@@ -132,7 +132,7 @@ Remember that if you have any difficulties with your design, you can always ask 
 - If you are not sure whether you can spend more time preparing dedicated designs, ask your PM if you have enough resources/time/money to develop such features.
 
 #### From the client
-Gathering feedback from the client is the key to a successful project. 
+Gathering feedback from the client is the key to a successful project.
 - Ask for the feedback you want to receive.
 - Add designs to the project and share a link with the client. The best way to go is to always keep links to InVision designs in a project management tool, e.g. Jira (NOTE: avoid adding the client as a contributor to InVision projects!).
 - Ask whether the client knows how InVision works or just guide the client through the process of adding comments to designs (mentioning a user’s name when adding a comment will send an e-mail notification – recommended).
@@ -148,19 +148,19 @@ Gathering feedback from the client is the key to a successful project.
 
 When you start a new project, make sure that you have created a Designer folder in the client’s main folder.
 
-{% include img.html img="image7.jpg" alt="Designer folder" %}
+{% include image.html img="image7.jpg" alt="Designer folder" %}
 
 #### 2. The structure of the Designer folder
 
-{% include img.html img="image2.jpg" alt="Designer folder structure" %}
+{% include image.html img="image2.jpg" alt="Designer folder structure" %}
 
 **A. Sources**
 
-{% include img.html img="image3.jpg" alt="Sources folders" %}
+{% include image.html img="image3.jpg" alt="Sources folders" %}
 
 Each folder (Visual and Wireframes) should contain all source files (.psd, .sketch etc.). It depends on the project, but if you have two sources of files, you should create subfolders for .psd, .sketch, or any other extensions.
 
-{% include img.html img="image1.jpg" alt="Source files subfolders" %}
+{% include image.html img="image1.jpg" alt="Source files subfolders" %}
 
 Each source file should be presented as a preview in the .jpg or .png format.
 
@@ -169,13 +169,13 @@ Each source file should be presented as a preview in the .jpg or .png format.
 
 In this folder, you should put all the fonts which you have used in the project, even if they are free. They should be grouped by font name. Like below:
 
-{% include img.html img="image5.jpg" alt="Fonts folder" %}
+{% include image.html img="image5.jpg" alt="Fonts folder" %}
 
 **C. Assets & Exports**
 
 This folder should contain two subfolders:
 
-{% include img.html img="image9.jpg" alt="Assets and Exports subfolders" %}
+{% include image.html img="image9.jpg" alt="Assets and Exports subfolders" %}
 
 *Assets & Exports* is a folder for FrontEnd Developers.
 
@@ -201,7 +201,7 @@ In this folder, you should upload all documents related to a specific project. T
 
 You should also create an Initial interview subfolder, which will collect the most important data collected during the initial interview, the materials sent by the client, or scoping session notes related to the design phase relevant to the project.
 
-{% include img.html img="image8.jpg" alt="Initial interview folder" %}
+{% include image.html img="image8.jpg" alt="Initial interview folder" %}
 
 ## Q&A
 
@@ -210,8 +210,8 @@ You should also create an Initial interview subfolder, which will collect the mo
 
 {% include qa.html question="Why do you have to know this stuff before we meet?" answer="This will allow us to prepare better and have a more focused meeting." %}
 
-{% include qa.html question="We don’t have: [business analysis, market research, target customer base]. Can you do this for us?" answer="We can help you with some parts of it." %}	
- 
+{% include qa.html question="We don’t have: [business analysis, market research, target customer base]. Can you do this for us?" answer="We can help you with some parts of it." %}
+
 ### Questions to ask yourself at this stage:
 - Have I asked all the necessary questions?
 - Do I have all the necessary answers?
