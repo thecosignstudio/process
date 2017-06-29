@@ -52,39 +52,63 @@ Every iteration you make on your design should be tested. The major stages in th
 
 # Tools and techniques for testing
 **Feedback from team (at Netguru we use the Slack channel #tradeguru-design)**
-- **Time:** 15 min
-- **When?** After wireframing and after design.
-- **Why?** This is the very first step, and the easiest one you can take to validate your design at any stage by design teamembers.
-
-| Time   |  15min  |
-| :----: | :-----: |
-| When?  | After wireframing and after design. |
-| Why?   | This is the very first step, and the easiest one you can take to validate your design at any stage by design teamembers. |
-| How?   | Just post your design as an InVision link, preferably with a question – what you need to have validated/tested or what would you like to get people’s opinion about. Deliverables: Others should leave comments on InVision. |
+- **Time:**
+15 min
+- **When?**
+After wireframing and after design.
+- **Why?**
+This is the very first step, and the easiest one you can take to validate your design at any stage by design teamembers.
+- **How?**
+Just post your design as an InVision link, preferably with a question – what you need to have validated/tested or what would you like to get people’s opinion about.
+Deliverables: Others should leave comments on InVision.
 
 **Design bug bash** – [blogpost](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow)
-
-| Time  | Up to 1h |
-| :----: | :-----: |
-| When? | After wireframing and after design. |
-| Why?  | As you progress with the design, it gets more and more complex, you lose your fresh view, and help from other people becomes necessary.|
-| How?  | Ask your QA to arrange a 30-60-min design bug bash that will include at least three QA specialists: the project’s QA specialist and two QA specialists not involved in project. It should also include a PD. Also nice to have: a PM, a front-end developer, other project team members. Your QA specialist will lead the bug bash. At the beginning, you can tell others what the project is about, and who typical users will be. Explain what tasks you want to have accomplished by participants but don’t explain any design solutions beforehand. Everyone should go through the whole prototype, performing tasks given by the PD individually. Deliverables: Any bugs/doubts should be written down as InVision comments by their finder. |
-
+- **Time**
+Up to 1h
+- **When?**
+After wireframing and after design.
+- **Why?**
+As you progress with the design, it gets more and more complex, you lose your fresh view, and help from other people becomes necessary.|
+- **How?**
+Ask your QA to arrange a 30-60-min design bug bash that will include at least three QA specialists: the project’s QA specialist and two QA specialists not involved in project. It should also include a PD. Also nice to have: a PM, a front-end developer, other project team members.
+Your QA specialist will lead the bug bash. At the beginning, you can tell others what the project is about, and who typical users will be. Explain what tasks you want to have accomplished by participants but don’t explain any design solutions beforehand. Everyone should go through the whole prototype, performing tasks given by the PD individually.
+Deliverables: Any bugs/doubts should be written down as InVision comments by their finder. 
 
 **Guerrilla Usability Testing** – [more info](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method)
-| Time  | Up to 2h                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| When? | After wireframing and after design.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Why?  | This is the most casual version of user testing. The main goal of guerrilla testing is to find errors and fix them as quickly as possible. Guerilla testing is about finding and fixing the most severe problems, not agonizing over every possible obstacle a user might encounter.                                                                                                                                                                                                   |
-| How?  | You will need 3-5 participants – they can be your colleagues, friends or family. Steps of the process: 1. Come up with a list of tasks. 2. Prioritize tasks and decide which to test. 3. Turn your tasks into scenarios. 4. Combine all scenarios. 5. Start guerrilla testing. 6. Capture guerrilla testing insights. 7. Fix your usability problems. Deliverables: Write down the top 3 usability problems or capture the task completion in a table. [See detailed instructions here](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method). |
+- **Time**
+Up to 2h
+- **When?**
+After wireframing and after design.
+- **Why?**
+This is the most casual version of user testing. The main goal of guerrilla testing is to find errors and fix them as quickly as possible. Guerilla testing is about finding and fixing the most severe problems, not agonizing over every possible obstacle a user might encounter.                                                                                                       - **How?**
+You will need 3-5 participants – they can be your colleagues, friends or family. Steps of the process:
+1. Come up with a list of tasks.
+2. Prioritize tasks and decide which to test.
+3. Turn your tasks into scenarios.
+4. Combine all scenarios.
+5. Start guerrilla testing. 
+. Capture guerrilla testing insights.
+7. Fix your usability problems. 
+Deliverables: Write down the top 3 usability problems or capture the task completion in a table.
+[See detailed instructions here](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method).
 
 **User testing: moderated** - [more info](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/)
-| Time  | At least 3h                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| When? | - After design, after implementation - Incomplete or buggy interfaces — MVPs, early-stage prototypes, low fidelity prototypes, parts of the app that need a really direct and clear explanation - Very complex interfaces — To make app learning process shorter/smoother - Mature product — Product needs a test of really specific functionalities - Security concerns — If you’re testing a product with access to data that you don’t want public, a moderator will keep the user where they belong - Existing product that will be redesigned by Netguru |
-| Why?  | You need a solid and objective test of your design (it must be something that your internal team or design oriented bug bash can’t deliver) and of the existing product. The test should require a specific target/personas.                                                                                                                                                                                                                                                                                                                                  |
-| How?  | - Use a specialized agency. - Personally: give user a task and assist him/her through the test. Ask questions, guide and explain if necessary. Deliverables: - Detailed report - Attachments (recordings, etc.)                                                                                                                                                                                                                                                                                                                                               |
-
+- **Time**
+At least 3h
+- **When?**
+  - After design, after implementation
+  - Incomplete or buggy interfaces — MVPs, early-stage prototypes, low fidelity prototypes, parts of the app that need a really direct and clear explanation
+  -  Very complex interfaces— To make app learning process shorter/smoother
+  - Mature product — Product needs a test of really specific functionalities
+  - Security concerns — If you’re testing a product with access to data that you don’t want public, a moderator will keep the user where they belong
+  - Existing product that will be redesigned by Netguru |
+- **Why?**
+You need a solid and objective test of your design (it must be something that your internal team or design oriented bug bash can’t deliver) and of the existing product. The test should require a specific target/personas.
+- **How?**
+  - Use a specialized agency.
+  - Personally: give user a task and assist him/her through the test. Ask questions, guide and explain if necessary. Deliverables:
+   - Detailed report
+   - Attachments (recordings, etc.)                                                                                                                                                                                                                          
 **User testing: unmoderated** – [more info](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/)
 Products: [Userzoom](http://www.userzoom.com/remote-usability-testing/), [AppSee](https://www.appsee.com/features/user-recordings), [UserTesting](https://www.usertesting.com/plans)
 | Time  | At least 3h                                                                                                                                                                                                                                                                                                                                                     |
