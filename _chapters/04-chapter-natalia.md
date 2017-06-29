@@ -12,7 +12,7 @@ chapter_number: "02"
 - Questions most frequently asked by clients.cc
 
 From Oxford English Dictionary:
-{% include quote.html text="**Test** (v.): take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice." %}
+{% include quote.html text="Test (v.): take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice." %}
 
 You can test just about anything in a digital product: design solutions, code, performance, forms, buttons, etc. In this article, we will focus on design only. We are working in the Agile Scrum methodology, in which **testing is part and parcel of every sprint**. That’s why each design team at Netguru includes a dedicated QA specialist.
 Every iteration you make on your design should be tested. The major stages in the design process, which you can see below, should involve testing methods that are adequate to the project’s scope and the stage you are in.
@@ -24,33 +24,44 @@ Every iteration you make on your design should be tested. The major stages in th
 - Save money on fixing bugs and flaws after the product is launched.
 - Save money on customer service; otherwise, users would ask for help after not being able to accomplish what they set out to do.
 - Get to know your customers, their behavior, needs and preferences.
+
 **For Designers**
 - Even a team of skilled designers won’t spot all the points where real users may get stuck when using the product.
 - People not involved in creating the product will give the most valuable feedback, because they will have a fresh view.
 - Avoid the embarrassing moment when you have to admit to making mistake in front of the client.
 - When designing, be sure you are not going in a wrong direction for too long, because bugs and flaws can escalate quickly.
 - You will make a positive impression on the client when you recommend testing and give strong arguments about it.
+
 **Stakeholders**
 - QA
 - Designer
 - PM
 - Developers
 
-# When to test
-## Tests after wireframing
+## When to test
+### Tests after wireframing
+
 **Participants**: PD, QA, users
+
 **Goal**: Test the UX. Wireframes are focused on high level design decisions such as user experience, user flow, information architecture. So, before you go to the next stage, the visual design, you will need to test these elements. In small projects, you can test the UX and the UI at the same time in the next stage.
+
 **Tools**: design bug bash, user testing within your organisation’s people, guerrilla usability testing
-## Tests after design
+
+### Tests after design
 **Participants**: PD, QA, users
+
 **Goal**: Test the UI. Visual design is focused on more specific design solutions such as UI elements, colors, shapes, and interactions. Assuming you ran tests after the wireframing, you need to test these elements now.
+
 **Tools**: design bug bash (link), user testing with Netguru people or outside testers, guerrilla usability testing
-## After implementation
+
+### After implementation
 **Participants**: PD, QA, users
+
 **Goal**: Analyse users’ behavior to make sure they use product the way it was designed and ife the client’s goals are met.
+
 **Tools**: Heatmaps, A/B tests, user testing with Netguru people or outside testers, Analytics
 
-# Tools and techniques for testing
+## Tools and techniques for testing
 **Feedback from team (at Netguru we use the Slack channel #tradeguru-design)**
 - **Time:**
 15 min
@@ -72,7 +83,7 @@ As you progress with the design, it gets more and more complex, you lose your fr
 - **How?**
 Ask your QA to arrange a 30-60-min design bug bash that will include at least three QA specialists: the project’s QA specialist and two QA specialists not involved in project. It should also include a PD. Also nice to have: a PM, a front-end developer, other project team members.
 Your QA specialist will lead the bug bash. At the beginning, you can tell others what the project is about, and who typical users will be. Explain what tasks you want to have accomplished by participants but don’t explain any design solutions beforehand. Everyone should go through the whole prototype, performing tasks given by the PD individually.
-Deliverables: Any bugs/doubts should be written down as InVision comments by their finder. 
+Deliverables: Any bugs/doubts should be written down as InVision comments by their finder.
 
 **Guerrilla Usability Testing** – [more info](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method)
 - **Time**
@@ -110,7 +121,7 @@ You need a solid and objective test of your design (it must be something that yo
   - Personally: give user a task and assist him/her through the test. Ask questions, guide and explain if necessary. Deliverables
    - Detailed report
    - Attachments (recordings, etc.)
-   
+
 **User testing: unmoderated** – [more info](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/)
 - **Products:** [Userzoom](http://www.userzoom.com/remote-usability-testing/), [AppSee](https://www.appsee.com/features/user-recordings), [UserTesting](https://www.usertesting.com/plans)
 - **Time**
@@ -126,7 +137,8 @@ You need a solid and objective test of your design (it must be something that yo
 - **How?**
   - Use third party tools.
   - Personally: give user a task and leave him/her alone while camera is recording.
-Deliverables: Video recording summarized in a report                                                                                                                                                                                                 |
+Deliverables: Video recording summarized in a report
+
 **A/B testing**
 - **Products:**
 [Qubit](http://www.qubit.com/solutions/ab-mv-testing), [VWO](https://vwo.com/), ruby gems: [Split](https://github.com/splitrb/split), [Vanity](http://vanity.labnotes.org/)
@@ -149,9 +161,10 @@ A/B testing allows you to make more out of your existing traffic. While the cost
 Advanced tests can include pricing structures, sales promotions, free trial lengths, navigation and UX experiences, free or paid delivery, and more.
 **Links:**
   - To read what A/B testing is, you should try these links [link](http://unbounce.com/landing-page-articles/what-is-ab-testing/), [link](https://vwo.com/ab-testing/) & [link](https://www.optimizely.com/ab-testing/).
-  - Learn how to bust these 7 A/B testing myths by Kissmetrics [link](https://blog.kissmetrics.com/ab-testing-myths/). 
+  - Learn how to bust these 7 A/B testing myths by Kissmetrics [link](https://blog.kissmetrics.com/ab-testing-myths/).
   - The ultimate guide to A/B Testing by Smashing Magazine [link](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/).
-  - Learn about most important A/B Testing checklist by HubSpot [link](https://blog.hubspot.com/marketing/a-b-test-checklist#sm.00001z5neov22f9pvdk194oo5d7tq).                                                                                   - **How?**
+  - Learn about most important A/B Testing checklist by HubSpot [link](https://blog.hubspot.com/marketing/a-b-test-checklist#sm.00001z5neov22f9pvdk194oo5d7tq).                                                                                   
+- **How?**
 A/B Testing Process
 The correct way to run an A/B testing experiment is to follow a scientific experimental process. It includes the following steps:
 1. **Study your Website Data:** Use a website analytics tool such as Google Analytics and find the problem areas in your conversion funnel. For example, you can identify the bottleneck-pages with bad metrics.
@@ -208,8 +221,8 @@ Typical reports in GA:
   - Hours & Days Report
   - Referring Sites Report
   - Content Efficiency Report
-  - Traffic Acquisition from Social Media Report |
-
+  - Traffic Acquisition from Social Media Report
+  
 **Beta testing** – [more info](https://www.playtestcloud.com/blog/testflight-alternatives-ios-android)
 - **Products:** [Test flight](https://developer.apple.com/testflight/), [HockeyApp](https://hockeyapp.net/), [Google Play Beta Testing](https://play.google.com/apps/publish/signup/), [Fabric.io](https://get.fabric.io/)
 - **When?**
@@ -219,14 +232,14 @@ You have your product ready and working, but before the official release, you sh
 - **How?**
 It’s mostly done by developers and is especially useful for mobile apps testing, but it can be applied to any digital product. You can take advantage of usage metrics that are available in tools such as HockeyApp, and users can give feedback directly in the app.The smart approach to selecting your audience is to use [focus groups](https://en.wikipedia.org/wiki/Focus_group), which work as small, representative, scaled-down groups of your future customer base.
 
-# Tips for testing your designs
+## Tips for testing your designs
 - It’s wise to build prototypes and test as early and as often as possible to fix the major issues before you even move the project to the next stage.
 - You just need 3-5 people to spot the biggest usability issues.
 - It’s often better to test the product with new participants without any knowledge about you and your product.
 - Don’t try to capture your insights (write them down, talk to yourself, etc.) during the test with real users – it makes them nervous.
-- You don’t want to bias your users during the test. You want to see how they figure out things for themselves, or how they don’t figure them out. In real life, you wouldn’t sit next to them while they would be using your product. 
+- You don’t want to bias your users during the test. You want to see how they figure out things for themselves, or how they don’t figure them out. In real life, you wouldn’t sit next to them while they would be using your product.
 
-# Q&A
+## Q&A
 **Questions your client can ask**
 {% include qa.html question="Why do I need testing?" answer="Above all, you need it to minimize the risk of exposing bugs to real users in real scenarios. Also, the iterative nature of the Agile Scrum methodology helps to improve the weak points of the product in every sprint. Testing will detect those weak points." %}
 {% include qa.html question="Who’s paying for the test?" answer="The client pays for the tests, because they are part of the services we provide. Tests that take significant amount of time should be discussed, estimated, and accepted with the client." %}
