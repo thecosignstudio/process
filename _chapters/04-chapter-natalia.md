@@ -222,7 +222,7 @@ Typical reports in GA:
   - Referring Sites Report
   - Content Efficiency Report
   - Traffic Acquisition from Social Media Report
-  
+
 **Beta testing** – [more info](https://www.playtestcloud.com/blog/testflight-alternatives-ios-android)
 - **Products:** [Test flight](https://developer.apple.com/testflight/), [HockeyApp](https://hockeyapp.net/), [Google Play Beta Testing](https://play.google.com/apps/publish/signup/), [Fabric.io](https://get.fabric.io/)
 - **When?**
@@ -257,5 +257,7 @@ It’s mostly done by developers and is especially useful for mobile apps testin
 **Desired outcomes of this stage:**
 1. Wireframes or designs tested using appropriate techniques.
 2. Feedback gathered and implemented.
+
 **Additional reading**
+
 [How to Improve Your UI with Remote Usability Testing](https://www.netguru.co/blog/improve-ui-remote-usability-testing)
