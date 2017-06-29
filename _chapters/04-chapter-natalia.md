@@ -1,5 +1,5 @@
 ---
-title: "Testing" 
+title: "Testing"
 chapter_number: "02"
 ---
 
@@ -47,23 +47,29 @@ Every iteration you make on your design should be tested. The major stages in th
 **Tools**: design bug bash (link), user testing with Netguru people or outside testers, guerrilla usability testing
 ## After implementation
 **Participants**: PD, QA, users
-**Goal**: Analyse users’ behavior to make sure they use product the way it was designed and ife the client’s goals are met. 
+**Goal**: Analyse users’ behavior to make sure they use product the way it was designed and ife the client’s goals are met.
 **Tools**: Heatmaps, A/B tests, user testing with Netguru people or outside testers, Analytics
 
 # Tools and techniques for testing
 **Feedback from team (at Netguru we use the Slack channel #tradeguru-design)**
-| Time  | 15min                                                                                                                                                                                                                        |
-|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| When? | After wireframing and after design.                                                                                                                                                                                          |
-| Why?  | This is the very first step, and the easiest one you can take to validate your design at any stage by design team members.                                                                                                   |
-| How?  | Just post your design as an InVision link, preferably with a question – what you need to have validated/tested or what would you like to get people’s opinion about. Deliverables: Others should leave comments on InVision. |
+- **Time:** 15 min
+- **When?** After wireframing and after design.
+- **Why?** This is the very first step, and the easiest one you can take to validate your design at any stage by design teamembers.
+
+| Time   |  15min  |
+| :----: | :-----: |
+| When?  | After wireframing and after design. |
+| Why?   | This is the very first step, and the easiest one you can take to validate your design at any stage by design teamembers. |
+| How?   | Just post your design as an InVision link, preferably with a question – what you need to have validated/tested or what would you like to get people’s opinion about. Deliverables: Others should leave comments on InVision. |
 
 **Design bug bash** – [blogpost](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow)
-| Time  | Up to 1h                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| When? | After wireframing and after design.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Why?  | As you progress with the design, it gets more and more complex, you lose your fresh view, and help from other people becomes necessary.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+| Time  | Up to 1h |
+| :----: | :-----: |
+| When? | After wireframing and after design. |
+| Why?  | As you progress with the design, it gets more and more complex, you lose your fresh view, and help from other people becomes necessary.|
 | How?  | Ask your QA to arrange a 30-60-min design bug bash that will include at least three QA specialists: the project’s QA specialist and two QA specialists not involved in project. It should also include a PD. Also nice to have: a PM, a front-end developer, other project team members. Your QA specialist will lead the bug bash. At the beginning, you can tell others what the project is about, and who typical users will be. Explain what tasks you want to have accomplished by participants but don’t explain any design solutions beforehand. Everyone should go through the whole prototype, performing tasks given by the PD individually. Deliverables: Any bugs/doubts should be written down as InVision comments by their finder. |
+
 
 **Guerrilla Usability Testing** – [more info](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method)
 | Time  | Up to 2h                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
