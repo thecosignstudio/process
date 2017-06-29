@@ -32,10 +32,12 @@ gulp.task('build', () => {
       format: 'iife',
       sourceMap: 'inline',
       plugins: [
+        eslint({
+          exclude: ['javascript/vendor'],
+        }),
         babel({
           exclude: 'node_modules/**',
         }),
-        eslint(),
       ],
     }))
     .pipe(uglify())
