@@ -46,13 +46,13 @@ You can decide your own naming pattern for your app, but you must keep in mind t
 - asset.png
 - desired folder structure:
 
-{% include image.html img="image6.jpg" alt="Desired folder structure" %}
+{% include image.html img="image6.png" alt="Desired folder structure" %}
 
 Set a naming convention for your design team – everyone should follow the same naming convention. To prevent misunderstandings, we recommend that you use a specific terminology for the different states of your elements, just as we do in CSS. Developers will know what you’re talking about without too much explanation.
 
 - **Default.**
 - **Hover.** The state of the element on a mouseover.
-- **Active.** The state of the element upon press. 
+- **Active.** The state of the element upon press.
 - **Focus.** The state of element that is currently manipulated by the keyboard, or activated by the mouse (i.e. inputs, text areas).
 - **Visited.** The state of the links that have already been visited
 
