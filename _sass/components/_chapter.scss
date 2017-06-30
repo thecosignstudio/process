@@ -90,6 +90,13 @@
       font-style: italic;
     }
 
+    ol {
+      
+      li::before {
+        content: none;
+      }
+    }
+
     ul {
       margin: 0;
       margin-bottom: $base-sizing;
