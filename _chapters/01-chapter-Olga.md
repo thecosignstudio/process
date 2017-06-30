@@ -19,6 +19,7 @@ Your work begins much earlier than the moment you pick up a pen and paper. Prepa
 - Business Development Representative
 - Project Manager
 - Developer(s)
+
 ## Kick-off meeting checklist:
 ### Before the first meeting with the client:
 Together with the Project Manager, organize a meeting and gather all the project info. Ask the PM, BD and devs – don’t make the client answer the same question twice. Things you need to know:
@@ -31,6 +32,7 @@ Together with the Project Manager, organize a meeting and gather all the project
 - What platform will it be designed for?
 - In the case of web design: will it be responsive?
 - Will it be developed by our team?
+
 ### First meeting – explaining process to the client:
 - **Educate the client**
     - Product design is a process. It never ends.
@@ -47,6 +49,7 @@ We rely on research and available data – the validity of a solution can only b
 - **We cannot guarantee a business success**
 Try to make it clear that even the best product design does not guarantee a product success in terms of revenue.
 - **Give a quick overview of all the Product Design phases**
+
 ### First meeting – get some info from the client:
 #### General info
 - What is your deadline? (design/release date)
@@ -55,6 +58,7 @@ Try to make it clear that even the best product design does not guarantee a prod
 - Have you collected any user feedback yet?
 - Can you grant us access to your analytics tools?
 - Are there any similar products or alternative solutions to the same problem? What are your potential customers doing today instead of using your future product?
+
 #### Questions specific to a Product Design Sprint (pick only relevant questions):
 - What problem do you want to solve during the Product Design Sprint?
 - What do you expect from the Product Design Sprint?
@@ -62,6 +66,7 @@ Try to make it clear that even the best product design does not guarantee a prod
 - Do you have any solution on your mind?
 - Do you have a basic scope of work in mind?
 - What are your key assumptions? For example: end users behaving in a certain way, customers willing to pay for X, technology existing for Y?
+
 #### Questions specific to UX Review:
 - On the call, try to establish a scope of the review:
     - The narrower the better – a more focused scope is superior.
@@ -69,6 +74,7 @@ Try to make it clear that even the best product design does not guarantee a prod
     - Try to get to know what user journeys are key to the client.
         - In a perfect scenario, narrow down the scope to just one.
 - After the call, discuss the client’s requirements within the team and ask the team about possible blockers.
+
 #### Visual:
 - Do you have a branding, brand book, brand guidelines?
     - If not, give a heads-up about the importance of those in later phases .
@@ -78,6 +84,7 @@ Try to make it clear that even the best product design does not guarantee a prod
 - Does the client have source files for the old designs?
 
 Make sure that all answers are documented and available for other (current and future) team members.
+
 ## Communication tips:
 #### General rules:
 - Be active, not passive – recommend solutions.
@@ -103,6 +110,7 @@ Make sure that all answers are documented and available for other (current and f
 #### Milestones & priorities
 - Make sure that the client has a reasonable approach to the creation of an [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is) (keep the scope small.
 - Make the client aware of the importance of going step-by-step in terms of functionalities.
+
 #### Why is it important to sell the outcomes of your work?
 - By selling yourself or your work well, you gain the client’s trust in your decision.
 - When you hesitate or don’t know the “whys” behind your design decision, you scare clients.
@@ -121,6 +129,7 @@ Make sure that all answers are documented and available for other (current and f
 - Use data. Whenever you assume something, base it on best practices, behavior studies, statistics.
 - It’s much better to present a small number of great arguments than flood the client with dozens of mediocre ones.
 - Adjust your language – don’t use jargon.
+
 ## Gathering feedback
 We use InVision to gather feedback for each iteration and to keep all comments in one place. [Check out how it works.](https://www.youtube.com/watch?v=J09zw08ihw4)
 
@@ -186,12 +195,9 @@ Assets should contain all additional assets that you couldn’t put in Exports. 
 
 In *Exports*, you should put all exports from Sketch or Photoshop.
 
-
-
 **D. Images & Icons**
 
 If you have some external images (Shutterstock, etc.) or icon sets, you should upload them here.
-
 
 **E. Documentation**
 
@@ -204,7 +210,6 @@ You should also create an Initial interview subfolder, which will collect the mo
 {% include image.html img="image8.png" alt="Initial interview folder" %}
 
 ## Q&A
-
 ### Questions your client may ask:
 {% include qa.html question="Why do you want to know the business model?" answer="This will allow us some amount of lorem ipsum dolor sit amet conscetur blah blah" %}
 
