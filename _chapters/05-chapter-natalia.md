@@ -147,9 +147,7 @@ Additional external resources:<br>
 
 ## Designing in Teams: Best Practices
 
-1. Start every project with a brainstorming session.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="1. Start every project with a brainstorming session." dos="
 Debate and encourage wild ideas.
 | Capture the ideas in a tool available for the whole group
 | Number your ideas and go for quantity.
@@ -158,18 +156,14 @@ Debate and encourage wild ideas.
 Do not criticize. Suspend any judgment until the end of the session.
 "%}
 
-2. Be sure to know your responsibilities and the overall team hierarchy.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="2. Be sure to know your responsibilities and the overall team hierarchy." dos="
 Make sure you clearly understand your role and the tasks you’re responsible for.
 | When responsible for task distribution, be sure to balance skill sets and eliminate gaps
 " donts="
 Don’t forget about the project timeline and task deadlines.
 "%}
 
-3. When a design conflict emerges, bring the discussion back to the business objectives.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="3. When a design conflict emerges, bring the discussion back to the business objectives." dos="
 When a conflict arises, gather all arguments from the team and choose the solution which serves your product’s business objectives better.
 | Support your ideas with real-life examples and surveys.
 " donts="
@@ -178,9 +172,7 @@ Don’t let aesthetics or personal preferences be your primary guide when on sea
 | Don’t forget about the project timeline and task deadlines.
 "%}
 
-4. Be a team player and work to deliver the business objectives.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="4. Be a team player and work to deliver the business objectives." dos="
 Be responsive and helpful: if a team member asks you for urgent feedback, give it a high priority.
 | Solve conflicts and misunderstandings within the team quickly: personal conflicts have a tendency to escalate.
 " donts="
@@ -188,9 +180,7 @@ Don’t take credit for the final design on your own.
 | Don’t get too attached to your designs – your teammates’ solutions might be better than yours.
 "%}
 
-5. Prepare your files properly.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="5. Prepare your files properly." dos="
 Use consistent naming conventions; standardize the folder naming within Sketch and Photoshop.
 | Use shared text styles and shared colors.
 | Create symbols in Sketch and Smart Objects in Photoshop for recurrent patterns.
@@ -201,18 +191,14 @@ Don’t scatter around files: use one location for all the project’s assets �
 | Don’t leave your layers ungrouped and unnamed: your team member might need to pick up from your file.
 "%}
 
-6. Give feedback and be open to feedback.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="6. Give feedback and be open to feedback." dos="
 Ask your team for feedback on every step; have regular design reviews.
 | Before presenting your work to the client, be sure to get feedback from the whole design team on communicator’s chanel / in person.
 " donts="
 Don’t be stubborn and accept constructive criticism – you won’t grow without feedback.
 "%}
 
-7. Presenting and defending your ideas.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="7. Presenting and defending your ideas." dos="
 Knowing why your design works is the key to explaining and defending it well.
 | Do research on the ideas you try to convince the client to.
 | Know the numbers behind your solutions.
@@ -220,9 +206,7 @@ Knowing why your design works is the key to explaining and defending it well.
 Don’t use jargon when presenting your work – the client doesn’t have to know what persona or above-the-fold mean.
 "%}
 
-8. Embrace the culture of communication.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="8. Embrace the culture of communication." dos="
 Communicate clearly, early and often.
 | It’s a good idea to have a live call with the client when presenting the designs for the first time – this way you will have an opportunity to answer all questions and avoid misunderstandings.
 " donts="
