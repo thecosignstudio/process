@@ -98,7 +98,7 @@ This will produce a following outcome:
 ## Using DOs and DON'Ts
 You can insert DOs and DONT's sections by using following syntax:
 ```
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="There are a couple of things we need to cover:" dos="
 Create your wireframes based on a muted color pallete
 |Use color only if it helps defining the idea behind the design
 " donts="
