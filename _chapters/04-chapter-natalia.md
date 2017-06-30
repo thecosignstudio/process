@@ -257,5 +257,4 @@ It’s mostly done by developers and is especially useful for mobile apps testin
 2. Feedback gathered and implemented.
 
 **Additional reading**
-
-[How to Improve Your UI with Remote Usability Testing](https://www.netguru.co/blog/improve-ui-remote-usability-testing)
+- [How to Improve Your UI with Remote Usability Testing](https://www.netguru.co/blog/improve-ui-remote-usability-testing)

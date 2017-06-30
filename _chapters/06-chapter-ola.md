@@ -120,7 +120,6 @@ Be sure that App icons and App store Assets will be in accordance with the App S
 1. A set of assets covering all the designs for all target devices is complete.
 
 ### Additional reading:
-
 - [Better Android workflows with Sketch](https://medium.com/@lmindler/using-sketch-3-and-a-bit-of-fairy-dust-for-a-better-android-workflow-f667d0048855#.lgpmpu10m)
 - [Design like a Developer](https://medium.com/going-your-way-anyway/design-like-a-developer-b92f7a8f4520#.1ynw77olc)
 - [Why should you use Material Design](https://www.netguru.co/blog/why-should-you-use-material-design )
