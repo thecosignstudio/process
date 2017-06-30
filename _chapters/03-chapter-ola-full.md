@@ -3,9 +3,10 @@ title: "Wireframing"
 chapter_number: "03"
 ---
 
-# Introduction
+# Wireframing
 
-## In this section you can learn:
+## Introduction
+**In this section you can learn:**
 - The definition of wireframing and the things a client should understand.
 - What elements to include in a wireframe.
 - Best practices – DOs and DON’Ts of wireframing.

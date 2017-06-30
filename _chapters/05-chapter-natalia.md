@@ -3,7 +3,9 @@ title: "Design"
 chapter_number: "05"
 ---
 
-# Introduction
+# Design
+
+## Introduction
 **In this section, you will learn:**
 - Where to look for inspiration
 - How collect inspirations and prepare moodboards

@@ -3,8 +3,9 @@ title: "Testing"
 chapter_number: "04"
 ---
 
-# Introduction
+# Testing
 
+## Introduction
 **In this section, you will learn:**
 - When to test wireframes or designs.
 - What tests to use in specific situations.

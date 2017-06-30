@@ -3,8 +3,9 @@ title: "Implementation recommendations"
 chapter_number: "06"
 ---
 
-# Introduction
+# Implementation recommendations
 
+## Introduction
 **In this section you can learn:**
 - How to prepare assets for a project on specific devices.
 - How to properly name assets.

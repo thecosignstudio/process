@@ -3,9 +3,10 @@ title: "Project termination"
 chapter_number: "07"
 ---
 
-# Introduction
+# Project termination
 
-### In this section you can learn:
+## Introduction
+**In this section you can learn:**
 - Where to put source files and store assets at every stage of your involvement in the project.
 - How to ensure your project team are safe when they leave the project.
 - When to recommend Product Checkups to your clients.
@@ -14,7 +15,7 @@ chapter_number: "07"
 ### Stakeholders:
 - Other designers
 - Client
-- Internal Developers 
+- Internal Developers
 - External Developers
 - Project Manager
 
@@ -65,14 +66,3 @@ Create a Q&A session with your project team: Developers, PM and QAs. We advise y
 ## Desired outcome after this stage:
 1. Team’s questions regarding the design have been answered.
 2. The client knows about the help you can offer in the future (regular checkups, iterations).
-
-
-
-
-
-
- 
-
-
-
-
