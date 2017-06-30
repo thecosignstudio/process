@@ -65,18 +65,14 @@ Wireframes should include all the important elements of a Product:
 ### DOs and DON'Ts
 The main purpose of wireframing is to create a visual representation of ideas to support conversations, iterations, and rapid ideation. Below is a list of best practices we truly believe in at Netguru:
 
-1. Colors can be distracting. Ensure that your design remains focused on the experience you’re creating and not the visual design solutions to come.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="1. Colors can be distracting. Ensure that your design remains focused on the experience you’re creating and not the visual design solutions to come." dos="
 Create your wireframes based on a muted color pallette.
 | Use color only if it helps defining the idea behind the design; even then – limit yourself to as few colors as possible.
 " donts="
 Don’t use color in your wireframe designs unless it has a solid purpose.
 | Don’t use various tints of grey; using tinted grey is ok, but stick to one."%}
 
-2. Be consistent: the best way to help the presented solutions is to be consistent in your wireframe designs.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="2. Be consistent: the best way to help the presented solutions is to be consistent in your wireframe designs." dos="
 Be consistent in the visual representation of UI elements. Ideally, present them by using reusable elements like [Symbols in Sketch](https://www.sketchapp.com/learn/documentation/symbols/).
 | Be aware of font sizes and spacing.
 | Sketch your ideas before you start digitalizing them – you’ll save a lot of time in the early iteration phase.
@@ -84,9 +80,7 @@ Be consistent in the visual representation of UI elements. Ideally, present them
 Don’t use different line weights for similar elements.
 | Don’t use too many fonts and font sizes."%}
 
-3. Use real content: writing is a design skill, and it will help you understand the client and the story better.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="3. Use real content: writing is a design skill, and it will help you understand the client and the story better." dos="
 If you don’t have real content: write it yourself based on what the competition do and your own research.
 |Use solid grey placeholder elements to represent photos, videos and maps.
 | Design for real-life cases (that is, don’t assume that every surname is max. 10 characters long, for instance).
@@ -94,18 +88,14 @@ If you don’t have real content: write it yourself based on what the competitio
 Don’t use placeholder text in crucial design elements, such as navigation or CTAs (i.e. Lorem Ipsum…).
 | If you need to show a series of data such as tables or tiles, be sure not to use the same copy in each of those elements."%}
 
-4. Never wireframe alone. The main purpose of having this process is the conversation potential and a greater chance of discovering better solutions than if you were working on your own.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="4. Never wireframe alone. The main purpose of having this process is the conversation potential and a greater chance of discovering better solutions than if you were working on your own." dos="
 Be open to new ideas.
 | Before presenting your wireframes to the client, get a few opinions from within your project team: they understand the product and know the client.
 | Always get a second opinion on your solutions (at Netguru, we use #tradeguru-design – a dedicated Slack channel).
 " donts="
 Don’t work on the wireframes alone just to show the client the end result of the whole product. Instead, cooperate and exchange ideas on InVision and Slack"%}
 
-5. Set clear expectations: be sure that the client understands the principles behind this process.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="5. Set clear expectations: be sure that the client understands the principles behind this process." dos="
 Tell the client about the desired outcome before you start designing.|
 Communicate clearly, early and often.|
 It’s a good idea to have a live call with the client when presenting your wireframes for the first time – this way you have the opportunity to answer all questions and avoid misunderstandings.
@@ -113,37 +103,29 @@ It’s a good idea to have a live call with the client when presenting your wire
 Don’t assume your client knows how to use collaboration tools or knows that wireframes are not final designs – always educate. |
 Don’t leave designs of complex processes without any comments."%}
 
+{% include dosndonts.html introduction="
 6. Use the right tool for the job. At Netguru we make wireframes mostly in Sketch (it’s flexible, easy to use, and there is no need to recreate layouts in a different app), but remember not to be constrained by the limitations of one tool.
-
-{% include dosndonts.html dos="
+" dos="
 Use whatever tool you see fit; for example, sketching and whiteboarding.
 " donts="
 Don’t let the software be a barrier."%}
 
-7. You are not your design.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="7. You are not your design." dos="
 Be prepared to pivot often and embrace rapid ideation.
 " donts="
 Don’t get too attached to your wireframes but, at the same time, also remember to defend the ideas that are worth defending."%}
 
-8. Be selective and keep it simple.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="8. Be selective and keep it simple." dos="
 Be wary of ideas that will definitely not work, pick the best ones in the beginning.
 " donts="
 Don’t overdo your wires; while thinking about the final stage of designing, try to create only the necessary parts."%}
 
-9. Control the conversation.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="9. Control the conversation." dos="
 Support your wireframes by controlling the conversation: if things get off track, bring it back where you want it.
 " donts="
 Don’t be afraid to interrupt politely and ask meaningful open-ended questions."%}
 
-10. Wireframe with the final designs in mind.
-
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="10. Wireframe with the final designs in mind." dos="
 You will save yourself a ton of work if you create your wires with the final designs in mind: reusable symbols, precise elements, and good fonts. |
 Talk to your devs about the technical efficiency of your design solutions. "%}
 

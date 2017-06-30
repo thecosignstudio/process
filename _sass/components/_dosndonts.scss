@@ -1,6 +1,10 @@
 .c-dosndonts {
   display: flex;
 
+  &__introduction {
+    margin-bottom: $base-sizing;
+  }
+
   &__container {
     width: 50%;
     padding-left: 1.5rem;
