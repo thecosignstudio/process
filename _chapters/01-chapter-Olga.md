@@ -3,8 +3,9 @@ title: "Project introduction & setup"
 chapter_number: "01"
 ---
 
-# 01. Project introduction & setup
-## Project introduction
+# Project introduction & setup
+
+## Introduction
 Your work begins much earlier than the moment you pick up a pen and paper. Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and professional during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here.
 
 **In this section you can learn:**

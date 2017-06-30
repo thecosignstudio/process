@@ -3,7 +3,6 @@ title: "Implementation recommendations"
 chapter_number: "06"
 ---
 
-
 # Introduction
 
 **In this section you can learn:**
@@ -21,7 +20,7 @@ Talk with the developer of the app before you start preparing assets. Developers
 - External Developers
 - Project Manager
 
-##Tools for better asset production and management
+## Tools for better asset production and management
 
 Sketch Measure is a great tool for making specifications for developers. You can find a guide and download links on their website [Sketch Measure](http://utom.design/measure/how-to.html).
 Besides the native Sketch solution, you can also use plugins such as Sketch Export Assets [Plugin Sketch Export Assets](https://github.com/GeertWille/sketch-export-assets).

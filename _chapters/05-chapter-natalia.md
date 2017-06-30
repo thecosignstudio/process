@@ -4,7 +4,6 @@ chapter_number: "05"
 ---
 
 ## Introduction
-
 **In this section, you will learn:**
 - Where to look for inspiration
 - How collect inspirations and prepare moodboards
@@ -21,7 +20,7 @@ And yes, well-designed things are often a pleasure to look at or experience. In 
 **Stakeholders**
 - Designer
 - Client
-- QA 
+- QA
 - Developers
 - PM
 
@@ -34,7 +33,7 @@ You can look for inspiration here:
 - [Dribbble](http://www.dribbble.com)
 - [Behance](http://www.behance.com)
 - [Designspiration](http://www.designspiration.net)
-- [Pinterest] (http://www.pinterest.com) 
+- [Pinterest](http://www.pinterest.com)
 
 ### Preparing moodboards
 This step is really important for you and your client. There are situations when you finish your design, and the client is really happy – but this is not always the case. We recommend that you prepare a board with a lot of photos and pictures that will show your client what you would like to do with the future app, what “feelings” your designs will evoke, and finally, what the client can expect. Thanks to this approach you will increase the chances that client likes your solutions, and you will show that you care about the client’s feedback. **Approximate time: 4h**
@@ -44,7 +43,7 @@ This step is really important for you and your client. There are situations when
 
 **How to prepare a moodboard?**<br>
 Use Boards by InVision for the following reasons:
-- Flexibility 
+- Flexibility
 - Predefined layouts
 - Option to add images, fonts and attachments
 
@@ -126,6 +125,7 @@ If you are only starting to design native apps, the best thing is to read the of
 
 **Android devices**
 [Material Design Guidelines](https://material.io/guidelines/)
+
 **Apple’s iPhones**
 [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)
 
@@ -146,6 +146,7 @@ Additional external resources:<br>
 ## Designing in Teams: Best Practices
 
 1. Start every project with a brainstorming session.
+
 {% include dosndonts.html dos="
 Debate and encourage wild ideas.
 | Capture the ideas in a tool available for the whole group
@@ -156,6 +157,7 @@ Do not criticize. Suspend any judgment until the end of the session.
 "%}
 
 2. Be sure to know your responsibilities and the overall team hierarchy.
+
 {% include dosndonts.html dos="
 Make sure you clearly understand your role and the tasks you’re responsible for.
 | When responsible for task distribution, be sure to balance skill sets and eliminate gaps
@@ -164,6 +166,7 @@ Don’t forget about the project timeline and task deadlines.
 "%}
 
 3. When a design conflict emerges, bring the discussion back to the business objectives.
+
 {% include dosndonts.html dos="
 When a conflict arises, gather all arguments from the team and choose the solution which serves your product’s business objectives better.
 | Support your ideas with real-life examples and surveys.
@@ -174,6 +177,7 @@ Don’t let aesthetics or personal preferences be your primary guide when on sea
 "%}
 
 4. Be a team player and work to deliver the business objectives.
+
 {% include dosndonts.html dos="
 Be responsive and helpful: if a team member asks you for urgent feedback, give it a high priority.
 | Solve conflicts and misunderstandings within the team quickly: personal conflicts have a tendency to escalate.
@@ -183,6 +187,7 @@ Don’t take credit for the final design on your own.
 "%}
 
 5. Prepare your files properly.
+
 {% include dosndonts.html dos="
 Use consistent naming conventions; standardize the folder naming within Sketch and Photoshop.
 | Use shared text styles and shared colors.
@@ -195,6 +200,7 @@ Don’t scatter around files: use one location for all the project’s assets �
 "%}
 
 6. Give feedback and be open to feedback.
+
 {% include dosndonts.html dos="
 Ask your team for feedback on every step; have regular design reviews.
 | Before presenting your work to the client, be sure to get feedback from the whole design team on communicator’s chanel / in person.
@@ -203,6 +209,7 @@ Don’t be stubborn and accept constructive criticism – you won’t grow witho
 "%}
 
 7. Presenting and defending your ideas.
+
 {% include dosndonts.html dos="
 Knowing why your design works is the key to explaining and defending it well.
 | Do research on the ideas you try to convince the client to.
@@ -212,6 +219,7 @@ Don’t use jargon when presenting your work – the client doesn’t have to kn
 "%}
 
 8. Embrace the culture of communication.
+
 {% include dosndonts.html dos="
 Communicate clearly, early and often.
 | It’s a good idea to have a live call with the client when presenting the designs for the first time – this way you will have an opportunity to answer all questions and avoid misunderstandings.
@@ -238,14 +246,14 @@ If there is enough time, try to search for ready transitions between the element
 ### Craft your own icons
 If there is enough time, you can create your own icon set. We use Nucleo for our designs, but creating your own icons will add a more individual feeling to application.
 
-## Resources 
+## Resources
 
 ### Icons
 1. Nucleo
 2. [FlatIcon](www.flaticon.com)
 3. [IconFinder](https://www.iconfinder.com/)
 
-###Stock Images
+### Stock Images
 1. Paid
   - [iStockPhoto](http://www.istockphoto.com/)
   - [ShutterStock](https://www.shutterstock.com/)

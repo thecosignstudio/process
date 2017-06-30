@@ -1,6 +1,6 @@
 ---
 title: "Testing"
-chapter_number: "02"
+chapter_number: "04"
 ---
 
 # Introduction
@@ -8,7 +8,7 @@ chapter_number: "02"
 **In this section, you will learn:**
 - When to test wireframes or designs.
 - What tests to use in specific situations.
-- Tips for testing designs.uuhiuhu
+- Tips for testing designs
 - Questions most frequently asked by clients.cc
 
 From Oxford English Dictionary:

@@ -1,9 +1,10 @@
 ---
-title: "Chapter 2: Lorem Ipsum"
+title: "Research & concept"
 chapter_number: "02"
 ---
 
-# 02: Research & concept
+# Research & concept
+
 ## Introduction
 **In this section, you will learn:**
 - What research is and when to conduct it.
