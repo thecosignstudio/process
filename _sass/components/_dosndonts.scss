@@ -2,20 +2,7 @@
   display: flex;
 
   &__introduction {
-    p {
-      margin-bottom: $base-sizing;
-      padding-left: 0;
-      line-height: 1.33rem;
-      text-indent: 0;
-    }
-
-    p:first-of-type::first-letter {
-      float: inherit;
-      padding: inherit;
-      font-size: inherit;
-      font-weight: inherit;
-      line-height: inherit;
-    }
+    margin-bottom: $base-sizing;
   }
 
   &__container {
