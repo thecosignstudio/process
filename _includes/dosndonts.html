@@ -10,7 +10,7 @@
     </div>
     <ul>
       {% for do in dos_array %}
-        <li>{{ do }}</li>
+        <li>{{ do | markdownify }}</li>
       {% endfor %}
     </ul>
   </div>
