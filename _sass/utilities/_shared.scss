@@ -37,5 +37,8 @@ html {
 
 .content-img {
   margin: $base-sizing 0;
-  width: 100%;
+  // necessary importants to make images default width :(
+  max-width: 100% !important;
+  width: initial !important;
+  height: auto !important;
 }
