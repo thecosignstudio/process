@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="16px" height="13px" viewBox="0 0 16 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svg-arrow">
-    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
-    <title>arrows-16px-1_tail-right</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Bottom_Navigation" transform="translate(-1324.000000, -239.000000)" fill-rule="nonzero" fill="#000000">
+    <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="Bottom_Navigation" transform="translate(-1324.000000, -239.000000)" fill-rule="nonzero">
             <g id="Group-3" transform="translate(720.000000, 89.000000)">
                 <g id="arrows-16px-1_tail-right" transform="translate(604.000000, 150.000000)">
                     <polygon id="Shape" points="9.3 0 7.9 1.35820896 12.2 5.52985075 0 5.52985075 0 7.47014925 12.2 7.47014925 7.9 11.641791 9.3 13 16 6.5"></polygon>

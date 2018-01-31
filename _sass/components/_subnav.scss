@@ -1,17 +1,59 @@
 .subnav {
+  overflow-y: auto;
+  height: 100%;
   padding-top: $side-nav-top-padding;
-  padding-right: 0;
+  padding-left: $side-nav-left-padding;
+
+  &--small-padding {
+    padding-top: $side-nav-top-small-padding;
+  }
 
   @media #{$md-up} {
     position: fixed;
   }
 
+  &__arrows-container {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    transition: transform 0.3s ease-in-out 0.15s;
+    transform: translateX(calc(-100% - #{$side-nav-left-padding}));
+  }
+
+  &__arrow {
+    svg {
+      fill: $light-grey-color;
+    }
+    
+    &--disabled {
+      opacity: 0.5;
+    }
+
+    & + & {
+      margin-left: 0.7rem;
+    }
+  }
+
   &__chapters-container {
-    padding-left: 3.34rem;
+    width: 100%;
+    transition: top 0.6s ease-in-out;
+    top: $side-nav-top-padding;
+  }
+
+  &__chapter-header-container {
+    display: flex;
+    margin-bottom: $base-sizing / 3;
+    position: relative;
+  }
+
+  .chapter-toggle {
+    transition: opacity 0.3s ease-in-out, visibility 0s linear 0.3s;
+    opacity: 0;
+    visibility: hidden;
   }
 
   &__chapters-listing {
-    margin-left: 0;
+    margin: 0;
     padding-left: 0;
 
     ul {
@@ -20,16 +62,31 @@
       list-style-type: none;
     }
 
-    li a {
-      position: relative;
-      display: block;
-      font-size: $fs-1;
-      font-weight: $fw-semibold;
-      line-height: 4em;
-      color: $light-grey-color;
+    li {
+      a {
+        position: relative;
+        display: block;
+        font-size: $fs-0;
+        font-weight: $fw-semibold;
+        line-height: 4em;
+        color: $light-grey-color;
+      }
+
+      &.toc-h1 a {
+        font-size: $fs-2;
+        line-height: $base-sizing;
+        margin-bottom: $base-sizing * 1.3;
+        color: inherit;
+      }
+
+      &.toc-h2 {
+        transition: transform 0.3s ease-in-out 0.3s, max-height 0s linear 0.6s;
+        transform: translateX(calc(-100% - #{$side-nav-left-padding}));
+        max-height: 0;
+      }
     }
 
-    .toc-active a {
+    .toc-active.toc-h2 a {
       color: $black-color;
 
       &::after {
@@ -40,6 +97,24 @@
         background-color: $orange-color;
         transform: translateY(-50%);
       }
+    }
+  }
+
+  &__chapters-container--active {
+    .chapter-toggle {
+      transition: opacity 0.3s ease-in-out 0.9s, visibility 0s linear;
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .subnav__chapters-listing li.toc-h2 {
+      transition: transform 0.3s ease-in-out 0.6s, max-height 0s linear;
+      transform: translateX(0);
+      max-height: 300px;
+    }
+
+    .subnav__arrows-container {
+      transform: translateX(0);
     }
   }
 }

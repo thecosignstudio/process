@@ -6,8 +6,7 @@ export default function updateText(element) {
   const currentText = element.text().replace('/chapters/', '');
   const [chapterNo] = currentText.split('-');
   const [, newText] = currentText.split('#');
-  const capitalized = newText.split('-')
-    .map(token => capitalizeFirstLetter(token))
+  const capitalized = capitalizeFirstLetter(newText).split('-')
     .join(' ');
 
   element.text(capitalized).prepend(`<span class="chapter-number">${chapterNo}</span>`);

@@ -1,55 +1,48 @@
-.chapter-nav {
-  @include fixed(top -100vh);
-  z-index: $z-index-2;
-  width: 100vw;
-  padding-top: $side-nav-top-padding;
-  overflow-y: scroll;
-  background-color: $white-color;
-  transition: top 0.3s ease-in-out;
+.chapter-nav__listing {
+  margin: 0;
+  display: none;
 
-  @media #{$md-up} {
-    @include fixed(left -33.33%);
-    @include sizing(33.33% 100vh);
-    max-height: 100vh;
-    transition: left 0.3s ease-in-out;
+  &--active {
+    display: block;
   }
 
-  &.active {
-    top: 0;
+  ul {
+    margin: 0;
+    padding-left: 0;
+    list-style-type: none;
 
-    @media #{$md-up} {
-      left: 0;
-    }
-  }
+    li {
+      transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out; 
+      opacity: 0;
+      transform: translateY(30px);
 
-  &__listing {
-    margin-left: 0;
-    padding-left: 3.33rem;
-
-    ul {
-      margin-left: 0;
-      padding-left: 0;
-      list-style-type: none;
-
-      .chapter-number {
-        margin-bottom: 0.9rem;
+      &.visible {
+        opacity: 1;
+        transform: translateY(0);
       }
 
-      // Again needed due to script
-      // scss-lint:disable SelectorDepth
-      li a {
-      // scss-lint:enable SelectorDepth
+      a {
         display: block;
+        font-size: $fs-2;
+        font-weight: $fw-semibold;
+        line-height: $base-sizing;
+        color: $light-grey-color;
         margin-bottom: 2.778rem;
-        font-size: $fs-3;
-        font-weight: $fw-bold;
-        color: $black-color;
 
-        // Again needed due to script
-        // scss-lint:disable SelectorDepth
         &:hover {
-        // scss-lint:enable SelectorDepth
           text-decoration: none;
+        }
+
+        .chapter-number {
+          color: $light-grey-color;
+        }
+      }
+      
+      &.active a {
+        color: inherit;
+
+        .chapter-number {
+          color: inherit;
         }
       }
     }
@@ -57,6 +50,5 @@
 
   .chapter-number {
     display: block;
-    font-size: $fs-6;
   }
 }

@@ -10,25 +10,8 @@ function hideApplicationSharer() {
 
 $(document).ready(function () {
   initClipboardButtons();
-  $('#toc').toc({
-    container: '.chapter',
-    selectors: 'h1, h2',
-    highlightOnScroll: true,
-  });
 
-  $('#toc-chapters').toc({
-    container: '.nav',
-    selectors: 'h1',
-    highlightOnScroll: false,
-    smoothScrolling: false,
-    anchorName(i, heading) {
-      return $(heading)
-        .text()
-        .replace('/chapters/', '');
-    },
-  });
-
-  chapterNavigation.bindEvents();
+  chapterNavigation();
   prepareNavigation();
   hideApplicationSharer();
 
