@@ -1,4 +1,3 @@
-import prepareNavigation from './utils/prepare-navigation';
 import chapterNavigation from './utils/chapter-navigation';
 import initClipboardButtons from './utils/init-clipboard-buttons';
 
@@ -12,7 +11,6 @@ $(document).ready(function () {
   initClipboardButtons();
 
   chapterNavigation();
-  prepareNavigation();
   hideApplicationSharer();
 
   $('.chapter p').selectionSharer();

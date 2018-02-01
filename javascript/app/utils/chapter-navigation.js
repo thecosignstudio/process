@@ -1,6 +1,11 @@
+import updateText from './update-text';
+import updateHref from './update-href';
+
 function addToc() {
   const $chapters = $('#toc-chapters');
   const $currentChapter = $('#toc');
+  const $currentChapterTitle = $('#toc-chapter-title');
+  const $allChapters = $('#toc-all-chapters');
 
   $chapters.toc({
     container: '.nav',
@@ -14,10 +19,55 @@ function addToc() {
     },
   });
 
+  $chapters.find('a').each(function () {
+    const element = $(this);
+    updateText(element);
+    updateHref(element);
+  });
+
   $currentChapter.toc({
     container: '.chapter',
     selectors: 'h1, h2',
     highlightOnScroll: true,
+  });
+
+  $currentChapterTitle.toc({
+    container: '.chapter',
+    selectors: 'h1',
+    highlightOnScroll: false,
+  });
+
+  $allChapters.toc({
+    container: '.nav',
+    selectors: 'h1',
+    highlightOnScroll: false,
+    smoothScrolling: false,
+    anchorName(i, heading) {
+      return $(heading)
+        .text()
+        .replace('/chapters/', '');
+    },
+  });
+
+  $allChapters.find('a').each(function () {
+    const element = $(this);
+    updateText(element);
+    updateHref(element);
+  });
+
+  $allChapters.find('.toc-h1').each(function () {
+    if ($(this).find('.chapter-number').text() === $('.subnav__mobile .chapter-number').text()) {
+      const chapterNumber = $(this).find('.chapter-number').text();
+      $(this)
+        .empty().toc({
+          container: '.chapter',
+          selectors: 'h1, h2',
+          highlightOnScroll: true,
+        })
+        .addClass('chapter-sidebar__current-chapter')
+        .find('.toc-h1 a')
+        .prepend(`<span class="chapter-number">${chapterNumber}</span>`);
+    }
   });
 }
 
@@ -122,7 +172,17 @@ function handleChapterAnimation() {
   });
 }
 
+function handleMobileNavigation() {
+  const $mobileSidebar = $('.chapter-sidebar');
+  const $toggleHandlers = $('.subnav__mobile__sidebar-toggle, .chapter-sidebar__close');
+  $toggleHandlers.click(function () {
+    $mobileSidebar.toggleClass('active');
+    $('body').toggleClass('sidebar-active');
+  });
+}
+
 export default function () {
   addToc();
   handleChapterAnimation();
+  handleMobileNavigation();
 }
