@@ -92,9 +92,9 @@ function handleChapterAnimation() {
   const navContainerTopPadding = '8rem';
   const navContainerLeftPadding = '3.1rem';
   const chapterTransformY = 30;
-  const singleChapterAnimationDuration = 100;
-  const currentChapterAnimationDuration = 600;
-  const moveCurrentChapterAnimationDuration = 200;
+  const singleChapterAnimationDuration = 150;
+  const currentChapterAnimationDuration = 750;
+  const moveCurrentChapterAnimationDuration = 250;
 
   const moveCurrentChapter = (delay, isForwardAnimation) => {
     setTimeout(() => {
@@ -168,7 +168,7 @@ function handleChapterAnimation() {
     const paddingSwitchDelay = isForwardAnimation ?
       currentChapterAnimationDuration : singleChapterAnimationDuration;
     const currentChapterItemsAnimationDelay = isForwardAnimation ?
-      (currentChapterAnimationDuration + moveCurrentChapterAnimationDuration) - 100 : 0;
+      (currentChapterAnimationDuration + moveCurrentChapterAnimationDuration) - 150 : 0;
 
     $navContainer.addClass('animating');
     setTimeout(() => {
