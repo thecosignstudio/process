@@ -7,22 +7,21 @@ $root: 'chapter-navigation';
     width: 50%;
     padding-top: 2 * $base-sizing;
     padding-bottom: 6.38rem;
-    padding-left: 2.5rem;
+    padding-left: 2rem;
+    padding-right: 3rem;
     border-top: 1px solid $very-light-grey-color;
 
     @media #{$md-up} {
-      padding-top: 6.38rem;
-      padding-right: 1rem;
-      padding-left: 6.11rem;
+      padding-top: 1rem;
     }
 
     &--left {
-      padding-right: 2.5rem;
+      padding-right: 2rem;
+      padding-left: 3rem;
       text-align: right;
 
       @media #{$md-up} {
-        padding-right: 6.11rem;
-        padding-left: 1rem;
+        padding-right: 1rem;
       }
     }
   }
@@ -79,7 +78,7 @@ $root: 'chapter-navigation';
     display: none;
 
     @media #{$md-up} {
-      @include absolute(top 50% right 0);
+      @include absolute(top 50% right -3rem);
       @include sizing(2.33rem);
       display: flex;
       align-items: center;
@@ -89,6 +88,7 @@ $root: 'chapter-navigation';
     }
 
     &--left {
+      left: -3rem;
       right: auto;
     }
   }
