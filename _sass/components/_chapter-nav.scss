@@ -12,7 +12,7 @@
     list-style-type: none;
 
     li {
-      transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out; 
+      transition: opacity 0.3s cubic-bezier(0.25, 1, 0.25, 1), transform 0.3s cubic-bezier(0.25, 1, 0.25, 1); 
       opacity: 0;
       transform: translateY(30px);
 
@@ -68,7 +68,7 @@ body.sidebar-active {
   background: white;
   box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.12);
   overflow-y: auto;
-  transition: left 0.3s ease-in-out;
+  transition: left 0.3s cubic-bezier(0.25, 1, 0.25, 1);
   padding: 70px 32px 50px;
 
   @media #{$md-up} {
