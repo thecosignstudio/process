@@ -63,10 +63,20 @@ function addToc() {
           container: '.chapter',
           selectors: 'h1, h2',
           highlightOnScroll: true,
+          smoothScrolling: false,
         })
         .addClass('chapter-sidebar__current-chapter')
         .find('.toc-h1 a')
         .prepend(`<span class="chapter-number">${chapterNumber}</span>`);
+
+      $(this).find('a').click(function (e) {
+        e.preventDefault();
+        const navHeight = $('.subnav').height();
+        const targetOffset = $($(this).attr('href')).offset().top;
+        $('html, body').animate({
+          scrollTop: targetOffset - navHeight - 30,
+        }, 300);
+      });
     }
   });
 }
@@ -158,7 +168,7 @@ function handleChapterAnimation() {
     const paddingSwitchDelay = isForwardAnimation ?
       currentChapterAnimationDuration : singleChapterAnimationDuration;
     const currentChapterItemsAnimationDelay = isForwardAnimation ?
-      currentChapterAnimationDuration + moveCurrentChapterAnimationDuration : 0;
+      (currentChapterAnimationDuration + moveCurrentChapterAnimationDuration) - 150 : 0;
 
     $navContainer.addClass('animating');
     setTimeout(() => {
@@ -173,9 +183,11 @@ function handleChapterAnimation() {
 }
 
 function handleMobileNavigation() {
+  const $nav = $('.subnav');
   const $mobileSidebar = $('.chapter-sidebar');
-  const $toggleHandlers = $('.subnav__mobile__sidebar-toggle, .chapter-sidebar__close');
+  const $toggleHandlers = $('.subnav__mobile__sidebar-toggle, .chapter-sidebar__close, .chapter-sidebar ul li a');
   $toggleHandlers.click(function () {
+    $nav.toggleClass('active');
     $mobileSidebar.toggleClass('active');
     $('body').toggleClass('sidebar-active');
   });
