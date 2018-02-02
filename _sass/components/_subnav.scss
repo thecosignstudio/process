@@ -5,7 +5,7 @@
   overflow-y: auto;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12);
   z-index: 1000;
-  transition: transform 0.3s ease-in-out;
+  transition: transform 0.2s ease-in-out;
   transform: translateY(-100%);
 
   &.active {
@@ -29,7 +29,7 @@
     position: absolute;
     top: -40px;
     left: 0;
-    transition: transform 0.3s cubic-bezier(0.25, 1, 0.25, 1) 0.15s;
+    transition: transform 0.2s cubic-bezier(0.25, 1, 0.25, 1) 0.2s;
     transform: translateX(calc(-100% - #{$side-nav-left-padding}));
   }
 
@@ -49,7 +49,7 @@
 
   &__chapters-container {
     width: 100%;
-    transition: top 0.6s cubic-bezier(0.25, 1, 0.25, 1);
+    transition: top 0.4s cubic-bezier(0.25, 1, 0.25, 1);
     top: $side-nav-top-padding;
     display: none;
 
@@ -65,7 +65,7 @@
   }
 
   .chapter-toggle {
-    transition: opacity 0.3s cubic-bezier(0.25, 1, 0.25, 1), visibility 0s linear 0.3s;
+    transition: opacity 0.2s cubic-bezier(0.25, 1, 0.25, 1), visibility 0s linear 0.2s;
     opacity: 0;
     visibility: hidden;
   }
@@ -98,7 +98,7 @@
       }
 
       &.toc-h2 {
-        transition: transform 0.3s cubic-bezier(0.25, 1, 0.25, 1) 0.3s, max-height 0s linear 0.6s;
+        transition: transform 0.2s cubic-bezier(0.25, 1, 0.25, 1) 0.4s, max-height 0s linear 0.6s;
         transform: translateX(calc(-100% - #{$side-nav-left-padding}));
         max-height: 0;
       }
@@ -120,19 +120,19 @@
 
   &__chapters-container--active {
     .chapter-toggle {
-      transition: opacity 0.3s cubic-bezier(0.25, 1, 0.25, 1) 0.9s, visibility 0s linear;
+      transition: opacity 0.2s cubic-bezier(0.25, 1, 0.25, 1) 0.6s, visibility 0s linear;
       opacity: 1;
       visibility: visible;
     }
 
     .subnav__chapters-listing li.toc-h2 {
-      transition: transform 0.3s cubic-bezier(0.25, 1, 0.25, 1) 0.6s, max-height 0s linear;
+      transition: transform 0.2s cubic-bezier(0.25, 1, 0.25, 1) 0.4s, max-height 0s linear;
       transform: translateX(0);
       max-height: 300px;
     }
 
     .subnav__arrows-container {
-      transition: transform 0.3s cubic-bezier(0.25, 1, 0.25, 1) 0.75s;
+      transition: transform 0.2s cubic-bezier(0.25, 1, 0.25, 1) 0.5s;
       transform: translateX(0);
     }
   }
