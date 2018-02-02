@@ -53,7 +53,7 @@ Every iteration you make on your design should be tested. The major stages in th
 
 ### After implementation
 **Participants**: PD, QA, users
-**Goal**: Analyse users’ behavior to make sure they use product the way it was designed and ife the client’s goals are met.
+**Goal**: Analyse users’ behavior to make sure they use product the way it was designed and if the client’s goals are met.
 **Tools**: Heatmaps, A/B tests, user testing with Netguru people or outside testers, Analytics
 
 ## Tools and techniques for testing
@@ -63,7 +63,7 @@ Every iteration you make on your design should be tested. The major stages in th
 - **When?**<br>
 After wireframing and after design.
 - **Why?**<br>
-This is the very first step, and the easiest one you can take to validate your design at any stage by design teamembers.
+This is the very first step, and the easiest one you can take to validate your design at any stage by design team members.
 - **How?**<br>
 Just post your design as an InVision link, preferably with a question – what you need to have validated/tested or what would you like to get people’s opinion about.<br>
 Deliverables: Others should leave comments on InVision.
