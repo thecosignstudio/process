@@ -143,12 +143,12 @@
     align-items: center;
     padding: 18px 1rem;
 
-    &__sidebar-toggle {
+    &-sidebar-toggle {
       display: flex;
       flex-direction: column;
     }
 
-    &__menu-bar {
+    &-menu-bar {
       width: 16px;
       height: 2px;
       background: black;
@@ -158,7 +158,7 @@
       }
     }
 
-    &__info {
+    &-info {
       display: flex;
       align-items: center;
       padding: 0 15px;
@@ -168,7 +168,7 @@
       font-size: $fs-1;
     }
 
-    &__chapter-title ul {
+    &-chapter-title ul {
       padding: 0;
       margin: 0;
       list-style: none;
@@ -180,11 +180,11 @@
       }
     }
 
-    &__arrows {
+    &-arrows {
       display: flex;
     }
 
-    &__arrow {
+    &-arrow {
       & + & {
         margin-left: 15px;
       }

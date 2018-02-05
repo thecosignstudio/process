@@ -49,23 +49,23 @@
     <div id="toc-chapters" class="chapter-nav__listing"></div>
   
     <div class="subnav__mobile">
-      <div class="subnav__mobile__sidebar-toggle">
-        <div class="subnav__mobile__menu-bar"></div>
-        <div class="subnav__mobile__menu-bar"></div>
-        <div class="subnav__mobile__menu-bar"></div>
+      <div class="subnav__mobile-sidebar-toggle">
+        <div class="subnav__mobile-menu-bar"></div>
+        <div class="subnav__mobile-menu-bar"></div>
+        <div class="subnav__mobile-menu-bar"></div>
       </div>
-      <div class="subnav__mobile__info">
+      <div class="subnav__mobile-info">
         <div class="chapter-number">{{ page.chapter_number }}</div>
-        <div id="toc-chapter-title" class="subnav__mobile__chapter-title"></div>
+        <div id="toc-chapter-title" class="subnav__mobile-chapter-title"></div>
       </div>
-      <div class="subnav__mobile__arrows">
+      <div class="subnav__mobile-arrows">
         {% if prevurl %}
-          <a href="{{prevurl}}" class="subnav__mobile__arrow">
+          <a href="{{prevurl}}" class="subnav__mobile-arrow">
             {% include svgs/arrow-left.svg %}
           </a>
         {% endif %}
         {% if nexturl %}
-          <a href="{{nexturl}}" class="subnav__mobile__arrow">
+          <a href="{{nexturl}}" class="subnav__mobile-arrow">
             {% include svgs/arrow-right.svg %}
           </a>
         {% endif %}
