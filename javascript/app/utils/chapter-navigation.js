@@ -185,12 +185,28 @@ function handleChapterAnimation() {
 function handleMobileNavigation() {
   const $nav = $('.subnav');
   const $mobileSidebar = $('.chapter-sidebar');
-  const $toggleHandlers = $('.subnav__mobile__sidebar-toggle, .chapter-sidebar__close, .chapter-sidebar ul li a');
-  $toggleHandlers.click(function () {
+
+  function toggleMobileNavigation(scrollAfterClosing) {
+    const windowScrollTop = $(window).scrollTop();
+    const windowDataScroll = $('body').data('scroll');
     $nav.toggleClass('subnav--active');
     $mobileSidebar.toggleClass('chapter-sidebar--active');
-    $('body').toggleClass('sidebar-active');
+    if ($nav.hasClass('subnav--active')) {
+      $('body').css('position', 'static');
+      if (scrollAfterClosing) {
+        window.scrollTo(windowDataScroll, windowDataScroll);
+      }
+    } else {
+      $('body').data('scroll', windowScrollTop);
+      $('body').css('position', 'fixed');
+    }
+  }
+
+  $('.subnav__mobile-sidebar-toggle, .chapter-sidebar__close').click(function () {
+    toggleMobileNavigation(true);
   });
+
+  $('.chapter-sidebar ul li a').click(toggleMobileNavigation);
 }
 
 export default function () {
