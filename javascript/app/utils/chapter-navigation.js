@@ -142,12 +142,12 @@ function handleChapterAnimation() {
         $(chapter).find('.chapter-number').text() !== chapterNumber
       ));
       if (!isForwardAnimation) {
-        $(chaptersWithoutCurrent).removeClass('visible');
+        $(chaptersWithoutCurrent).removeClass('chapter-nav__listing-element--visible');
         $navContainer.removeClass('animating');
       } else {
         chaptersWithoutCurrent.map((chapter, index, array) => (
           setTimeout(() => {
-            $(chapter).addClass('visible');
+            $(chapter).addClass('chapter-nav__listing-element--visible');
             if (index === array.length - 1) {
               $navContainer.removeClass('animating');
             }
@@ -187,8 +187,8 @@ function handleMobileNavigation() {
   const $mobileSidebar = $('.chapter-sidebar');
   const $toggleHandlers = $('.subnav__mobile__sidebar-toggle, .chapter-sidebar__close, .chapter-sidebar ul li a');
   $toggleHandlers.click(function () {
-    $nav.toggleClass('active');
-    $mobileSidebar.toggleClass('active');
+    $nav.toggleClass('subnav--active');
+    $mobileSidebar.toggleClass('chapter-sidebar--active');
     $('body').toggleClass('sidebar-active');
   });
 }

@@ -16,7 +16,7 @@
       opacity: 0;
       transform: translateY(30px);
 
-      &.visible {
+      &.chapter-nav__listing-element--visible {
         opacity: 1;
         transform: translateY(0);
       }
@@ -75,7 +75,7 @@ body.sidebar-active {
     display: none;
   }
 
-  &.active {
+  &--active {
     left: 0;
   }
 
