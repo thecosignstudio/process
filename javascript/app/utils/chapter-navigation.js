@@ -185,11 +185,20 @@ function handleChapterAnimation() {
 function handleMobileNavigation() {
   const $nav = $('.subnav');
   const $mobileSidebar = $('.chapter-sidebar');
-  const $toggleHandlers = $('.subnav__mobile__sidebar-toggle, .chapter-sidebar__close, .chapter-sidebar ul li a');
+  const $toggleHandlers = $('.subnav__mobile-sidebar-toggle, .chapter-sidebar__close, .chapter-sidebar ul li a');
   $toggleHandlers.click(function () {
+    const windowScrollTop = $(window).scrollTop();
+    const windowDataScroll = $('body').data('scroll');
     $nav.toggleClass('subnav--active');
     $mobileSidebar.toggleClass('chapter-sidebar--active');
     $('body').toggleClass('sidebar-active');
+    if (!$('body').hasClass('sidebar-active')) {
+      $('body').css('position', 'static');
+      window.scrollTo(windowDataScroll, windowDataScroll);
+    } else {
+      $('body').data('scroll', windowScrollTop);
+      $('body').css('position', 'fixed');
+    }
   });
 }
 
