@@ -2,10 +2,10 @@ import updateText from './update-text';
 import updateHref from './update-href';
 
 function addToc() {
-  const $chapters = $('#toc-chapters');
-  const $currentChapter = $('#toc');
-  const $currentChapterTitle = $('#toc-chapter-title');
-  const $allChapters = $('#toc-all-chapters');
+  const $chapters = $('.js-toc-chapters');
+  const $currentChapter = $('.js-toc');
+  const $currentChapterTitle = $('.js-toc-chapter-title');
+  const $allChapters = $('.js-toc-all-chapters');
 
   $chapters.toc({
     container: '.nav',
@@ -202,7 +202,7 @@ function handleMobileNavigation() {
     }
   }
 
-  $('.subnav__mobile-sidebar-toggle, .chapter-sidebar__close').click(function () {
+  $('.js-subnav-mobile-sidebar-toggle, .js-chapter-sidebar-close').click(function () {
     toggleMobileNavigation(true);
   });
 

@@ -3,7 +3,7 @@
   width: 100%;
   background: white;
   overflow-y: auto;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
   z-index: 1000;
   transition: transform 0.25s ease-in-out;
   transform: translateY(-100%);
@@ -13,9 +13,8 @@
   }
   
   @media #{$md-up} {
+    @include sizing(auto 100%);
     z-index: 1;
-    width: auto;
-    height: 100%;
     box-shadow: none;
     padding-top: $side-nav-top-padding;
     padding-left: $side-nav-left-padding;
@@ -26,10 +25,8 @@
   }
 
   &__arrows-container {
-    position: absolute;
-    top: -40px;
-    left: 0;
-    transition: transform 0.25s cubic-bezier(0.25, 1, 0.25, 1) 0.25s;
+    @include absolute(top -40px left 0);
+    transition: transform 0.25s ease 0.25s;
     transform: translateX(calc(-100% - #{$side-nav-left-padding}));
   }
 
@@ -49,7 +46,7 @@
 
   &__chapters-container {
     width: 100%;
-    transition: top 0.5s cubic-bezier(0.25, 1, 0.25, 1);
+    transition: top 0.5s ease;
     top: $side-nav-top-padding;
     display: none;
 
@@ -65,7 +62,7 @@
   }
 
   .chapter-toggle {
-    transition: opacity 0.25s cubic-bezier(0.25, 1, 0.25, 1), visibility 0s linear 0.25s;
+    transition: opacity 0.25s ease, visibility 0s linear 0.25s;
     opacity: 0;
     visibility: hidden;
   }
@@ -98,7 +95,7 @@
       }
 
       &.toc-h2 {
-        transition: transform 0.25s cubic-bezier(0.25, 1, 0.25, 1) 0.5s, max-height 0s linear 0.75s;
+        transition: transform 0.25s ease 0.5s, max-height 0s linear 0.75s;
         transform: translateX(calc(-100% - #{$side-nav-left-padding}));
         max-height: 0;
       }
@@ -120,19 +117,19 @@
 
   &__chapters-container--active {
     .chapter-toggle {
-      transition: opacity 0.25s cubic-bezier(0.25, 1, 0.25, 1) 0.75s, visibility 0s linear;
+      transition: opacity 0.25s ease 0.75s, visibility 0s linear;
       opacity: 1;
       visibility: visible;
     }
 
     .subnav__chapters-listing li.toc-h2 {
-      transition: transform 0.25s cubic-bezier(0.25, 1, 0.25, 1) 0.5s, max-height 0s linear;
+      transition: transform 0.25s ease 0.5s, max-height 0s linear;
       transform: translateX(0);
       max-height: 300px;
     }
 
     .subnav__arrows-container {
-      transition: transform 0.25s cubic-bezier(0.25, 1, 0.25, 1) 0.625s;
+      transition: transform 0.25s ease 0.625s;
       transform: translateX(0);
     }
   }
@@ -149,8 +146,7 @@
     }
 
     &-menu-bar {
-      width: 16px;
-      height: 2px;
+      @include sizing(16px 2px);
       background: black;
 
       & + & {

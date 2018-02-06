@@ -12,7 +12,7 @@
     list-style-type: none;
 
     li {
-      transition: opacity 0.25s cubic-bezier(0.25, 1, 0.25, 1), transform 0.25s cubic-bezier(0.25, 1, 0.25, 1); 
+      transition: opacity 0.25s ease, transform 0.25s ease; 
       opacity: 0;
       transform: translateY(30px);
 
@@ -54,16 +54,13 @@
 }
 
 .chapter-sidebar {
-  position: fixed;
+  @include fixed(top 0 left -100%);
+  @include sizing(90% 100%);
   z-index: 1000;
-  left: -100%;
-  top: 0;
-  height: 100%;
-  width: 90%;
   background: white;
-  box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.12);
   overflow-y: auto;
-  transition: left 0.25s cubic-bezier(0.25, 1, 0.25, 1);
+  transition: left 0.25s ease;
   padding: 70px 32px 50px;
 
   @media #{$md-up} {
@@ -75,20 +72,14 @@
   }
 
   &__close {
-    position: absolute;
-    left: 32px;
-    top: 29px;
-    width: 30px;
-    height: 30px;
+    @include absolute(top 29px left 32px);
+    @include sizing(30px);
   }
 
   &__close-bar {
-    width: 16px;
-    height: 2px;
+    @include absolute(top 14px left 0);
+    @include sizing(16px 2px);
     background: black;
-    position: absolute;
-    top: 14px;
-    left: 0;
 
     &:nth-child(1) {
       transform: rotate(-45deg);
@@ -108,13 +99,11 @@
       position: relative;
 
       &.toc-h2.toc-active::before {
+        @include absolute(left 27px);
+        @include sizing(1px 100%);
         content: '';
         display: block;
-        height: 100%;
-        width: 1px;
         background: $orange-color;
-        position: absolute;
-        left: 27px;
       }
 
       a {
