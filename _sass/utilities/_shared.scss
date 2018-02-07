@@ -14,17 +14,11 @@ html {
 
 .chapter-number {
   position: relative;
-  font-size: $fs-7;
+  display: inline-block;
+  font-size: $fs-4;
   font-weight: $fw-bold;
-  color: $light-grey-color;
-
-  &::after {
-    @include sizing(40px 1px);
-    @include absolute(top 50% left 60px);
-    content: '';
-    display: block;
-    background-color: $light-grey-color;
-  }
+  color: $orange-color;
+  margin: 0 1rem 0 0;
 }
 
 .hidden-mobile--block {

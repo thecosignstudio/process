@@ -1,10 +1,84 @@
-<div class="col-xs-12 col-md-3 subnav js-subnav">
-  <button class="chapter-toggle js-show-chapter-nav">
-    <img src="../assets/svgs/slide-left.svg" class="chapter-toggle__icon" />
-    Show table of contents
-  </button>
-  <div class="subnav__chapters-container hidden-mobile--block">
-    <h2 class="chapter-number">{{ page.chapter_number }}</h2>
-    <ul id="toc" class="subnav__chapters-listing"></ul>
+{% capture the_collection %}{{page.collection}}{% endcapture %}
+  {% if page.collection %}
+    {% assign document = (site[the_collection] | sort: 'path' ) %}
+  {% endif %}
+{% for links in document  %}
+  {% if links.title == page.title %}
+    {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign nexturl = document[forloop.index].url %}
+    {% endunless %}
+  {% endif %}
+  {% assign prev = links %}
+{% endfor %}
+
+<div class="subnav-wrapper">
+  <div class="col-xs-12 col-md-3 subnav js-subnav subnav--active">
+    <div class="subnav__chapters-container subnav__chapters-container--active">
+      <div class="subnav__chapter-header-container">
+        <div class="subnav__arrows-container">
+          {% if prevurl %}
+            <a href="{{prevurl}}" class="subnav__arrow">
+              {% include svgs/arrow-left.svg %}
+            </a>
+          {% else %}
+            <span class="subnav__arrow subnav__arrow--disabled">
+              {% include svgs/arrow-left.svg %}
+            </span>
+          {% endif %}
+          {% if nexturl %}
+            <a href="{{nexturl}}" class="subnav__arrow">
+              {% include svgs/arrow-right.svg %}
+            </a>
+          {% else %}
+            <span class="subnav__arrow subnav__arrow--disabled">
+              {% include svgs/arrow-right.svg %}
+            </span>
+          {% endif %}
+        </div>
+        <h2 class="chapter-number">{{ page.chapter_number }}</h2>
+        <button class="chapter-toggle js-show-chapter-nav">
+          Show all chapters
+        </button>
+      </div>
+      <div class="subnav__chapters-listing js-toc"></div>
+    </div>
+  
+    <div class="chapter-nav__listing js-toc-chapters"></div>
+  
+    <div class="subnav__mobile">
+      <div class="subnav__mobile-sidebar-toggle js-subnav-mobile-sidebar-toggle">
+        <div class="subnav__mobile-menu-bar"></div>
+        <div class="subnav__mobile-menu-bar"></div>
+        <div class="subnav__mobile-menu-bar"></div>
+      </div>
+      <div class="subnav__mobile-info">
+        <div class="chapter-number">{{ page.chapter_number }}</div>
+        <div class="subnav__mobile-chapter-title js-toc-chapter-title"></div>
+      </div>
+      <div class="subnav__mobile-arrows">
+        {% if prevurl %}
+          <a href="{{prevurl}}" class="subnav__mobile-arrow">
+            {% include svgs/arrow-left.svg %}
+          </a>
+        {% endif %}
+        {% if nexturl %}
+          <a href="{{nexturl}}" class="subnav__mobile-arrow">
+            {% include svgs/arrow-right.svg %}
+          </a>
+        {% endif %}
+      </div>
+    </div>
   </div>
+</div>
+
+
+<div class="chapter-sidebar">
+  <div class="chapter-sidebar__close js-chapter-sidebar-close">
+    <div class="chapter-sidebar__close-bar"></div>
+    <div class="chapter-sidebar__close-bar"></div>
+  </div>
+  <div class="js-toc-all-chapters"></div>
 </div>
