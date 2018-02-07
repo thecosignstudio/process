@@ -43,22 +43,22 @@
           Show all chapters
         </button>
       </div>
-      <div id="toc" class="subnav__chapters-listing"></div>
+      <div class="subnav__chapters-listing js-toc"></div>
     </div>
   
-    <div id="toc-chapters" class="chapter-nav__listing"></div>
+    <div class="chapter-nav__listing js-toc-chapters"></div>
   
     <div class="subnav__mobile">
-      <div class="subnav__mobile-sidebar-toggle">
+      <div class="subnav__mobile-sidebar-toggle js-subnav-mobile-sidebar-toggle">
         <div class="subnav__mobile-menu-bar"></div>
         <div class="subnav__mobile-menu-bar"></div>
         <div class="subnav__mobile-menu-bar"></div>
       </div>
       <div class="subnav__mobile-info">
         <div class="chapter-number">{{ page.chapter_number }}</div>
-        <div id="toc-chapter-title" class="subnav__mobile-chapter-title"></div>
+        <div class="subnav__mobile-chapter-title js-toc-chapter-title"></div>
       </div>
-      <div class="subnav__mobile__arrows">
+      <div class="subnav__mobile-arrows">
         {% if prevurl %}
           <a href="{{prevurl}}" class="subnav__mobile-arrow">
             {% include svgs/arrow-left.svg %}
@@ -76,9 +76,9 @@
 
 
 <div class="chapter-sidebar">
-  <div class="chapter-sidebar__close">
+  <div class="chapter-sidebar__close js-chapter-sidebar-close">
     <div class="chapter-sidebar__close-bar"></div>
     <div class="chapter-sidebar__close-bar"></div>
   </div>
-  <div id="toc-all-chapters"></div>
+  <div class="js-toc-all-chapters"></div>
 </div>

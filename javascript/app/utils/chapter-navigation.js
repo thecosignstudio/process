@@ -2,10 +2,10 @@ import updateText from './update-text';
 import updateHref from './update-href';
 
 function addToc() {
-  const $chapters = $('#toc-chapters');
-  const $currentChapter = $('#toc');
-  const $currentChapterTitle = $('#toc-chapter-title');
-  const $allChapters = $('#toc-all-chapters');
+  const $chapters = $('.js-toc-chapters');
+  const $currentChapter = $('.js-toc');
+  const $currentChapterTitle = $('.js-toc-chapter-title');
+  const $allChapters = $('.js-toc-all-chapters');
 
   $chapters.toc({
     container: '.nav',
@@ -185,21 +185,27 @@ function handleChapterAnimation() {
 function handleMobileNavigation() {
   const $nav = $('.subnav');
   const $mobileSidebar = $('.chapter-sidebar');
-  const $toggleHandlers = $('.subnav__mobile-sidebar-toggle, .chapter-sidebar__close, .chapter-sidebar ul li a');
-  $toggleHandlers.click(function () {
+  function toggleMobileNavigation(scrollAfterClosing) {
     const windowScrollTop = $(window).scrollTop();
     const windowDataScroll = $('body').data('scroll');
     $nav.toggleClass('subnav--active');
     $mobileSidebar.toggleClass('chapter-sidebar--active');
-    $('body').toggleClass('sidebar-active');
-    if (!$('body').hasClass('sidebar-active')) {
+    if ($nav.hasClass('subnav--active')) {
       $('body').css('position', 'static');
-      window.scrollTo(windowDataScroll, windowDataScroll);
+      if (scrollAfterClosing) {
+        window.scrollTo(windowDataScroll, windowDataScroll);
+      }
     } else {
       $('body').data('scroll', windowScrollTop);
       $('body').css('position', 'fixed');
     }
+  }
+
+  $('.js-subnav-mobile-sidebar-toggle, .js-chapter-sidebar-close').click(function () {
+    toggleMobileNavigation(true);
   });
+
+  $('.chapter-sidebar ul li a').click(toggleMobileNavigation);
 }
 
 export default function () {
