@@ -185,7 +185,6 @@ function handleChapterAnimation() {
 function handleMobileNavigation() {
   const $nav = $('.subnav');
   const $mobileSidebar = $('.chapter-sidebar');
-
   function toggleMobileNavigation(scrollAfterClosing) {
     const windowScrollTop = $(window).scrollTop();
     const windowDataScroll = $('body').data('scroll');
