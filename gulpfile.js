@@ -27,10 +27,12 @@ gulp.task('vendor', () => {
 gulp.task('build', () => {
   gulp.src('./javascript/app/**/*.js')
     .pipe(rollup({
-      entry: 'javascript/app/application.js',
-      dest: 'build/js/application.min.js',
-      format: 'iife',
-      sourceMap: 'inline',
+      input: 'javascript/app/application.js',
+      output: {
+        sourcemap: 'inline',
+        format: 'iife',
+        file: 'build/js/application.min.js',
+      },
       plugins: [
         eslint({
           exclude: ['javascript/vendor'],
