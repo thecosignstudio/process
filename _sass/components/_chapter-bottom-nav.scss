@@ -1,5 +1,9 @@
 $root: 'chapter-navigation';
 
+.bottom-nav-container {
+  border-top: 1px solid $very-light-grey-color;
+}
+
 .#{$root} {
   display: flex;
 
@@ -9,7 +13,6 @@ $root: 'chapter-navigation';
     padding-bottom: 6.38rem;
     padding-left: 2rem;
     padding-right: 3rem;
-    border-top: 1px solid $very-light-grey-color;
 
     @media #{$md-up} {
       padding-top: 1rem;
