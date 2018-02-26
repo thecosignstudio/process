@@ -28,13 +28,20 @@
         line-height: $base-sizing;
         color: $light-grey-color;
         margin-bottom: 2.778rem;
+        transition: color 0.25s ease;
 
         &:hover {
           text-decoration: none;
+          color: $black-color;
+
+          .chapter-number {
+            color: $orange-color;
+          }
         }
 
         .chapter-number {
           color: $light-grey-color;
+          transition: color 0.25s ease;
         }
       }
       

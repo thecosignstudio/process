@@ -84,6 +84,12 @@
         font-weight: $fw-semibold;
         line-height: 4em;
         color: $light-grey-color;
+        transition: color 0.25s ease;
+
+        &:hover, &:focus {
+          text-decoration: none;
+          color: $black-color;
+        }
       }
 
       &.toc-h1 a {
