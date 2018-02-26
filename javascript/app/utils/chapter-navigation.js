@@ -36,7 +36,7 @@ function addToc() {
     e.preventDefault();
     const targetOffset = $($(this).attr('href')).offset().top;
     $('html, body').animate({
-      scrollTop: targetOffset,
+      scrollTop: targetOffset - 32,
     }, 300);
   });
 
