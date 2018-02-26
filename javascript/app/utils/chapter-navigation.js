@@ -29,6 +29,22 @@ function addToc() {
     container: '.chapter',
     selectors: 'h1, h2',
     highlightOnScroll: true,
+    smoothScrolling: false,
+  });
+
+  $currentChapter.find('.toc-h2 a').click(function (e) {
+    e.preventDefault();
+    const targetOffset = $($(this).attr('href')).offset().top;
+    $('html, body').animate({
+      scrollTop: targetOffset,
+    }, 300);
+  });
+
+  $currentChapter.find('.toc-h1 a').click(function (e) {
+    e.preventDefault();
+    $('html, body').animate({
+      scrollTop: 0,
+    }, 300);
   });
 
   $currentChapterTitle.toc({
