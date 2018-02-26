@@ -85,7 +85,14 @@ function addToc() {
         .find('.toc-h1 a')
         .prepend(`<span class="chapter-number">${chapterNumber}</span>`);
 
-      $(this).find('a').click(function (e) {
+      $(this).find('.toc-h1 a').click(function (e) {
+        e.preventDefault();
+        $('html, body').animate({
+          scrollTop: 0,
+        }, 300);
+      });
+
+      $(this).find('.toc-h2 a').click(function (e) {
         e.preventDefault();
         const navHeight = $('.subnav').height();
         const targetOffset = $($(this).attr('href')).offset().top;
