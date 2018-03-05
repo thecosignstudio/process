@@ -23,6 +23,19 @@
     }
   }
 
+  &__back-button {
+    font-size: $fs-1;
+    position: absolute;
+    top: 0.84 * $base-sizing;
+    color: $orange-color;
+    font-weight: $fw-bold;
+
+    &:hover {
+      color: $orange-color;
+      text-decoration: none;
+    }
+  }
+
   &__arrows-container {
     @include absolute(top -40px left 0);
     transition: transform 0.25s ease 0.25s;
