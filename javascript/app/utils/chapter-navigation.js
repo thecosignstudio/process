@@ -29,6 +29,22 @@ function addToc() {
     container: '.chapter',
     selectors: 'h1, h2',
     highlightOnScroll: true,
+    smoothScrolling: false,
+  });
+
+  $currentChapter.find('.toc-h2 a').click(function (e) {
+    e.preventDefault();
+    const targetOffset = $($(this).attr('href')).offset().top;
+    $('html, body').animate({
+      scrollTop: targetOffset - 32,
+    }, 300);
+  });
+
+  $currentChapter.find('.toc-h1 a').click(function (e) {
+    e.preventDefault();
+    $('html, body').animate({
+      scrollTop: 0,
+    }, 300);
   });
 
   $currentChapterTitle.toc({
@@ -69,7 +85,14 @@ function addToc() {
         .find('.toc-h1 a')
         .prepend(`<span class="chapter-number">${chapterNumber}</span>`);
 
-      $(this).find('a').click(function (e) {
+      $(this).find('.toc-h1 a').click(function (e) {
+        e.preventDefault();
+        $('html, body').animate({
+          scrollTop: 0,
+        }, 300);
+      });
+
+      $(this).find('.toc-h2 a').click(function (e) {
         e.preventDefault();
         const navHeight = $('.subnav').height();
         const targetOffset = $($(this).attr('href')).offset().top;

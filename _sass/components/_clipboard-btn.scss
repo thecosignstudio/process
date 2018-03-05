@@ -5,10 +5,26 @@
   font-weight: $fw-regular;
   background-color: transparent;
   border: 0;
-  opacity: 0.3;
   transform: translateY(-50%);
+  outline: none;
 
   &__icon {
     @include sizing(13px);
+    opacity: 0.3;
+  }
+
+  &__text {
+    display: inline;
+    font-weight: $fw-bold;
+    padding: 5px;
+    border-radius: 5px;
+    background: $orange-color;
+    color: white;
+    opacity: 0;
+    transition: opacity 0.25s ease;
+
+    &--visible {
+      opacity: 1;
+    }
   }
 }
