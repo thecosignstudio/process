@@ -1,37 +1,13 @@
 .chapter-toggle {
-  display: block;
-  width: 100%;
-  margin-bottom: 0.88rem;
-  font-size: $fs-1;
+  display: inline-block;
+  font-size: $fs-0;
   font-weight: $fw-bold;
-  text-align: center;
   background-color: transparent;
   border: 0;
-
-  @media #{$md-up} {
-    margin-bottom: $side-nav-top-padding * 2;
-  }
+  padding: 0;
+  color: $light-grey-color;
 
   &:focus {
     outline: 0;
-  }
-
-  &__icon {
-    margin-right: 24px;
-    transform: rotate(90deg);
-
-    @media #{$md-up} {
-      transform: rotate(0);
-    }
-
-    &--flipped {
-      margin-right: 0;
-      margin-left: 24px;
-      transform: rotate(-90deg);
-
-      @media #{$md-up} {
-        transform: rotate(-180deg);
-      }
-    }
   }
 }

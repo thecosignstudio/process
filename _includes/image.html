@@ -1,1 +1,9 @@
-<img class="content-img" src="../assets/content_imgs/{{ include.img }}">
+{% if include.img2x %}
+<img
+  class="content-img"
+  srcset="../assets/content_imgs/{{ include.img }} 1x, ../assets/content_imgs/{{ include.img2x }} 2x"
+  src="../assets/content_imgs/{{ include.img }}"
+  alt="{{ include.alt }}" />
+{% else %}
+<img class="content-img" src="../assets/content_imgs/{{ include.img }}" alt="{{ include.alt }}" />
+{% endif %}

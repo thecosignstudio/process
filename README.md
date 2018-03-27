@@ -71,9 +71,9 @@ title, eg:
 
 ## Using images
 If you need to use an image, place it in folder `assets/content_imgs`. You can
-then use it using the `{% include img.html %}` tag, e.g.:
+then use it using the `{% include image.html %}` tag, e.g.:
 ```
-{% include img.html img="sample.jpg" alt="Sample image" %}
+{% include image.html img="sample.jpg" alt="Sample image" %}
 ```
 This will include image `sample.jpg` placed in `assets/content_imgs`
 **Important**: do not use the markdown version of image tag - this will mess up
@@ -98,7 +98,7 @@ This will produce a following outcome:
 ## Using DOs and DON'Ts
 You can insert DOs and DONT's sections by using following syntax:
 ```
-{% include dosndonts.html dos="
+{% include dosndonts.html introduction="There are a couple of things we need to cover:" dos="
 Create your wireframes based on a muted color pallete
 |Use color only if it helps defining the idea behind the design
 " donts="

@@ -1,5 +1,8 @@
 {% assign dos_array = include.dos | split: "|" %}
 {% assign donts_array = include.donts | split: "|" %}
+<div class="c-dosndonts__introduction">
+  {{ include.introduction }}
+</div>
 <div class="c-dosndonts">
   <div class="c-dosndonts__container">
     <div class="c-dosndonts__heading">
@@ -7,7 +10,7 @@
     </div>
     <ul>
       {% for do in dos_array %}
-        <li>{{ do }}</li>
+        <li>{{ do | markdownify }}</li>
       {% endfor %}
     </ul>
   </div>

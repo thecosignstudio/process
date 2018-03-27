@@ -1,17 +1,86 @@
 .subnav {
-  padding-top: $side-nav-top-padding;
-  padding-right: 0;
+  position: fixed;
+  background: white;
+  overflow-y: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
+  z-index: 1000;
+  transition: transform 0.25s ease-in-out;
+  transform: translateY(-100%);
 
+  &--active {
+    transform: translateY(0);
+  }
+  
   @media #{$md-up} {
-    position: fixed;
+    height: 100%;
+    z-index: 1;
+    box-shadow: none;
+    padding-top: $side-nav-top-padding;
+    padding-left: $side-nav-left-padding;
+
+    &--small-padding {
+      padding-top: $side-nav-top-small-padding;
+    }
+  }
+
+  &__back-button {
+    font-size: $fs-1;
+    position: absolute;
+    top: 0.84 * $base-sizing;
+    color: $orange-color;
+    font-weight: $fw-bold;
+
+    &:hover {
+      color: $orange-color;
+      text-decoration: none;
+    }
+  }
+
+  &__arrows-container {
+    @include absolute(top -40px left 0);
+    transition: transform 0.25s ease 0.25s;
+    transform: translateX(calc(-100% - #{$side-nav-left-padding}));
+  }
+
+  &__arrow {
+    svg {
+      fill: $light-grey-color;
+    }
+    
+    &--disabled {
+      opacity: 0.5;
+    }
+
+    & + & {
+      margin-left: 0.7rem;
+    }
   }
 
   &__chapters-container {
-    padding-left: 3.34rem;
+    width: 100%;
+    transition: top 0.5s ease;
+    top: $side-nav-top-padding;
+    display: none;
+
+    @media #{$md-up} {
+      display: block;
+    }
+  }
+
+  &__chapter-header-container {
+    display: flex;
+    margin-bottom: $base-sizing / 3;
+    position: relative;
+  }
+
+  .chapter-toggle {
+    transition: opacity 0.25s ease, visibility 0s linear 0.25s;
+    opacity: 0;
+    visibility: hidden;
   }
 
   &__chapters-listing {
-    margin-left: 0;
+    margin: 0;
     padding-left: 0;
 
     ul {
@@ -20,16 +89,42 @@
       list-style-type: none;
     }
 
-    li a {
-      position: relative;
-      display: block;
-      font-size: $fs-1;
-      font-weight: $fw-semibold;
-      line-height: 4em;
-      color: $light-grey-color;
+    li {
+      a {
+        position: relative;
+        display: block;
+        font-size: $fs-0;
+        font-weight: $fw-semibold;
+        line-height: 4em;
+        color: $light-grey-color;
+        transition: color 0.25s ease;
+
+        &:hover, &:focus {
+          text-decoration: none;
+          color: $black-color;
+        }
+      }
+
+      &.toc-h1 a {
+        font-size: $fs-2;
+        line-height: $base-sizing;
+        margin-bottom: $base-sizing * 1.3;
+        color: inherit;
+      }
+
+      &.toc-h2 {
+        transition: transform 0.25s ease 0.5s, max-height 0s linear 0.75s;
+        transform: translateX(calc(-100% - #{$side-nav-left-padding}));
+        max-height: 0;
+
+        a {
+          line-height: 2;
+          padding: 1em 0;
+        }
+      }
     }
 
-    .toc-active a {
+    .toc-active.toc-h2 a {
       color: $black-color;
 
       &::after {
@@ -40,6 +135,86 @@
         background-color: $orange-color;
         transform: translateY(-50%);
       }
+    }
+  }
+
+  &__chapters-container--active {
+    .chapter-toggle {
+      transition: opacity 0.25s ease 0.75s, visibility 0s linear;
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .subnav__chapters-listing li.toc-h2 {
+      transition: transform 0.25s ease 0.5s, max-height 0s linear;
+      transform: translateX(0);
+      max-height: 300px;
+    }
+
+    .subnav__arrows-container {
+      transition: transform 0.25s ease 0.625s;
+      transform: translateX(0);
+    }
+  }
+
+  &__mobile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 1rem;
+
+    &-sidebar-toggle {
+      display: flex;
+      flex-direction: column;
+    }
+
+    &-menu-bar {
+      @include sizing(16px 2px);
+      background: black;
+
+      & + & {
+        margin-top: 4px;
+      }
+    }
+
+    &-info {
+      display: flex;
+      align-items: center;
+      padding: 0 15px;
+    }
+
+    .chapter-number {
+      font-size: $fs-1;
+    }
+
+    &-chapter-title ul {
+      padding: 0;
+      margin: 0;
+      list-style: none;
+      font-size: $fs-1;
+
+      a {
+        font-weight: $fw-semibold;
+        color: black;
+      }
+    }
+
+    &-arrows {
+      display: flex;
+    }
+
+    &-arrow {
+      & + & {
+        margin-left: 15px;
+      }
+
+      svg {
+        fill: $light-grey-color;
+      }
+    }
+
+    @media #{$md-up} {
+      display: none;
     }
   }
 }

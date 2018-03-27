@@ -8,8 +8,6 @@ layout: default
 
 <div class="container-fluid">
   <div class="row">
-
-    {% include chapter-nav.html %}
     {% include subnav.html %}
 
     <article class="col-xs-12 col-md-8 col-md-offset-3 chapter-container">
@@ -29,8 +27,10 @@ layout: default
         </div>
       </div> <!-- /.chapter -->
     </article>
-
-
   </div>
-  {% include chapter-bottom-nav.html %}
+  <div class="row bottom-nav-container">
+    <div class="col-xs-12 col-md-8 col-md-offset-3">
+      {% include chapter-bottom-nav.html %}
+    </div>
+  </div>
 </div>

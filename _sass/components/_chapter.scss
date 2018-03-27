@@ -57,7 +57,7 @@
 
     h2 {
       margin: 0;
-      margin-top: 2 * $base-sizing;
+      margin-top: $base-sizing * 2;
       margin-bottom: 1.46 * $base-sizing;
       font-size: $fs-6;
       font-weight: $fw-bold;
@@ -88,6 +88,12 @@
 
     em {
       font-style: italic;
+    }
+
+    ol {
+      li::before {
+        content: none;
+      }
     }
 
     ul {
@@ -131,6 +137,13 @@
         border-radius: 8px;
       }
 
+      p:first-of-type::first-letter {
+        float: left;
+        padding: 0;
+        font-size: $fs-rel-1;
+        font-weight: $fw-regular;
+        line-height: $base-sizing;
+      }
     }
   }
 
