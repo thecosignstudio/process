@@ -14,7 +14,7 @@ module Jekyll
         File.join(@context.registers[:site].dest, filename)
       )
 
-      "#{filename}?#{sha256.hexdigest[0, 6]}"
+      "#{filename}?cb=#{sha256.hexdigest[0, 6]}"
     rescue
       # Return filename unmodified if file was not found
       filename
