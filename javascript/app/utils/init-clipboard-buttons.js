@@ -8,7 +8,7 @@ const addClipboardButtons = () => {
     const className = 'clipboard-btn hide';
     const buttonElement = `<button class="${className}" data-clipboard-text="${href}">
       <img src="../assets/svgs/link.svg" class="clipboard-btn__icon">
-      <div class="clipboard-btn__text">Copied!</div>
+      <div class="clipboard-btn__text"></div>
     </button>`;
     $(this).append(buttonElement);
   });
@@ -20,6 +20,7 @@ export default function () {
   new Clipboard('.clipboard-btn');
 
   $(headerSelector).hover(function () {
+    $(this).find('.clipboard-btn__text').text('Copied!');
     $(this).find('.clipboard-btn').removeClass('hide');
   }, function () {
     $(this).find('.clipboard-btn').addClass('hide');

@@ -16,7 +16,7 @@
     "eslint-plugin-import": "^2.6.0",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
-    "gulp-rollup": "^2.13.0",
+    "gulp-rollup": "^2.16.2",
     "gulp-uglify": "^3.0.0",
     "jquery": "^3.2.1",
     "rollup": "^0.43.0",
