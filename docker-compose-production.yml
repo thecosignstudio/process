@@ -1,0 +1,19 @@
+version: '3.2'
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    hostname: "netguru.design-process.production.web"
+    labels:
+      - "netguru.appname=design-process"
+      - "netguru.stage=production"
+    command: nginx -c /app/nginx.conf
+    restart: always
+    networks:
+      - frontend
+
+networks:
+  frontend:
+    external:
+      name: frontend

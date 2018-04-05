@@ -13,3 +13,5 @@ RUN npm install
 
 RUN npm run build
 RUN bundle exec jekyll build
+
+ENV VIRTUAL_HOST design-process.netguru.co
