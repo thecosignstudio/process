@@ -14,18 +14,39 @@ jobs:
           paths:
             - .
 
-  install_and_build_npm:
+  install_nm:
     <<: *defaults
     steps:
       - attach_workspace:
           at: ~/app
       - run: npm install
       - run: npm install
+      - persist_to_workspace:
+          root: ~/app
+          paths:
+            - node_modules
+
+  build_npm:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: ~/app
       - run: npm run build
       - persist_to_workspace:
           root: ~/app
           paths:
             - .
+
+  install_gems:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: ~/app
+      - run: bundle install --deployment --path vendor/bundle
+      - persist_to_workspace:
+          root: ~/app
+          paths:
+            - vendor/bundle
 
   build_jekyll:
     <<: *defaults
@@ -57,13 +78,23 @@ workflows:
   build_and_push:
     jobs:
       - clone_repo
-      - install_and_build_npm:
+
+      - install_nm:
           requires:
             - clone_repo
 
+      - install_gems:
+          requires:
+            - clone_repo
+
+      - build_npm:
+          requires:
+            - install_nm
+
       - build_jekyll:
           requires:
-            - install_and_build_npm
+            - build_npm
+            - install_gems
 
       - deploy_staging:
           requires:
@@ -72,9 +103,9 @@ workflows:
             branches:
               only: master
 
-      - deploy_production:
-          requires:
-            - build_jekyll
-          filters:
-            branches:
-              only: production
+      # - deploy_production:
+      #     requires:
+      #       - build_jekyll
+      #     filters:
+      #       branches:
+      #         only: production
