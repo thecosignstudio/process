@@ -15,3 +15,5 @@ RUN npm run build
 RUN bundle exec jekyll build
 
 ENV VIRTUAL_HOST design-process.netguru.co
+ENV LETSENCRYPT_HOST design-process.netguru.co
+ENV LETSENCRYPT_EMAIL devops-team@netguru.co
