@@ -1,7 +1,7 @@
 defaults: &defaults
   working_directory: ~/app
   docker:
-    - image: circleci/ruby:2.3-node-browsers
+    - image: circleci/ruby:2.3-node
 
 clone_repo: &clone_repo
   <<: *defaults
