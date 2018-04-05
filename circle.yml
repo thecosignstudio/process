@@ -35,7 +35,7 @@ jobs:
       - persist_to_workspace:
           root: ~/app
           paths:
-            - .
+            - build
 
   install_gems:
     <<: *defaults
@@ -58,13 +58,14 @@ jobs:
       - persist_to_workspace:
           root: ~/app
           paths:
-            - .
+            - _site
 
   deploy_staging:
     <<: *defaults
     steps:
       - attach_workspace:
           at: ~/app
+      - run: bundle config --local path vendor/bundle
       - run: STAGING=true bundle exec s3_website push --site _site/
 
   deploy_production:
