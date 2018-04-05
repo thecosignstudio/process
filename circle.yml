@@ -3,16 +3,22 @@ defaults: &defaults
   docker:
     - image: circleci/ruby:2.3-node-browsers
 
+clone_repo: &clone_repo
+  <<: *defaults
+  steps:
+    - checkout
+    - persist_to_workspace:
+        root: ~/app
+        paths:
+          - .
+
 version: 2
 jobs:
-  clone_repo:
-    <<: *defaults
-    steps:
-      - checkout
-      - persist_to_workspace:
-          root: ~/app
-          paths:
-            - .
+  staging:
+    <<: *clone_repo
+
+  production:
+    <<: *clone_repo
 
   install_nm:
     <<: *defaults
@@ -48,6 +54,18 @@ jobs:
           paths:
             - vendor/bundle
 
+  install_deployment_gems:
+    <<: *defaults
+    working_directory: ~/app/deployment
+    steps:
+      - attach_workspace:
+          at: ~/app
+      - run: bundle install --deployment --path vendor/bundle
+      - persist_to_workspace:
+          root: ~/app
+          paths:
+            - deployment/vendor/bundle
+
   build_jekyll:
     <<: *defaults
     steps:
@@ -70,24 +88,34 @@ jobs:
 
   deploy_production:
     <<: *defaults
+    working_directory: ~/app/deployment
     steps:
       - attach_workspace:
           at: ~/app
-      - run: cd deployment; bundle install; bundle exec cap production deploy
+      - run: bundle config --local path vendor/bundle
+      - run: bundle exec cap production deploy
 
 workflows:
   version: 2
   build_and_push:
     jobs:
-      - clone_repo
+      - staging:
+          filters:
+            branches:
+              only: master
+
+      - production:
+          filters:
+            branches:
+              only: production
 
       - install_nm:
           requires:
-            - clone_repo
+            - staging
 
       - install_gems:
           requires:
-            - clone_repo
+            - staging
 
       - build_npm:
           requires:
@@ -101,13 +129,12 @@ workflows:
       - deploy_staging:
           requires:
             - build_jekyll
-          filters:
-            branches:
-              only: master
 
-      # - deploy_production:
-      #     requires:
-      #       - build_jekyll
-      #     filters:
-      #       branches:
-      #         only: production
+      - install_deployment_gems:
+          requires:
+            - production
+
+      - deploy_production:
+          requires:
+            - install_deployment_gems
+
