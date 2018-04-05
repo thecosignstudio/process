@@ -1,18 +1,79 @@
-machine:
-  ruby:
-    version: 2.3.3
+defaults: &defaults
+  working_directory: ~/app
+  docker:
+    - image: ruby:2.3-node-browsers
 
-deployment:
-  staging:
-    branch: master
-    commands:
-      - npm run build
-      - bundle exec jekyll build
-      - STAGING=true bundle exec s3_website push --site _site/
+version: 2
+jobs:
+  clone_repo:
+    <<: *defaults
+    steps:
+      - checkout
+      - persist_to_workspace:
+          root: ~/app
+          paths:
+            - .
 
-  production:
-    branch: production
-    commands:
-      - npm run build
-      - bundle exec jekyll build
-      - bundle exec s3_website push --site _site/
+  install_and_build_npm:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: ~/app
+      - run: npm install
+      - run: npm run build
+      - persist_to_workspace:
+          root: ~/app
+          paths:
+            - .
+
+  build_jekyll:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: ~/app
+      - run: bundle exec jekyll build
+      - persist_to_workspace:
+          root: ~/app
+          paths:
+            - .
+
+  deploy_staging:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: ~/app
+      - run: STAGING=true bundle exec s3_website push --site _site/
+
+  deploy_production:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: ~/app
+      - run: cd deployment; bundle install; bundle exec cap production deploy
+
+workflows:
+  version: 2
+  build_and_push:
+    jobs:
+      - clone_repo
+      - install_and_build_npm:
+          requires:
+            - clone_repo
+
+      - build_jekyll:
+          requires:
+            - install_and_build_npm
+
+      - deploy_staging:
+          requires:
+            - build_jekyll
+          filters:
+            branches:
+              only: master
+
+      - deploy_production:
+          requires:
+            - build_jekyll
+          filters:
+            branches:
+              only: production
