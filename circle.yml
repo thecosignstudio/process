@@ -53,7 +53,7 @@ jobs:
     steps:
       - attach_workspace:
           at: ~/app
-      - run: bundle config --local path ~/repo/vendor/bundle
+      - run: bundle config --local path vendor/bundle
       - run: bundle exec jekyll build
       - persist_to_workspace:
           root: ~/app
