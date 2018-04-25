@@ -158,19 +158,19 @@ Gathering feedback from the client is the key to a successful project.
 
 When you start a new project, make sure that you have created a Designer folder in the client’s main folder.
 
-{% include image.html img="image7.png" img2x="image7@2x.png" alt="Designer folder" %}
+{% include image.html img="image7.png" img2x="Image7@2x.png" alt="Designer folder" %}
 
 #### 2. The structure of the Designer folder
 
-{% include image.html img="image2.png" img2x="image2@2x.png" alt="Designer folder structure" %}
+{% include image.html img="image2.png" img2x="Image2@2x.png" alt="Designer folder structure" %}
 
 **A. Sources**
 
-{% include image.html img="image3.png" img2x="image3@2x.png" alt="Sources folders" %}
+{% include image.html img="image3.png" img2x="Image3@2x.png" alt="Sources folders" %}
 
 Each folder (Visual and Wireframes) should contain all source files (.psd, .sketch etc.). It depends on the project, but if you have two sources of files, you should create subfolders for .psd, .sketch, or any other extensions.
 
-{% include image.html img="image1.png" img2x="image1@2x.png" alt="Source files subfolders" %}
+{% include image.html img="image1.png" img2x="Image1@2x.png" alt="Source files subfolders" %}
 
 Each source file should be presented as a preview in the .jpg or .png format.
 
@@ -179,13 +179,13 @@ Each source file should be presented as a preview in the .jpg or .png format.
 
 In this folder, you should put all the fonts which you have used in the project, even if they are free. They should be grouped by font name. Like below:
 
-{% include image.html img="image5.png" img2x="image5@2x.png" alt="Fonts folder" %}
+{% include image.html img="image5.png" img2x="Image5@2x.png" alt="Fonts folder" %}
 
 **C. Assets & Exports**
 
 This folder should contain two subfolders:
 
-{% include image.html img="image9.png" img2x="image9@2x.png" alt="Assets and Exports subfolders" %}
+{% include image.html img="image9.png" img2x="Image9@2x.png" alt="Assets and Exports subfolders" %}
 
 *Assets & Exports* is a folder for FrontEnd Developers.
 
@@ -208,7 +208,7 @@ In this folder, you should upload all documents related to a specific project. T
 
 You should also create an Initial interview subfolder, which will collect the most important data collected during the initial interview, the materials sent by the client, or scoping session notes related to the design phase relevant to the project.
 
-{% include image.html img="Image8.png" img2x="Image8@2x.png" alt="Initial interview folder" %}
+{% include image.html img="image8.png" img2x="Image8@2x.png" alt="Initial interview folder" %}
 
 ## Q&A
 ### Questions your client may ask:
