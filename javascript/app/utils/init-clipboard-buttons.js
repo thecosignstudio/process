@@ -3,7 +3,7 @@ const headerSelector = '.chapter :header:not(h5):not(h1)';
 const addClipboardButtons = () => {
   $(headerSelector).filter(':visible').each(function () {
     const [url] = window.location.href.split('#');
-    const text = $(this).text();
+    const text = $(this).text().replace(':', '');
     const href = `${url}#${text.toLowerCase().replace(/ /g, '-')}`;
     const className = 'clipboard-btn hide';
     const buttonElement = `<button class="${className}" data-clipboard-text="${href}">
