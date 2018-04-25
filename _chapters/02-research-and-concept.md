@@ -47,7 +47,7 @@ When doing research together, a team generate ideas faster and verify their idea
 - QA specialist
 - PM
 
-## 1. Research
+## Research
 The most obvious type of research is to query the internet. Don’t hesitate to have a small brainstorming session on paper as well. You can use some powerful exercises such as: 5 whys, or questions from the UX Review or Product Design Sprint.
 
 ### Elements of design research:
@@ -131,7 +131,7 @@ For UX designers, evaluating the competition involves looking at the designs of 
 - What are the key brand differentiators (what are the messaging, product/service offerings, etc. that set the competitor apart from their competition?)?
 - What do we share? What are the competitor’s must-haves/must-avoids?
 
-## 2. Concept
+## Concept
 ### Definition
 Concept is the visual and verbal summary of the research process. At this stage of the design process, you’re making a synthesis of everything that you have found about the project, the competition, goals, etc. The result of this stage a potential visual direction formed into a concept.
 
