@@ -212,7 +212,7 @@ You should also create an Initial interview subfolder, which will collect the mo
 
 ## Q&A
 ### Questions your client may ask:
-{% include qa.html question="Why do you want to know the business model?" answer="This will allow us some amount of lorem ipsum dolor sit amet conscetur blah blah" %}
+{% include qa.html question="Why do you want to know the business model?" answer="This will help us get to focus on important things and prioritise work." %}
 
 {% include qa.html question="Why do you have to know this stuff before we meet?" answer="This will allow us to prepare better and have a more focused meeting." %}
 
