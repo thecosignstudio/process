@@ -37,10 +37,10 @@ The wireframing phase can be divided into 2 subphases:
 
 ### User Flow diagrams
 User Flow diagrams (also known as flowcharts) are a visual representation of a desired user journey path through the designed product. They illustrate the steps, decisions, and funnels users frequently come across. Thoughtfully crafted User Flow Diagrams let you reveal the moments critical for user conversion and then apply adequate solutions to the obstacles you identify.
-Examples: [link](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing), [link](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing)
+Examples: [link](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"}, [link](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}
 
 ### Single-page wireframes
-Single-page wireframes (also known as page schematics or screen blueprints) are a visual guide to a page's structure, composition, and information hierarchy. Their purpose is to arrange the elements of a website’s content in an informed, user-friendly and business-effective manner. As their main focus lies in the functionality not obstructed by flashy visuals, they need to be stripped of all elements of visual language such as colors, infographics, effects, etc. For more information look [here](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218).
+Single-page wireframes (also known as page schematics or screen blueprints) are a visual guide to a page's structure, composition, and information hierarchy. Their purpose is to arrange the elements of a website’s content in an informed, user-friendly and business-effective manner. As their main focus lies in the functionality not obstructed by flashy visuals, they need to be stripped of all elements of visual language such as colors, infographics, effects, etc. For more information look [here](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}.
 
 ## What elements should I include in a wireframe?
 
@@ -160,12 +160,12 @@ To sum up,  we need wireframes to work out the backbone of the product, whereas 
 5. Wireframes tested and accepted by the client – ready to use in the visual design stage
 
 ## Additional reading
-- [Improve Your Online Store UX With These Handy Tips](https://www.netguru.co/blog/ecommerce-ux-tips)
-- [How to get value from wireframes](https://medium.com/@dustin/how-to-get-value-from-wireframes-f40c2cf27960#.2yuoqqwmz)
-- [8 ux and UI tools you must try](https://medium.com/@Mockplus/8-ux-and-ui-wireframe-tools-you-must-try-in-2016-f8fbcccf7f6e#.tyowqzy91)
-- [Wireframes: A Good Communication Tool, a Poor Design Tool](https://medium.com/@danritz/wireframes-a-good-communication-tool-a-poor-design-tool-1bc64b033962#.jp1i8lyxt)
-- [The product design sprint: decide (day 3)](https://library.gv.com/the-product-design-sprint-decide-day-3-7d4804bd2fd1#.fhdrt1bfx)
-- [Choosing the Right Level of Fidelity for Your Wireframes](https://blinkux.com/blog/choosing-the-right-level-of-fidelity-for-your-wireframes/)
-- [InVision User testing ](http://blog.invisionapp.com/invision-usertesting/)
-- [How NOT To Design An Interface For Your Mobile App](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app)
-- [We Give Meaning to Products - Design Flow at Netguru: the Approach](https://www.netguru.co/blog/design-flow-at-netguru-pt.-1 )
+- [Improve Your Online Store UX With These Handy Tips](https://www.netguru.co/blog/ecommerce-ux-tips){:target="_blank"}
+- [How to get value from wireframes](https://medium.com/@dustin/how-to-get-value-from-wireframes-f40c2cf27960#.2yuoqqwmz){:target="_blank"}
+- [8 ux and UI tools you must try](https://medium.com/@Mockplus/8-ux-and-ui-wireframe-tools-you-must-try-in-2016-f8fbcccf7f6e#.tyowqzy91){:target="_blank"}
+- [Wireframes: A Good Communication Tool, a Poor Design Tool](https://medium.com/@danritz/wireframes-a-good-communication-tool-a-poor-design-tool-1bc64b033962#.jp1i8lyxt){:target="_blank"}
+- [The product design sprint: decide (day 3)](https://library.gv.com/the-product-design-sprint-decide-day-3-7d4804bd2fd1#.fhdrt1bfx){:target="_blank"}
+- [Choosing the Right Level of Fidelity for Your Wireframes](https://blinkux.com/blog/choosing-the-right-level-of-fidelity-for-your-wireframes/){:target="_blank"}
+- [InVision User testing ](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"}
+- [How NOT To Design An Interface For Your Mobile App](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
+- [We Give Meaning to Products - Design Flow at Netguru: the Approach](https://www.netguru.co/blog/design-flow-at-netguru-pt.-1){:target="_blank"}

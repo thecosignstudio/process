@@ -25,11 +25,11 @@ Your work begins much earlier than the moment you pick up a pen and paper. Prepa
 ### Before the first meeting with the client:
 Together with the Project Manager, organize a meeting and gather all the project info. Ask the PM, BD and devs – don’t make the client answer the same question twice. Things you need to know:
 - Does the client have a working product?
-    - If yes, consider a [UX Review](https://www.netguru.co/services/ux-review) first.
+    - If yes, consider a [UX Review](https://www.netguru.co/services/ux-review){:target="_blank"} first.
 - Does the project have a clear scope?
     - Y/N (at this stage, the project should already have a scope; otherwise, you need to run a Scoping Session)
 - Is the project idea ready to be turned into a design?
-    - If you think that the project idea needs a review or a [Product Design Sprint](https://www.netguru.co/services/product-design-sprint), check the procedures for other services.
+    - If you think that the project idea needs a review or a [Product Design Sprint](https://www.netguru.co/services/product-design-sprint){:target="_blank"}, check the procedures for other services.
 - What platform will it be designed for?
 - In the case of web design: will it be responsive?
 - Will it be developed by our team?
@@ -40,11 +40,11 @@ Together with the Project Manager, organize a meeting and gather all the project
     - Design is about how things work, not only about how they look.
 Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning.
 Useful links:
-        - [What to expect from a designer](https://www.netguru.co/blog/what-expect-designer)
-        - [What are you paying for](https://www.netguru.co/blog/hiring-designers)
-        - [Designer-client relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship)
+        - [What to expect from a designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
+        - [What are you paying for](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
+        - [Designer-client relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
 - **Avoid multi-platform designs at the early stages of the project**
-If the client needs a multi-platform design, ask another designer for help. If you believe that the scope is really big, always suggest [2+ designers.](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design)
+If the client needs a multi-platform design, ask another designer for help. If you believe that the scope is really big, always suggest [2+ designers.](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
 - **Emphasize that it’s impossible to accurately predict users’ behavior**
 We rely on research and available data – the validity of a solution can only be assessed with relevant tests.
 - **We cannot guarantee a business success**
@@ -92,7 +92,7 @@ Make sure that all answers are documented and available for other (current and f
 - Listen to the client’s expectations, don’t be afraid to ask questions.
 - Consult your solutions with the developers from day one.
 - Make sure you explain to the client how to use communication tools.
-    - e.g. comments in [InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-); explain the difference between [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549) and comments
+    - e.g. comments in [InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"}; explain the difference between [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} and comments
 
 #### Feedback
 - Does the client have time to give you feedback?
@@ -109,7 +109,7 @@ Make sure that all answers are documented and available for other (current and f
 - Does the client understand the role of a designer?
 
 #### Milestones & priorities
-- Make sure that the client has a reasonable approach to the creation of an [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is) (keep the scope small.
+- Make sure that the client has a reasonable approach to the creation of an [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"} (keep the scope small.
 - Make the client aware of the importance of going step-by-step in terms of functionalities.
 
 #### Why is it important to sell the outcomes of your work?
@@ -132,7 +132,7 @@ Make sure that all answers are documented and available for other (current and f
 - Adjust your language – don’t use jargon.
 
 ## Gathering feedback
-We use InVision to gather feedback for each iteration and to keep all comments in one place. [Check out how it works.](https://www.youtube.com/watch?v=J09zw08ihw4)
+We use InVision to gather feedback for each iteration and to keep all comments in one place. [Check out how it works.](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"}
 
 #### From Teammates
 Remember that if you have any difficulties with your design, you can always ask other designers for feedback. It’s also important to share your solutions with the team before sharing them with the client. With this approach, you can improve your designs, spot bugs or logic issues in your solutions or, alternatively, read people’s praise for you and collect thumb-ups.
@@ -237,9 +237,9 @@ You should also create an Initial interview subfolder, which will collect the mo
 - I know and have gathered all the available materials from the client (including brand guidelines, etc).
 
 ### Additional reading
-- [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers)
-- [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship)
-- [How to Talk to Designers About Design: Tips for Non-Designers](https://www.netguru.co/blog/talking-designers-about-design)
-- [What to Expect from a Designer](https://www.netguru.co/blog/what-expect-designer)
-- [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design)
-- [How to Choose a Designer – Step by Step Guide](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide)
+- [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
+- [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
+- [How to Talk to Designers About Design: Tips for Non-Designers](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}
+- [What to Expect from a Designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
+- [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
+- [How to Choose a Designer – Step by Step Guide](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}
