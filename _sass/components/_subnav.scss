@@ -43,6 +43,11 @@
   }
 
   &__arrow {
+
+    &:hover {
+      text-decoration: none;
+    }
+
     svg {
       fill: $light-grey-color;
     }
