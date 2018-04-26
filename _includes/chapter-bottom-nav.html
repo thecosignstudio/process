@@ -32,9 +32,11 @@
   <div class="chapter-navigation__block chapter-navigation__block--left">
     {% if prevurl %}
       <a href="{{prevurl}}" class="chapter-navigation__link">
-        <div class="small-title chapter-navigation__direction">Previous</div>
-        <div class="chapter-navigation__title">
-          {{prev_title}}
+        <div class="chapter-navigation__wrapper">
+          <div class="small-title chapter-navigation__direction">Previous</div>
+          <div class="chapter-navigation__title">
+            {{prev_title}}
+          </div>
           <div class="chapter-navigation__arrow chapter-navigation__arrow--left">
             {% include svgs/arrow-left.svg %}
           </div>
@@ -49,10 +51,11 @@
   <div class="chapter-navigation__block">
     {% if nexturl %}
       <a href="{{nexturl}}" class="chapter-navigation__link">
-        <div class="small-title chapter-navigation__direction">Next</div>
-        <div class="chapter-navigation__title">
-          {{next_title}}
-
+        <div class="chapter-navigation__wrapper">
+          <div class="small-title chapter-navigation__direction">Next</div>
+          <div class="chapter-navigation__title">
+            {{next_title}}
+          </div>
           <div class="chapter-navigation__arrow">
             {% include svgs/arrow-right.svg %}
           </div>
