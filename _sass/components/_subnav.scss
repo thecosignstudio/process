@@ -23,6 +23,7 @@
     }
   }
 
+  &__back-button-mobile,
   &__back-button {
     font-size: $fs-1;
     position: absolute;
@@ -34,6 +35,16 @@
       color: $orange-color;
       text-decoration: none;
     }
+  }
+
+  &__back-button {
+    @media #{$sm-down} {
+      display: none
+    }
+  }
+
+  &__back-button-mobile {
+    position: static;
   }
 
   &__arrows-container {
