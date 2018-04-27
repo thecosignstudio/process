@@ -87,9 +87,9 @@ Sometimes, very direct questions won’t work the way we want.
 - Be smart during the interview with your client, ask them about the things that seem to be important to them.
 - Maybe there is a problem that we can solve and measure?
 - Be sure to set clear goals of what you want to achieve.
-- It’s highly recommended that you review the [Business model canvas.](https://upload.wikimedia.org/wikipedia/commons/1/10/Business_Model_Canvas.png) It’s not a clear example of which questions to ask, but it shows the fundamental aspects of business and products. You can treat it as an inspiration for collecting your thoughts.
+- It’s highly recommended that you review the [Business model canvas.](https://upload.wikimedia.org/wikipedia/commons/1/10/Business_Model_Canvas.png){:target="_blank"} It’s not a clear example of which questions to ask, but it shows the fundamental aspects of business and products. You can treat it as an inspiration for collecting your thoughts.
 
-Since everything is trackable, speak about the exact points you’re going to track. Identify the client’s KPIs (Key Performance Indicators). Good KPIs take into account the business context, predict success, show early warning signals, and validate achieved results. You can use the following materials to create [tailor-made KPI’s materials.](http://www.bscdesigner.com/kpi-system-example.htm) They could range from new sign-ups to a number of customers using Paypal vs. purchases with credit cards. Always make sure you know how high you’re aiming from the start. Sometimes, it can be challenging to analyse. Read more here: [**12 Steps System for the Most Challenging Metrics and KPIs**](http://www.bscdesigner.com/kpi-system.htm)
+Since everything is trackable, speak about the exact points you’re going to track. Identify the client’s KPIs (Key Performance Indicators). Good KPIs take into account the business context, predict success, show early warning signals, and validate achieved results. You can use the following materials to create [tailor-made KPI’s materials.](http://www.bscdesigner.com/kpi-system-example.htm){:target="_blank"} They could range from new sign-ups to a number of customers using Paypal vs. purchases with credit cards. Always make sure you know how high you’re aiming from the start. Sometimes, it can be challenging to analyse. Read more here: [**12 Steps System for the Most Challenging Metrics and KPIs**](http://www.bscdesigner.com/kpi-system.htm){:target="_blank"}
 
 ### Define users/target customer base
 Regardless of what you design, it is absolutely obligatory to figure out who you are targeting. Many of us believe that our product is for everyone, but trying to get your product appeal to everyone is going to be painful and expensive. What you want to do is figure out specifically who you are targeting, figure out that niche and focus your efforts on it. Finding out more about your target customer base will help your effectiveness and eventually improve your reach, because once you know who your users are, you’ll know how to design for them.
@@ -104,10 +104,10 @@ Regardless of what you design, it is absolutely obligatory to figure out who you
 - Have you gathered any user feedback?
 
 ### Define users’ goals
-For a better understanding of your users' needs and goals, we can use job stories. Based on our own empathy and this method, we can discover what users really need and what actions they have to take to achieve their goals. By knowing this, we can build a better [customer journey map](http://boxesandarrows.com/an-introduction-to-user-journeys/) that allows users to achieve their goals more quickly. For more information, [go here.](https://blog.intercom.com/using-job-stories-design-features-ui-ux/)
+For a better understanding of your users' needs and goals, we can use job stories. Based on our own empathy and this method, we can discover what users really need and what actions they have to take to achieve their goals. By knowing this, we can build a better [customer journey map](http://boxesandarrows.com/an-introduction-to-user-journeys/){:target="_blank"} that allows users to achieve their goals more quickly. For more information, [go here.](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"}
 
-- What are the user [stories?](https://www.netguru.co/blog/doing-features-and-user-stories-the)
-- What are users’ [jobs to be done?](https://blog.intercom.com/using-job-stories-design-features-ui-ux/)
+- What are the user [stories?](https://www.netguru.co/blog/doing-features-and-user-stories-the){:target="_blank"}
+- What are users’ [jobs to be done?](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"}
 - What will users do on the site? (user tasks, content, features and functionality)
 - Which tasks are critical to users’ success on the website? (criticality)
 - Which tasks are most important to users? (importance)
@@ -139,7 +139,7 @@ Concept is the visual and verbal summary of the research process. At this stage 
 The Research and Concept stages are closely related to each other. The concept helps clarify and order the information found during the research. Thanks to this, you can easily determine rough guidelines for the style and form of your project. As a result, it will save you time during the next stages of the design process.
 
 ### Setup Project Folder and Start Collecting Moodboards
-There are plenty of sites you can use for inspiration :  [Dribbble](https://dribbble.com/), [Behance](https://www.behance.net/), [Pttrns](https://pttrns.com/), [Pinterest](https://pl.pinterest.com/), etc. It’s really easy to find similar projects to the one you will be working on. Additionally, there may already be a UI solution to a problem you’re experiencing and trying to solve.
+There are plenty of sites you can use for inspiration :  [Dribbble](https://dribbble.com/){:target="_blank"}, [Behance](https://www.behance.net/){:target="_blank"}, [Pttrns](https://pttrns.com/){:target="_blank"}, [Pinterest](https://pl.pinterest.com/){:target="_blank"}, etc. It’s really easy to find similar projects to the one you will be working on. Additionally, there may already be a UI solution to a problem you’re experiencing and trying to solve.
 You can save everything you have found on the internet to an Inspirations folder to be able to use it later to create basic moodboards. This folder could be filled with anything: plugins, swatches, or even full case studies from Behance. You can use InVision Moodboards, which is a perfect tool for collecting and sharing inspiration within the team.
 
 ### Generating Ideas and Concepts from Concept Mapping
@@ -199,10 +199,10 @@ Every project has its own unique set of requirements. Irrespective of that, we s
 - You conducted research and presented results to the client.
 
 ### Additional reading
-- [Accessibility in Apps: the Necessity Often Forgotten](https://www.netguru.co/blog/accessibility-web-mobile-apps)
-- [Designing The Invisible Experience (15 minutes workshops)](https://www.netguru.co/blog/designing-the-invisible-experience)
-- [Voice Recognition Tools Review. Alexa, PocketSphinx, Google API or Project Oxford?](https://www.netguru.co/blog/voice-recognition-tools-review)
-- [How to Recognize a Well-Designed Digital Product (Examples)](https://www.netguru.co/blog/how-to-recognize-a-well-designed-digital-product-examples)
-- [Top 10 Web-Design Podcasts You Should Follow This Year](https://www.netguru.co/blog/top-10-web-design-podcasts-you-should-follow-this-year)
-- [User Research: Airbnb for the Chinese Market](https://uxdesign.cc/user-research-airbnb-for-the-chinese-market-5ee21ce34bff)
-- [Crafting a Great Branding Delivery](https://medium.com/swlh/crafting-a-great-branding-delivery-7992990d2548)
+- [Accessibility in Apps: the Necessity Often Forgotten](https://www.netguru.co/blog/accessibility-web-mobile-apps){:target="_blank"}
+- [Designing The Invisible Experience (15 minutes workshops)](https://www.netguru.co/blog/designing-the-invisible-experience){:target="_blank"}
+- [Voice Recognition Tools Review. Alexa, PocketSphinx, Google API or Project Oxford?](https://www.netguru.co/blog/voice-recognition-tools-review){:target="_blank"}
+- [How to Recognize a Well-Designed Digital Product (Examples)](https://www.netguru.co/blog/how-to-recognize-a-well-designed-digital-product-examples){:target="_blank"}
+- [Top 10 Web-Design Podcasts You Should Follow This Year](https://www.netguru.co/blog/top-10-web-design-podcasts-you-should-follow-this-year){:target="_blank"}
+- [User Research: Airbnb for the Chinese Market](https://uxdesign.cc/user-research-airbnb-for-the-chinese-market-5ee21ce34bff){:target="_blank"}
+- [Crafting a Great Branding Delivery](https://medium.com/swlh/crafting-a-great-branding-delivery-7992990d2548){:target="_blank"}

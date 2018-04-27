@@ -23,12 +23,12 @@ Talk with the developer of the app before you start preparing assets. Developers
 
 ## Tools for better asset production and management
 
-Sketch Measure is a great tool for making specifications for developers. You can find a guide and download links on their website [Sketch Measure](http://utom.design/measure/how-to.html).
-Besides the native Sketch solution, you can also use plugins such as Sketch Export Assets [Plugin Sketch Export Assets](https://github.com/GeertWille/sketch-export-assets).
+Sketch Measure is a great tool for making specifications for developers. You can find a guide and download links on their website [Sketch Measure](http://utom.design/measure/how-to.html){:target="_blank"}.
+Besides the native Sketch solution, you can also use plugins such as Sketch Export Assets [Plugin Sketch Export Assets](https://github.com/GeertWille/sketch-export-assets){:target="_blank"}.
 
 **Optimization tools**
 
-Use optimization tools like [Kraken](https://kraken.io/web-interface), [ImageOptim](https://imageoptim.com/mac), or [Optimage](http://getoptimage.com/). Photoshop and Sketch save a picture’s metadata by default and don’t use optimization algorithms that could make your picture look the same but take up less space.
+Use optimization tools like [Kraken](https://kraken.io/web-interface){:target="_blank"}, [ImageOptim](https://imageoptim.com/mac){:target="_blank"}, or [Optimage](http://getoptimage.com/){:target="_blank"}. Photoshop and Sketch save a picture’s metadata by default and don’t use optimization algorithms that could make your picture look the same but take up less space.
 
 ## Asset naming convention
 
@@ -69,7 +69,7 @@ Examples:
 - *ic_asset_name_disabled*
 - *ic_asset_name_activated*
 
-If you want to find out more, here’s a [good article](https://medium.com/@AkhilDad/a-designers-guide-for-naming-android-assets-f790359d11e5#.8gk28dx78).
+If you want to find out more, here’s a [good article](https://medium.com/@AkhilDad/a-designers-guide-for-naming-android-assets-f790359d11e5#.8gk28dx78){:target="_blank"}.
 
 ## Android platform-specific tips
 
@@ -81,7 +81,7 @@ In Android app development, it’s a good practice to support multiple screens. 
 - xxhdpi: 490 dpi
 - xxxhdpi: 640 dpi
 
-**Tip:** Take a look at this precious piece of information: [how to organize files](https://gist.github.com/melvitax/fd592a162ad4fe48bd57).
+**Tip:** Take a look at this precious piece of information: [how to organize files](https://gist.github.com/melvitax/fd592a162ad4fe48bd57){:target="_blank"}.
 
 Also, in many cases, SVG images can act as a good replacement for bitmaps. Although they are not supported natively by Android, they can be easily displayed by means of third-party libraries. They take up much less space (especially the zipped version, svgz), scale indefinitely with no loss of detail or quality, and don’t require a separate version for each screen density.
 Just remember to ask the developer which way they want the assets to be delivered.
@@ -90,9 +90,9 @@ Just remember to ask the developer which way they want the assets to be delivere
 
 {% include image.html img="9_patch_Android.png" img2x="9_patch_Android@2x.png" alt="9 patch scaling for Android" %}
 
-If you have assets that are used more than once in your application and are scalable, you can use 9-patch scaling (e.g. for buttons). Things like icons will probably not scale properly, so unfortunately, you have to resize them manually for all the resolutions. The 9-patch guide is always 1 px thick and must be black (#000000), otherwise it won’t work. Your slice will always be 2 px bigger than the asset (1 px left and right and/or at the top and bottom). Thus, if your asset is 48x48 px, your slice will be 50x50 px. You can’t downscale 9-patch images, so you have to deliver them at the smallest size possible. This is also better for the overall performance of the application. You can use the Draw9Patch tool from Android to easily create or check your 9-patch images. For more specific information on 9-patch scaling and/or downloading the draw9patch tool, check the [Android Developers](http://developer.android.com/tools/help/draw9patch.html) website. You can also check [this link](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=320&name=example).
+If you have assets that are used more than once in your application and are scalable, you can use 9-patch scaling (e.g. for buttons). Things like icons will probably not scale properly, so unfortunately, you have to resize them manually for all the resolutions. The 9-patch guide is always 1 px thick and must be black (#000000), otherwise it won’t work. Your slice will always be 2 px bigger than the asset (1 px left and right and/or at the top and bottom). Thus, if your asset is 48x48 px, your slice will be 50x50 px. You can’t downscale 9-patch images, so you have to deliver them at the smallest size possible. This is also better for the overall performance of the application. You can use the Draw9Patch tool from Android to easily create or check your 9-patch images. For more specific information on 9-patch scaling and/or downloading the draw9patch tool, check the [Android Developers](http://developer.android.com/tools/help/draw9patch.html){:target="_blank"} website. You can also check [this link](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=320&name=example){:target="_blank"}.
 
-Be sure that App icons and Play Store Assets are provided following [Google’s guidelines](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en).
+Be sure that App icons and Play Store Assets are provided following [Google’s guidelines](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en){:target="_blank"}.
 
 ## iOS platform-specific
 
@@ -100,7 +100,7 @@ You must supply high-resolution images for all artwork in your app and for all t
 
 To put it simply, all you need is to provide the developer with @1x, @2x, @3x assets. That’s it. You’re brilliant.
 
-Be sure that App icons and App store Assets will be in accordance with the App Store guidelines [link1](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/) and [link2](https://developer.apple.com/library/content/qa/qa1686/_index.html), also double check that PNG files do not have the alpha channel, because Apple will reject them otherwise.
+Be sure that App icons and App store Assets will be in accordance with the App Store guidelines [link1](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/){:target="_blank"} and [link2](https://developer.apple.com/library/content/qa/qa1686/_index.html){:target="_blank"}, also double check that PNG files do not have the alpha channel, because Apple will reject them otherwise.
 
 ### Questions your client may ask
 
@@ -120,6 +120,6 @@ Be sure that App icons and App store Assets will be in accordance with the App S
 1. A set of assets covering all the designs for all target devices is complete.
 
 ### Additional reading:
-- [Better Android workflows with Sketch](https://medium.com/@lmindler/using-sketch-3-and-a-bit-of-fairy-dust-for-a-better-android-workflow-f667d0048855#.lgpmpu10m)
-- [Design like a Developer](https://medium.com/going-your-way-anyway/design-like-a-developer-b92f7a8f4520#.1ynw77olc)
-- [Why should you use Material Design](https://www.netguru.co/blog/why-should-you-use-material-design )
+- [Better Android workflows with Sketch](https://medium.com/@lmindler/using-sketch-3-and-a-bit-of-fairy-dust-for-a-better-android-workflow-f667d0048855#.lgpmpu10m){:target="_blank"}
+- [Design like a Developer](https://medium.com/going-your-way-anyway/design-like-a-developer-b92f7a8f4520#.1ynw77olc){:target="_blank"}
+- [Why should you use Material Design](https://www.netguru.co/blog/why-should-you-use-material-design){:target="_blank"}
