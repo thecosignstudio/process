@@ -50,6 +50,11 @@ $root: 'chapter-navigation';
   }
 
   &__link {
+    display: flex;
+    height: 100%;
+    justify-content: space-between;
+    flex-direction: column;
+
     .#{$root}__arrow {
       background-color: $white-color;
       transition: background-color 0.5s ease;
@@ -81,7 +86,7 @@ $root: 'chapter-navigation';
     display: none;
 
     @media #{$md-up} {
-      @include absolute(top 50% right -3rem);
+      @include absolute(top 27.5% right -3rem);
       @include sizing(2.33rem);
       display: flex;
       align-items: center;
@@ -91,7 +96,7 @@ $root: 'chapter-navigation';
     }
 
     &--left {
-      left: -3rem;
+      left: 3rem;
       right: auto;
     }
   }
