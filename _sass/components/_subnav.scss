@@ -30,6 +30,10 @@
     color: $orange-color;
     font-weight: $fw-bold;
 
+    @media #{$sm-down} {
+      display: none
+    }
+
     &:hover {
       color: $orange-color;
       text-decoration: none;
