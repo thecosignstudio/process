@@ -127,7 +127,10 @@ Don’t be afraid to interrupt politely and ask meaningful open-ended questions.
 
 {% include dosndonts.html introduction="10. Wireframe with the final designs in mind." dos="
 You will save yourself a ton of work if you create your wires with the final designs in mind: reusable symbols, precise elements, and good fonts. |
-Talk to your devs about the technical efficiency of your design solutions. "%}
+Talk to your devs about the technical efficiency of your design solutions.
+" donts="
+Don’t forget the importance of function by concentrating much on the visual form of the wireframe. |
+Don’t be too much of pixel-perfect, don’t spend much time on things that can be easily changed in the later stage."%}
 
 ## Q&A
 
