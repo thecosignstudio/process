@@ -50,7 +50,7 @@ Use Boards by InVision for the following reasons:
 - Option to add images, fonts and attachments
 
 ## Style guide
-It’s good to create a style guide right after the research stage. The initial version should at least contain the colors and typography. During the visual design phase, you should update your style guide to a full version.
+It’s good to start creating a style guide right after the research stage. The initial version should at least contain the colors and typography. During the visual design phase, you should update your style guide to a full version.
 
 **What should a good style guide contain?**
 - **Color** (main colors and shade variations for each of them)<br>

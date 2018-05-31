@@ -109,7 +109,7 @@ Make sure that all answers are documented and available for other (current and f
 - Does the client understand the role of a designer?
 
 #### Milestones & priorities
-- Make sure that the client has a reasonable approach to the creation of an [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"} (keep the scope small.
+- Make sure that the client has a reasonable approach to the creation of an [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"} (keep the scope small).
 - Make the client aware of the importance of going step-by-step in terms of functionalities.
 
 #### Why is it important to sell the outcomes of your work?
@@ -144,7 +144,7 @@ Remember that if you have any difficulties with your design, you can always ask 
 #### From the client
 Gathering feedback from the client is the key to a successful project.
 - Ask for the feedback you want to receive.
-- Add designs to the project and share a link with the client. The best way to go is to always keep links to InVision designs in a project management tool, e.g. Jira (NOTE: avoid adding the client as a contributor to InVision projects!).
+- Add designs to the project and share a link with the client. The best way to go is to always keep links to InVision designs in a project management tool, e.g. Jira.
 - Ask whether the client knows how InVision works or just guide the client through the process of adding comments to designs (mentioning a user’s name when adding a comment will send an e-mail notification – recommended).
 - Reply to comments and mark them as resolved.
 - If something is unclear to you or the client, try to explain until everything is crystal clear to both parties.
