@@ -84,7 +84,7 @@ jobs:
       - attach_workspace:
           at: ~/app
       - run: bundle config --local path vendor/bundle
-      - run: sudo apt-get update && sudo apt-get install -y openjdk-7-jre
+      - run: sudo apt-get update && sudo apt-get install -y openjdk-8-jre
       - run: STAGING=true bundle exec s3_website push --site _site/
 
   deploy_production:
