@@ -14,7 +14,7 @@ chapter_number: "02"
 - How much time to spend on the research & concept.
 - Questions most frequently asked by clients.
 
-The Research & Concept phase is the very foundation of our design process. It is crucial for the proper understanding and fulfilment of human needs behind the developed product. This is the time when the big requirements are agreed upon and a direction is chosen. This is also the moment when the initial idea is developed into a basic draft/prototype. The main goal of our design process is not just to create pretty pictures or satisfy the subjective feelings of various stakeholders – our main goal is to make a great product. We want to make a product that not only looks great, but, more importantly, also works great and seamlessly meets (or even exceeds) end users’ expectations.
+The Research & Concept phase is the very foundation of our design process. It is crucial for the proper understanding and fulfilment of human needs behind the developed product. This is the time when the big requirements are agreed upon and a direction is chosen. This is also the moment when the initial idea is developed into a basic draft/prototype. The main goal of our design process is not just to create pretty pictures or satisfy the subjective feelings of various stakeholders – our main goal is to fit both client's business goals with user's goals by delivering accessible, usable and attractive product. We want to make a product that not only looks great, but, more importantly, also works great and seamlessly meets (or even exceeds) end users’ expectations.
 
 In order to deliver a great product, much effort needs to be taken, and Research & Concept marks the first major milestone in this process. This is the stage where many questions will arise, and conducting a thorough research will help answer most of them early and benefit the latter stages. Not only will it save us time, but it will also give the Product Design team a deep insight into and a better understanding of the product specifics. The client, on the other, hand will benefit from it too, because challenging a client with the right questions helps them crystallize their vision and may lead to some substantial changes.
 
@@ -26,10 +26,12 @@ When doing research together, a team generate ideas faster and verify their idea
 - You build a strong foundation for future design processes.
 - You don’t waste time on finding the right look for your project during the wireframing and designing phases.
 - A concept document lays a good basis for the communication with the client about the style, visuals, etc. at later parts of the design process. For example, you can show the client that you agreed on something earlier in case the client tries to change previous agreements.
-- The client’s trust in you – a solid concept and research is a foundation for a good mutual relationship, because you prove you understand their product
+- The client’s trust in you – a solid concept and research is a foundation for a good mutual relationship, because you prove you understand their product.
+- Having a wider vision of the product in relation to the market, cultural and user's context.
+- Moreover, visual concepts help to gather and create assumptions that can be easily understood by the client and that can be later verified with the end user.
 
 **Benefits for the client:**
-- Solid research = greater chances for product’s success.
+- A solid research raises chances for product success because whole development is built on data about the market, culture and competitors.
 - The concept helps the client get a new perspective on their product.
 - The client can see how the product fits the market.
 - At the beginning of the design stage, the client will know the whole spectrum of possible solutions and will be able to find the best one.
@@ -73,6 +75,17 @@ Research takes time and can cost money, but in the grand scheme of things, it wi
 - What is your product’s value proposition?
 - What is your desired competitive advantage? What sets apart your product/feature from the competitors?
     - What is the main selling point?
+
+### What is missing:
+- What is the client’s idea/vision of the product?
+- Web & mobile?
+- Do other touchpoints are valid for client?
+- Do you have any benchmarks and inspirations in mind?
+- How do you educate your users? (Onboarding, Content, etc.)
+- What is the most important feature of the product?
+- What is the main goal of the product?
+- What is the main action in the product?
+- What is the main information that product provides?
 
 ### Business goals are the most important from the client’s perspective
 One of the most important aspects of design for both parties is to understand the goals of the product you are designing. Ask the client:

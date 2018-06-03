@@ -36,7 +36,7 @@ Together with the Project Manager, organize a meeting and gather all the project
 
 ### First meeting – explaining process to the client:
 - **Educate the client**
-    - Product design is a process. It never ends.
+    - Product design is a process. Process includes iterations that lead to the improvements of the product and service. Last iteration is finished when both clients and users goals are completed.
     - Design is about how things work, not only about how they look.
 Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning.
 Useful links:
@@ -132,7 +132,7 @@ Make sure that all answers are documented and available for other (current and f
 - Adjust your language – don’t use jargon.
 
 ## Gathering feedback
-We use InVision to gather feedback for each iteration and to keep all comments in one place. [Check out how it works.](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"}
+We use InVision 'as a main tool' to gather feedback for each iteration and to keep all comments in one place. [Check out how it works.](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"} However we have a dedicated process to get more precise feedbacks from other designers within our team.
 
 #### From Teammates
 Remember that if you have any difficulties with your design, you can always ask other designers for feedback. It’s also important to share your solutions with the team before sharing them with the client. With this approach, you can improve your designs, spot bugs or logic issues in your solutions or, alternatively, read people’s praise for you and collect thumb-ups.
@@ -149,7 +149,7 @@ Gathering feedback from the client is the key to a successful project.
 - Reply to comments and mark them as resolved.
 - If something is unclear to you or the client, try to explain until everything is crystal clear to both parties.
 - Preparing clickable designs (links between views) will enhance the client’s experience.
-- Stay in touch with the client on Slack. Send the client updated links to InVision, give updates. Last but not least, ask the client about the feelings and emotions that the design evokes.
+- Stay in touch with the client. Send the client updated links to InVision, give updates. Last but not least, ask the client about the feelings and emotions that the design evokes.
 - If you want, you and your PM can setup a call with the client for you to present your designs. Sometimes, you need to sell your vision or just present the bigger picture behind your designs
 
 ## Design files – organization
