@@ -31,7 +31,7 @@ When doing research together, a team generate ideas faster and verify their idea
 - Moreover, visual concepts help to gather and create assumptions that can be easily understood by the client and that can be later verified with the end user.
 
 **Benefits for the client:**
-- Solid research = greater chances for product’s success.
+- A solid research raises chances for product success because whole development is built on data about the market, culture and competitors.
 - The concept helps the client get a new perspective on their product.
 - The client can see how the product fits the market.
 - At the beginning of the design stage, the client will know the whole spectrum of possible solutions and will be able to find the best one.
