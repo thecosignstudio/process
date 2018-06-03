@@ -75,8 +75,6 @@ Research takes time and can cost money, but in the grand scheme of things, it wi
 - What is your product’s value proposition?
 - What is your desired competitive advantage? What sets apart your product/feature from the competitors?
     - What is the main selling point?
-
-### What is missing:
 - What is the client’s idea/vision of the product?
 - Web & mobile?
 - Do other touchpoints are valid for client?
