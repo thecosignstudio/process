@@ -76,6 +76,17 @@ Research takes time and can cost money, but in the grand scheme of things, it wi
 - What is your desired competitive advantage? What sets apart your product/feature from the competitors?
     - What is the main selling point?
 
+### What is missing:
+- What is the client’s idea/vision of the product?
+- Web & mobile?
+- Do other touchpoints are valid for client?
+- Do you have any benchmarks and inspirations in mind?
+- How do you educate your users? (Onboarding, Content, etc.)
+- What is the most important feature of the product?
+- What is the main goal of the product?
+- What is the main action in the product?
+- What is the main information that product provides?
+
 ### Business goals are the most important from the client’s perspective
 One of the most important aspects of design for both parties is to understand the goals of the product you are designing. Ask the client:
 - What are the business goals that you want accomplish?
