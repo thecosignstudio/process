@@ -36,7 +36,7 @@ Together with the Project Manager, organize a meeting and gather all the project
 
 ### First meeting – explaining process to the client:
 - **Educate the client**
-    - Product design is a process. It never ends.
+    - Product design is a process. Process includes iterations that lead to the improvements of the product and service. Last iteration is finished when both clients and users goals are completed.
     - Design is about how things work, not only about how they look.
 Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning.
 Useful links:
