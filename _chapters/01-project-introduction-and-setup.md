@@ -132,7 +132,7 @@ Make sure that all answers are documented and available for other (current and f
 - Adjust your language – don’t use jargon.
 
 ## Gathering feedback
-We use InVision to gather feedback for each iteration and to keep all comments in one place. [Check out how it works.](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"}
+We use InVision 'as a main tool' to gather feedback for each iteration and to keep all comments in one place. [Check out how it works.](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"} However we have a dedicated process to get more precise feedbacks from other designers within our team.
 
 #### From Teammates
 Remember that if you have any difficulties with your design, you can always ask other designers for feedback. It’s also important to share your solutions with the team before sharing them with the client. With this approach, you can improve your designs, spot bugs or logic issues in your solutions or, alternatively, read people’s praise for you and collect thumb-ups.
