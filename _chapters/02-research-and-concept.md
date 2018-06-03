@@ -26,7 +26,9 @@ When doing research together, a team generate ideas faster and verify their idea
 - You build a strong foundation for future design processes.
 - You don’t waste time on finding the right look for your project during the wireframing and designing phases.
 - A concept document lays a good basis for the communication with the client about the style, visuals, etc. at later parts of the design process. For example, you can show the client that you agreed on something earlier in case the client tries to change previous agreements.
-- The client’s trust in you – a solid concept and research is a foundation for a good mutual relationship, because you prove you understand their product
+- The client’s trust in you – a solid concept and research is a foundation for a good mutual relationship, because you prove you understand their product.
+- Having a wider vision of the product in relation to the market, cultural and user's context.
+- Moreover, visual concepts help to gather and create assumptions that can be easily understood by the client and that can be later verified with the end user.
 
 **Benefits for the client:**
 - Solid research = greater chances for product’s success.
