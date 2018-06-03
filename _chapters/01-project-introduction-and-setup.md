@@ -149,7 +149,7 @@ Gathering feedback from the client is the key to a successful project.
 - Reply to comments and mark them as resolved.
 - If something is unclear to you or the client, try to explain until everything is crystal clear to both parties.
 - Preparing clickable designs (links between views) will enhance the client’s experience.
-- Stay in touch with the client on Slack. Send the client updated links to InVision, give updates. Last but not least, ask the client about the feelings and emotions that the design evokes.
+- Stay in touch with the client. Send the client updated links to InVision, give updates. Last but not least, ask the client about the feelings and emotions that the design evokes.
 - If you want, you and your PM can setup a call with the client for you to present your designs. Sometimes, you need to sell your vision or just present the bigger picture behind your designs
 
 ## Design files – organization
