@@ -94,6 +94,57 @@ One of the most important aspects of design for both parties is to understand th
 - Have you conducted market research?
 - Do you have a market niche?
 
+#### Money
+- How you want to fund your business in the future?
+
+#### Business model
+- Business strategy
+    - Do you have one?
+    - Desired pricing model? (Benchmark?)
+    - Market strategy?
+        - Digital marketing
+    - Content strategy
+        - Offline strategy?
+- Digital strategy?
+    - How to tell about your product online?
+    - Success stories, case studies
+    - Strategies per product?
+        - Do you have cross platform promotion strategy?
+    - Are you planning international expansion?
+- How would you like to be perceived as a brand?
+- How should your users perceive you as a company? (i.e. innovative, traditional, easy to use)?
+
+#### Business goal
+- What is the main business short-term objective?
+- KPIs you’d like to achieve?
+
+#### Market
+- How your brand is unique and differs from the competition? Why should people choose your brand and use your app as customers?
+- How do you drive traffic / reach market groups?
+        - How you track effects of marketing efforts?
+        - Where are you trying to market groups?
+        - Your promotion channels?  Strategy?
+- Questions about the competitors:
+    - Who are they?
+    - How are they different?
+    - How are they the same?
+    - How do they advertise or make information available?
+    - Estimates and technical advice from subcontractors (e.g., printers)
+- Any similar product offerings, alternative solutions to the same problem?  What your potential customers are doing today instead of using your future product?
+- Are there any ideas already on the market that you would like to implement in the exact way?
+- Business critical features?
+    - Moneymaking funnel
+- Your Partners perspective
+    - What do they need?
+    - Turning for customer sales people
+    - Division of responsibilities
+- Other requirements / law restrictions
+- What country (or region) is the Product to be launched to?
+- What is the language the product is to be designed in?
+- Are there any special requirements regarding the marked that should be considered (ex. Cultural, religion limitations)?
+- Is the product limited by regional law anyhow (for example anti-spam regulations or copyright)?
+- Is the product to be regionally diversified (ex. language versions)?
+
 Sometimes, very direct questions won’t work the way we want.
 - Be smart during the interview with your client, ask them about the things that seem to be important to them.
 - Maybe there is a problem that we can solve and measure?
