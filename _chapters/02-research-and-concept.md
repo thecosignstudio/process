@@ -75,8 +75,6 @@ Research takes time and can cost money, but in the grand scheme of things, it wi
 - What is your product’s value proposition?
 - What is your desired competitive advantage? What sets apart your product/feature from the competitors?
     - What is the main selling point?
-
-### What is missing:
 - What is the client’s idea/vision of the product?
 - Web & mobile?
 - Do other touchpoints are valid for client?
@@ -95,6 +93,57 @@ One of the most important aspects of design for both parties is to understand th
 - Do you have an investor or are you bootstrapping?
 - Have you conducted market research?
 - Do you have a market niche?
+
+#### Money
+- How you want to fund your business in the future?
+
+#### Business model
+- Business strategy
+    - Do you have one?
+    - Desired pricing model? (Benchmark?)
+    - Market strategy?
+        - Digital marketing
+    - Content strategy
+        - Offline strategy?
+- Digital strategy?
+    - How to tell about your product online?
+    - Success stories, case studies
+    - Strategies per product?
+        - Do you have cross platform promotion strategy?
+    - Are you planning international expansion?
+- How would you like to be perceived as a brand?
+- How should your users perceive you as a company? (i.e. innovative, traditional, easy to use)?
+
+#### Business goal
+- What is the main business short-term objective?
+- KPIs you’d like to achieve?
+
+#### Market
+- How your brand is unique and differs from the competition? Why should people choose your brand and use your app as customers?
+- How do you drive traffic / reach market groups?
+        - How you track effects of marketing efforts?
+        - Where are you trying to market groups?
+        - Your promotion channels?  Strategy?
+- Questions about the competitors:
+    - Who are they?
+    - How are they different?
+    - How are they the same?
+    - How do they advertise or make information available?
+    - Estimates and technical advice from subcontractors (e.g., printers)
+- Any similar product offerings, alternative solutions to the same problem?  What your potential customers are doing today instead of using your future product?
+- Are there any ideas already on the market that you would like to implement in the exact way?
+- Business critical features?
+    - Moneymaking funnel
+- Your Partners perspective
+    - What do they need?
+    - Turning for customer sales people
+    - Division of responsibilities
+- Other requirements / law restrictions
+- What country (or region) is the Product to be launched to?
+- What is the language the product is to be designed in?
+- Are there any special requirements regarding the marked that should be considered (ex. Cultural, religion limitations)?
+- Is the product limited by regional law anyhow (for example anti-spam regulations or copyright)?
+- Is the product to be regionally diversified (ex. language versions)?
 
 Sometimes, very direct questions won’t work the way we want.
 - Be smart during the interview with your client, ask them about the things that seem to be important to them.
@@ -132,6 +181,19 @@ For a better understanding of your users' needs and goals, we can use job storie
 - What kind of disabilities might your users have?
     - Do they need assistive features?
     - Are there any alternative methods that we can use to deliver the same content?
+- Did client run user research?
+- How do you track users’ behaviour?
+- What do the users want?
+- What do the users need?
+- What are users expectations?
+- JPG (jobs, pains, gains)
+- How you educate your users about your products, value?
+- Who’s your ideal user and what is the typical flow performed by that user in the app/website etc.?
+- Statistics (if exists):
+    - How many people are using it everyday?
+    - How many people are downloading the app each month?
+- Who can change routine?
+
 
 ### Define the competitors
 For UX designers, evaluating the competition involves looking at the designs of products that are both in direct and indirect competition. Products that **directly compete** with each other are looking to solve the same problem. They often offer the same core functionalities and have an overlapping user base. **Indirect competitors** either have a different user base or a different service offering, while some aspects of the products overlap.
@@ -146,7 +208,7 @@ For UX designers, evaluating the competition involves looking at the designs of 
 
 ## Concept
 ### Definition
-Concept is the visual and verbal summary of the research process. At this stage of the design process, you’re making a synthesis of everything that you have found about the project, the competition, goals, etc. The result of this stage a potential visual direction formed into a concept.
+Concept is the visual and verbal summary of the research process. At this stage of the design process, you’re making a synthesis of everything that you have found about the project, the competition, goals, etc. The result of this stage is a potential visual direction formed into a concept.
 
 ### What is the goal of making the concept for your project?
 The Research and Concept stages are closely related to each other. The concept helps clarify and order the information found during the research. Thanks to this, you can easily determine rough guidelines for the style and form of your project. As a result, it will save you time during the next stages of the design process.
@@ -187,7 +249,33 @@ After you have placed all your ideas on the concept map, you can add additional 
 You’re doing this because you care about the client’s business – remember about the importance of presentation. Keep it short – present it like a pro, because time is money. Your professional expertise, your knowledge, and your product design experience determine how you should deliver the client’s product to the world. It’s very important to help the client decide what the best solution is. **Don’t go over 5-15 slides – you can attach other materials to an e-mail or a Slack conversation.**
 
 ## How much time should Research & Concept take?
-Every project has its own unique set of requirements. Irrespective of that, we strongly recommend that you don’t exceed 18 hours when doing Research & Concept: 16 hours for the actual Research & Concept and up to 2 hours for the preparation and presentation of the Research report.
+UX Research is the core of making an impactful product - in order to understand how users’ behave, how they think, what’s their mental models, and how your product help them in achieving their goals, you need to start digging deeper into finding those answers. There are various methods of doing so, but whatever will be done, it will be beneficial to the product - gaining insights enables to evoke sympathy, that is required to create a meaningful and human-centered solutions. 
+
+When starting on a project, you answer couple of questions:
+1. Are we building product from scratch or is it an existing one?
+2. Is there any data that can be analysed without engaging users?
+3. Can I get access to the product’s potential or real users?
+
+{% include image.html img="user-research-methods.png" alt="User research methods chart" %}
+Source: [https://www.nngroup.com/articles/which-ux-research-methods](https://www.nngroup.com/articles/which-ux-research-methods){:target="_blank"}
+
+
+The time required for user research is strictly connected with the methods - the more you talk with the users, the more time it would take to analyse their answers. But be assured, that not skipping this part would eventually affect the later stages of creating the product - the more you’ll know from users, the less guessing and predicting you’ll be forced to do. Stepping into users’ shoes will get so much easier!
+
+Methods (to be described):
+- User testing
+- Market research
+- Surveys
+- Clickstream/heatmaps analysis
+- Analytics research
+- A/B Testing
+- Benchmarking
+
+Some helpful resources:
+- [https://www.nngroup.com](https://www.nngroup.com/articles/which-ux-research-methods){:target="_blank"}
+- [https://www.uxmatters.com](https://www.uxmatters.com/mt/archives/2012/08/stakeholder-research-precedes-ux-research.php#top ){:target="_blank"}
+- [https://www.usertesting.com](https://www.usertesting.com/blog/2013/03/04/when-to-test-incorporating-usability-testing-into-product-design/){:target="_blank"}
+- [http://guidetouxr.com](http://guidetouxr.com/p/index.html?Podcasts ){:target="_blank"}
 
 ### Q&A
 #### Questions your client may ask

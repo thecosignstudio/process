@@ -23,12 +23,18 @@ Talk with the developer of the app before you start preparing assets. Developers
 
 ## Tools for better asset production and management
 
-Sketch Measure is a great tool for making specifications for developers. You can find a guide and download links on their website [Sketch Measure](http://utom.design/measure/how-to.html){:target="_blank"}.
-Besides the native Sketch solution, you can also use plugins such as Sketch Export Assets [Plugin Sketch Export Assets](https://github.com/GeertWille/sketch-export-assets){:target="_blank"}.
+When it comes to prepare specifications for our developers, it is important to generate a precise and easy to use documentation.
+After a thorough research & comparing different types of software, we decided to implement [InVision Inspect](https://www.invisionapp.com/feature/inspect){:target="_blank"} as a default handover tool for all current & future Netguru Design Projects.
+
+An alternative and free tool is [Sketch Measure](http://utom.design/measure/how-to.html){:taget="_blank"}. You can find a guide and download links on [this page](https://github.com/utom/sketch-measure){:target="_blank"}.
+
+Besides the native Sketch solution, InVision inspect and Sketch Measure plugin you can also use other alternative tools such as [Zeplin](https://zeplin.io/){:target="_blank"}.
+
+Moreover, it is very important for us to generate a description of the logic and behaviour for some particular component using animated preview generated with tool such as [Principle](http://principleformac.com){:target="_blank"} and [Framer](https://framer.com){:target="_blank"}.
 
 **Optimization tools**
 
-Use optimization tools like [Kraken](https://kraken.io/web-interface){:target="_blank"}, [ImageOptim](https://imageoptim.com/mac){:target="_blank"}, or [Optimage](http://getoptimage.com/){:target="_blank"}. Photoshop and Sketch save a picture’s metadata by default and don’t use optimization algorithms that could make your picture look the same but take up less space.
+Use optimization tools like [Kraken](https://kraken.io/web-interface){:target="_blank"}, [ImageOptim](https://imageoptim.com/mac){:target="_blank"} or [Optimage](http://getoptimage.com/){:target="_blank"}. Photoshop and Sketch save a picture’s metadata by default and don’t use optimization algorithms that could make your picture look the same but take up less space.
 
 ## Asset naming convention
 

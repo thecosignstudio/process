@@ -76,6 +76,7 @@
     transition: top 0.5s ease;
     top: $side-nav-top-padding;
     display: none;
+    height: 613px;
 
     @media #{$md-up} {
       display: block;
@@ -234,8 +235,8 @@
   }
 
   &__logo-wrapper {
-    position: fixed;
-    left: 3.1rem;
-    bottom: 6.2rem;
+    @media #{$sm-down} {
+      display: none;
+    }
   }
 }
