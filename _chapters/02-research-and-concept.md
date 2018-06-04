@@ -181,6 +181,19 @@ For a better understanding of your users' needs and goals, we can use job storie
 - What kind of disabilities might your users have?
     - Do they need assistive features?
     - Are there any alternative methods that we can use to deliver the same content?
+- Did client run user research?
+- How do you track users’ behaviour?
+- What do the users want?
+- What do the users need?
+- What are users expectations?
+- JPG (jobs, pains, gains)
+- How you educate your users about your products, value?
+- Who’s your ideal user and what is the typical flow performed by that user in the app/website etc.?
+- Statistics (if exists):
+    - How many people are using it everyday?
+    - How many people are downloading the app each month?
+- Who can change routine?
+
 
 ### Define the competitors
 For UX designers, evaluating the competition involves looking at the designs of products that are both in direct and indirect competition. Products that **directly compete** with each other are looking to solve the same problem. They often offer the same core functionalities and have an overlapping user base. **Indirect competitors** either have a different user base or a different service offering, while some aspects of the products overlap.
