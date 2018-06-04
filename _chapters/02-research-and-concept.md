@@ -208,7 +208,7 @@ For UX designers, evaluating the competition involves looking at the designs of 
 
 ## Concept
 ### Definition
-Concept is the visual and verbal summary of the research process. At this stage of the design process, you’re making a synthesis of everything that you have found about the project, the competition, goals, etc. The result of this stage a potential visual direction formed into a concept.
+Concept is the visual and verbal summary of the research process. At this stage of the design process, you’re making a synthesis of everything that you have found about the project, the competition, goals, etc. The result of this stage is a potential visual direction formed into a concept.
 
 ### What is the goal of making the concept for your project?
 The Research and Concept stages are closely related to each other. The concept helps clarify and order the information found during the research. Thanks to this, you can easily determine rough guidelines for the style and form of your project. As a result, it will save you time during the next stages of the design process.
@@ -249,7 +249,33 @@ After you have placed all your ideas on the concept map, you can add additional 
 You’re doing this because you care about the client’s business – remember about the importance of presentation. Keep it short – present it like a pro, because time is money. Your professional expertise, your knowledge, and your product design experience determine how you should deliver the client’s product to the world. It’s very important to help the client decide what the best solution is. **Don’t go over 5-15 slides – you can attach other materials to an e-mail or a Slack conversation.**
 
 ## How much time should Research & Concept take?
-Every project has its own unique set of requirements. Irrespective of that, we strongly recommend that you don’t exceed 18 hours when doing Research & Concept: 16 hours for the actual Research & Concept and up to 2 hours for the preparation and presentation of the Research report.
+UX Research is the core of making an impactful product - in order to understand how users’ behave, how they think, what’s their mental models, and how your product help them in achieving their goals, you need to start digging deeper into finding those answers. There are various methods of doing so, but whatever will be done, it will be beneficial to the product - gaining insights enables to evoke sympathy, that is required to create a meaningful and human-centered solutions. 
+
+When starting on a project, you answer couple of questions:
+1. Are we building product from scratch or is it an existing one?
+2. Is there any data that can be analysed without engaging users?
+3. Can I get access to the product’s potential or real users?
+
+{% include image.html img="user-research-methods.png" alt="User research methods chart" %}
+Source: [https://www.nngroup.com/articles/which-ux-research-methods](https://www.nngroup.com/articles/which-ux-research-methods){:target="_blank"}
+
+
+The time required for user research is strictly connected with the methods - the more you talk with the users, the more time it would take to analyse their answers. But be assured, that not skipping this part would eventually affect the later stages of creating the product - the more you’ll know from users, the less guessing and predicting you’ll be forced to do. Stepping into users’ shoes will get so much easier!
+
+Methods (to be described):
+- User testing
+- Market research
+- Surveys
+- Clickstream/heatmaps analysis
+- Analytics research
+- A/B Testing
+- Benchmarking
+
+Some helpful resources:
+- [https://www.nngroup.com](https://www.nngroup.com/articles/which-ux-research-methods){:target="_blank"}
+- [https://www.uxmatters.com](https://www.uxmatters.com/mt/archives/2012/08/stakeholder-research-precedes-ux-research.php#top ){:target="_blank"}
+- [https://www.usertesting.com](https://www.usertesting.com/blog/2013/03/04/when-to-test-incorporating-usability-testing-into-product-design/){:target="_blank"}
+- [http://guidetouxr.com](http://guidetouxr.com/p/index.html?Podcasts ){:target="_blank"}
 
 ### Q&A
 #### Questions your client may ask
