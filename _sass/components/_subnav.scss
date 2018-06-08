@@ -1,4 +1,7 @@
 .subnav {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
   position: fixed;
   background: white;
   overflow-y: auto;
@@ -76,7 +79,6 @@
     transition: top 0.5s ease;
     top: $side-nav-top-padding;
     display: none;
-    height: 613px;
 
     @media #{$md-up} {
       display: block;
@@ -235,6 +237,8 @@
   }
 
   &__logo-wrapper {
+    margin-top: auto;
+
     @media #{$sm-down} {
       display: none;
     }
