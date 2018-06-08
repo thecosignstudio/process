@@ -26,7 +26,7 @@ Talk with the developer of the app before you start preparing assets. Developers
 When it comes to prepare specifications for our developers, it is important to generate a precise and easy to use documentation.
 After a thorough research & comparing different types of software, we decided to implement [InVision Inspect](https://www.invisionapp.com/feature/inspect){:target="_blank"} as a default handover tool for all current & future Netguru Design Projects.
 
-An alternative and free tool is [Sketch Measure](http://utom.design/measure/how-to.html){:taget="_blank"}. You can find a guide and download links on [this page](https://github.com/utom/sketch-measure){:target="_blank"}.
+An alternative and free tool is [Sketch Measure](http://utom.design/measure/how-to.html){:target="_blank"}. You can find a guide and download links on [this page](https://github.com/utom/sketch-measure){:target="_blank"}.
 
 Besides the native Sketch solution, InVision inspect and Sketch Measure plugin you can also use other alternative tools such as [Zeplin](https://zeplin.io/){:target="_blank"}.
 
