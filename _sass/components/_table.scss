@@ -1,0 +1,18 @@
+.dp-table {
+    border-collapse: collapse;
+    table-layout: fixed;
+
+    td:first-child, td:nth-child(2) {
+        background-color: $very-light-grey-color;
+    }
+
+    td {
+        padding: 10px;
+        text-align: center;
+        border: 1px solid rgba(#000, .3);
+    }
+
+    li {
+        text-align: left;
+    }
+}
