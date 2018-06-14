@@ -6,6 +6,10 @@
         background-color: $very-light-grey-color;
     }
 
+    td:not(:nth-child(3)) {
+        vertical-align: top;
+    }
+
     td {
         padding: 10px;
         text-align: center;
