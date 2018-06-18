@@ -75,7 +75,7 @@ Examples:
 - *ic_asset_name_disabled*
 - *ic_asset_name_activated*
 
-If you want to find out more, here’s a [good article](https://medium.com/@AkhilDad/a-designers-guide-for-naming-android-assets-f790359d11e5#.8gk28dx78){:target="_blank"}.
+If you want to find out more, here’s a [good article about naming Android Assets](https://medium.com/@AkhilDad/a-designers-guide-for-naming-android-assets-f790359d11e5#.8gk28dx78){:target="_blank"}.
 
 ## Android platform-specific tips
 
