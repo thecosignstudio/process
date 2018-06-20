@@ -51,7 +51,7 @@ Every iteration you make on your design should be tested. The major stages in th
 **Goal**: Test the UI. Visual design is focused on more specific design solutions such as UI elements, colors, shapes, and interactions. Assuming you ran tests after the wireframing, you need to test these elements now.
 **Tools**: design bug bash (link), user testing with Netguru people or outside testers, guerrilla usability testing
 
-### After implementation
+### Tests after implementation
 **Participants**: PD, QA, users
 **Goal**: Analyse users’ behavior to make sure they use product the way it was designed and if the client’s goals are met.
 **Tools**: Heatmaps, A/B tests, user testing with Netguru people or outside testers, Analytics
@@ -68,7 +68,7 @@ This is the very first step, and the easiest one you can take to validate your d
 Just post your design as an InVision link, preferably with a question – what you need to have validated/tested or what would you like to get people’s opinion about.<br>
 Deliverables: Others should leave comments on InVision.
 
-**Design bug bash** – [blogpost](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow){:target="_blank"}
+**[Design bug bash](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow){:target="_blank"}**
 - **Time**<br>
 Up to 1h
 - **When?**<br>
@@ -80,7 +80,7 @@ Ask your QA to arrange a 30-60-min design bug bash that will include at least th
 Your QA specialist will lead the bug bash. At the beginning, you can tell others what the project is about, and who typical users will be. Explain what tasks you want to have accomplished by participants but don’t explain any design solutions beforehand. Everyone should go through the whole prototype, performing tasks given by the PD individually.
 Deliverables: Any bugs/doubts should be written down as InVision comments by their finder.
 
-**Guerrilla Usability Testing** – [more info](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}
+**[Guerrilla Usability Testing](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}**
 - **Time**<br>
 Up to 2h
 - **When?**<br>
@@ -95,11 +95,9 @@ You will need 3-5 participants – they can be your colleagues, friends or famil
 4. Combine all scenarios.
 5. Start guerrilla testing.
 6. Capture guerrilla testing insights.
-7. Fix your usability problems.
-Deliverables: Write down the top 3 usability problems or capture the task completion in a table.
-[See detailed instructions here](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}.
+7. Fix your usability problems. Deliverables: Write down the top 3 usability problems or capture the task completion in a table. See detailed instructions [here](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}.
 
-**User testing: moderated** - [more info](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}
+**[User testing: moderated](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}**
 - **Time**<br>
 At least 3h
 - **When?**
@@ -117,8 +115,8 @@ You need a solid and objective test of your design (it must be something that yo
    - Detailed report
    - Attachments (recordings, etc.)
 
-**User testing: unmoderated** – [more info](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}
-- **Products:** [Userzoom](http://www.userzoom.com/remote-usability-testing/){:target="_blank"}, [AppSee](https://www.appsee.com/features/user-recordings){:target="_blank"}, [UserTesting](https://www.usertesting.com/plans){:target="_blank"}
+**[User testing: unmoderated](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}**
+- **Products:** <br>[Userzoom](http://www.userzoom.com/remote-usability-testing/){:target="_blank"}, [AppSee](https://www.appsee.com/features/user-recordings){:target="_blank"}, [UserTesting](https://www.usertesting.com/plans){:target="_blank"}
 - **Time**<br>
 At least 3h
 - **When?**
@@ -136,25 +134,26 @@ Deliverables: Video recording summarized in a report
 
 **A/B testing**
 - **Products:**<br>
-[Qubit](http://www.qubit.com/solutions/ab-mv-testing){:target="_blank"}, [VWO](https://vwo.com/){:target="_blank"}, ruby gems: [Split](https://github.com/splitrb/split){:target="_blank"}, [Vanity](http://vanity.labnotes.org/){:target="_blank"}
+[Qubit](http://www.qubit.com){:target="_blank"}, [VWO](https://vwo.com/){:target="_blank"}
 - **When?**<br>
 After implementation.
 - **Why?**<br>
-A/B testing allows you to make more out of your existing traffic. While the cost of acquiring paid traffic can be substantial, the cost of increasing your conversions is minimal. The Return On Investment on A/B testing can be massive, because even small changes on a landing page or website can result in significant increases in generated leads, sales, and revenue (examples link & link).
-**What Can You Test?**
+A/B testing allows you to make more out of your existing traffic. While the cost of acquiring paid traffic can be substantial, the cost of increasing your conversions is minimal. The Return On Investment on A/B testing can be massive, because even small changes on a landing page or website can result in significant increases in generated leads, sales, and revenue.
+- **What can you test?**
   - Headings
   - Subheadings
   - Paragraph Text
   - Testimonials
   - Call to Action text
   - Call to Action Button
-  - LinksImages
+  - Links
+  - Images
   - Content near the fold
-  - Social proof
+  - Social proofs
   - Media mentions
   - Awards and badges<br>
-Advanced tests can include pricing structures, sales promotions, free trial lengths, navigation and UX experiences, free or paid delivery, and more.<br>
-**Links:**
+  - Advanced tests can include pricing structures, sales promotions, free trial lengths, navigation and UX experiences, free or paid delivery, and more.<br>
+- **Links:**
   - To read what A/B testing is, you should try these links [link](http://unbounce.com/landing-page-articles/what-is-ab-testing/){:target="_blank"}, [link](https://vwo.com/ab-testing/){:target="_blank"} & [link](https://www.optimizely.com/ab-testing/){:target="_blank"}.
   - Learn how to bust these 7 A/B testing myths by Kissmetrics [link](https://blog.kissmetrics.com/ab-testing-myths/){:target="_blank"}.
   - The ultimate guide to A/B Testing by Smashing Magazine [link](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/){:target="_blank"}.
@@ -181,22 +180,14 @@ Rather than showing raw statistics, it works by using different colors to indica
   - Click tracking: where the actual click occurred.
   - Scroll tracking: how far down the page the visitor scrolled.
   - Eye tracking: where people are most likely to focus upon first viewing an image.<br>
-What's more, a heatmap can be incredibly helpful in improving the clickability of your images.
-It will let you know what people are looking at and what details they are missing. From there, you can adjust, remove, and add whatever you need to increase the effectiveness of each image used.<br>
-Links:
-  - Learn about 8 heatmap tests that reveal visitors’ behavior (by Hotjar) [here](https://www.hotjar.com/heatmaps){:target="_blank"}.
-  - Learn how to use heatmaps to increase conversions (by Dan Virgillito from AdEspresso) [here](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/){:target="_blank"}.
-  - Practical guide how to increase conversions by using heatmaps [link](https://vwo.com/blog/increase-conversions-using-heatmaps/){:target="_blank"} & [link](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/){:target="_blank"}.
+  - What's more, a heatmap can be incredibly helpful in improving the clickability of your images. It will let you know what people are looking at and what details they are missing. From there, you can adjust, remove, and add whatever you need to increase the effectiveness of each image used.<br>
+- **Links:**
+  - Learn about 8 heatmap tests that reveal visitors’ behavior [here](https://www.hotjar.com/heatmaps){:target="_blank"} (by Hotjar).
+  - Learn how to use heatmaps to increase conversions [here](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/){:target="_blank"} (by Dan Virgillito from AdEspresso).
+  - Look at a practical guide how to increase conversions by using heatmaps [here](https://vwo.com/blog/increase-conversions-using-heatmaps/){:target="_blank"} and [here](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/){:target="_blank"}.
 - **How?**<br>
 You can use Hotjar to generate heatmaps of any page on your site, including password protected pages and dynamically generated pages.
-Types of Heatmaps
-  - [Click and Tap Heatmaps](https://docs.hotjar.com/docs/types-of-heatmaps#section-click-and-tap-heatmaps){:target="_blank"}
-  - [Move Heatmaps](https://docs.hotjar.com/docs/types-of-heatmaps#section-move-heatmaps){:target="_blank"}
-  - [Scroll Heatmaps](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps){:target="_blank"}<br>
-Hotjar is a new powerful tool that reveals the online behavior and voice of your users. By combining both (A) Analysis and (B) Feedback tools, Hotjar gives you the ‘big picture’ of how to improve your site's user experience and performance (conversion rates).<br>
-The Analysis tools allow you to measure and observe user behavior (what users do), while the Feedback tools allow you to hear what your users have to say (Voice of User/Customer).<br>
-The whole process and installation is described [here](https://docs.hotjar.com/docs){:target="_blank"}.<br>
-Additional links: [Hotjar heatmaps](https://docs.hotjar.com/docs/how-do-hotjar-heatmaps-work){:target="_blank"}
+To see types of heatmaps (Click and Tap, Move, Scroll) visit this [link](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps){:target="_blank"}
 
 **Analytics** – [more info](https://blog.kissmetrics.com/expert-google-analytics-reports/){:target="_blank"}
 - **Product:**<br>
@@ -221,7 +212,7 @@ Typical reports in GA:
 
 **Beta testing** – [more info](https://www.playtestcloud.com/blog/testflight-alternatives-ios-android){:target="_blank"}
 - **Products:**
-<br>[Test flight](https://developer.apple.com/testflight/){:target="_blank"}, [HockeyApp](https://hockeyapp.net/){:target="_blank"}, [Google Play Beta Testing](https://play.google.com/apps/publish/signup/){:target="_blank"}, [Fabric.io](https://get.fabric.io/){:target="_blank"}
+<br>[TestFlight](https://developer.apple.com/testflight/){:target="_blank"}, [HockeyApp](https://hockeyapp.net/){:target="_blank"}, [Google Play Beta Testing](https://play.google.com/apps/publish/signup/){:target="_blank"}, [Fabric.io](https://get.fabric.io/){:target="_blank"}
 - **When?**<br>
 After implementationand before official launch.
 - **Why?**<br>

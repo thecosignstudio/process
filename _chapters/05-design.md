@@ -38,10 +38,7 @@ You can look for inspiration here:
 - [Pinterest](http://www.pinterest.com){:target="_blank"}
 
 ### Preparing moodboards
-This step is really important for you and your client. There are situations when you finish your design, and the client is really happy – but this is not always the case. We recommend that you prepare a board with a lot of photos and pictures that will show your client what you would like to do with the future app, what “feelings” your designs will evoke, and finally, what the client can expect. Thanks to this approach you will increase the chances that client likes your solutions, and you will show that you care about the client’s feedback. **Approximate time: 4h**
-
-**Examples of moodboards:**
-- [Sample moodboard](https://netguru.invisionapp.com/boards/3M37AJO452DFW/){:target="_blank"}
+This step is really important for you and your client. There are situations when you finish your design, and the client is really happy – but this is not always the case. We recommend that you prepare a board with a lot of photos and pictures that will show your client what you would like to do with the future app, what “feelings” your designs will evoke, and finally, what the client can expect. Thanks to this approach you will increase the chances that client likes your solutions, and you will show that you care about the client’s feedback. **Approximate time: 4h.** For an example of a moodboard visit [this link](https://netguru.invisionapp.com/boards/3M37AJO452DFW/){:target="_blank"}.
 
 **How to prepare a moodboard?**<br>
 Use Boards by InVision for the following reasons:
@@ -54,15 +51,13 @@ It’s good to start creating a style guide right after the research stage. The 
 
 **What should a good style guide contain?**
 - **Color** (main colors and shade variations for each of them)<br>
-Inspirations:<br>
-[Link 1](https://coolors.co/app){:target="_blank"}<br>
-[Link 2](https://color.adobe.com/explore/?filter=most-popular&time=all){:target="_blank"}
+Useful tools:  [Coolors](https://coolors.co/app){:target="_blank"}, [Color Adobe](https://color.adobe.com/explore/?filter=most-popular&time=all){:target="_blank"}
 - **Typography** (font family and type scale)<br>
 Limit the number of typefaces and sizes you use in order to keep your designs simple. As a general rule of thumb, start with two fonts at most – one for your headers, and another one for your bodies. Most of the time, you won’t need any more than that.<br>
 We highly recommend using free fonts. If you want to use a paid font, check the licence carefully. If we use paid fonts, we charge clients. We can buy fonts for them and bill them – make sure the client agrees before that happens.<br>
 Free fonts: [Google Fonts](https://fonts.google.com/){:target="_blank"}<br>
 Paid fonts: [MyFonts](http://www.myfonts.com/){:target="_blank"} and [Typekit](https://typekit.com/){:target="_blank"}<br>
-Having troubles with pairing fonts? Try [Typewolf](https://www.typewolf.com/){:target="_blank"} or [FontPairs](https://www.typewolf.com/){:target="_blank"}<br>
+Having troubles with pairing fonts? Try [Typewolf](https://www.typewolf.com/){:target="_blank"} or [FontPairs](https://fontpair.co/){:target="_blank"}<br>
 - **Component library** (states of design)<br>
 Component-based thinking helps engineers. Design components can translate neatly into code. From the engineering perspective, components are like Lego blocks that you can put together.<br>
 For example:
@@ -72,11 +67,6 @@ For example:
 It’s important to establish a grid system that works for every use case. In the section on grids, include information on the number of columns and rows, margins, and example uses.
   - [8pt grid system](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632#.bipuod98k){:target="_blank"}
   - [Bootstrap grid](https://medium.com/@petehouston/setup-twitter-bootstrap-grid-in-sketch-f6e69eab95c2#.svi9r5wlj){:target="_blank"}
-
-**Examples of style guides**
-- [Example 1](https://d13yacurqjgara.cloudfront.net/users/30951/screenshots/3032068/attachments/635639/tapdaq_-_styleguide.png){:target="_blank"}
-- [Example 2](https://d13yacurqjgara.cloudfront.net/users/45787/screenshots/3156107/attachments/669909/styles.jpg){:target="_blank"}
-- [Example 3](https://d13yacurqjgara.cloudfront.net/users/104117/screenshots/2677541/attachments/539254/real-pixels.png){:target="_blank"}
 
 ## States of design
 During the design process, you have to keep in mind that your UI can be in different states:
@@ -119,9 +109,6 @@ The user’s correct input has been received by the application. The user doesn�
 
 These states will recur based on the page, user interaction, updated data, and pretty much any change to your application’s state. By thoughtfully designing for these changes, you can create a polished experience for users no matter which situation they find themselves in.
 
-Credits below<br>
-[Find out more](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85#.hmieefed1){:target="_blank"}
-
 ## Designing specifics for mobile native apps
 If you are only starting to design native apps, the best thing is to read the official guidelines for the Android (Material Design) and for iOS (Human Interface Guidelines) operation systems.
 
@@ -132,18 +119,10 @@ If you are only starting to design native apps, the best thing is to read the of
 [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/){:target="_blank"}
 
 ### Designing for gestures in general
-Use the most popular gestures to make application even more interactive. Remember that while using your phone, there is no “right click” as is the case with browsing websites on a computer. Try to put the most popular and intuitive finger gestures in areas where users might expect them.
-1. [3D-Touch](https://developer.apple.com/ios/3d-touch/){:target="_blank"}
-2. [Most common gestures](https://blogs.adobe.com/creativecloud/in-app-gestures-and-mobile-app-user-experience/){:target="_blank"}
+Use [the most popular gestures](https://blogs.adobe.com/creativecloud/in-app-gestures-and-mobile-app-user-experience/){:target="_blank"} to make application even more interactive. Remember that while using your phone, there is no “right click” as is the case with browsing websites on a computer. Try to put the most popular and intuitive finger gestures in areas where users might expect them.
 
 **Mobile app Interactions matters**<br>
 Read: [Microinteractions: The Secret of Great App Design](https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf){:target="_blank"}<br>
-Additional external resources:<br>
-- [Google’s 9 Principles of Material Design](https://blog.prototypr.io/googles-9-principles-of-material-design-fb3fef64dcf){:target="_blank"}
-- [Misused mobile UX patterns](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570){:target="_blank"}
-- [How to Design Native Mobile Apps](https://medium.com/@uxhow/how-to-design-native-mobile-apps-55d383fcb2b2){:target="_blank"}
-- [Golden Rules of User Interface Design](https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b){:target="_blank"}
-- [Empty State: Mobile App “Nice-to-Have” Essential](https://uxplanet.org/empty-state-mobile-app-nice-to-have-essential-f11c29f01f3){:target="_blank"}
 
 ## Designing in Teams: Best Practices
 
@@ -235,31 +214,17 @@ If there is enough time, you can create your own icon set. We use Nucleo for our
 ## Resources
 
 ### Icons
-1. Nucleo
-2. [FlatIcon](www.flaticon.com){:target="_blank"}
-3. [IconFinder](https://www.iconfinder.com/){:target="_blank"}
+- [Nucleo](https://nucleoapp.com/){:target="_blank"}, [FlatIcon](https://www.flaticon.com/){:target="_blank"}, [IconFinder](https://www.iconfinder.com/){:target="_blank"}
 
 ### Stock Images
-1. Paid
-  - [iStockPhoto](http://www.istockphoto.com/){:target="_blank"}
-  - [ShutterStock](https://www.shutterstock.com/){:target="_blank"}
-  - [GettyImages](http://www.gettyimages.com/){:target="_blank"}
-2. Free
-  - [Aggregator for all top free stocks](http://allthefreestock.com/){:target="_blank"}
+- Paid: [iStockPhoto](http://www.istockphoto.com/){:target="_blank"}, [ShutterStock](https://www.shutterstock.com/){:target="_blank"}, [GettyImages](http://www.gettyimages.com/){:target="_blank"}
+- Free: [Aggregator for all top free stocks](http://allthefreestock.com/){:target="_blank"}
 
 ### Fonts
-  1. [Google Fonts](https://fonts.google.com/){:target="_blank"}
-  2. [Adobe Typekit](https://typekit.com/fonts){:target="_blank"}
-  3. [Font Squirrel](https://www.fontsquirrel.com/){:target="_blank"}
-  4. [MyFonts](https://www.myfonts.com/){:target="_blank"}
-  5. [DaFont](http://www.dafont.com/){:target="_blank"}
+- [Google Fonts](https://fonts.google.com/){:target="_blank"}, [Adobe Typekit](https://typekit.com/fonts){:target="_blank"}, [Font Squirrel](https://www.fontsquirrel.com/){:target="_blank"}, [MyFonts](https://www.myfonts.com/){:target="_blank"}, [DaFont](http://www.dafont.com/){:target="_blank"}
 
 ### Sketch – good practices
-1. [General Sketch good practices](https://www.uxpin.com/studio/blog/10-best-practices-sketch/){:target="_blank"}
-2. [Symbols in Sketch](https://www.uxpin.com/studio/blog/10-best-practices-sketch/){:target="_blank"}
-
-### Plugins
-[Netguru knowledge base](https://netguru.atlassian.net/wiki/display/UXD/Knowledge+base){:target="_blank"}
+- [General Sketch good practices](https://www.uxpin.com/studio/blog/10-best-practices-sketch/){:target="_blank"}, [Symbols in Sketch](https://www.uxpin.com/studio/blog/10-best-practices-sketch/){:target="_blank"}
 
 ## Q&A
 
@@ -301,3 +266,9 @@ Designs ([example here](https://netguru.invisionapp.com/share/ZD9VDND6E#/screens
 - [We Give Meaning to Products – Design Flow at Netguru: the Approach](https://www.netguru.co/blog/design-flow-at-netguru-pt.-1){:target="_blank"}
 - [Anticipatory Design, pt. 1](https://www.netguru.co/blog/anticipatory-design-part-1){:target="_blank"}
 - [Anticipatory Design, pt. 2](https://www.netguru.co/blog/anticipatory-design-2){:target="_blank"}
+- [The Nine States of Design](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85#.hmieefed1){:target="_blank"}
+- [Google’s 9 Principles of Material Design](https://blog.prototypr.io/googles-9-principles-of-material-design-fb3fef64dcf){:target="_blank"}
+- [Misused mobile UX patterns](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570){:target="_blank"}
+- [How to Design Native Mobile Apps](https://medium.com/@uxhow/how-to-design-native-mobile-apps-55d383fcb2b2){:target="_blank"}
+- [Golden Rules of User Interface Design](https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b){:target="_blank"}
+- [Empty State: Mobile App “Nice-to-Have” Essential](https://uxplanet.org/empty-state-mobile-app-nice-to-have-essential-f11c29f01f3){:target="_blank"}

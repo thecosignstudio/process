@@ -73,8 +73,9 @@ Research takes time and can cost money, but in the grand scheme of things, it wi
 
 ### What is the product?
 - What is your product’s value proposition?
-- What is your desired competitive advantage? What sets apart your product/feature from the competitors?
-    - What is the main selling point?
+- What is your desired competitive advantage?
+- What sets apart your product/feature from the competitors?
+- What is the main selling point?
 - What is the client’s idea/vision of the product?
 - Web & mobile?
 - Do other touchpoints are valid for client?
@@ -94,17 +95,15 @@ One of the most important aspects of design for both parties is to understand th
 - Have you conducted market research?
 - Do you have a market niche?
 
-#### Money
-- How you want to fund your business in the future?
-
 #### Business model
+- How you want to fund your business in the future?
 - Business strategy
     - Do you have one?
-    - Desired pricing model? (Benchmark?)
+    - Desired pricing model?
     - Market strategy?
-        - Digital marketing
-    - Content strategy
-        - Offline strategy?
+    - Digital marketing?
+    - Content strategy?
+    - Offline strategy?
 - Digital strategy?
     - How to tell about your product online?
     - Success stories, case studies
@@ -133,7 +132,6 @@ One of the most important aspects of design for both parties is to understand th
 - Any similar product offerings, alternative solutions to the same problem?  What your potential customers are doing today instead of using your future product?
 - Are there any ideas already on the market that you would like to implement in the exact way?
 - Business critical features?
-    - Moneymaking funnel
 - Your Partners perspective
     - What do they need?
     - Turning for customer sales people
@@ -141,17 +139,17 @@ One of the most important aspects of design for both parties is to understand th
 - Other requirements / law restrictions
 - What country (or region) is the Product to be launched to?
 - What is the language the product is to be designed in?
-- Are there any special requirements regarding the marked that should be considered (ex. Cultural, religion limitations)?
+- Are there any special requirements regarding the marked that should be considered (e.g. Cultural, religion limitations)?
 - Is the product limited by regional law anyhow (for example anti-spam regulations or copyright)?
-- Is the product to be regionally diversified (ex. language versions)?
+- Is the product to be regionally diversified (e.g. language versions)?
 
 Sometimes, very direct questions won’t work the way we want.
 - Be smart during the interview with your client, ask them about the things that seem to be important to them.
 - Maybe there is a problem that we can solve and measure?
 - Be sure to set clear goals of what you want to achieve.
-- It’s highly recommended that you review the [Business model canvas.](https://upload.wikimedia.org/wikipedia/commons/1/10/Business_Model_Canvas.png){:target="_blank"} It’s not a clear example of which questions to ask, but it shows the fundamental aspects of business and products. You can treat it as an inspiration for collecting your thoughts.
+- It’s highly recommended that you review the [Business Model Canvas.](https://upload.wikimedia.org/wikipedia/commons/1/10/Business_Model_Canvas.png){:target="_blank"} It’s not a clear example of which questions to ask, but it shows the fundamental aspects of business and products. You can treat it as an inspiration for collecting your thoughts.
 
-Since everything is trackable, speak about the exact points you’re going to track. Identify the client’s KPIs (Key Performance Indicators). Good KPIs take into account the business context, predict success, show early warning signals, and validate achieved results. You can use the following materials to create [tailor-made KPI’s materials.](http://www.bscdesigner.com/kpi-system-example.htm){:target="_blank"} They could range from new sign-ups to a number of customers using Paypal vs. purchases with credit cards. Always make sure you know how high you’re aiming from the start. Sometimes, it can be challenging to analyse. Read more here: [**12 Steps System for the Most Challenging Metrics and KPIs**](http://www.bscdesigner.com/kpi-system.htm){:target="_blank"}
+Since everything is trackable, speak about the exact points you’re going to track. Identify the client’s KPIs (Key Performance Indicators). Good KPIs take into account the business context, predict success, show early warning signals, and validate achieved results. You can use the following materials to create [tailor-made KPI’s materials.](http://www.bscdesigner.com/kpi-system-example.htm){:target="_blank"} They could range from new sign-ups to a number of customers using Paypal vs. purchases with credit cards. Always make sure you know how high you’re aiming from the start. Sometimes, it can be challenging to analyse. Read more here: [12 Steps System for the Most Challenging Metrics and KPIs](http://www.bscdesigner.com/kpi-system.htm){:target="_blank"}
 
 ### Define users/target customer base
 Regardless of what you design, it is absolutely obligatory to figure out who you are targeting. Many of us believe that our product is for everyone, but trying to get your product appeal to everyone is going to be painful and expensive. What you want to do is figure out specifically who you are targeting, figure out that niche and focus your efforts on it. Finding out more about your target customer base will help your effectiveness and eventually improve your reach, because once you know who your users are, you’ll know how to design for them.
@@ -166,7 +164,9 @@ Regardless of what you design, it is absolutely obligatory to figure out who you
 - Have you gathered any user feedback?
 
 ### Define users’ goals
-For a better understanding of your users' needs and goals, we can use job stories. Based on our own empathy and this method, we can discover what users really need and what actions they have to take to achieve their goals. By knowing this, we can build a better [customer journey map](http://boxesandarrows.com/an-introduction-to-user-journeys/){:target="_blank"} that allows users to achieve their goals more quickly. For more information, [go here.](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"}
+For a better understanding of your users' needs and goals, we can use [job stories](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"}. Based on our own empathy and this method, we can discover what users really need and what actions they have to take to achieve their goals. By knowing this, we can build a better [customer journey map](http://boxesandarrows.com/an-introduction-to-user-journeys/){:target="_blank"} that allows users to achieve their goals more quickly.
+
+Answer questions below to define better users goals:
 
 - What are the user [stories?](https://www.netguru.co/blog/doing-features-and-user-stories-the){:target="_blank"}
 - What are users’ [jobs to be done?](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"}
@@ -197,6 +197,8 @@ For a better understanding of your users' needs and goals, we can use job storie
 
 ### Define the competitors
 For UX designers, evaluating the competition involves looking at the designs of products that are both in direct and indirect competition. Products that **directly compete** with each other are looking to solve the same problem. They often offer the same core functionalities and have an overlapping user base. **Indirect competitors** either have a different user base or a different service offering, while some aspects of the products overlap.
+
+To better define competition answer the following questions:
 
 - Have you benchmarked against your main competitors recently?
 - What is your competitor’s mission (if it exists)?
@@ -241,7 +243,6 @@ After you have placed all your ideas on the concept map, you can add additional 
 - Patterns
 - Mindmap
 - Similar case studies
-- and so on
 
 **Tip:** Show the results of your work wisely. Sometimes, your client might become inspired by the existing solutions too early, and they will try to impose a style from an existing project. To avoid this problem, you can use specific slices of typography and UI examples that are separated from the context.
 
@@ -251,10 +252,10 @@ You’re doing this because you care about the client’s business – remember 
 ## How much time should Research & Concept take?
 UX Research is the core of making an impactful product - in order to understand how users’ behave, how they think, what’s their mental models, and how your product help them in achieving their goals, you need to start digging deeper into finding those answers. There are various methods of doing so, but whatever will be done, it will be beneficial to the product - gaining insights enables to evoke sympathy, that is required to create a meaningful and human-centered solutions. 
 
-When starting on a project, you answer couple of questions:
-1. Are we building product from scratch or is it an existing one?
-2. Is there any data that can be analysed without engaging users?
-3. Can I get access to the product’s potential or real users?
+**When starting on a project, you answer couple of questions:**
+- Are we building product from scratch or is it an existing one?
+- Is there any data that can be analysed without engaging users?
+- Can I get access to the product’s potential or real users?
 
 {% include image.html img="user-research-methods.png" alt="User research methods chart" %}
 Source: [https://www.nngroup.com/articles/which-ux-research-methods](https://www.nngroup.com/articles/which-ux-research-methods){:target="_blank"}
@@ -270,12 +271,6 @@ Methods (to be described):
 - Analytics research
 - A/B Testing
 - Benchmarking
-
-Some helpful resources:
-- [https://www.nngroup.com](https://www.nngroup.com/articles/which-ux-research-methods){:target="_blank"}
-- [https://www.uxmatters.com](https://www.uxmatters.com/mt/archives/2012/08/stakeholder-research-precedes-ux-research.php#top ){:target="_blank"}
-- [https://www.usertesting.com](https://www.usertesting.com/blog/2013/03/04/when-to-test-incorporating-usability-testing-into-product-design/){:target="_blank"}
-- [http://guidetouxr.com](http://guidetouxr.com/p/index.html?Podcasts ){:target="_blank"}
 
 ### Q&A
 #### Questions your client may ask
@@ -307,3 +302,7 @@ Some helpful resources:
 - [Top 10 Web-Design Podcasts You Should Follow This Year](https://www.netguru.co/blog/top-10-web-design-podcasts-you-should-follow-this-year){:target="_blank"}
 - [User Research: Airbnb for the Chinese Market](https://uxdesign.cc/user-research-airbnb-for-the-chinese-market-5ee21ce34bff){:target="_blank"}
 - [Crafting a Great Branding Delivery](https://medium.com/swlh/crafting-a-great-branding-delivery-7992990d2548){:target="_blank"}
+- [https://www.nngroup.com](https://www.nngroup.com/articles/which-ux-research-methods){:target="_blank"}
+- [https://www.uxmatters.com](https://www.uxmatters.com/mt/archives/2012/08/stakeholder-research-precedes-ux-research.php#top ){:target="_blank"}
+- [https://www.usertesting.com](https://www.usertesting.com/blog/2013/03/04/when-to-test-incorporating-usability-testing-into-product-design/){:target="_blank"}
+- [http://guidetouxr.com](http://guidetouxr.com/p/index.html?Podcasts ){:target="_blank"}
