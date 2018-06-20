@@ -272,8 +272,7 @@ Methods (to be described):
 - A/B Testing
 - Benchmarking
 
-### Q&A
-#### Questions your client may ask
+## Questions your client may ask
 {% include qa.html question="Why do you have to spend time researching instead of designing?" answer="Good research is the foundation of every good design. It helps you save money on extra iterations and allows us to design a product that aligns better with the market and real user needs. " %}
 
 {% include qa.html question="How long will it take?" answer="We always want to give you the best output we can provide, so our work needs time. Based on information from you and our own research, we will generate for you the best possible report about your market and your customers. This phase is usually completed after 2 days of work, but in some cases, it could take longer." %}
@@ -291,10 +290,10 @@ Methods (to be described):
 - Has the competition been analyzed?
 - Have user goals been defined?
 
-### Desired outcomes of this stage:
+## Desired outcomes of this stage
 - You conducted research and presented results to the client.
 
-### Additional reading
+## Additional reading
 - [Accessibility in Apps: the Necessity Often Forgotten](https://www.netguru.co/blog/accessibility-web-mobile-apps){:target="_blank"}
 - [Designing The Invisible Experience (15 minutes workshops)](https://www.netguru.co/blog/designing-the-invisible-experience){:target="_blank"}
 - [Voice Recognition Tools Review. Alexa, PocketSphinx, Google API or Project Oxford?](https://www.netguru.co/blog/voice-recognition-tools-review){:target="_blank"}

@@ -131,9 +131,7 @@ Talk to your devs about the technical efficiency of your design solutions.
 Don’t forget the importance of function by concentrating much on the visual form of the wireframe. |
 Don’t be too much of pixel-perfect, don’t spend much time on things that can be easily changed in the later stage."%}
 
-## Q&A
-
-### Questions your client may ask:
+## Questions your client may ask
 
 {% include qa.html question="Can you explain the difference between wireframes and visual design?" answer="Wireframes are a quick visual method of building the backbone of the product. At this stage, we define how our product/features should work. It also helps us to avoid UX problems and present to developers how the website/application will work before we provide them with the final designs.
 Visual design is the part of the design process that comes after wireframing. In the visual design phase, based on wireframes, we focus on creating the visual image and style of the product.
@@ -143,7 +141,7 @@ To sum up,  we need wireframes to work out the backbone of the product, whereas 
 
 {% include qa.html question="What kind of benefits will I get from this?" answer="Using wireframes will often help to bring to light new requirements and questions that may not have been considered by the project team. Wireframes often end up evolving into the requirements of the system. At this stage, we can also check if your product fulfils all needs that users can have. By creating wireframes, you will get a better product, which will be better adjusted to your target customer base." %}
 
-### Questions to ask yourself at this stage:
+### Questions to ask yourself at this stage
 - Are user flows complete?
 - Are wireframes available on InVision?
 - Are wireframes clickable?
@@ -153,7 +151,7 @@ To sum up,  we need wireframes to work out the backbone of the product, whereas 
 -- Wireframe is ready to be reused in the visual design phase
 - Has feedback been gathered?
 
-## Desired outcomes of this stage:
+## Desired outcomes of this stage
 
 1. Clickable Wireframe – Low or High fidelity (preferably high-fidelity)
 2. User flows covering Jobs To Be Done/User Stories

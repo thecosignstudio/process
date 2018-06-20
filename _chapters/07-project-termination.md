@@ -19,7 +19,7 @@ chapter_number: "07"
 - External Developers
 - Project Manager
 
-## Termination checklist items:
+## Termination checklist items
 
 ### After the design phase: InVision
 
@@ -47,9 +47,7 @@ Create a Q&A session with your project team: Developers, PM and QAs. We advise y
 - Project is archived in InVision.
 - Review of the developer's work is done by the designer.
 
-## Q&A
-
-### Questions your client may ask:
+## Questions your client may ask
 
 {% include qa.html question="Is the development team safe to proceed without your presence?" answer="Yes. All assets have been prepared, and are available on Google Drive or as links on Jira Tickets" %}
 
@@ -63,6 +61,6 @@ Create a Q&A session with your project team: Developers, PM and QAs. We advise y
 - Are the relevant files uploaded and available to developers?
 - If the project has been released and development has been completed – have I archived the InVision project?
 
-## Desired outcome after this stage:
+## Desired outcome after this stage
 1. Team’s questions regarding the design have been answered.
 2. The client knows about the help you can offer in the future (regular checkups, iterations).

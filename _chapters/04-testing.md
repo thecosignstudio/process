@@ -227,8 +227,7 @@ It’s mostly done by developers and is especially useful for mobile apps testin
 - Don’t try to capture your insights (write them down, talk to yourself, etc.) during the test with real users – it makes them nervous.
 - You don’t want to bias your users during the test. You want to see how they figure out things for themselves, or how they don’t figure them out. In real life, you wouldn’t sit next to them while they would be using your product.
 
-## Q&A
-**Questions your client can ask**
+## Questions your client can ask
 {% include qa.html question="Why do I need testing?" answer="Above all, you need it to minimize the risk of exposing bugs to real users in real scenarios. Also, the iterative nature of the Agile Scrum methodology helps to improve the weak points of the product in every sprint. Testing will detect those weak points." %}
 {% include qa.html question="Who’s paying for the test?" answer="The client pays for the tests, because they are part of the services we provide. Tests that take significant amount of time should be discussed, estimated, and accepted with the client." %}
 {% include qa.html question="How long will the test take? WIll it affect the deadline and/or development?" answer="See estimated times in the Tools section. If affecting the course of the development is not the purpose of the test (e.g. Heatmaps), it shouldn't affect the deadline or the development schedule." %}
@@ -243,9 +242,9 @@ It’s mostly done by developers and is especially useful for mobile apps testin
 - Was a test conducted after the visual design phase?
 - After the implementation, were at least Google Analytics installed? (Y/N)
 
-**Desired outcomes of this stage:**
+## Desired outcomes of this stage
 1. Wireframes or designs tested using appropriate techniques.
 2. Feedback gathered and implemented.
 
-**Additional reading**
+## Additional reading
 - [How to Improve Your UI with Remote Usability Testing](https://www.netguru.co/blog/improve-ui-remote-usability-testing){:target="_blank"}
