@@ -12,8 +12,7 @@ chapter_number: "04"
 - Tips for testing designs
 - Questions most frequently asked by clients.cc
 
-From Oxford English Dictionary:
-{% include quote.html text="Test (v.): take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice." %}
+{% include quote.html text="Test (v.): take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice." author="From Oxford English Dictionary" %}
 
 You can test just about anything in a digital product: design solutions, code, performance, forms, buttons, etc. In this article, we will focus on design only. We are working in the Agile Scrum methodology, in which **testing is part and parcel of every sprint**. That’s why each design team at Netguru includes a dedicated QA specialist.
 Every iteration you make on your design should be tested. The major stages in the design process, which you can see below, should involve testing methods that are adequate to the project’s scope and the stage you are in.
@@ -189,7 +188,7 @@ Rather than showing raw statistics, it works by using different colors to indica
 You can use Hotjar to generate heatmaps of any page on your site, including password protected pages and dynamically generated pages.
 To see types of heatmaps (Click and Tap, Move, Scroll) visit this [link](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps){:target="_blank"}
 
-**Analytics** – [more info](https://blog.kissmetrics.com/expert-google-analytics-reports/){:target="_blank"}
+[**Analytics**](https://blog.kissmetrics.com/expert-google-analytics-reports/){:target="_blank"}
 - **Product:**<br>
 [Google Analytics](https://analytics.google.com){:target="_blank"}, [Woopra](https://www.woopra.com/){:target="_blank"}, [Intercom](https://www.intercom.com/){:target="_blank"}
 - **When?**<br>
@@ -210,7 +209,7 @@ Typical reports in GA:
   - Content Efficiency Report
   - Traffic Acquisition from Social Media Report
 
-**Beta testing** – [more info](https://www.playtestcloud.com/blog/testflight-alternatives-ios-android){:target="_blank"}
+[**Beta testing**](https://www.playtestcloud.com/blog/testflight-alternatives-ios-android){:target="_blank"}
 - **Products:**
 <br>[TestFlight](https://developer.apple.com/testflight/){:target="_blank"}, [HockeyApp](https://hockeyapp.net/){:target="_blank"}, [Google Play Beta Testing](https://play.google.com/apps/publish/signup/){:target="_blank"}, [Fabric.io](https://get.fabric.io/){:target="_blank"}
 - **When?**<br>

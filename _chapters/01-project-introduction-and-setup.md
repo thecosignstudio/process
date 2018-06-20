@@ -40,7 +40,7 @@ Together with the Project Manager, organize a meeting and gather all the project
     - Design is about how things work, not only about how they look.
 Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning.
 Useful links:
-        - [What to expect from a designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
+        - [What To Expect From a Designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
         - [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
         - [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
 - **Avoid multi-platform designs at the early stages of the project**
@@ -52,7 +52,7 @@ Try to make it clear that even the best product design does not guarantee a prod
 - **Give a quick overview of all the Product Design phases**
 
 ### First meeting – get some info from the client:
-#### General info
+**General info**
 - What is your deadline? (design/release date)
 - What will make the application a success in your opinion?
 - What will make our work a success in your eyes?
@@ -237,6 +237,6 @@ You should also create an Initial interview subfolder, which will collect the mo
 - [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
 - [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
 - [How to Talk to Designers About Design: Tips for Non-Designers](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}
-- [What to Expect from a Designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
+- [What To Expect From a Designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
 - [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
 - [How to Choose a Designer – Step by Step Guide](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}

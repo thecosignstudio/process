@@ -21,7 +21,7 @@ In order to deliver a great product, much effort needs to be taken, and Research
 #### Benefits: why is it a good idea to do research in a team?
 When doing research together, a team generate ideas faster and verify their ideas in the context of the product. Working in a group also gives you a chance to use the so-called mutual design critique (when one designer contests the ideas of another designer) – this technique enables you to see drawbacks in your thinking process and lets you get visual inspirations from others.
 
-#### What are the benefits of Research & Concept?
+## What are the benefits of Research & Concept?
 **Benefits for a Product Designer:**
 - You build a strong foundation for future design processes.
 - You don’t waste time on finding the right look for your project during the wireframing and designing phases.

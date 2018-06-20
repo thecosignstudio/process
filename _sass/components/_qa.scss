@@ -16,7 +16,7 @@ $root: 'c-qa';
     }
 
     &--faded {
-      margin-bottom: 0;
+      margin-bottom: 3rem;
       font-weight: $fw-regular;
 
       .#{$root}__bullet {
