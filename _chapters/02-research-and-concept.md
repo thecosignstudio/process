@@ -108,7 +108,7 @@ One of the most important aspects of design for both parties is to understand th
     - How to tell about your product online?
     - Success stories, case studies
     - Strategies per product?
-        - Do you have cross platform promotion strategy?
+    - Do you have cross platform promotion strategy?
     - Are you planning international expansion?
 - How would you like to be perceived as a brand?
 - How should your users perceive you as a company? (i.e. innovative, traditional, easy to use)?
@@ -139,7 +139,7 @@ One of the most important aspects of design for both parties is to understand th
 - Other requirements / law restrictions
 - What country (or region) is the Product to be launched to?
 - What is the language the product is to be designed in?
-- Are there any special requirements regarding the marked that should be considered (e.g. Cultural, religion limitations)?
+- Are there any special requirements regarding the market that should be considered (e.g. Cultural, religion limitations)?
 - Is the product limited by regional law anyhow (for example anti-spam regulations or copyright)?
 - Is the product to be regionally diversified (e.g. language versions)?
 
@@ -263,7 +263,7 @@ Source: [https://www.nngroup.com/articles/which-ux-research-methods](https://www
 
 The time required for user research is strictly connected with the methods - the more you talk with the users, the more time it would take to analyse their answers. But be assured, that not skipping this part would eventually affect the later stages of creating the product - the more you’ll know from users, the less guessing and predicting you’ll be forced to do. Stepping into users’ shoes will get so much easier!
 
-Methods (to be described):
+Methods:
 - User testing
 - Market research
 - Surveys

@@ -254,8 +254,8 @@ If there is enough time, you can create your own icon set. We use Nucleo for our
 
 ## Desired outcomes of this stage
 - Moodboard (example [here](https://netguru.invisionapp.com/boards/D834FYVZBKNWP){:target="_blank"} and [here](https://netguru.invisionapp.com/boards/F736L21WBKCPU){:target="_blank"})
-- Style guide ([external example](https://projects.invisionapp.com/share/P79V1I7NK#/screens/212581073){:target="_blank"}, [internal example](https://netguru.invisionapp.com/share/7UAMU5OB3#/screens){:target="_blank"})
-Designs ([example here](https://netguru.invisionapp.com/share/ZD9VDND6E#/screens/212677302){:target="_blank"})
+- Style guide (check an example of [Taqsim Style Guide](https://netguru.invisionapp.com/share/7UAMU5OB3#/screens){:target="_blank"} and short [article about color](https://projects.invisionapp.com/share/P79V1I7NK#/screens/212581073){:target="_blank"})
+- Designs ([check an example here](https://netguru.invisionapp.com/share/ZD9VDND6E#/screens/212677302){:target="_blank"})
 
 ## Additional reading
 - [Psychology behind Product Design – staying efficient in the age of distraction](https://www.netguru.co/blog/psychology-behind-the-product-design-staying-efficient-in-the-age-of-distractions){:target="_blank"}

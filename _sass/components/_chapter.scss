@@ -116,10 +116,8 @@
     }
 
     li {
-      padding-left: 2.5em;
       font-size: $fs-rel-1;
       line-height: $base-sizing;
-      text-indent: -1.4em;
 
       &::before {
         @include sizing(8px);

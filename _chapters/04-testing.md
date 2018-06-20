@@ -158,7 +158,6 @@ A/B testing allows you to make more out of your existing traffic. While the cost
   - The ultimate guide to A/B Testing by Smashing Magazine [link](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/){:target="_blank"}.
   - Learn about most important A/B Testing checklist by HubSpot [link](https://blog.hubspot.com/marketing/a-b-test-checklist#sm.00001z5neov22f9pvdk194oo5d7tq){:target="_blank"}.                                                                                   
 - **How?**<br>
-A/B Testing Process<br>
 The correct way to run an A/B testing experiment is to follow a scientific experimental process. It includes the following steps:
 1. **Study your Website Data:** Use a website analytics tool such as Google Analytics and find the problem areas in your conversion funnel. For example, you can identify the bottleneck-pages with bad metrics.
 2. **Observe User Behavior:** Utilize visitor behavior analysis tools and find what is stopping the visitors from converting. For example, “The CTA button is not prominent on the home page."
@@ -189,7 +188,7 @@ You can use Hotjar to generate heatmaps of any page on your site, including pass
 To see types of heatmaps (Click and Tap, Move, Scroll) visit this [link](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps){:target="_blank"}
 
 [**Analytics**](https://blog.kissmetrics.com/expert-google-analytics-reports/){:target="_blank"}
-- **Product:**<br>
+- **Products:**<br>
 [Google Analytics](https://analytics.google.com){:target="_blank"}, [Woopra](https://www.woopra.com/){:target="_blank"}, [Intercom](https://www.intercom.com/){:target="_blank"}
 - **When?**<br>
 After implementation.
