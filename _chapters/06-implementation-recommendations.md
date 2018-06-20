@@ -39,18 +39,13 @@ Use optimization tools like [Kraken](https://kraken.io/web-interface){:target="_
 ## Asset naming convention
 
 You can decide your own naming pattern for your app, but you must keep in mind the following:
-1. The valid charset for naming resources is [a-z, _, 0–9], i.e. all lowercase characters, numbers, and underscore.
-2. The first character of your asset name can be either an underscore _ or a lowercase letter, but it cannot be a number.
-3. Do not use uppercase letters. Not even in extensions such as *.png* or *.jpg*
-4. Use an underscore _ as separator wherever you want to “put space” between two words because hyphen - and space are not allowed
-5. Asset names should be unique across the app’s screens. If you have two add buttons with different dimensions, you cannot name both as *add_icon.png*, you can create two different icons, e.g. *add_icon_small.png* and *add_icon_big.png* with all their density variants.
-6. For iOS, name each asset according to this naming convention
-- asset.png
-- asset@2x.png
-- asset@3x.png
-7. For Android Devices, provide each asset with the same name but dedicated folders.
-- asset.png
-- desired folder structure:
+- The valid charset for naming resources is [a-z, _, 0–9], i.e. all lowercase characters, numbers, and underscore.
+- The first character of your asset name can be either an underscore _ or a lowercase letter, but it cannot be a number.
+- Do not use uppercase letters. Not even in extensions such as *.png* or *.jpg*
+- Use an underscore _ as separator wherever you want to “put space” between two words because hyphen - and space are not allowed
+- Asset names should be unique across the app’s screens. If you have two add buttons with different dimensions, you cannot name both as *add_icon.png*, you can create two different icons, e.g. *add_icon_small.png* and *add_icon_big.png* with all their density variants.
+- For iOS, name each asset according to this naming convention: asset.png, asset@2x.png, asset@3x.png
+- For Android Devices, provide each asset with the same name asset.png but dedicated folders. Desired folder structure:
 
 {% include image.html img="image6.png" img2x="Image6@2x.png" alt="Desired folder structure" %}
 
@@ -75,7 +70,7 @@ Examples:
 - *ic_asset_name_disabled*
 - *ic_asset_name_activated*
 
-If you want to find out more, here’s a [good article](https://medium.com/@AkhilDad/a-designers-guide-for-naming-android-assets-f790359d11e5#.8gk28dx78){:target="_blank"}.
+If you want to find out more, here’s a good article: [A Designers Guide for naming Android Assets](https://medium.com/@AkhilDad/a-designers-guide-for-naming-android-assets-f790359d11e5#.8gk28dx78){:target="_blank"}.
 
 ## Android platform-specific tips
 
@@ -96,7 +91,7 @@ Just remember to ask the developer which way they want the assets to be delivere
 
 {% include image.html img="9_patch_Android.png" img2x="9_patch_Android@2x.png" alt="9 patch scaling for Android" %}
 
-If you have assets that are used more than once in your application and are scalable, you can use 9-patch scaling (e.g. for buttons). Things like icons will probably not scale properly, so unfortunately, you have to resize them manually for all the resolutions. The 9-patch guide is always 1 px thick and must be black (#000000), otherwise it won’t work. Your slice will always be 2 px bigger than the asset (1 px left and right and/or at the top and bottom). Thus, if your asset is 48x48 px, your slice will be 50x50 px. You can’t downscale 9-patch images, so you have to deliver them at the smallest size possible. This is also better for the overall performance of the application. You can use the Draw9Patch tool from Android to easily create or check your 9-patch images. For more specific information on 9-patch scaling and/or downloading the draw9patch tool, check the [Android Developers](http://developer.android.com/tools/help/draw9patch.html){:target="_blank"} website. You can also check [this link](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=320&name=example){:target="_blank"}.
+If you have assets that are used more than once in your application and are scalable, you can use 9-patch scaling (e.g. for buttons). Things like icons will probably not scale properly, so unfortunately, you have to resize them manually for all the resolutions. The 9-patch guide is always 1 px thick and must be black (#000000), otherwise it won’t work. Your slice will always be 2 px bigger than the asset (1 px left and right and/or at the top and bottom). Thus, if your asset is 48x48 px, your slice will be 50x50 px. You can’t downscale 9-patch images, so you have to deliver them at the smallest size possible. This is also better for the overall performance of the application. You can use the Draw9Patch tool from Android to easily create or check your 9-patch images. For more specific information on 9-patch scaling and/or downloading the draw9patch tool, check the [Android Developers](http://developer.android.com/tools/help/draw9patch.html){:target="_blank"} website. You can also check [Simple nine-patch generator](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=320&name=example){:target="_blank"}.
 
 Be sure that App icons and Play Store Assets are provided following [Google’s guidelines](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en){:target="_blank"}.
 
@@ -106,7 +101,8 @@ You must supply high-resolution images for all artwork in your app and for all t
 
 To put it simply, all you need is to provide the developer with @1x, @2x, @3x assets. That’s it. You’re brilliant.
 
-Be sure that App icons and App store Assets will be in accordance with the App Store guidelines [link1](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/){:target="_blank"} and [link2](https://developer.apple.com/library/content/qa/qa1686/_index.html){:target="_blank"}, also double check that PNG files do not have the alpha channel, because Apple will reject them otherwise.
+Be sure that App icons and App store Assets will be in accordance with the App Store guidelines (check [
+Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/){:target="_blank"} and [App Icons on iPhone, iPad and Apple Watch](https://developer.apple.com/library/content/qa/qa1686/_index.html){:target="_blank"}), also double check that PNG files do not have the alpha channel, because Apple will reject them otherwise.
 
 ### Questions your client may ask
 

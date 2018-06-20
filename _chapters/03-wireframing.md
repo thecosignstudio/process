@@ -36,11 +36,10 @@ A wireframe is a basic visual interface guide that outlines the structure of an 
 The wireframing phase can be divided into 2 subphases:
 
 ### User Flow diagrams
-User Flow diagrams (also known as flowcharts) are a visual representation of a desired user journey path through the designed product. They illustrate the steps, decisions, and funnels users frequently come across. Thoughtfully crafted User Flow Diagrams let you reveal the moments critical for user conversion and then apply adequate solutions to the obstacles you identify.
-Examples: [link](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"}, [link](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}
+User Flow diagrams (also known as flowcharts) are a visual representation of a desired user journey path through the designed product. They illustrate the steps, decisions, and funnels users frequently come across. Thoughtfully crafted User Flow Diagrams let you reveal the moments critical for user conversion and then apply adequate solutions to the obstacles you identify. For example of user flow diagram go [here](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"} and to check out flowchart click [this link](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}.
 
 ### Single-page wireframes
-Single-page wireframes (also known as page schematics or screen blueprints) are a visual guide to a page's structure, composition, and information hierarchy. Their purpose is to arrange the elements of a website’s content in an informed, user-friendly and business-effective manner. As their main focus lies in the functionality not obstructed by flashy visuals, they need to be stripped of all elements of visual language such as colors, infographics, effects, etc. For more information look [here](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}.
+Single-page wireframes (also known as page schematics or screen blueprints) are a visual guide to a page's structure, composition, and information hierarchy. Their purpose is to arrange the elements of a website’s content in an informed, user-friendly and business-effective manner. As their main focus lies in the functionality not obstructed by flashy visuals, they need to be stripped of all elements of visual language such as colors, infographics, effects, etc. Look at the example of wireframe [here](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}.
 
 ## What elements should I include in a wireframe?
 

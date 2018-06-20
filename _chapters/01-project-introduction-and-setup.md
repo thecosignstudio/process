@@ -41,10 +41,10 @@ Together with the Project Manager, organize a meeting and gather all the project
 Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning.
 Useful links:
         - [What to expect from a designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
-        - [What are you paying for](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
-        - [Designer-client relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
+        - [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
+        - [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
 - **Avoid multi-platform designs at the early stages of the project**
-If the client needs a multi-platform design, ask another designer for help. If you believe that the scope is really big, always suggest [2+ designers.](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
+If the client needs a multi-platform design, ask another designer for help. If you believe that the scope is big enough, always suggest a design team. Learn more from: [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
 - **Emphasize that it’s impossible to accurately predict users’ behavior**
 We rely on research and available data – the validity of a solution can only be assessed with relevant tests.
 - **We cannot guarantee a business success**
@@ -73,7 +73,7 @@ Try to make it clear that even the best product design does not guarantee a prod
     - The narrower the better – a more focused scope is superior.
     - Try to get to know the client’s requirements and expectations for the review.
     - Try to get to know what user journeys are key to the client.
-        - In a perfect scenario, narrow down the scope to just one.
+    - In a perfect scenario, narrow down the scope to just one.
 - After the call, discuss the client’s requirements within the team and ask the team about possible blockers.
 
 #### Visual:
@@ -91,12 +91,10 @@ Make sure that all answers are documented and available for other (current and f
 - Be active, not passive – recommend solutions.
 - Listen to the client’s expectations, don’t be afraid to ask questions.
 - Consult your solutions with the developers from day one.
-- Make sure you explain to the client how to use communication tools.
-    - e.g. comments in [InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"}; explain the difference between [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} and comments
+- Make sure you explain to the client how to use communication tools e.g. comments in [InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"}; explain the difference between [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} and comments
 
 #### Feedback
-- Does the client have time to give you feedback?
-    - If not, try to ask which active stakeholders can actively participate in communication.
+- Does the client have time to give you feedback, if not, try to ask which active stakeholders can actively participate in communication.
 - Make the client aware about the value of an active and collaborative approach (feedback, communication).
 - Make sure that there is only one final point of feedback on the client’s part.
 - Make sure that you will have an opportunity to present your solutions to all stakeholders.
