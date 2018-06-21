@@ -104,7 +104,7 @@ To put it simply, all you need is to provide the developer with @1x, @2x, @3x as
 Be sure that App icons and App store Assets will be in accordance with the App Store guidelines (check [
 Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/){:target="_blank"} and [App Icons on iPhone, iPad and Apple Watch](https://developer.apple.com/library/content/qa/qa1686/_index.html){:target="_blank"}), also double check that PNG files do not have the alpha channel, because Apple will reject them otherwise.
 
-### Questions your client may ask
+## Questions your client may ask
 
 {% include qa.html question="Are all assets ready? Are all assets for the iPhone/Android done?" answer="Guide the client to the Jira tickets with assets attached, provide links to assets in the Google Drive folder." %}
 
@@ -117,11 +117,11 @@ Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guid
 - Have I made platform-specific assets in all required sizes?
 - Am I sure developers have all they need?
 
-### Desired outcomes after this stage:
+## Desired outcomes after this stage
 
 1. A set of assets covering all the designs for all target devices is complete.
 
-### Additional reading:
+## Additional reading
 - [Better Android workflows with Sketch](https://medium.com/@lmindler/using-sketch-3-and-a-bit-of-fairy-dust-for-a-better-android-workflow-f667d0048855#.lgpmpu10m){:target="_blank"}
 - [Design like a Developer](https://medium.com/going-your-way-anyway/design-like-a-developer-b92f7a8f4520#.1ynw77olc){:target="_blank"}
 - [Why should you use Material Design](https://www.netguru.co/blog/why-should-you-use-material-design){:target="_blank"}

@@ -226,9 +226,7 @@ If there is enough time, you can create your own icon set. We use Nucleo for our
 ### Sketch – good practices
 - [General Sketch good practices](https://www.uxpin.com/studio/blog/10-best-practices-sketch/){:target="_blank"}, [Symbols in Sketch](https://www.uxpin.com/studio/blog/10-best-practices-sketch/){:target="_blank"}
 
-## Q&A
-
-**Questions your client may ask**
+## Questions your client may ask
 
 {% include qa.html question="Why is designing in teams better?" answer="TYou get a broader skillset & the team’s collective experience (complementary teams have members with unique skills such as UX, visual design, or illustration). Problems are solved more efficiently, because team members instantly verify each other’s incorrect assumptions and bad solutions. The work efficiency also increases, because tasks are distributed in a smart way (certain designers work faster on certain tasks). The chances of the product’s success increase, because teams offer more idea-creation power and instant second opinion with full-context feedback." %}
 
@@ -254,12 +252,12 @@ If there is enough time, you can create your own icon set. We use Nucleo for our
 - Have I designed for all target devices and design states?
 - Have I gathered feedback from client and the team?
 
-**Desired outcomes of this stage:**
+## Desired outcomes of this stage
 - Moodboard (example [here](https://netguru.invisionapp.com/boards/D834FYVZBKNWP){:target="_blank"} and [here](https://netguru.invisionapp.com/boards/F736L21WBKCPU){:target="_blank"})
-- Style guide ([external example](https://projects.invisionapp.com/share/P79V1I7NK#/screens/212581073){:target="_blank"}, [internal example](https://netguru.invisionapp.com/share/7UAMU5OB3#/screens){:target="_blank"})
-Designs ([example here](https://netguru.invisionapp.com/share/ZD9VDND6E#/screens/212677302){:target="_blank"})
+- Style guide (check an example of [Taqsim Style Guide](https://netguru.invisionapp.com/share/7UAMU5OB3#/screens){:target="_blank"} and short [article about color](https://projects.invisionapp.com/share/P79V1I7NK#/screens/212581073){:target="_blank"})
+- Designs ([check an example here](https://netguru.invisionapp.com/share/ZD9VDND6E#/screens/212677302){:target="_blank"})
 
-**Additional reading**
+## Additional reading
 - [Psychology behind Product Design – staying efficient in the age of distraction](https://www.netguru.co/blog/psychology-behind-the-product-design-staying-efficient-in-the-age-of-distractions){:target="_blank"}
 - [How to make Sketch even better](https://www.netguru.co/blog/how-to-make-sketch-even-better){:target="_blank"}
 - [How NOT To Design An Interface For Your Mobile App](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}

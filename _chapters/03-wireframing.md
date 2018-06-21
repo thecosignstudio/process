@@ -39,7 +39,7 @@ The wireframing phase can be divided into 2 subphases:
 User Flow diagrams (also known as flowcharts) are a visual representation of a desired user journey path through the designed product. They illustrate the steps, decisions, and funnels users frequently come across. Thoughtfully crafted User Flow Diagrams let you reveal the moments critical for user conversion and then apply adequate solutions to the obstacles you identify. For example of user flow diagram go [here](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"} and to check out flowchart click [this link](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}.
 
 ### Single-page wireframes
-Single-page wireframes (also known as page schematics or screen blueprints) are a visual guide to a page's structure, composition, and information hierarchy. Their purpose is to arrange the elements of a website’s content in an informed, user-friendly and business-effective manner. As their main focus lies in the functionality not obstructed by flashy visuals, they need to be stripped of all elements of visual language such as colors, infographics, effects, etc. Look at the example of wireframe [here](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}.
+Single-page wireframes (also known as page schematics or screen blueprints) are a visual guide to a page's structure, composition, and information hierarchy. Their purpose is to arrange the elements of a website’s content in an informed, user-friendly and business-effective manner. As their main focus lies in the functionality not obstructed by flashy visuals, they need to be stripped of all elements of visual language such as colors, infographics, effects, etc. Look at the example of [the wireframe](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}.
 
 ## What elements should I include in a wireframe?
 
@@ -131,9 +131,7 @@ Talk to your devs about the technical efficiency of your design solutions.
 Don’t forget the importance of function by concentrating much on the visual form of the wireframe. |
 Don’t be too much of pixel-perfect, don’t spend much time on things that can be easily changed in the later stage."%}
 
-## Q&A
-
-### Questions your client may ask:
+## Questions your client may ask
 
 {% include qa.html question="Can you explain the difference between wireframes and visual design?" answer="Wireframes are a quick visual method of building the backbone of the product. At this stage, we define how our product/features should work. It also helps us to avoid UX problems and present to developers how the website/application will work before we provide them with the final designs.
 Visual design is the part of the design process that comes after wireframing. In the visual design phase, based on wireframes, we focus on creating the visual image and style of the product.
@@ -143,7 +141,7 @@ To sum up,  we need wireframes to work out the backbone of the product, whereas 
 
 {% include qa.html question="What kind of benefits will I get from this?" answer="Using wireframes will often help to bring to light new requirements and questions that may not have been considered by the project team. Wireframes often end up evolving into the requirements of the system. At this stage, we can also check if your product fulfils all needs that users can have. By creating wireframes, you will get a better product, which will be better adjusted to your target customer base." %}
 
-### Questions to ask yourself at this stage:
+### Questions to ask yourself at this stage
 - Are user flows complete?
 - Are wireframes available on InVision?
 - Are wireframes clickable?
@@ -153,7 +151,7 @@ To sum up,  we need wireframes to work out the backbone of the product, whereas 
 -- Wireframe is ready to be reused in the visual design phase
 - Has feedback been gathered?
 
-## Desired outcomes of this stage:
+## Desired outcomes of this stage
 
 1. Clickable Wireframe – Low or High fidelity (preferably high-fidelity)
 2. User flows covering Jobs To Be Done/User Stories
@@ -164,10 +162,8 @@ To sum up,  we need wireframes to work out the backbone of the product, whereas 
 ## Additional reading
 - [Improve Your Online Store UX With These Handy Tips](https://www.netguru.co/blog/ecommerce-ux-tips){:target="_blank"}
 - [How to get value from wireframes](https://medium.com/@dustin/how-to-get-value-from-wireframes-f40c2cf27960#.2yuoqqwmz){:target="_blank"}
-- [8 ux and UI tools you must try](https://medium.com/@Mockplus/8-ux-and-ui-wireframe-tools-you-must-try-in-2016-f8fbcccf7f6e#.tyowqzy91){:target="_blank"}
 - [Wireframes: A Good Communication Tool, a Poor Design Tool](https://medium.com/@danritz/wireframes-a-good-communication-tool-a-poor-design-tool-1bc64b033962#.jp1i8lyxt){:target="_blank"}
 - [The product design sprint: decide (day 3)](https://library.gv.com/the-product-design-sprint-decide-day-3-7d4804bd2fd1#.fhdrt1bfx){:target="_blank"}
 - [Choosing the Right Level of Fidelity for Your Wireframes](https://blinkux.com/blog/choosing-the-right-level-of-fidelity-for-your-wireframes/){:target="_blank"}
 - [InVision User testing ](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"}
 - [How NOT To Design An Interface For Your Mobile App](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
-- [We Give Meaning to Products - Design Flow at Netguru: the Approach](https://www.netguru.co/blog/design-flow-at-netguru-pt.-1){:target="_blank"}

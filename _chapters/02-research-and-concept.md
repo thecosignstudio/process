@@ -21,7 +21,7 @@ In order to deliver a great product, much effort needs to be taken, and Research
 #### Benefits: why is it a good idea to do research in a team?
 When doing research together, a team generate ideas faster and verify their ideas in the context of the product. Working in a group also gives you a chance to use the so-called mutual design critique (when one designer contests the ideas of another designer) – this technique enables you to see drawbacks in your thinking process and lets you get visual inspirations from others.
 
-#### What are the benefits of Research & Concept?
+## What are the benefits of Research & Concept?
 **Benefits for a Product Designer:**
 - You build a strong foundation for future design processes.
 - You don’t waste time on finding the right look for your project during the wireframing and designing phases.
@@ -108,7 +108,7 @@ One of the most important aspects of design for both parties is to understand th
     - How to tell about your product online?
     - Success stories, case studies
     - Strategies per product?
-        - Do you have cross platform promotion strategy?
+    - Do you have cross platform promotion strategy?
     - Are you planning international expansion?
 - How would you like to be perceived as a brand?
 - How should your users perceive you as a company? (i.e. innovative, traditional, easy to use)?
@@ -139,7 +139,7 @@ One of the most important aspects of design for both parties is to understand th
 - Other requirements / law restrictions
 - What country (or region) is the Product to be launched to?
 - What is the language the product is to be designed in?
-- Are there any special requirements regarding the marked that should be considered (e.g. Cultural, religion limitations)?
+- Are there any special requirements regarding the market that should be considered (e.g. Cultural, religion limitations)?
 - Is the product limited by regional law anyhow (for example anti-spam regulations or copyright)?
 - Is the product to be regionally diversified (e.g. language versions)?
 
@@ -263,7 +263,7 @@ Source: [https://www.nngroup.com/articles/which-ux-research-methods](https://www
 
 The time required for user research is strictly connected with the methods - the more you talk with the users, the more time it would take to analyse their answers. But be assured, that not skipping this part would eventually affect the later stages of creating the product - the more you’ll know from users, the less guessing and predicting you’ll be forced to do. Stepping into users’ shoes will get so much easier!
 
-Methods (to be described):
+Methods:
 - User testing
 - Market research
 - Surveys
@@ -272,8 +272,7 @@ Methods (to be described):
 - A/B Testing
 - Benchmarking
 
-### Q&A
-#### Questions your client may ask
+## Questions your client may ask
 {% include qa.html question="Why do you have to spend time researching instead of designing?" answer="Good research is the foundation of every good design. It helps you save money on extra iterations and allows us to design a product that aligns better with the market and real user needs. " %}
 
 {% include qa.html question="How long will it take?" answer="We always want to give you the best output we can provide, so our work needs time. Based on information from you and our own research, we will generate for you the best possible report about your market and your customers. This phase is usually completed after 2 days of work, but in some cases, it could take longer." %}
@@ -291,10 +290,10 @@ Methods (to be described):
 - Has the competition been analyzed?
 - Have user goals been defined?
 
-### Desired outcomes of this stage:
+## Desired outcomes of this stage
 - You conducted research and presented results to the client.
 
-### Additional reading
+## Additional reading
 - [Accessibility in Apps: the Necessity Often Forgotten](https://www.netguru.co/blog/accessibility-web-mobile-apps){:target="_blank"}
 - [Designing The Invisible Experience (15 minutes workshops)](https://www.netguru.co/blog/designing-the-invisible-experience){:target="_blank"}
 - [Voice Recognition Tools Review. Alexa, PocketSphinx, Google API or Project Oxford?](https://www.netguru.co/blog/voice-recognition-tools-review){:target="_blank"}

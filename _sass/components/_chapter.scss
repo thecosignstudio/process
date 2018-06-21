@@ -14,22 +14,9 @@
     margin-top: $base-sizing;
 
     p {
-      margin-bottom: $base-sizing;
+      margin: $base-small-sizing 0;
       font-size: $fs-rel-1;
       line-height: $base-sizing;
-
-      + p {
-        margin-top: 0;
-        margin-bottom: $base-sizing;
-      }
-    }
-
-    p:first-of-type::first-letter {
-      float: left;
-      padding: 4px 3px 0 3px;
-      font-size: $fs-rel-2;
-      font-weight: $fw-bold;
-      line-height: 60px;
     }
 
     h1,
@@ -41,8 +28,8 @@
     }
 
     h1 {
-      margin-top: 0;
-      margin-bottom: 2 * $base-sizing;
+      margin-top: $base-sizing * 2;
+      margin-bottom: 2 * $base-small-sizing;
       font-size: $fs-7;
       font-weight: $fw-bold;
       line-height: 1.83 * $base-sizing;
@@ -58,7 +45,7 @@
     h2 {
       margin: 0;
       margin-top: $base-sizing * 2;
-      margin-bottom: 1.46 * $base-sizing;
+      margin-bottom: $base-small-sizing;
       font-size: $fs-6;
       font-weight: $fw-bold;
 
@@ -68,7 +55,7 @@
     }
 
     h3 {
-      margin: $base-sizing 0;
+      margin: $base-sizing 0 $base-small-sizing 0;;
       font-size: $fs-4;
       font-weight: $fw-bold;
       line-height: $base-sizing;
@@ -76,7 +63,8 @@
 
     h4,
     h5 {
-      margin-bottom: $base-sizing;
+      margin-top: $base-sizing;
+      margin-bottom: $base-small-sizing;
       font-size: $fs-rel-1;
       font-weight: $fw-bold;
       line-height: $base-sizing;
@@ -111,6 +99,7 @@
 
       ul {
         margin-bottom: 0;
+        padding: 0 0 0 1.5rem;;
         // This is needed due to the script rendering
         // scss-lint:disable SelectorDepth
         li::before {
@@ -128,10 +117,8 @@
     }
 
     li {
-      padding-left: 2.5em;
       font-size: $fs-rel-1;
       line-height: $base-sizing;
-      text-indent: -1.4em;
 
       &::before {
         @include sizing(8px);

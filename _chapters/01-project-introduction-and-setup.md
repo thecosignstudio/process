@@ -21,7 +21,7 @@ Your work begins much earlier than the moment you pick up a pen and paper. Prepa
 - Project Manager
 - Developer(s)
 
-## Kick-off meeting checklist:
+## Kick-off meeting checklist
 ### Before the first meeting with the client:
 Together with the Project Manager, organize a meeting and gather all the project info. Ask the PM, BD and devs – don’t make the client answer the same question twice. Things you need to know:
 - Does the client have a working product?
@@ -40,7 +40,7 @@ Together with the Project Manager, organize a meeting and gather all the project
     - Design is about how things work, not only about how they look.
 Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning.
 Useful links:
-        - [What to expect from a designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
+        - [What To Expect From a Designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
         - [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
         - [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
 - **Avoid multi-platform designs at the early stages of the project**
@@ -52,7 +52,7 @@ Try to make it clear that even the best product design does not guarantee a prod
 - **Give a quick overview of all the Product Design phases**
 
 ### First meeting – get some info from the client:
-#### General info
+**General info**
 - What is your deadline? (design/release date)
 - What will make the application a success in your opinion?
 - What will make our work a success in your eyes?
@@ -86,7 +86,7 @@ Try to make it clear that even the best product design does not guarantee a prod
 
 Make sure that all answers are documented and available for other (current and future) team members.
 
-## Communication tips:
+## Communication tips
 #### General rules:
 - Be active, not passive – recommend solutions.
 - Listen to the client’s expectations, don’t be afraid to ask questions.
@@ -208,8 +208,7 @@ You should also create an Initial interview subfolder, which will collect the mo
 
 {% include image.html img="image8.png" img2x="Image8@2x.png" alt="Initial interview folder" %}
 
-## Q&A
-### Questions your client may ask:
+## Questions your client may ask
 {% include qa.html question="Why do you want to know the business model?" answer="This will help us get to focus on important things and prioritise work." %}
 
 {% include qa.html question="Why do you have to know this stuff before we meet?" answer="This will allow us to prepare better and have a more focused meeting." %}
@@ -224,7 +223,7 @@ You should also create an Initial interview subfolder, which will collect the mo
 - Has the project structure been created on Google Drive?
 - Have InVision prototypes been created for all target platforms?
 
-### Desired outcomes of this stage:
+## Desired outcomes of this stage
 - The project info has been gathered.
     - I know the project requirements and problems we need solve.
     - I know what will make the project a success.
@@ -234,10 +233,10 @@ You should also create an Initial interview subfolder, which will collect the mo
 - I have a folder structure set up on Google Drive.
 - I know and have gathered all the available materials from the client (including brand guidelines, etc).
 
-### Additional reading
+## Additional reading
 - [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
 - [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
 - [How to Talk to Designers About Design: Tips for Non-Designers](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}
-- [What to Expect from a Designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
+- [What To Expect From a Designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
 - [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
 - [How to Choose a Designer – Step by Step Guide](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}

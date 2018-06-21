@@ -12,8 +12,7 @@ chapter_number: "04"
 - Tips for testing designs
 - Questions most frequently asked by clients.cc
 
-From Oxford English Dictionary:
-{% include quote.html text="Test (v.): take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice." %}
+{% include quote.html text="Test (v.): take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice." author="From Oxford English Dictionary" %}
 
 You can test just about anything in a digital product: design solutions, code, performance, forms, buttons, etc. In this article, we will focus on design only. We are working in the Agile Scrum methodology, in which **testing is part and parcel of every sprint**. That’s why each design team at Netguru includes a dedicated QA specialist.
 Every iteration you make on your design should be tested. The major stages in the design process, which you can see below, should involve testing methods that are adequate to the project’s scope and the stage you are in.
@@ -159,7 +158,6 @@ A/B testing allows you to make more out of your existing traffic. While the cost
   - The ultimate guide to A/B Testing by Smashing Magazine [link](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/){:target="_blank"}.
   - Learn about most important A/B Testing checklist by HubSpot [link](https://blog.hubspot.com/marketing/a-b-test-checklist#sm.00001z5neov22f9pvdk194oo5d7tq){:target="_blank"}.                                                                                   
 - **How?**<br>
-A/B Testing Process<br>
 The correct way to run an A/B testing experiment is to follow a scientific experimental process. It includes the following steps:
 1. **Study your Website Data:** Use a website analytics tool such as Google Analytics and find the problem areas in your conversion funnel. For example, you can identify the bottleneck-pages with bad metrics.
 2. **Observe User Behavior:** Utilize visitor behavior analysis tools and find what is stopping the visitors from converting. For example, “The CTA button is not prominent on the home page."
@@ -189,8 +187,8 @@ Rather than showing raw statistics, it works by using different colors to indica
 You can use Hotjar to generate heatmaps of any page on your site, including password protected pages and dynamically generated pages.
 To see types of heatmaps (Click and Tap, Move, Scroll) visit this [link](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps){:target="_blank"}
 
-**Analytics** – [more info](https://blog.kissmetrics.com/expert-google-analytics-reports/){:target="_blank"}
-- **Product:**<br>
+[**Analytics**](https://blog.kissmetrics.com/expert-google-analytics-reports/){:target="_blank"}
+- **Products:**<br>
 [Google Analytics](https://analytics.google.com){:target="_blank"}, [Woopra](https://www.woopra.com/){:target="_blank"}, [Intercom](https://www.intercom.com/){:target="_blank"}
 - **When?**<br>
 After implementation.
@@ -210,7 +208,7 @@ Typical reports in GA:
   - Content Efficiency Report
   - Traffic Acquisition from Social Media Report
 
-**Beta testing** – [more info](https://www.playtestcloud.com/blog/testflight-alternatives-ios-android){:target="_blank"}
+[**Beta testing**](https://www.playtestcloud.com/blog/testflight-alternatives-ios-android){:target="_blank"}
 - **Products:**
 <br>[TestFlight](https://developer.apple.com/testflight/){:target="_blank"}, [HockeyApp](https://hockeyapp.net/){:target="_blank"}, [Google Play Beta Testing](https://play.google.com/apps/publish/signup/){:target="_blank"}, [Fabric.io](https://get.fabric.io/){:target="_blank"}
 - **When?**<br>
@@ -227,8 +225,7 @@ It’s mostly done by developers and is especially useful for mobile apps testin
 - Don’t try to capture your insights (write them down, talk to yourself, etc.) during the test with real users – it makes them nervous.
 - You don’t want to bias your users during the test. You want to see how they figure out things for themselves, or how they don’t figure them out. In real life, you wouldn’t sit next to them while they would be using your product.
 
-## Q&A
-**Questions your client can ask**
+## Questions your client can ask
 {% include qa.html question="Why do I need testing?" answer="Above all, you need it to minimize the risk of exposing bugs to real users in real scenarios. Also, the iterative nature of the Agile Scrum methodology helps to improve the weak points of the product in every sprint. Testing will detect those weak points." %}
 {% include qa.html question="Who’s paying for the test?" answer="The client pays for the tests, because they are part of the services we provide. Tests that take significant amount of time should be discussed, estimated, and accepted with the client." %}
 {% include qa.html question="How long will the test take? WIll it affect the deadline and/or development?" answer="See estimated times in the Tools section. If affecting the course of the development is not the purpose of the test (e.g. Heatmaps), it shouldn't affect the deadline or the development schedule." %}
@@ -243,9 +240,9 @@ It’s mostly done by developers and is especially useful for mobile apps testin
 - Was a test conducted after the visual design phase?
 - After the implementation, were at least Google Analytics installed? (Y/N)
 
-**Desired outcomes of this stage:**
+## Desired outcomes of this stage
 1. Wireframes or designs tested using appropriate techniques.
 2. Feedback gathered and implemented.
 
-**Additional reading**
+## Additional reading
 - [How to Improve Your UI with Remote Usability Testing](https://www.netguru.co/blog/improve-ui-remote-usability-testing){:target="_blank"}
