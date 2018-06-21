@@ -99,6 +99,7 @@
 
       ul {
         margin-bottom: 0;
+        padding: 0 0 0 1.5rem;;
         // This is needed due to the script rendering
         // scss-lint:disable SelectorDepth
         li::before {
