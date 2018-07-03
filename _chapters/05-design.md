@@ -240,7 +240,7 @@ If there is enough time, you can create your own icon set. We use Nucleo for our
 
 {% include qa.html question="Where can I find some inspiration?" answer="The best sources of inspiration would be Behance (behance.net) and Dribbble (dribbble.com). " %}
 
-{% include qa.html question="What is a style guide and why do I need one?" answer="This will allow us some amount of lorem ipsum dolor sit amet conscetur blah blah" %}
+{% include qa.html question="What is a style guide and why do I need one?" answer="This will allow us to work within a proper constraints and tailor proper design solutions." %}
 
 {% include qa.html question="Why do you want to know the business model?" answer="A style guide is a type of template that contains colors, fonts and commonly used interface elements, which will standardize the look and feel of the whole product. It helps to keep a consistent visual style across all screens and devices and during the whole design process. It is especially useful on multi-designer projects, where every team member is responsible for a different part of the product." %}
 
