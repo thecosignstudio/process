@@ -7,10 +7,12 @@ chapter_number: "07"
 
 ## Introduction
 **In this section you can learn:**
-- Where to put source files and store assets at every stage of your involvement in the project.
+- Where to put the source files and store assets at every stage of your involvement in the project.
 - How to ensure your project team are safe when they leave the project.
 - When to recommend Product Checkups to your clients.
 - How to make sure your project passes the Peer Review.
+
+Remember that it is just an example of how we do stuff at Netguru. You might want to adapt the process to your own workflow.
 
 ### Stakeholders:
 - Other designers
@@ -30,31 +32,31 @@ chapter_number: "07"
 
 ### After the design phase: Google Drive
 
-- Follow the steps from chapter one.
+- Follow the steps from Chapter one.
 
 ### Slack pinned items
 - The InVision and Drive links are **pinned** to the Project's channel on Slack with an explanation of how to use them and added to Project Info in Google Drive.
 
 ### Final call with the team: team Q&A
 
-Create a Q&A session with your project team: Developers, PM and QAs. We advise you to go through each journey and visit every screen on every device. Tell the team about your solutions, discuss potential problems and development bottlenecks. It’s best to arrange this kind of a meeting at least a day or two before your deadline.
+Create a Q&A session with your project team: Developers, PM, and QAs. We advise you to go through each journey and visit every screen on every device. Tell the team about your solutions, discuss potential problems and development bottlenecks. It’s best to arrange this kind of a meeting at least a day or two before the deadline.
 
 ### Termination checklist:
 
 - Make sure your project will pass the peer review checklist.
 
 ### After the Development
-- Project is archived in InVision.
-- Review of the developer's work is done by the designer.
+- The project is archived in InVision.
+- The designer does a review of the developer's work.
 
 ## Questions your client may ask
 
-{% include qa.html question="Is the development team safe to proceed without your presence?" answer="Yes. All assets have been prepared, and are available on Google Drive or as links on Jira Tickets" %}
+{% include qa.html question="Is the development team safe to proceed without the presence of designers?" answer="Yes. All assets have been prepared and are available on Google Drive or as links on Jira Tickets" %}
 
-{% include qa.html question="Where can I find all the files and assets?" answer="You can find them on Jira Tickets, or through the provided Google Drive & InVision links" %}
+{% include qa.html question="Where can I find all the files and assets?" answer="You can find them on Jira Tickets or through the provided Google Drive & InVision links" %}
 
 {% include qa.html question="Can you send me the source files of the designs?
-" answer="Yes, you can get links to the source files." %}
+" answer="Yes. You can get links to the source files." %}
 
 ### Questions to ask yourself at this stage:
 - Did I check the termination checklist?
@@ -62,5 +64,5 @@ Create a Q&A session with your project team: Developers, PM and QAs. We advise y
 - If the project has been released and development has been completed – have I archived the InVision project?
 
 ## Desired outcome after this stage
-1. Team’s questions regarding the design have been answered.
+1. The team’s questions regarding the design have been answered.
 2. The client knows about the help you can offer in the future (regular checkups, iterations).
