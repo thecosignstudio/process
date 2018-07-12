@@ -1,9 +1,9 @@
 ---
-title: "Research & concept"
+title: "Ideation and Concept"
 chapter_number: "02"
 ---
 
-# Research & concept
+# Ideation and Concept
 
 ## Introduction
 **In this section, you will learn:**
