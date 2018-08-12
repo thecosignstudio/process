@@ -25,7 +25,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # BOOK SETTINGS
-book_title: "Design Process For Pros"
+book_title: "專業人士的設計流程"
 
 collections:
   chapters:

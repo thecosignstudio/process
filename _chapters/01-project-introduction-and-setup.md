@@ -1,25 +1,25 @@
 ---
-title: "Project introduction & setup"
+title: "專案啟動與設置"
 chapter_number: "01"
 ---
 
-# Project introduction & setup
+# 專案啟動與設置
 
-## Introduction
-Your work begins much earlier than the moment you pick up a pen and paper. Preparing for the first meeting with the client marks the actual beginning of a design process. By being prepared and professional during the first call, you start building a relationship. The reward for your professionalism will be big: the client’s trust in your decisions is at stake here.
+## 啟動
+你的作品在拿起紙筆之前就開始了。準備與客戶的首次見面，可以說是設計流程真正啟動。在首次接觸充分準備且顯示專業，就是開始建立關係。你的專業會獲得的回報會很多：就是客戶對你的決策有滿出來的信任。
 
-**In this section you can learn:**
-- What questions to ask a client before and during the first meeting.
-- Communication tips: how to talk to a client.
-- How to setup Google Drive/InVision asset folders.
-- Questions most frequently asked by clients.
+**在此部分可以學到：**
+- 在首次會面之前與過程中要問什麼問題
+- 溝通小訣竅：如何跟客戶說話
+- 如何設定 雲端硬碟和 備料資料夾
+- 客戶最常問的問題
 
-**Stakeholders**
-- Client
-- Designer(s)
-- Business Development Representative
-- Project Manager
-- Developer(s)
+**利害關係人**
+- 客戶
+- 設計師
+- 業務開發代表
+- 專案經理
+- 開發者
 
 ## Kick-off meeting checklist
 ### Before the first meeting with the client:
