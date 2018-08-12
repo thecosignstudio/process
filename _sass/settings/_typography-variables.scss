@@ -3,7 +3,14 @@ $base-sizing: 2rem;
 $base-small-sizing: .5rem;
 
 /* FONT FAMILIES */
-$ff-sans-serif: -apple-system, '思源黑體', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local('.SFNSText-Light'), local('.HelveticaNeueDeskInterface-Light'), local('.LucidaGrandeUI'), local('Ubuntu Light'), local('Segoe UI Light'), local('Roboto-Light'), local('DroidSans'), local('Tahoma');
+}
+
+$ff-sans-serif: system;
 $ff-serif: 'Noto Serif', sans-serif;
 
 /* FONT SIZES */
