@@ -6,12 +6,12 @@ chapter_number: "01"
 # 專案啟動與設置
 
 ## 啟動
-你的作品在拿起紙筆之前就開始了。準備與客戶的首次見面，可以說是設計流程真正啟動。在首次接觸充分準備且顯示專業，就是開始建立關係。你的專業會獲得的回報會很多：就是客戶對你的決策有滿出來的信任。
+你的作品在拿起紙筆之前就開始了。與客戶首次見面的準備，設計流程就已經啟動。在首次接觸顯得充分準備且專業，就能開始建立關係。你的專業會獲得的回報會很多：就是客戶對你的決策有滿出來的信任。
 
 **在此部分可以學到：**
 - 在首次會面之前與過程中要問什麼問題
 - 溝通小訣竅：如何跟客戶說話
-- 如何設定 雲端硬碟和 備料資料夾
+- 如何設定 Google 雲端硬碟和 inVision 備料資料夾
 - 客戶最常問的問題
 
 **利害關係人**
@@ -21,8 +21,8 @@ chapter_number: "01"
 - 專案經理
 - 開發者
 
-## Kick-off meeting checklist
-### Before the first meeting with the client:
+## Kick-off 會議檢查清單
+### 在首次與客戶見面之前：
 Together with the Project Manager, organize a meeting and collect all the project info. Ask the PM, BD, and devs – don’t make the client answer the same question twice. Things you need to know:
 - Does the client have a working product?
     - If yes, consider a [UX Review](https://www.netguru.co/services/ux-review){:target="_blank"} first.
