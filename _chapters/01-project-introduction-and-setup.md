@@ -23,16 +23,16 @@ chapter_number: "01"
 
 ## Kick-off 會議檢查清單
 ### 在首次與客戶見面之前：
-Together with the Project Manager, organize a meeting and collect all the project info. Ask the PM, BD, and devs – don’t make the client answer the same question twice. Things you need to know:
-- Does the client have a working product?
-    - If yes, consider a [UX Review](https://www.netguru.co/services/ux-review){:target="_blank"} first.
-- Does the project have a clear scope?
-    - Y/N (at this stage, the project should already have a scope; otherwise, you need to run a Scoping Session)
-- Is the project idea ready to be turned into a design?
-    - At Netguru, we conduct a [Product Design Sprints](https://www.netguru.co/services/product-design-sprint){:target="_blank"} to help our clients flesh out their ideas.
-- What platform will it be designed for?
-- In the case of web design: will it be responsive?
-- Will it be developed by our team?
+與專案經理開會，蒐集所有專案的訊息。讓專案經理 (PM)、業務開發 (BD) 和開發團隊知道：不要把相同的問題問客戶兩遍。你要知道的事情：
+- 客戶已有正在使用的產品嗎？
+    - 如果有，可以考慮先做 [UX 檢查](https://www.netguru.co/services/ux-review){:target="_blank"}。
+- 產品有清楚的範疇 (scope) 嗎？
+    - 是/否（在此階段，產品應該已經有範疇。沒有的話，就要進行一次範疇流程。）
+- 專案的構想是否已經足以進行設計？
+    - 我們在 Netguru 會進行 [產品設計衝刺 (Product Design Sprints)](https://www.netguru.co/services/product-design-sprint){:target="_blank"}，幫助客戶充實想法。
+- 設計給哪個平台？
+- 如果是網頁設計，要做響應式 (responsive) 嗎？
+- 工程開發階段是由我們的團隊進行嗎？
 
 ### First meeting – explaining process to the client:
 - **Educate the client**
