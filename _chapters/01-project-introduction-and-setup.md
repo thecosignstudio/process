@@ -34,15 +34,15 @@ chapter_number: "01"
 - 如果是網頁設計，要做響應式 (responsive) 嗎？
 - 工程開發階段是由我們的團隊進行嗎？
 
-### First meeting – explaining process to the client:
-- **Educate the client**
-    - Product design is a process. The process includes iterations that will result in the improvements of the product or service. The final iteration is complete when the client's goals and the users' goals are achieved.
-    - Design is about how things work, not only about how they look.
-Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning.
-Useful links:
-        - [What To Expect From a Designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
-        - [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
-        - [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
+### 首次會面 - 向客戶解釋流程：
+- **讓客戶知道**
+    - 產品設計是一組流程，即是可以讓產品或服務變得更好的反覆修改 (iterations)。客戶和使用者的目標皆達成時，即是完成最後一次修改。
+    - 設計不僅僅只看外觀，還有其運作原理。
+讓客戶知道你的角色與期望。在一開始就要設立界線與期望。
+有用的連結：
+        - [從設計師身上可期望的事情](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
+        - [當你付錢找來設計師時，可以獲得的事情](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
+        - [8 種建立/維護成功的客戶與設計師之間關係的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
 - **Avoid multi-platform designs at the early stages of the project**
 If the client needs a multi-platform design, ask another designer for help. If you believe that the scope is big enough, always suggest a design team. Learn more from: [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
 - **Emphasize that it’s impossible to predict users’ behavior accurately**
