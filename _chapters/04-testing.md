@@ -259,3 +259,61 @@ Beta testing is mostly done by developers and is especially useful for mobile ap
 
 ## Additional reading
 - [How to Improve Your UI with Remote Usability Testing](https://www.netguru.co/blog/improve-ui-remote-usability-testing){:target="_blank"}
+
+## 熱點圖(Heatmaps)
+* 使用產品:[Crazy egg](https://www.crazyegg.com/)、[Hotjar](https://www.hotjar.com/)
+* 何時使用？
+  專案開始執行後。
+* 為什麼要使用熱點分析？
+  熱點圖(Heatmaps) 相當適合用來分析訪客行為，可提供你其他研究方法未必能洞察到的觀點，甚至能增加轉換率。
+* 有別於原始數據的呈現方式，熱點圖(Heatmaps)能運用不同色彩標示出不同數據，如：
+  * 滑鼠軌跡：將滑鼠移動的軌跡記錄下來。
+  * 點擊行為追蹤：紀錄實際發生點擊行為的位置。
+  * 視線軌跡：紀錄使用者第一眼會停留在圖片的哪個位置。
+  * 此外，使用熱點圖有助於提升圖片點擊率。它可以分析使用者視線集中於何處，以及操作過程中可能忽	略掉了哪些細節。你可以針對這結果去調整、刪減或增加任何功能，以提高每張圖片在操作上的效果。
+
+* 如果想了解更多，可以閱讀下列文章：
+  * [《從八個熱點分析案例，揭露訪客使用行為。》(英)](https://www.hotjar.com/heatmaps)(作者為 Hotjar 團隊)
+  * [《如何使用熱點圖增加轉換率。》(英)](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/)(作者為 AdEspresso 的 Dan Virgillito)
+  *《利用熱點圖提升轉換率的實作指南》(英) 請見[連結一](https://vwo.com/blog/increase-conversions-using-heatmaps/)與[連結二](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/)
+* 如何使用？
+	可以使用 [Hotjar](https://www.hotjar.com/)製作網站上任一頁的熱點圖，包含有密碼保護的頁面與動態頁面都可製作。想了解不同類型的熱點圖（如滑鼠點擊、鍵盤敲擊、游標移動與滾輪滑動等），請參見[此連結(英)](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps)。
+
+## [分析](https://blog.kissmetrics.com/expert-google-analytics-reports/)
+* 使用產品：[Google Analytics](https://analytics.google.com/), [Woopra](https://www.woopra.com/), [Intercom](https://www.intercom.com/)
+* 何時使用？
+  專案開始執行後。
+* 為什麼要使用網站分析工具？
+  分析網站或行動裝置 App 的流量與使用者行為，也可設定目標追蹤轉換率。
+* 如何使用？
+* 請開發人員協助安裝 Google Analytics (GA)。您可以透過 GA 分析不同數據，如即時流量、跳出率、單頁停留時間、使用者如何找到您的網頁等。
+  典型的 GA 報表：
+  * 使用裝置/瀏覽器報表
+  * 客戶開發效率分析報表
+  * 消費者行為報表
+  * 行動裝置表現報表
+  * 網站診斷：網頁操作時間報表
+  * 時段報表（Hours & Days Report）
+  * 參照連結網址報表
+  * 網站內容有效性報表
+  * 社群管道流量來源報表
+
+## 邀請團隊外部人員測試(Beta Testing)
+* 使用產品：[TestFlight](https://developer.apple.com/testflight/), [HockeyApp](https://hockeyapp.net/), [Google Play Beta Testing](https://play.google.com/apps/publish/signup/), [Fabric.io](https://get.fabric.io/)
+* 何時開始？
+  專案執行後，公開發布前。
+* 為什麼？
+  當產品準備公開發布前，應該在小部分的樣品上做測試，並收集其他人員的回饋，及檢查有無尚未解決的錯誤。
+* 如何執行？
+  通常由開發人員負責外部測試，如果是針對行動裝置 App 的測試，外部測試是最管用的方法。不過外部測試也能應用在任何數位產品。您可利用 HockeyApp 等工具中提供的指標，使用者可直接在 App 給予回饋。另外，在目標受眾的選擇上有更聰明的方法，利用焦點團體，也就是以人數較少、代表性的小規模群眾作為未來產品使用者樣貌。
+
+## 在產品測試上的建議
+* 當專案要進行到下一階段時，儘早建構原型並進行測試，並頻繁地修正產品的重大問題。
+* 您只需要約三到五人去檢查最重要的易用性問題。
+* 最好是找對產品毫無背景知識的新受測者，參與測試。
+* 在對真實用戶進行測試時，不要讓你的觀點影響使用者(寧可寫下來，與自己交談等)，這會讓受試者緊張。
+* 在測試時，不要引導您的使用者。因為您需要知道使用者是如何找到答案或為何無法解決問題。在現實生活中，當使用者在操作產品時，您是不會坐在他旁邊協助的。
+
+## 客戶可能會問您的問題
+### Q 為什麼我的產品需要測試？
+**A** 綜上所述，您必須將出現錯誤的風險降到最低，因為您要面對的是現實中使用您產品的真實用戶。
