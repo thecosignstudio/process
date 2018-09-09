@@ -197,7 +197,7 @@ A/B 測試可讓你從現有流量中獲得更多收益。雖然獲得付費流�
   * [《如何使用熱點圖增加轉換率。》(英)](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/)(作者為 AdEspresso 的 Dan Virgillito)
   *《利用熱點圖提升轉換率的實作指南》(英) 請見[連結一](https://vwo.com/blog/increase-conversions-using-heatmaps/)與[連結二](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/)
 * 如何使用？
-	可以使用 [Hotjar](https://www.hotjar.com/)製作網站上任一頁的熱點圖，包含有密碼保護的頁面與動態頁面都可製作。想了解不同類型的熱點圖（如滑鼠點擊、鍵盤敲擊、游標移動與滾輪滑動等），請參見[此連結(英)](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps)。
+	可以使用 [Hotjar](https://www.hotjar.com/) 製作網站上任一頁的熱點圖，包含有密碼保護的頁面與動態頁面都可製作。想了解不同類型的熱點圖（如滑鼠點擊、鍵盤敲擊、游標移動與滾輪滑動等），請參見[此連結(英)](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps)。
 
 ## [分析](https://blog.kissmetrics.com/expert-google-analytics-reports/)
 * 使用產品：[Google Analytics](https://analytics.google.com/), [Woopra](https://www.woopra.com/), [Intercom](https://www.intercom.com/)
