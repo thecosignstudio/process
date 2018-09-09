@@ -69,35 +69,35 @@ chapter_number: "01"
 	- 在完美的情況下，範圍會縮小到只有一個。
 - 電話談過後，與團隊內部討論客戶需求，詢問各種可能遇到的阻礙。
 
-#### Visual:
-- Do you have a branding, brand book, brand guidelines?
-    - If not, give a heads-up about the importance of those in the later phases.
-- If the client wants to use corporate fonts in the UI, be sure they own a web/mobile licence.
-- If you suggest an alternative paid font for the UI, be sure that the client is open to buying a licence.
-- Does the client have any benchmarks or a visual style in mind?
-- Does the client have the source files for the old designs?
+#### 視覺：
+- 你們有品牌策略、品牌書或品牌規範嗎？
+	- 如果沒有的話，在稍後的階段簡述一下它們的重要性。
+- 如果客戶想要在 UI 使用商業字型，要確認他們擁有網站/手機版的授權。
+- 如果你認為 UI 需另外使用的付費字型，要確定客戶可以接受要購買授權。
+- 客戶已經有任何符號或視覺風格的想法了嗎？
+- 客戶有先前設計的原始檔案嗎？
 
-Make sure that all answers are documented and available for other team members – both current and future.
+請確定每個回答都確實記錄起來了，而且現在和未來的團隊其他成員都可以看到。
 
-## Communication tips
-#### General rules:
-- Be active, not passive – recommend solutions.
-- Listen to the client’s expectations, don’t be afraid to ask questions.
-- Consult your solutions with the developers from day one.
-- Make sure you explain to the client how to use communication tools e.g. comments in [InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"}; explain the difference between [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} and comments
+## 溝通技巧
+#### 一般規則
+- 要積極地建議解決方案，不要消極
+- 聆聽客戶的期望，不要害怕問問題
+- 從第一天開始就向開發者諮詢你的解決方案
+- 確認有向客戶說明過溝通工具的使用方法。例如：[InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"} 的留言功能，解釋 [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} 和留言的不同。
 
-#### Feedback
-- Does the client have enough time to give you feedback? If not, try to ask which active stakeholders can actively participate in the communication.
-- Make the client aware of the value of an active and collaborative approach (feedback, communication).
-- Make sure that there is only one final point of feedback on the client’s part.
-- Make sure that you will have an opportunity to present your solutions to all stakeholders.
-- Make sure that the client knows that we don’t work on the basis of a fixed number of reviews but rather in a constant feedback-and-iteration mode.
+#### 意見回饋
+- 客戶有足夠的時間給你意見回饋嗎？如果沒有，要試著要求有空的利害關係人積極參與溝通。
+- 讓客戶能夠理解積極與合作方法的價值（回饋與溝通）
+- 確認在客戶的部分只有一個最終回饋點
+- 確認你有機會向所有利害關係人展示解決方案。
+- 確認客戶知道我們不是根據幾篇固定數量的評論做事，而是常態的回饋與反覆修改 (feedback-and-iteration) 模式。
 
-#### Previous experience:
-- Has the client worked with designers before?
-    - If not, try to educate the client on the best practices and basic principles of design during your meetings.
-    - If yes, what are the client’s experiences of working with designers?
-- Does the client understand the role of a designer?
+#### 過往經驗：
+- 客戶之前有跟設計師合作過嗎？
+	- 如果沒有，試著在會面的過程中，培養客戶對於設計的最佳實做方法和基本原則。
+	- 如果有，客戶跟設計師合作的經驗是怎麼樣？
+- 客戶理解設計師的角色嗎？
 
 #### Milestones & priorities
 - Make sure that the client has a reasonable approach to the creation of an [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"} (keep the scope small).
