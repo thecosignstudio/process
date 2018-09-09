@@ -215,62 +215,62 @@ Read: [Microinteractions: The Secret of Great App Design](https://uxplanet.org/m
 ### 自做自己的圖示(icon)
 我們使用 _Nucleo_ 來設計, 如果有足夠的時間，你可以製作一組個人的圖示 (icon)，能讓應用軟體更有個性。
 
-## Resources
+## 資源
 
-### Icons
+### 圖示
 - [Nucleo](https://nucleoapp.com/){:target="_blank"}, [FlatIcon](https://www.flaticon.com/){:target="_blank"}, [IconFinder](https://www.iconfinder.com/){:target="_blank"}
 
-### Stock Images
-- Paid: [iStockPhoto](http://www.istockphoto.com/){:target="_blank"}, [ShutterStock](https://www.shutterstock.com/){:target="_blank"}, [GettyImages](http://www.gettyimages.com/){:target="_blank"}
-- Free: [Aggregator for all top free stocks](http://allthefreestock.com/){:target="_blank"}
+### 圖庫資源
+- 付費圖庫資源： [iStockPhoto](http://www.istockphoto.com/){:target="_blank"}, [ShutterStock](https://www.shutterstock.com/){:target="_blank"}, [GettyImages](http://www.gettyimages.com/){:target="_blank"}
+- 免費圖庫資源： [Aggregator for all top free stocks](http://allthefreestock.com/){:target="_blank"}
 
-### Fonts
+### 字型
 - [Google Fonts](https://fonts.google.com/){:target="_blank"}, [Adobe Typekit](https://typekit.com/fonts){:target="_blank"}, [Font Squirrel](https://www.fontsquirrel.com/){:target="_blank"}, [MyFonts](https://www.myfonts.com/){:target="_blank"}, [DaFont](http://www.dafont.com/){:target="_blank"}
 
-### Sketch – good practices
-- [General Sketch good practices](https://www.uxpin.com/studio/blog/10-best-practices-sketch/){:target="_blank"}, [Symbols in Sketch](https://www.uxpin.com/studio/blog/10-best-practices-sketch/){:target="_blank"}
+### Sketch – 標準範例
+- [Sketch 的一般標準範例](https://www.uxpin.com/studio/blog/10-best-practices-sketch/){:target="_blank"}, [統一 Sketch 的元素](https://www.uxpin.com/studio/blog/10-best-practices-sketch/){:target="_blank"}
 
-## Questions your client may ask
+## 客戶可能會問的問答集
 
-{% include qa.html question="Why is designing in teams better?" answer="You get a broader skillset and the team’s collective experience (complementary teams have members with unique skills such as UX, visual design, or illustration). Problems are solved more efficiently because team members instantly verify each other’s incorrect assumptions and bad solutions. The work efficiency also increases, because tasks are distributed in a smart way (certain designers work faster on certain tasks). The chances of the product’s success increase, because teams offer more idea-creation power and instant second opinion with full-context feedback." %}
+{% include qa.html 問=“設計加入團隊?" 答=“團隊內有更多的專業人士，團隊的（其他設計專業像是UX、視覺設計或是插畫）。藉由團隊的專業經驗，能夠立即驗證不良的解決方案與錯誤，將會更有效率地解決開發產品遇到的問題。由於各司其職，工作分配後更有效率（特定設計師負責特定設計工作）。團隊成員間的互相激發創意，亦可相互給予專業的設計建議，產品成功的機會大大增加。" %}
 
-{% include qa.html question="What’s the difference between a design and a wireframe?" answer="A wireframe is a basic visual guide that serves as a blueprint that defines each project’s structure, content, and functionality. By using very simple elements without paying attention to visuals, we can focus on finding the best user experience solutions and creating iterations faster and more cost-efficiently." %}
+{% include qa.html 問=“設計與Wireframe兩者的差異在哪?" 答=“Wireframe 是運用基本視覺元素去定義一個專案架構、內容與功能的藍圖。在只使用簡單的元素的情況下，能夠更專心地找出最佳的使用者經驗解決方案，反覆修正的更快更具成本效益。 " %}
 
-{% include qa.html question="Why do I have to pay for fonts?" answer="Paid fonts are usually of higher quality and contain a broader range of styles and weights (which will give the designers more freedom in hierarchy design), additional glyphs and ligatures, and a decent kerning table. A paid font also helps to build a unique visual voice by making the product easier to stand out from the crowd. This seems to be of small importance, but keep in mind that web and mobile products are based on typography in 95%. By using a quality font, you make sure your product design will also be of the highest possible quality." %}
+{% include qa.html 問="為何我們需要付費買字體呢?" 答="付費字體除了能提高品質，還包含更多樣式與字體粗細選擇（也讓設計師在設計層次上更不受限）。另外，付費字體有附加的字型與合字（西方字體），以及適當的字距調整。付費字體有助於建構產品的特徵，使之脫穎而出。雖然字體看似不太重要，但網站與手持裝置的內容有 95% 的內容都是字。使用更好的字體來確保產品有一定的品質。%}
 
-{% include qa.html question="Why do I need to have custom icons, why can’t we just buy some?" answer="Icons and illustrations are not just about pretty pictures – they convey a message. By using custom-made images, you can be sure that they illustrate the concept accurately. Just as brands use corporate colors and fonts, a unique visual style can help to differentiate you from your competition and will speak a consistent visual language." %}
+{% include qa.html question="為何不直接買現有的圖示，而要請設計師畫圖示?" 答=“圖示與插畫並非只要求漂亮即可，而是要傳達訊息。使用客製化的圖示， 能夠確保圖片能夠傳達正確的訊息給使用者。就像是品牌使用統一的視覺元素，使用一致的色彩與字體，與競爭對手做區隔" %}
 
-{% include qa.html question="I don’t work in Sketch, how can I see the designs?" answer="We can provide you with many different file types: flattened PNGs, multi-layer PDFs, or comprehensive documentation in an HTML file with all the necessary information for your developer. For feedback, we use InVision, which is a browser-based prototyping tool with conversation-like commenting." %}
+{% include qa.html 問=“我沒有 Sketch 這套軟體，我要如何開你們的設計檔案呢?" 答="我們可以提供PNG檔，有圖層的PDF檔，或是 HTML 檔的所有檔案，檔案包含給開發工程師的必要資訊。在互動上，我們用 InVision 這套軟體作出可在網頁瀏覽的互動原型。 " %}
 
-{% include qa.html question="Where can I find some inspiration?" answer="The best sources of inspiration would be _Behance_ (behance.net) and _Dribbble_ (dribbble.com). " %}
+{% include qa.html 問="如何尋找靈感呢?" 答="最好的網站資源是 Behance (behance.net) 與 Dribbble (dribbble.com). " %}
 
-{% include qa.html question="What is a style guide and why do I need one?" answer="A style guide is a type of template that contains colors, fonts and commonly used interface elements, which will standardize the look and feel of the whole product. It helps to keep a consistent visual style across all screens and devices and during the whole design process. It is especially useful on multi-designer projects, where every team member is responsible for a different part of the product." %}
+{% include qa.html 問="樣式指南是什麼?為何需要風格指南？" 答=“風格指南是整體產品外觀與感覺的規範，它包含色彩、字型與常用設計元素的標準。在整個設計過程，定義標準有助於在不同螢幕與裝置上，產品整體外觀皆保持一致的視覺風格，尤其是多個設計師協作的情況下，每個成員有責任確保自己負責的設計在規範內。" %}
 
-{% include qa.html question="Why do you want to know the business model?" answer="A style guide is a type of template that contains colors, fonts, and commonly used interface elements, which will standardize the look and feel of the whole product. It helps to keep a consistent visual style across all screens and devices and during the whole design process. It is especially useful in multi-designer projects, where every team member is responsible for a different part of the product." %}
+{% include qa.html 問="為何需要知道我們的商業模式?" 答="樣式指南是整體產品外觀與感覺的規範，它包含色彩、字型與常用設計元素的標準。在整個設計過程，定義標準有助於在不同螢幕與裝置上，產品整體外觀皆保持一致的視覺風格，尤其是多個設計師協作的情況下，每個成員有責任確保自己負責的設計在規範內。" %}
 
-{% include qa.html question="What kind of feedback would you like me to give?" answer="Designers always try to deliver solutions that serve both the user and the business itself – you can try to check if the designs serve the business objectives and fit the industry. Remember that the aesthetics are often a matter of personal taste, and your esthetics might not converge on the universal esthetics for your product’s potential users." %}
+{% include qa.html 問="您希望得到哪種回饋呢?" 答="設計師提供使用者服務與商業的解決方案維目標，因此，您可以試著反覆檢查設計是否符合產業與商業目標。請記得，美學通常是個人主觀的想法，您的美感不一定與產品潛在客群的美學一致。" %}
 
-**Questions to ask yourself at this stage**
-- Do I have a moodboard?
-- Do I have a style guide?
-- Have I designed for all target devices and design states?
-- Have I collected feedback from client and the team?
+**在此階段先確認四件事**
+- 我是否有情緒板了呢？
+- 我是否有風格指南了呢？
+- 我是否完成了所有目標裝置與各設計階段的設計了呢？
+- 我是否蒐集客戶與團隊成員的回饋了呢？
 
 ## Desired outcomes of this stage
-- Moodboard (example [here](https://netguru.invisionapp.com/boards/D834FYVZBKNWP){:target="_blank"} and [here](https://netguru.invisionapp.com/boards/F736L21WBKCPU){:target="_blank"})
-- Style guide (check an example of [Taqsim Style Guide](https://netguru.invisionapp.com/share/7UAMU5OB3#/screens){:target="_blank"} and short [article about color](https://projects.invisionapp.com/share/P79V1I7NK#/screens/212581073){:target="_blank"})
-- Designs ([check an example here](https://netguru.invisionapp.com/share/ZD9VDND6E#/screens/212677302){:target="_blank"})
+- 情緒板 (請參考 [範例一](https://netguru.invisionapp.com/boards/D834FYVZBKNWP){:target="_blank"} 與 [範例二](https://netguru.invisionapp.com/boards/F736L21WBKCPU){:target="_blank"})
+- 風格指南 (請參考範例 [Taqsim 風格指南](https://netguru.invisionapp.com/share/7UAMU5OB3#/screens){:target="_blank"} 與短文 [article about color](https://projects.invisionapp.com/share/P79V1I7NK#/screens/212581073){:target="_blank"})
+- 設計 ([參考範例 ](https://netguru.invisionapp.com/share/ZD9VDND6E#/screens/212677302){:target="_blank"})
 
-## Additional reading
-- [Psychology behind Product Design – staying efficient in the age of distraction](https://www.netguru.co/blog/psychology-behind-the-product-design-staying-efficient-in-the-age-of-distractions){:target="_blank"}
-- [How to make Sketch even better](https://www.netguru.co/blog/how-to-make-sketch-even-better){:target="_blank"}
-- [How NOT To Design An Interface For Your Mobile App](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
-- [We Give Meaning to Products – Design Flow at Netguru: the Approach](https://www.netguru.co/blog/design-flow-at-netguru-pt.-1){:target="_blank"}
-- [Anticipatory Design, pt. 1](https://www.netguru.co/blog/anticipatory-design-part-1){:target="_blank"}
-- [Anticipatory Design, pt. 2](https://www.netguru.co/blog/anticipatory-design-2){:target="_blank"}
-- [The Nine States of Design](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85#.hmieefed1){:target="_blank"}
-- [Google’s 9 Principles of Material Design](https://blog.prototypr.io/googles-9-principles-of-material-design-fb3fef64dcf){:target="_blank"}
-- [Misused mobile UX patterns](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570){:target="_blank"}
-- [How to Design Native Mobile Apps](https://medium.com/@uxhow/how-to-design-native-mobile-apps-55d383fcb2b2){:target="_blank"}
-- [Golden Rules of User Interface Design](https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b){:target="_blank"}
-- [Empty State: Mobile App “Nice-to-Have” Essential](https://uxplanet.org/empty-state-mobile-app-nice-to-have-essential-f11c29f01f3){:target="_blank"}
+## 延伸閱讀
+- [產品設計背後的心理學 – 在分心時代保持專心（英）](https://www.netguru.co/blog/psychology-behind-the-product-design-staying-efficient-in-the-age-of-distractions){:target="_blank"}
+- [如何讓 Sketch 更好（英）](https://www.netguru.co/blog/how-to-make-sketch-even-better){:target="_blank"}
+- [如何”不"替你的手持裝置設計 App（英）](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
+- [我們賦予產品意義 – Netguru 公司的設計流程: the Approa（英）](https://www.netguru.co/blog/design-flow-at-netguru-pt.-1){:target="_blank"}
+- [預設設計 第一部分（英） ](https://www.netguru.co/blog/anticipatory-design-part-1){:target="_blank"}
+- [預設設計 第二部分（英） ](https://www.netguru.co/blog/anticipatory-design-2){:target="_blank"}
+- [設計的九個階段（英）](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85#.hmieefed1){:target="_blank"}
+- [Google 的 9 準則 of Material Desig（英）](https://blog.prototypr.io/googles-9-principles-of-material-design-fb3fef64dcf){:target="_blank"}
+- [被誤用的手持裝置 UX 模式（英）](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570){:target="_blank"}
+- [如何設計手持裝置的原生App（英）](https://medium.com/@uxhow/how-to-design-native-mobile-apps-55d383fcb2b2){:target="_blank"}
+- [使用者介面設計的黃金準則（英）](https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b){:target="_blank"}
+- [空白狀態： 手持裝置 App “會更好的” 必要設計（英）](https://uxplanet.org/empty-state-mobile-app-nice-to-have-essential-f11c29f01f3){:target="_blank"}
