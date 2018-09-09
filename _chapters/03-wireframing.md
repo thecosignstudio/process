@@ -196,15 +196,13 @@ To sum up, we need wireframes to work out the backbone of the product, whereas v
 
 {% include qa.html question="What kind of benefits will I get from this?" answer="Using wireframes will often help to bring to light new requirements and questions that may not have been considered by the project team. Wireframes often end up evolving into the requirements of the system. At this stage, we can also check if your product fulfills all needs that users can have. By creating wireframes, you will get a better product, which will be better adjusted to your target customer base." %}
 
-### Questions to ask yourself at this stage
-- Are user flows complete?
-- Are wireframes available on InVision?
-- Are wireframes clickable?
-- Do wireframes follow our best practices?
--- Use of real content
--- Focused on information architecture
--- Wireframe is ready to be reused in the visual design phase
-- Has feedback been gathered?
+
+### 在這階段後期望的結果
+-可點擊的低或高保真度（low or high fidelity）線框稿（以高保真度線框為主）
+-使用者流程（user flows）涵蓋所以必須完成的工作和使用者故事（user stories）
+-包括真實的內容的應用
+-為線框稿設計測試情境（scenario）
+-線框稿已經被客戶測試過並且同意－準備進入視覺設計階段
 
 ## Desired outcomes of this stage
 
