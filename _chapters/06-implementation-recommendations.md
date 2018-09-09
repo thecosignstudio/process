@@ -74,9 +74,9 @@ Use optimization tools such as [Kraken](https://kraken.io/web-interface){:target
 
 如果想了解更多，可以閱讀此篇文章：[給設計師看的 Android 元件命名方式（英）](https://medium.com/@AkhilDad/a-designers-guide-for-naming-android-assets-f790359d11e5#.8gk28dx78){:target="_blank"}
 
-## Android platform-specific tips
+## 針對 Android 平台
 
-In Android app development, it’s a good practice to support multiple screens. We advise you to start working on a 360x640 px canvas. Even if you’re making an app only for smartphones and only for the portrait mode, you have to deal with different screen densities. As a rule, all assets exported for Android need to be in the following densities and in a *.png* format:
+在 Android 應用程式開發中，開發支援不同屏幕是一個很好的做法。我們建議你從 360x640 px 大小的畫布開始。因為就算你只為智慧型手機製作應用程式，而且只支援直式螢幕，你依然需要處理不同螢幕的解析度。通常來說，所有輸出給 Android 使用的物件都需要依照下列的解析度並且為 *.png* 格式：
 
 - mdpi:160 dpi
 - hdpi: 240 dpi
@@ -84,18 +84,19 @@ In Android app development, it’s a good practice to support multiple screens. 
 - xxhdpi: 490 dpi
 - xxxhdpi: 640 dpi
 
-**Tip:** Take a look at this precious piece of information: [how to organize files](https://gist.github.com/melvitax/fd592a162ad4fe48bd57){:target="_blank"}.
+**小技巧:** 請查看這個珍貴的資訊： [如何統整檔案](https://gist.github.com/melvitax/fd592a162ad4fe48bd57){:target="_blank"}.
 
-Also, in many cases, SVG images can act as a good replacement for bitmaps. Although they are not supported natively by Android, they can be easily displayed using third-party libraries. They take up much less space (especially the zipped version, *svgz*), scale indefinitely with no loss of detail or quality, and don’t require a separate version for each screen density.
-Just remember to ask the developer which way they want the assets to be delivered.
+此外，在許多狀況下，SVG 圖像可以作為取代點陣圖的替代品。雖然 Andoird 本身並不支援，但可以輕易地在第三方資料庫中顯示出來。它們佔用的空間更少 (特別是壓縮版本：*svgz*)，可以無限縮放且不會降低細節或質量，並且不需要為每個螢幕解析度單獨設置版本。
+只要記得請教工程師，哪一種切圖方式是他們所想要的。
 
-**9-patch scaling for Android**
+
+**適用於 Andoird 的 9-patch 圖片縮放**
 
 {% include image.html img="9_patch_Android.png" img2x="9_patch_Android@2x.png" alt="9-patch scaling for Android" %}
 
-If you have assets that are used more than once in your application and are scalable, you can use 9-patch scaling (e.g., for buttons). Things such as icons will probably not scale properly, so, unfortunately, you have to resize them manually for all the resolutions. The 9-patch guide is always 1 px thick and must be black (#000000); otherwise it won’t work. Your slice will always be 2 px bigger than the asset (1 px left and right and/or at the top and bottom). Thus, if your asset is 48x48 px, your slice will be 50x50 px. You can’t downscale 9-patch images, so you have to deliver them at the smallest size possible. This is also better for the overall performance of the application. You can use the Draw9Patch tool from Android to easily create or check your 9-patch images. For more specific information on 9-patch scaling and/or downloading the Draw9Patch tool, check the [Android Developers](http://developer.android.com/tools/help/draw9patch.html){:target="_blank"} website. You can also check [Simple nine-patch generator](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=320&name=example){:target="_blank"}.
+如果你有物件是需要多次使用於應用程式當中，並且需要縮放成不同尺寸的，你可以使用9-patch 圖片縮放 (例如: 按鈕)。 諸如圖標之類的東西可能無法正確縮放，所以不幸的是，你必須手動調整所有解析度的大小。9-patch的導線通常為 1 像素寬且必須為黑色的 (#000000) ; 不然將無法辨識。你的切圖範圍則須比物件大 2 個像素 ( 左右或是上下 1 個像素寬)。若你的物件為 48x48 像素，你的切圖大小將會為 50x50 像素。你不能將9-patch 圖片縮小，所以你必須盡可能以最小尺寸交付。這會對於應用程式的整體性能更好。你可以使用 Android 的 Draw9Patch 工具輕鬆建立或是檢查 9-patch 圖片。更多有關於 9-patch 圖片詳細資料，請查看 [Android Developers](http://developer.android.com/tools/help/draw9patch.html){:target="_blank"}網站。 你還可以利用[簡易9-patch 圖片生成器 (Simple nine-patch generator)](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=320&name=example){:target="_blank"}。
 
-Be sure that App icons and Play Store Assets are provided following [Google’s guidelines](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en){:target="_blank"}.
+請確認應用程式中的圖示和 Play Store 的物件有依照 Google 所提供的[設計規範 (英) ](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en){:target="_blank"}。
 
 ## iOS platform-specific
 
