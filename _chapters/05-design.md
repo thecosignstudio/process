@@ -3,113 +3,115 @@ title: "Design"
 chapter_number: "05"
 ---
 
-# Design
+# 設計
 
-## Introduction
-**In this section, you will learn:**
-- Where to look for inspiration
-- How to collect inspirations and prepare moodboards
-- How to prepare style guides
-- Specific design states and how to prepare one
-- Tips for designing for specific devices
-- Best practices for working in teams
-- Where to find design resources
-- Sketch tips
+## 介紹
+**在這個章節，你將會學到：**
+- 到哪裡可以找到靈感
+- 如何收集靈感與準備情緒板 ( moodboard )
+- 如何準備風格樣式指南
+- 如何準備一個特定的設計階段
+- 在不同特定裝置上設計的小技巧
+- 最好的團隊協作練習
+- 在哪裡可以找到設計資源
+- 設計草稿的小技巧
 
-We design something to give a form to a function and to solve a problem with a set of available resources. Good design is solving a problem so that it seems as if there had never been a problem in the first place. Well designed interfaces, communication processes, or objects shouldn’t require too much effort from their users. Good design often makes you think: Gosh, I could have done that myself!<br>
-And yes, well-designed things are often a pleasure to look at or experience. In some cases, the form will precede the function.
+我們設計東西是在透過一套可用的資源，給出可以解決問題的用途一個形式。好的設計是解決一個問題，所以他首先看起來是沒有什麼問題的。好的介面設計、溝通過程，或是物件的操作是不需要耗費使用者太多的力氣的。好的設計會讓你想到：天啊，我本來應該可以靠自己做到的！<br>
+在一些案例裡面，是的，良好的設計物件通常是一個令人愉悅的看待或是體驗，而且這些形式的優先權將會處於功能之前。
 
-**Stakeholders**
-- Designer
-- Client
-- QA
-- Developers
-- PM
+**利益相關人**
+- 設計師
+- 客戶
+- 品質管理員
+- 開發人員
+- 專案經理
 
-## Inspiration
-**Find an accurate style for the project**<br>
-Remember that the inspiration process is critical when you start designing a new project. The overall feeling of an application/website depends on the colors, fonts, or photos you use. **Remember: Do not copy, just get inspired!**
+## 靈感
+**替專案找到一個準確的風格**<br>
+當你開始設計一個新專案，要記得靈感激發的過程是具有評論性的。 關於一個應用程式/網站整體的感受，取決於你使用的顏色、字型或照片。
+**記住：不要抄襲，只管汲取更多靈感！**
 
-You can look for inspiration here:
+你可以在這裡找尋靈感：
 - [Awwwards](http://www.awwwards.com){:target="_blank"}
 - [Dribbble](http://www.dribbble.com){:target="_blank"}
 - [Behance](http://www.behance.com){:target="_blank"}
 - [Designspiration](http://www.designspiration.net){:target="_blank"}
 - [Pinterest](http://www.pinterest.com){:target="_blank"}
 
-### Preparing moodboards
-This step is essential for you and your client. There will, of course, be situations when you finish your design, and the client is thrilled – but this will not always be the case. We recommend that you prepare a board with a lot of photos and pictures that will show to your client what you would like to do with the future app, what “feelings” your designs will evoke, and finally, what the client can expect. Thanks to this approach, you will increase the chances that the client likes your solutions, and you will show that you appreciate the client’s feedback. **Approximate time: 4h.** Visit [this link](https://netguru.invisionapp.com/boards/3M37AJO452DFW/){:target="_blank"} to see an example of a moodboard.
+### 準備情緒板
+這個步驟是對你和你的客戶來說是必要的。在未來，當然，在一個當你完成你的設計的情況下，並且客戶是感到非常愉快的 - 但這將不會永遠是這麼回事。我們建議你準備一個板子包含許多的照片和圖片，向你的客戶展示什麼是你想設計在這個未來的應用程式上的，什麼樣的「感覺」是你的設計將會喚起的，還有最後，什麼是你的客戶可以期待的。托這個方式的福，你將會增加客戶喜歡你的解決方案的機會，還有你也會表現出你欣賞你的客戶的回饋的樣子。**大概所需時間: 4小時** 造訪 [這個連結](https://netguru.invisionapp.com/boards/3M37AJO452DFW/){:target="_blank"} 去查看一個情緒板的範本。
 
-**How to prepare a moodboard?**<br>
-We use Boards by InVision for the following reasons:
-- Flexibility
-- Predefined layouts
-- Option to add images, fonts, and attachments
+**如何準備一個情緒板？**<br>
+我們使用 InVision 的白板的理由如下：
+- 較有彈性
+- 有立即可用的樣板
+- 提供加入圖片、字型和附件的功能選項
 
-Of course, feel free to choose your own tool!
+當然，你也可以隨意選擇你使用的工具！
 
-## Style guide
-It’s good to start creating a style guide right after the research stage. The initial version of the style guide should at least contain the colors and typography. During the visual design phase, you should update your style guide to a full version.
+## 風格指南
+在研究階段之後立即開始創造一個風格指南是好的。在最初的版本，風格指南至少應該要包含顏色跟字體。在整個視覺設計階段，你應該要更新你的風格指南到一個完整的版本。
 
-**What should a good style guide contain?**
-- **Color** (the main colors and shade variations for each of them)<br>
-Useful tools:  [Coolors](https://coolors.co/app){:target="_blank"}, [Color Adobe](https://color.adobe.com/explore/?filter=most-popular&time=all){:target="_blank"}
-- **Typography** (font family and type scale)<br>
-Limit the number of typefaces and sizes you use in order to keep your designs simple. As a general rule of thumb, start with two fonts at most – one for your headers, and another one for your bodies. Most of the time, you won’t need any more than that.<br>
-We highly recommend using free fonts. If you want to use a paid font, check the licence carefully. Your client might be reluctant to pay extra money for fonts, so make sure they do want to spend money on fonts.<br>
-Free fonts: [Google Fonts](https://fonts.google.com/){:target="_blank"}<br>
-Paid fonts: [MyFonts](http://www.myfonts.com/){:target="_blank"} and [Typekit](https://typekit.com/){:target="_blank"}<br>
-Having troubles with pairing fonts? Try [Typewolf](https://www.typewolf.com/){:target="_blank"} or [FontPairs](https://fontpair.co/){:target="_blank"}<br>
-- **Component library** (states of design)<br>
-Component-based thinking helps engineers. Design components can translate neatly into code. From the engineering perspective, components are like Lego blocks that you can put together.<br>
-For example:
-  - Buttons (normal, hover, active, disabled)
-  - Inputs (empty, selected, typing, error, success)
-- **Grids and spacing**<br>
-It’s important to establish a grid system that works for every use case. In the section on grids, include information on the number of columns and rows, margins, and example uses.
-  - [8pt grid system](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632#.bipuod98k){:target="_blank"}
+**一個好的風格指南應該包含什麼？**
+- **顏色** (主要使用的顏色和每一個顏色逐漸變化的程度)<br>
+實用的工具： [Coolors](https://coolors.co/app){:target="_blank"}, [Color Adobe](https://color.adobe.com/explore/?filter=most-popular&time=all){:target="_blank"}
+- **文字排版** (字型和字體大小)<br>
+為了讓你的設計保持簡單，限制你所用到字體的數量和尺寸。 依照一般的經驗法則，從最多兩個字型開始 - 一個給你的標頭使用，另外一個給你的內文使用。大部分的時間，你不會需要用到更多。<br>
+我們高度推薦使用免費字型。如果你想要使用一個付費字型，小心確認這各字型的使用權限。你的客戶可能會不情願的為了字型去付多餘的費用，所以確認他們真的想要花錢在字型上。<br>
+免費字型： [Google Fonts](https://fonts.google.com/){:target="_blank"}<br>
+付費字型： [MyFonts](http://www.myfonts.com/){:target="_blank"} and [Typekit](https://typekit.com/){:target="_blank"}<br>
+有關於字型付費的麻煩嗎？ 試試 [Typewolf](https://www.typewolf.com/){:target="_blank"} 或 [FontPairs](https://fontpair.co/){:target="_blank"}<br>
+- **元件庫** (設計階段)<br>
+以元件為基礎的思考幫助工程師。設計元件可以恰好的的轉譯進程式碼。從工程師的視角來看，元件看起來就像是你可以放在一起的樂高積木。<br>
+舉例：
+  - 按鈕 (一般狀態、滑鼠移到連結的狀態、啟動的狀態、不能使用的狀態)
+  - 表單輸入欄位 (空白狀態、選取狀態、輸入中狀態、錯誤狀態、成功狀態)
+- **網格和間隔**<br>
+為每一個使用案例去建立網格系統是重要的。在網格的這個部分，包含了在數個欄位和列位、間距和範例使用上的資訊。
+  - [8pt 網格系統](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632#.bipuod98k){:target="_blank"}
   - [Bootstrap grid](https://medium.com/@petehouston/setup-twitter-bootstrap-grid-in-sketch-f6e69eab95c2#.svi9r5wlj){:target="_blank"}
 
-## States of design
-During the design process, you have to keep in mind that your UI can be in different states:
+## 各種狀態的設計
+在整個設計的過程當中，你必須要記得你的使用者介面會處在不同的狀態：
 
-**1. Nothing**
 
-Maybe it’s the first time a user sees a view, interface element, or status. Maybe it hasn't been activated yet. Essentially, the component exists but hasn’t started working yet.
+**1. 預設狀態**
 
-**2. Loading**
+這可能是使用者第一次使用時看到的畫面，介面元素或狀態。或許是還沒被啟用的狀態。實際上，這個元件是存在的但還沒開始運作。
 
-The dreaded state. In a perfect world, no one would ever see this. Alas, here we find ourselves. There are plenty of ways to keep your loading state subtle and unobtrusive.
+**2. 讀取狀態**
 
-**3. None**
+令人害怕的狀態。在理想狀況中，沒有人會看到這個狀態。哎，在這裡我們找到我們自己。有大量的方式可以保持你的讀取狀態巧妙的或不引人注目的。
 
-Your component has initialized, but it’s empty. No data. No Items. Now may be a good time to get the user to act (“Do this!”), or to reward them (“Good job, everything has been taken care of”).
+**3. 沒有數據的狀態**
 
-**4. One**
+你的元件已經啟動，但它是空的。沒有數據、沒有項目。現在或許是個好時機去讓你的使用者去行動 (「 做這個！ 」)，或是給予他們獎賞 ( 「做得好，所有檔案已在保護中」 )。
 
-You have some data. On input, this might come after the first keystroke. In a list, it might be when you have one item (or only one item left).
+**4. 一個數據的狀態**
 
-**5. Some**
+你有一些數據。在輸入的過程當中，這可能出現在第一次的鍵盤敲擊之後。在一份清單當中，它可能是在你有一個項目的時候 ( 或是只剩下一個項目的時候 )。
 
-This is usually what you think of first. What is the ideal state for this component? Your data is loaded, you have input, and the user is familiar with it.
+**5. 一些數據的狀態**
 
-**6. Too many**
+這個狀態通常是你最先想到的。什麼是這個元件呈現最理想的狀態？你的數據已經載入，你有輸入而且使用者也熟悉使用它。
 
-The user has overdone it in some way. Too many results (maybe you paginate them now), too many characters (maybe ellipses?), and so on.
+**6. 過多數據的狀態**
 
-**7. Incorrect**
+使用者在某種方式下過度使用的狀態。過多的結果 ( 或許你現在會替這些數據編頁數 )，過多的字母 ( 或許是...？ ) 等等。
 
-Something is not right about the component. An error has occurred.
+**7. 錯誤狀態**
 
-**8. Correct**
+關於這個元件的某個地方發生錯誤了。一個錯誤被引發。
 
-This item has had its requirements satisfied.
+**8. 正確的狀態**
 
-**9. Done**
+這個項目已經有了令人滿意的需求。
 
-The user’s correct input has been received by the application. The user doesn’t have to worry about it anymore.
+**9. 完成狀態**
 
-These states will recur based on the page, user interaction, updated data, and pretty much any change to your application’s state. By thoughtfully designing these changes, you can create a polished experience for users no matter which situation they find themselves in.
+使用者的正確輸入內容已被這個應用程式接收到。使用者不用在擔心它。
+
+這個狀態將會在頁面上一再發生，使用者的互動、更新的數據和非常多的任何改變發生在你的應用程式的狀態上。經過仔細思考的設計這些改變，你可以替使用者們創造一個優美的使用者體驗無論他們處在什麼樣的狀態之下。
 
 ## Designing specifics for native mobile apps
 If you are only starting to design native apps, the best thing to do is to read the official guidelines for the Android (Material Design) and iOS (Human Interface Guidelines) operating systems.
