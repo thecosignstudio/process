@@ -1,15 +1,10 @@
----
-title: "Wireframing"
-chapter_number: "03"
----
-
-# Wireframing 製作線稿(wireframing)
+製作線稿(wireframing)
 
 ## 前言
 **在這個章節你將會學到：**
 - 了解線稿的定義以及在執行製作上客戶需要知道的事項。
 - 線稿流程包含哪些範疇。
-- 最佳實踐 – DOs and DON’Ts of wireframing. 線稿的ＯＯ與ＯＯ。
+- 最佳實踐 – 製作線稿所需要或該必免的事項。
 
 ### 流程相關成員
 - 設計師
@@ -32,7 +27,6 @@ chapter_number: "03"
 - 在進入設計階段前有機會收集回饋並測試產品是如何運作的。
 
 ## 什麼是線稿？
-A wireframe is a basic visual interface guide that outlines the structure of an interface and the relationships between its pages. A wireframe serves as a blueprint that defines a project’s structure, content, and functionality. Wireframes are created before any visual design work starts so that the focus is on the information architecture without the distraction of color or visual elements.
 線稿是一種基本視覺介面指南，描繪介面畫面之間的關係性與層級架構。
 線稿是被用來定義一個專案的架構、內容與功能的藍圖。
 在任何設計視覺化工作開始前先創建線稿，因而讓人能更專注在資訊結構上不受色彩或視覺因素影響。
@@ -41,34 +35,45 @@ A wireframe is a basic visual interface guide that outlines the structure of an 
 ## 製作線稿的階段流程包含哪些內容？
 製作線稿的流程可被分為兩個子階段：
 
-### User Flow diagrams 使用者流程示意圖
+### 使用者流程示意圖
 User Flow diagrams (also known as flowcharts) are a visual representation of a desired user journey path through the designed product. They illustrate the steps, decisions, and funnels users frequently come across. Thoughtfully crafted User Flow Diagrams let you reveal the moments critical for user conversion and then apply adequate solutions to the obstacles you identify. For an example of a user flow diagram [visit](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"} and to check out flowchart click [this link](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}.
 
-### Single-page wireframes 單頁畫面線稿
+使用者流程示意圖（也被稱為流程圖）是用來呈現使用者對於在使用產品的用戶旅程。
+
+它們用來呈現步驟說明、決策以及使用者頻繁操作的流程。
+一個考量周全成熟的使用者流程示意圖，能展現用戶轉換的行為觸發時機，
+使用者在操作應用上遇到判讀障礙時適當的解決方法。
+關於使用者流程示意圖的 [ 舉例](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"} ，以及流程圖 [連結](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}。
+
+
+### 單一畫面線稿
 單頁畫面的線稿（也稱為示意圖或藍圖），是頁面結構，組合和資訊層次的視覺指南。
 目的是為了以明智，使用者友善和設計和商業效益方式來排列網站的內容和元素。
 由於線稿主要的功能是不受華麗的視覺效果影響，因此需要卸掉視覺的所有元素，如顏色，圖表，效果等。可以看一下單頁線框的示例。 
 [單頁畫面線稿](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}.
 
-## What elements should I include in a wireframe? 在線稿中我該納入哪些元素？
+## 在線稿中我該納入哪些元素？
 
-### List of elements 因素清單
+### 元素清單
 Wireframes should include all the important elements of a product:
 線稿應該包含一個產品中所有重要的元素：
-- navigation, 導覽,
-- the company's logo (if it exists), 公司識別標示 （如果具備的話），
-- content area sections + sample content (placeholder text),內容文字區塊＋範例文字（佔位符文本），
-- calls to action, 召喚行動，
-- widgets, 
-- fields, 
-- forms, 表單，
-- pop-ups, 彈窗，
-- hover states (if applicable). 滑入狀態（如果有應用）。
+- 導覽,
+- 公司識別標示 （如果具備的話），
+- 內容文字區塊＋範例文字（佔位符文本＊），
+- 行動召喚，
+- 物件，
+- 區塊， 
+- 表單，
+- 彈窗，
+- 滑入狀態（如果有應用）。
 
-### What kind of software should I use for designing wireframes? 我該使用什麼樣的軟體來設計線稿？
-At Netguru, we use: 在 Netguru ，我們使用的工具有：
-- 以 Sketch 製作線稿。
+＊Placeholder text
+
+### 我該使用什麼樣的軟體來設計線稿？
+在 Netguru 我們所使用的工具：
+- 用 Sketch 製作線稿。
 - 用 InvVision 產製簡便原型。
+
 
 ## Wireframing Best Practices
 
