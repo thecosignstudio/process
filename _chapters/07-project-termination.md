@@ -34,7 +34,7 @@ chapter_number: "07"
 
 - 按照第一章的步驟操作。
 
-### 在Slack釘選項目
+### 在 Slack 釘選項目
 - InVision 和 Drive 的連結都 **釘選** 在 Slack 的專案頻道上，並說明如何使用它們和加進 Google Drive 的專案計畫。
 
 
