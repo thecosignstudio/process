@@ -242,17 +242,17 @@ A/B 測試可讓你從現有流量中獲得更多收益。雖然獲得付費流�
 {% include qa.html question="用程式在設計階段之後有測試過了嗎？我們可以開始建置了嗎？要怎麼做？" answer="測試過了！為了要確保工作結果的品質，產品必須經過測試。經過測試之後，就可以開始建置了。" %}
 {% include qa.html question="What kind of tests do you provide by default to ensure high quality?建置前的測試包含了哪些項目以確保設計的品質？" answer="Every project needs different testing methods, so tests are tailored individually. Feedback from the team and a design bug bash are usually carried out in all projects.每個產品適用不同的測試方法，所以測試的項目會依照產品性質客製。通常在所有的專案中都會包含總結工作團隊的回饋訊息和設計的漏洞檢視(Bug Bash)" %}
 
-**Questions to ask yourself at this stage**
-- Have I collected feedback among the team?
-- Is the mockup clickable?
-- Was a design bug-bash conducted?
-- Were tests conducted after the wireframe phase?
-- Was a test conducted after the visual design phase?
-- After the implementation, were Google Analytics installed, at least? (Y/N)
+#### 在此階段您必須自我檢驗的幾項問題
+* 已經收集完團隊的回饋內容了嗎？
+* 確保高保真原型是否可以點擊。
+* 設計上的錯誤是否已解決？
+* 是否在線框圖階段後就做測試了？
+* 在視覺設計階段後做測試了嗎？
+* 專案開始後，至少已安裝完 Google Analytics?
 
-## Desired outcomes of this stage
-1. Wireframes or designs tested using appropriate techniques.
-2. Feedback collected and implemented.
+## 這階段期望的成果
+1.使用適合的工具測試線框圖或設計稿。
+2.收集使用者回饋並持續執行專案。
 
-## Additional reading
-- [How to Improve Your UI with Remote Usability Testing](https://www.netguru.co/blog/improve-ui-remote-usability-testing){:target="_blank"}
+## 延伸閱讀
+* [如何從遠端易用性測試中，增進介面設計能力(英)](https://www.netguru.co/blog/improve-ui-remote-usability-testing)
