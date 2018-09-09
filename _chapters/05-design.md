@@ -71,46 +71,47 @@ chapter_number: "05"
   - [8pt 網格系統](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632#.bipuod98k){:target="_blank"}
   - [Bootstrap grid](https://medium.com/@petehouston/setup-twitter-bootstrap-grid-in-sketch-f6e69eab95c2#.svi9r5wlj){:target="_blank"}
 
-## States of design
-During the design process, you have to keep in mind that your UI can be in different states:
+## 各種狀態的設計
+在整個設計的過程當中，你必須要記得你的使用者介面會處在不同的狀態：
 
-**1. Nothing**
 
-Maybe it’s the first time a user sees a view, interface element, or status. Maybe it hasn't been activated yet. Essentially, the component exists but hasn’t started working yet.
+**1. 預設狀態**
 
-**2. Loading**
+這可能是使用者第一次使用時看到的畫面，介面元素或狀態。或許是還沒被啟用的狀態。實際上，這個元件是存在的但還沒開始運作。
 
-The dreaded state. In a perfect world, no one would ever see this. Alas, here we find ourselves. There are plenty of ways to keep your loading state subtle and unobtrusive.
+**2. 讀取狀態**
 
-**3. None**
+令人害怕的狀態。在理想狀況中，沒有人會看到這個狀態。哎，在這裡我們找到我們自己。有大量的方式可以保持你的讀取狀態巧妙的或不引人注目的。
 
-Your component has initialized, but it’s empty. No data. No Items. Now may be a good time to get the user to act (“Do this!”), or to reward them (“Good job, everything has been taken care of”).
+**3. 沒有數據的狀態**
 
-**4. One**
+你的元件已經啟動，但它是空的。沒有數據、沒有項目。現在或許是個好時機去讓你的使用者去行動 (「 做這個！ 」)，或是給予他們獎賞 ( 「做得好，所有檔案已在保護中」 )。
 
-You have some data. On input, this might come after the first keystroke. In a list, it might be when you have one item (or only one item left).
+**4. 一個數據的狀態**
 
-**5. Some**
+你有一些數據。在輸入的過程當中，這可能出現在第一次的鍵盤敲擊之後。在一份清單當中，它可能是在你有一個項目的時候 ( 或是只剩下一個項目的時候 )。
 
-This is usually what you think of first. What is the ideal state for this component? Your data is loaded, you have input, and the user is familiar with it.
+**5. 一些數據的狀態**
 
-**6. Too many**
+這個狀態通常是你最先想到的。什麼是這個元件呈現最理想的狀態？你的數據已經載入，你有輸入而且使用者也熟悉使用它。
 
-The user has overdone it in some way. Too many results (maybe you paginate them now), too many characters (maybe ellipses?), and so on.
+**6. 過多數據的狀態**
 
-**7. Incorrect**
+使用者在某種方式下過度使用的狀態。過多的結果 ( 或許你現在會替這些數據編頁數 )，過多的字母 ( 或許是...？ ) 等等。
 
-Something is not right about the component. An error has occurred.
+**7. 錯誤狀態**
 
-**8. Correct**
+關於這個元件的某個地方發生錯誤了。一個錯誤被引發。
 
-This item has had its requirements satisfied.
+**8. 正確的狀態**
 
-**9. Done**
+這個項目已經有了令人滿意的需求。
 
-The user’s correct input has been received by the application. The user doesn’t have to worry about it anymore.
+**9. 完成狀態**
 
-These states will recur based on the page, user interaction, updated data, and pretty much any change to your application’s state. By thoughtfully designing these changes, you can create a polished experience for users no matter which situation they find themselves in.
+使用者的正確輸入內容已被這個應用程式接收到。使用者不用在擔心它。
+
+這個狀態將會在頁面上一再發生，使用者的互動、更新的數據和非常多的任何改變發生在你的應用程式的狀態上。經過仔細思考的設計這些改變，你可以替使用者們創造一個優美的使用者體驗無論他們處在什麼樣的狀態之下。
 
 ## Designing specifics for native mobile apps
 If you are only starting to design native apps, the best thing to do is to read the official guidelines for the Android (Material Design) and iOS (Human Interface Guidelines) operating systems.
