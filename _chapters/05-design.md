@@ -258,7 +258,7 @@ Read: [Microinteractions: The Secret of Great App Design](https://uxplanet.org/m
 
 ## Desired outcomes of this stage
 - 情緒板 (請參考 [範例一](https://netguru.invisionapp.com/boards/D834FYVZBKNWP){:target="_blank"} 與 [範例二](https://netguru.invisionapp.com/boards/F736L21WBKCPU){:target="_blank"})
-- 風格指南 (請參考範例 [Taqsim 風格指南](https://netguru.invisionapp.com/share/7UAMU5OB3#/screens){:target="_blank"} 與短文 [article about color](https://projects.invisionapp.com/share/P79V1I7NK#/screens/212581073){:target="_blank"})
+- 風格指南 (請參考範例 [Taqsim 風格指南](https://netguru.invisionapp.com/share/7UAMU5OB3#/screens){:target="_blank"} 與 [色彩](https://projects.invisionapp.com/share/P79V1I7NK#/screens/212581073){:target="_blank"})
 - 設計 ([參考範例 ](https://netguru.invisionapp.com/share/ZD9VDND6E#/screens/212677302){:target="_blank"})
 
 ## 延伸閱讀
