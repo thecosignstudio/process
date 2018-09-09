@@ -7,14 +7,14 @@ chapter_number: "02"
 
 ## Introduction
 **In this section, you will learn:**
-- What ideation is and when to conduct it.
-- How to explain the importance of ideation to a client.
-- The elements of ideation.
-- The elements of a concept.
-- How much time to spend on the ideation & concept.
-- Questions most frequently asked by clients.
+* 什麼是發想以及何時該執行
+* 如何向客戶解釋發想的重要性
+* 發想的組成
+* 一個概念的組成
+* 在發想及概念的流程上該花多久的時間
+* 那些最常被客戶問到的問題
 
-The Ideation & Concept phase is the very foundation of the design process. This is the time when the big requirements are agreed upon, and the overall direction for the development is chosen. This is also the moment when the initial idea is turned into a basic draft/prototype. The main goal of the design process is not just to create pretty pictures or satisfy the subjective feelings of various stakeholders – the primary goal is to fit the client’s business goals with users’ goals by delivering an accessible, usable and attractive product. We want to make a product that not only looks great, but, more importantly, also works great, and seamlessly meets (or even exceeds) users’ expectations.
+發想及概念階段是設計流程中最基礎的，正是取得主要需求共識以及決定日後發展大方向的時間點，同時是將最初的想法轉變成基本草案/原型的時刻。設計流程最主要的目標不僅是創造漂亮的圖像或是去滿足各個利害關係人主觀的感受 - 最主要的目標是交出一個容易理解、使用方便且引人注意的產品，使客戶的企業目標與用戶目標相符合。我們希望做的產品不僅好看，更重要的是它也需要好用且完美的滿足（甚至超越）使用者的期待。
 
 In order to deliver a great product, much effort needs to be taken, and Ideation & Concept marks the first major milestone in this process. This is the stage where many questions will arise, and conducting thorough research will help answer most of them early and will also bring benefits in the latter stages. Not only will research save us time, but it will also give the Product Design team a deep insight into and a better understanding of the product specifics. The client, on the other hand, will benefit from the research too, because challenging a client with the right questions helps them crystallize their vision and may lead to some substantial changes.
 
