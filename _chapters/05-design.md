@@ -49,26 +49,26 @@ chapter_number: "05"
 
 當然，你也可以隨意選擇你使用的工具！
 
-## Style guide
-It’s good to start creating a style guide right after the research stage. The initial version of the style guide should at least contain the colors and typography. During the visual design phase, you should update your style guide to a full version.
+## 風格指南
+在研究階段之後立即開始創造一個風格指南是好的。在最初的版本，風格指南至少應該要包含顏色跟字體。在整個視覺設計階段，你應該要更新你的風格指南到一個完整的版本。
 
-**What should a good style guide contain?**
-- **Color** (the main colors and shade variations for each of them)<br>
-Useful tools:  [Coolors](https://coolors.co/app){:target="_blank"}, [Color Adobe](https://color.adobe.com/explore/?filter=most-popular&time=all){:target="_blank"}
-- **Typography** (font family and type scale)<br>
-Limit the number of typefaces and sizes you use in order to keep your designs simple. As a general rule of thumb, start with two fonts at most – one for your headers, and another one for your bodies. Most of the time, you won’t need any more than that.<br>
-We highly recommend using free fonts. If you want to use a paid font, check the licence carefully. Your client might be reluctant to pay extra money for fonts, so make sure they do want to spend money on fonts.<br>
-Free fonts: [Google Fonts](https://fonts.google.com/){:target="_blank"}<br>
-Paid fonts: [MyFonts](http://www.myfonts.com/){:target="_blank"} and [Typekit](https://typekit.com/){:target="_blank"}<br>
-Having troubles with pairing fonts? Try [Typewolf](https://www.typewolf.com/){:target="_blank"} or [FontPairs](https://fontpair.co/){:target="_blank"}<br>
-- **Component library** (states of design)<br>
-Component-based thinking helps engineers. Design components can translate neatly into code. From the engineering perspective, components are like Lego blocks that you can put together.<br>
-For example:
-  - Buttons (normal, hover, active, disabled)
-  - Inputs (empty, selected, typing, error, success)
-- **Grids and spacing**<br>
-It’s important to establish a grid system that works for every use case. In the section on grids, include information on the number of columns and rows, margins, and example uses.
-  - [8pt grid system](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632#.bipuod98k){:target="_blank"}
+**一個好的風格指南應該包含什麼？**
+- **顏色** (主要使用的顏色和每一個顏色逐漸變化的程度)<br>
+實用的工具： [Coolors](https://coolors.co/app){:target="_blank"}, [Color Adobe](https://color.adobe.com/explore/?filter=most-popular&time=all){:target="_blank"}
+- **文字排版** (字型和字體大小)<br>
+為了讓你的設計保持簡單，限制你所用到字體的數量和尺寸。 依照一般的經驗法則，從最多兩個字型開始 - 一個給你的標頭使用，另外一個給你的內文使用。大部分的時間，你不會需要用到更多。<br>
+我們高度推薦使用免費字型。如果你想要使用一個付費字型，小心確認這各字型的使用權限。你的客戶可能會不情願的為了字型去付多餘的費用，所以確認他們真的想要花錢在字型上。<br>
+免費字型： [Google Fonts](https://fonts.google.com/){:target="_blank"}<br>
+付費字型： [MyFonts](http://www.myfonts.com/){:target="_blank"} and [Typekit](https://typekit.com/){:target="_blank"}<br>
+有關於字型付費的麻煩嗎？ 試試 [Typewolf](https://www.typewolf.com/){:target="_blank"} 或 [FontPairs](https://fontpair.co/){:target="_blank"}<br>
+- **元件庫** (設計階段)<br>
+以元件為基礎的思考幫助工程師。設計元件可以恰好的的轉譯進程式碼。從工程師的視角來看，元件看起來就像是你可以放在一起的樂高積木。<br>
+舉例：
+  - 按鈕 (一般狀態、滑鼠移到連結的狀態、啟動的狀態、不能使用的狀態)
+  - 表單輸入欄位 (空白狀態、選取狀態、輸入中狀態、錯誤狀態、成功狀態)
+- **網格和間隔**<br>
+為每一個使用案例去建立網格系統是重要的。在網格的這個部分，包含了在數個欄位和列位、間距和範例使用上的資訊。
+  - [8pt 網格系統](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632#.bipuod98k){:target="_blank"}
   - [Bootstrap grid](https://medium.com/@petehouston/setup-twitter-bootstrap-grid-in-sketch-f6e69eab95c2#.svi9r5wlj){:target="_blank"}
 
 ## States of design
