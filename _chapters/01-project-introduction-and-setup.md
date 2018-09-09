@@ -23,26 +23,26 @@ chapter_number: "01"
 
 ## Kick-off 會議檢查清單
 ### 在首次與客戶見面之前：
-Together with the Project Manager, organize a meeting and collect all the project info. Ask the PM, BD, and devs – don’t make the client answer the same question twice. Things you need to know:
-- Does the client have a working product?
-    - If yes, consider a [UX Review](https://www.netguru.co/services/ux-review){:target="_blank"} first.
-- Does the project have a clear scope?
-    - Y/N (at this stage, the project should already have a scope; otherwise, you need to run a Scoping Session)
-- Is the project idea ready to be turned into a design?
-    - At Netguru, we conduct a [Product Design Sprints](https://www.netguru.co/services/product-design-sprint){:target="_blank"} to help our clients flesh out their ideas.
-- What platform will it be designed for?
-- In the case of web design: will it be responsive?
-- Will it be developed by our team?
+與專案經理開會，蒐集所有專案的訊息。讓專案經理 (PM)、業務開發 (BD) 和開發團隊知道：不要把相同的問題問客戶兩遍。你要知道的事情：
+- 客戶已有正在使用的產品嗎？
+    - 如果有，可以考慮先做 [UX 檢查](https://www.netguru.co/services/ux-review){:target="_blank"}。
+- 產品有清楚的範疇 (scope) 嗎？
+    - 是/否（在此階段，產品應該已經有範疇。沒有的話，就要進行一次範疇流程。）
+- 專案的構想是否已經足以進行設計？
+    - 我們在 Netguru 會進行 [產品設計衝刺 (Product Design Sprints)](https://www.netguru.co/services/product-design-sprint){:target="_blank"}，幫助客戶充實想法。
+- 設計給哪個平台？
+- 如果是網頁設計，要做響應式 (responsive) 嗎？
+- 工程開發階段是由我們的團隊進行嗎？
 
-### First meeting – explaining process to the client:
-- **Educate the client**
-    - Product design is a process. The process includes iterations that will result in the improvements of the product or service. The final iteration is complete when the client's goals and the users' goals are achieved.
-    - Design is about how things work, not only about how they look.
-Educate the client about your role and your expectations. Establish the boundaries and expectations at the beginning.
-Useful links:
-        - [What To Expect From a Designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
-        - [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
-        - [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
+### 首次會面 - 向客戶解釋流程：
+- **讓客戶知道**
+    - 產品設計是一組流程，即是可以讓產品或服務變得更好的反覆修改 (iterations)。客戶和使用者的目標皆達成時，即是完成最後一次修改。
+    - 設計不僅僅只看外觀，還有其運作原理。
+讓客戶知道你的角色與期望。在一開始就要設立界線與期望。
+有用的連結：
+        - [從設計師身上可期望的事情](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
+        - [當你付錢找來設計師時，可以獲得的事情](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
+        - [8 種建立/維護成功的客戶與設計師之間關係的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
 - **Avoid multi-platform designs at the early stages of the project**
 If the client needs a multi-platform design, ask another designer for help. If you believe that the scope is big enough, always suggest a design team. Learn more from: [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
 - **Emphasize that it’s impossible to predict users’ behavior accurately**
