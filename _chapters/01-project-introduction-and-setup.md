@@ -127,12 +127,12 @@ chapter_number: "01"
 ### 來自隊友
 請記得，如果你的設計遭遇任何困難，一定都可以向其他設計師徵求回饋。還有很重要的是：分享給客戶之前，先在團隊內部分享。這個做法可以改進設計、找出錯誤或邏輯問題，當然也可以收到對你的讚美，獲得按讚。
 
-- 就只要敲你的隊友（用傳訊 app 或直接跟他們說），分享設計的連結，要求給予協助、意見或留言。
-- 請求另一位設計師幫忙檢查。
-- 如果不確定是否能繼續在詳盡的設計上花費很多時間，就去問 PM 是否有足夠的資源/時間/金錢來開發這些功能。
+- Just go to your team (use messaging apps or simply talk to them), share a link to your designs and ask for some help, opinions or comments.
+- Ask another designer for a review.
+- If you are not sure whether you can spend more time preparing dedicated designs, ask your PM if you have enough resources/time/money to develop such features.
 
-#### 來自客戶
-從客戶蒐集回饋是專案成功的關鍵。
+#### From the client
+Gathering feedback from the client is the key to a successful project.
 - Ask for the feedback you want to receive.
 - Add designs to the project and share a link with the client. The best way to go is to always keep links to your designs in a project management tool, e.g. Jira.
 - Ask whether the client knows how your tools work or just guide the client through the process of adding comments to designs (mentioning a user’s name when adding a comment will send an e-mail notification – recommended).
@@ -218,20 +218,20 @@ assets & Exports 是提供給前端工程師使用的。
 - 專案架構已經被建立了嗎？
 - 合乎所有螢幕裝置的InVision原型(prototypes)已經建立好了嗎？
 
-## Desired outcomes of this stage
-- The project info has been collected.
-    - I know the project requirements and problems we need solve.
-    - I know what will make the project a success.
-    - We understand the client’s business.
-    - We know if the client understands their own business.
-    - I have collected the answers to design- and business-related questions.
-- I have a folder structure set up.
-- I know and have collected all the available materials from the client (including brand guidelines, etc.).
+## 這個階段的期望結果
+- 專案的資源已經蒐集完成。
+    - 我了解我們需要解決的專案需求跟問題。
+    - 我知道如何使這個專案執行成功。
+    - 我們瞭解客戶的商業模式。
+    - 我們會知道客戶是否清楚他們的商業模式。
+    - 我們之前的設計及商業相關的問題已經得到解答。
+- 我有一個已建立好架構的文件
+- 我已經搜集好客戶提供的可使用的資源(包含品牌規範等等)。
 
-## Additional reading
-- [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
-- [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
-- [How to Talk to Designers About Design: Tips for Non-Designers](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}
-- [What To Expect From a Designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
-- [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
-- [How to Choose a Designer – Step by Step Guide](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}
+## 延伸閱讀
+- [雇用一個設計師時你所要付出的代價](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
+- [8個客戶與設計師關係成功建立和維持的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
+- [給非設計師們：如何與設計師聊設計](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}
+- [對設計師的期望](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
+- [為什麼團隊態度是促成一個專案成功的關鍵](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
+- [如何選擇一位設計師 - 步驟導讀](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}
