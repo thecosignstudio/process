@@ -5,8 +5,8 @@ chapter_number: "02"
 
 # Ideation and Concept
 
-## Introduction
-**In this section, you will learn:**
+## 引言
+**在這個章節，你將會學到**
 * 什麼是發想以及何時該執行
 * 如何向客戶解釋發想的重要性
 * 發想的組成
