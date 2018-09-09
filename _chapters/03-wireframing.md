@@ -144,6 +144,12 @@
 通過專注於線框稿的視覺形式，不要忘記功能的重要性。 |
 別太完美像素，不要花太多時間在後期容易被改變的事情上。"%}
 
+## Questions your client may ask
+
+{% include qa.html question="Can you explain the difference between wireframes and visual design?" answer="Wireframes are a quick visual method of building the backbone of the product. At this stage, we define how our product/features should work. It also helps us to avoid UX problems and present to developers how the website/application will work before we provide them with the final designs.
+Visual design is the part of the design process that comes after wireframing. In the visual design phase, we focus on creating the visual image and style of the product based on wireframes.
+To sum up, we need wireframes to work out the backbone of the product, whereas visual design is there to design what the product will look like. By using both of them, we build products that are better adjusted to users’ needs." %}
+
 {% include qa.html question="將會從中獲得什麼好處呢？" answer="使用線稿圖通常有助於發現團隊未考慮過的新需求和問題。線框稿通常會演變成系統的需求。在這個階段，我們還可以檢視你的產品是否滿足所有的用戶需求。經由製作線框稿，你將會獲得一個更貼近你目標客戶群的產品。" %}
 
 
