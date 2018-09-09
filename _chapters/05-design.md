@@ -244,7 +244,7 @@ Read: [Microinteractions: The Secret of Great App Design](https://uxplanet.org/m
 
 {% include qa.html 問="如何尋找靈感呢?" 答="最好的網站資源是 Behance (behance.net) 與 Dribbble (dribbble.com). " %}
 
-{% include qa.html 問="樣式指南是什麼?為何需要風格指南？" 答=“風格指南是整體產品外觀與感覺的規範，它包含色彩、字型與常用設計元素的標準。在整個設計過程，定義標準有助於在不同螢幕與裝置上，產品整體外觀皆保持一致的視覺風格，尤其是多個設計師協作的情況下，每個成員有責任確保自己負責的設計在規範內。" %}
+{% include qa.html 問="風格指南是什麼?為何需要風格指南？" 答=“風格指南是整體產品外觀與感覺的規範，它包含色彩、字型與常用設計元素的標準。在整個設計過程，定義標準有助於在不同螢幕與裝置上，產品整體外觀皆保持一致的視覺風格，尤其是多個設計師協作的情況下，每個成員有責任確保自己負責的設計在規範內。" %}
 
 {% include qa.html 問="為何需要知道我們的商業模式?" 答="樣式指南是整體產品外觀與感覺的規範，它包含色彩、字型與常用設計元素的標準。在整個設計過程，定義標準有助於在不同螢幕與裝置上，產品整體外觀皆保持一致的視覺風格，尤其是多個設計師協作的情況下，每個成員有責任確保自己負責的設計在規範內。" %}
 
@@ -269,7 +269,7 @@ Read: [Microinteractions: The Secret of Great App Design](https://uxplanet.org/m
 - [預設設計 第一部分（英） ](https://www.netguru.co/blog/anticipatory-design-part-1){:target="_blank"}
 - [預設設計 第二部分（英） ](https://www.netguru.co/blog/anticipatory-design-2){:target="_blank"}
 - [設計的九個階段（英）](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85#.hmieefed1){:target="_blank"}
-- [Google 的 9 準則 of Material Desig（英）](https://blog.prototypr.io/googles-9-principles-of-material-design-fb3fef64dcf){:target="_blank"}
+- [Google Material Design 的9個準則（英）](https://blog.prototypr.io/googles-9-principles-of-material-design-fb3fef64dcf){:target="_blank"}
 - [被誤用的手持裝置 UX 模式（英）](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570){:target="_blank"}
 - [如何設計手持裝置的原生App（英）](https://medium.com/@uxhow/how-to-design-native-mobile-apps-55d383fcb2b2){:target="_blank"}
 - [使用者介面設計的黃金準則（英）](https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b){:target="_blank"}
