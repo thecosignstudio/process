@@ -150,8 +150,6 @@ Wireframes should include all the important elements of a product:
 {% include qa.html question="將會從中獲得什麼好處呢？" answer="使用線稿圖通常有助於發現團隊未考慮過的新需求和問題。線框稿通常會演變成系統的需求。在這個階段，我們還可以檢視你的產品是否滿足所有的用戶需求。經由製作線框稿，你將會獲得一個更貼近你目標客戶群的產品。" %}
 
 
-
-
 ### 在這個階段可以審視自己的問題
 - 用戶流程是否完整？
 - Invision上是否有線稿圖可用？
@@ -162,13 +160,13 @@ Wireframes should include all the important elements of a product:
 -- 線稿圖已準備好在視覺設計階段被重複使用
 - 收集了回饋意見了嗎？
 
-## Desired outcomes of this stage
+### 在這階段後期望的結果
 
-1. Clickable wireframe of low or high fidelity (preferably high-fidelity)
-2. User flows covering jobs to be done/user stories
-3. Usage of real content included
-4. Designed test scenarios for wireframes
-5. Wireframes tested and accepted by the client – ready to use in the visual design stage
+1. 可點擊的低或高保真度（low or high fidelity）線框稿（以高保真度線框為主）
+2. 使用者流程（user flows）涵蓋所以必須完成的工作和使用者故事（user stories）
+3. 包括真實的內容的應用
+4. 為線框稿設計測試情境（scenario）
+5. 線框稿已經被客戶測試過並且同意－準備進入視覺設計階段
 
 ## Additional reading
 - [Improve Your Online Store UX With These Handy Tips](https://www.netguru.co/blog/ecommerce-ux-tips){:target="_blank"}
