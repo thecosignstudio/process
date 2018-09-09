@@ -60,13 +60,14 @@ chapter_number: "01"
 - 可以讓我們看分析工具嗎？
 - 這個問題已經有類似的產品或替代解決方案了嗎？你的潛在客戶目前如何替代你未來推出的產品？
 
-#### Questions specific to UX Review:
-- On the call, try to establish the scope of the review:
-    - The narrower, the better – a more focused scope is superior.
-    - Try to get to know the client’s requirements and expectations for the review.
-    - Try to get to know what user journeys are key to the client.
-    - In a perfect scenario, narrow down the scope to just one.
-- After the call, discuss the client’s requirements within the team and ask the team about possible blockers.
+#### 針對 UX 檢查的問題：
+
+- 在電話裡，試著建立檢查的範圍
+	- 越小越好。優秀的範圍是專注的。
+	- 嘗試瞭解客戶對於檢查的需求與期望。
+	- 嘗試找出對客戶來說很關鍵的使用者旅程。
+	- 在完美的情況下，範圍會縮小到只有一個。
+- 電話談過後，與團隊內部討論客戶需求，詢問各種可能遇到的阻礙。
 
 #### Visual:
 - Do you have a branding, brand book, brand guidelines?
