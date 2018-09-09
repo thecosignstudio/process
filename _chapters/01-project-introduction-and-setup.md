@@ -142,79 +142,81 @@ Gathering feedback from the client is the key to a successful project.
 - Stay in touch with the client. Send the client up-to-date links to the designs and give progress updates. Last but not least, ask the client about the feelings and emotions that the design evokes.
 - You get in touch with the client to present your designs. Sometimes, you need to sell your vision or just present the bigger picture behind your designs.
 
-## Design files – organization
-This section presents the way we organize our files and folders by default. Of course, this file structure is only an example, and you might want to organize your files and folders in a way that suits you best.
+## 設計文件 - 組織架構
+在這個階段將介紹默認情況下我們所建立的組織文件與資料夾。當然，我們的文件架構僅是一個範例，你可以運用最適合你的方式去建立你的組織文件及資料夾。
 
-#### 1. Preparation
 
-When we start a new project, we create a Designer folder in the client’s main folder.
+#### 1. 準備
+
+當我們進行一個新專案，我們會在客戶的主要文件中建立一個給設計師的資料夾
 
 {% include image.html img="image7.png" img2x="Image7@2x.png" alt="Designer folder" %}
 
-#### 2. The structure of the Designer folder
+#### 2. 該設計師資料夾的架構
 
 {% include image.html img="image2.png" img2x="Image2@2x.png" alt="Designer folder structure" %}
 
-**A. Sources**
+**A. 原檔**
 
 {% include image.html img="image3.png" img2x="Image3@2x.png" alt="Sources folders" %}
 
-Each folder (_Visual_ and _Wireframes_) contains all source files (.psd, .sketch etc.). It depends on the project, but if we have two sources of files, we create subfolders for .psd, .sketch, or any other extensions.
-
+E每個資料夾（視覺和wireframes）將包含所有原檔（.psd, .sketch 等等）。 視每個專案而定，但假如我們有兩種檔案， 我們就會為 .psd, .sketch, 或任何其他擴充文件建立子文件夾。
 {% include image.html img="image1.png" img2x="Image1@2x.png" alt="Source files subfolders" %}
 
-Each source file is presented as a preview in the .jpg or .png format.
+所有原檔的預覽將以 .jpg或 .png 格式呈現
 
 
-**B. Fonts**
+**B. 字型**
 
-In this folder, we put all the fonts which we have used in the project, even if they are free. They are grouped by font name. Like so:
+這個資料夾中， 我們將專案中用過的所有字型放在這裡， 即使是免費字型也一樣。他們會以字型名稱被群組起來，範例如下：
 
 {% include image.html img="image5.png" img2x="Image5@2x.png" alt="Fonts folder" %}
 
-**C. Assets & Exports**
+**C. 資源(Assets)與輸出(export)**
 
-This folder contains two subfolders:
+這個資料夾包含兩個子資料夾：
 
 {% include image.html img="image9.png" img2x="Image9@2x.png" alt="Assets and Exports subfolders" %}
 
-*Assets & Exports* is a folder for FrontEnd Developers.
+assets & Exports 是提供給前端工程師使用的。
 
-- Assets
+- 資源 (assets)
 
-_Assets_ contains all additional assets that we couldn’t put in Exports. For example, SVG icons, etc.
-- Exports
+資源包含所有我們無法放在輸出資料夾 (Exports) 所額外補充的的資源，舉例來說 :SVG、icon 等等
 
-In *Exports*, we put all exports from Sketch or Photoshop.
+- 輸出 (Exports)
 
-**D. Images & Icons**
+在輸出資料夾中，我們將所有Sketch 和 Photoshop的匯出檔放在這裡。
 
-If we have some external images (Shutterstock, etc.) or icon sets, we upload them here.
+**D. 圖檔和 Icon (images&icons)**
+
+如果我們有一些額外的圖檔（Shutterstock等等圖資源）或是 icon set，我們會上傳到這裡。
 
 **E. Documentation**
 
-IMPORTANT! At the end of a project, we create a list of all screens with URLs to particular screens on the InVisionApp broken down by different platforms, breakpoints, and so on.
+非常重要！在專案的最後，我們可以為所有畫面建立連結網址，利用InVision app將每個連結將連到指定的畫面，打破不同平台、斷點的藩籬去溝通(不確定有沒有翻對we create a list of all screens with URLs to particular screens on the InVisionApp broken down by different platforms, breakpoints, and so on.)
 
-In this folder, we upload all documents related to a specific project. Those documents can be personas, user stories, etc.
 
-We also create an _Initial interview_ subfolder, which contains the most important data collected during the initial interview, the materials sent by the client, or scoping session notes related to the design phase relevant to the project.
+在這個資料夾中，我們會上傳跟所有跟實際專案有關的文件。這些文件可以是人物誌(persona) 和 使用者旅程 (user stories) 等等。
+
+我們也會建立一個初次測試 (Initial interview) 的子資料夾，內含跟初次測試期間的重要數據收集，客戶提供的跟專案還有設計階段相關的資源或是scoping session
 
 {% include image.html img="image8.png" img2x="Image8@2x.png" alt="Initial interview folder" %}
 
-## Questions your client may ask
-{% include qa.html question="Why do you want to know the business model?" answer="This will help us focus on important things and prioritize work." %}
+## 你的客戶可能會問
+{% include qa.html question="為什麼你要了解商業模式 (business model)？" answer="這可以幫助我們專注在更重要的工作與優先執行的項目" %}
 
-{% include qa.html question="Why do you have to know this stuff before we meet?" answer="This will allow us to prepare better and have a more focused meeting." %}
+{% include qa.html question="為什麼你在我們會議前就要先知道這些事情？" answer="這些可以讓我們在會議前準備得更充足並專心在我們的會議上面" %}
 
-{% include qa.html question="We don’t have: [a business analysis, market research, target customer base]. Can you do this for us?" answer="We can help you with some parts of it." %}
+{% include qa.html question="We don’t have: 我們沒有什麼「商業分析、市場調查、主要受眾的基礎」。你可以幫我們做嗎？" answer="我們可以支援一部分的工作。" %}
 
-### Questions to ask yourself at this stage:
-- Have I asked all the necessary questions?
-- Do I have all the necessary answers?
-- Was all the project info gathered during the first meeting with the client?
-- Has the process been explained to the client?
-- Has the project structure been created?
-- Have InVision prototypes been created for all target platforms?
+### 這個階段你應該問自己的問題：
+- 我有學問過所有必要的問題了嗎？
+- 我已經得到所有必要的答案了嗎？
+- 在跟客戶的第一次會議中已搜集專案所需的必要資源了嗎？
+- 這個專案流程已經跟客戶對過了嗎？
+- 專案架構已經被建立了嗎？
+- 合乎所有螢幕裝置的InVision原型(prototypes)已經建立好了嗎？
 
 ## Desired outcomes of this stage
 - The project info has been collected.
