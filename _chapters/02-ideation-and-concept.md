@@ -27,13 +27,13 @@ When doing the ideation & concept phase together, a team can generate ideas fast
 - The product is based on hypotheses and assumptions that have been verified with users; thus, users will be more satisfied with the solution
 - The product is not based on one idea but on an analysis of many possible solutions
 
-**Benefits for a Product Designer:**
-- You build a strong foundation for future design processes.
-- You don’t waste time on finding the right look for your project during the wireframing and designing phases.
-- A concept document lays a strong foundation for the communication with the client about the style, visuals, etc. at the later stages of the design process. For example, you can show the client that you agreed on something earlier in case the client tries to change previous agreements.
-- The client’s trust in you – a solid concept and ideation phase is the foundation of a good mutual relationship because you prove you understand their product.
-- Having a more comprehensive vision of the product in relation to the market, cultural and user context.
-- Moreover, visual concepts help to gather and create assumptions that can be easily understood by the client and can be later verified with the end user.
+**產品設計師的效益：**
+- 你能為未來的設計流程奠定強而有力的基礎
+- 你無需在設計階段浪費時間為專案的線框圖尋找適合的外觀
+- 概念提案的版面是為了在設計後期階段和客戶溝通風格、視覺等事項。例如：如果客戶試圖變更之前的合約，你可以向客戶提出先前同意的內容。
+- 客戶對你的信任 — 具說服力的概念和構想階段是奠定雙方良好關係的基礎，因為你證明你了解他們的產品。
+- 對於產品的市場、文化和用戶脈絡有更宏觀的願景。
+- 除此之外，視覺概念有助於你可以更容易地理解用戶，並透過收集和建立假設與客戶和最終用戶進行驗證。
 
 **Benefits for the client:**
 - A solid ideation phase raises the chances of the product’s success because the whole development process is built upon solid data about the market, culture, and competitors.
