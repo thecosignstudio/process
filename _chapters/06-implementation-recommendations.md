@@ -3,38 +3,36 @@ title: "Implementation recommendations"
 chapter_number: "06"
 ---
 
-# Implementation recommendations
+# 實行建議
 
-## Introduction
-**In this section you can learn:**
-- How to prepare assets for a project on specific devices.
-- How to properly name assets.
-- How to answer questions that clients ask most frequently.
-- What questions to ask yourself before proceeding to the next design stage.
+## 介紹
+**在這個章節你可以學到：**
+- 如何準備專案的特殊裝置元件
+- 如何好好地為元件命名
+- 如何回答客戶常詢問的問題
+- 前往下個設計階段前要問自己什麼問題
 
-Talk with the developer of the app before you start preparing assets. Developers have different ways of implementing the design. This is especially important with scalable assets such as backgrounds and interactive elements such as buttons.
+開始準備元件前，請先與開發人員討論。開發人員對於實現設計有不同的方法。這特別對於元件擴充而言很重要，像是背景、互動元件和按鈕。
 
-**Stakeholders:**
-- Designers
-- Client
-- Internal Developers
-- External Developers
-- Project Manager
+**利害關係人：**
+- 設計師
+- 客戶
+- 內部開發人員
+- 外部開發人員
+- 專案經理
 
-## Tools for better asset production and management
+## 最佳化的元件製作和管理工具
 
-When it comes to preparing specifications for our developers, it is vital to generate precise and easy-to-use documentation.
-After a thorough research & comparing different types of software, we decided to implement [InVision Inspect](https://www.invisionapp.com/feature/inspect){:target="_blank"} as a default handover tool at Netguru.
+當我們在準備規範給開發人員時，明確的製作和容易使用文件是極為重要的。經過深入研究和比較不同類型的軟體後，我們決定將 [InVision Inspect](https://www.invisionapp.com/feature/inspect){:target="_blank"} 作為 Netguru 的預設提交工具。
 
-An alternative and free tool is [Sketch Measure](http://utom.design/measure/how-to.html){:target="_blank"}. You can find a guide and download links on [this page](https://github.com/utom/sketch-measure){:target="_blank"}.
+另一種免費工具的選擇 [Sketch Measure](http://utom.design/measure/how-to.html){:target="_blank"}。你能在[此頁面](https://github.com/utom/sketch-measure){:target="_blank"}找到導覽和下載連結。
 
-Besides the native Sketch solution, InVision Inspect, and the Sketch Measure plugin, you can also use other tools such as [Zeplin](https://zeplin.io/){:target="_blank"}.
+除了原生 Sketch 解決方案，InVision Inspect 和 Sketch Measure 外掛程式，你還可以使用其他工具，例如 [Zeplin](https://zeplin.io/){:target="_blank"}.
 
-Moreover, it is very important for us to generate a description of the logic and behaviour for some components using animated preview generated with a tool such as [Principle](http://principleformac.com){:target="_blank"} and [Framer](https://framer.com){:target="_blank"}.
+除此之外，運用像 [Principle](http://principleformac.com){:target="_blank"}. 和 [Framer](https://framer.com){:target="_blank"}. 這類工具，針對特定元件製作動畫，並透過預覽動畫去產生有邏輯性的解釋和表現是非常重要的。
 
-**Optimization tools**
-
-Use optimization tools such as [Kraken](https://kraken.io/web-interface){:target="_blank"}, [ImageOptim](https://imageoptim.com/mac){:target="_blank"} or [Optimage](http://getoptimage.com/){:target="_blank"}. Photoshop and Sketch save a picture’s metadata by default and don’t use optimization algorithms that could make your picture look the same but take up less space.
+**最佳化工具**
+使用最佳化工具諸如 [Kraken](https://kraken.io/web-interface){:target="_blank"}、 [ImageOptim](https://imageoptim.com/mac){:target="_blank"}或 [Optimage](http://getoptimage.com/){:target="_blank"}。Photoshop 和 Sketch 儲存圖片時，使用預設設定會讓你的圖片看起來和使用最佳化演算相同品質，但佔用更少的空間。
 
 ## 設計元件命名習慣
 
