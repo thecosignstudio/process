@@ -134,103 +134,113 @@ Deliverables: A video recording summarized in a report
 **A/B testing**
 - **Products:**<br>
 [Qubit](http://www.qubit.com){:target="_blank"}, [VWO](https://vwo.com/){:target="_blank"}
-- **When?**<br>
-After implementation.
-- **Why?**<br>
-A/B testing allows you to make more out of your existing traffic. While the cost of acquiring paid traffic can be substantial, the cost of increasing your conversions is minimal. The Return On Investment on A/B testing can be massive because even small changes on a landing page or website can result in significant increases in generated leads, sales, and revenue.
-- **What can you test?**
-  - Headings
-  - Subheadings
-  - Paragraph text
-  - Testimonials
-  - Call to Action text
-  - Call to Action button
-  - Links
-  - Images
-  - Content near the fold
-  - Social proofs
-  - Media mentions
-  - Awards and badges<br>
-  - Advanced tests can include pricing structures, sales promotions, free trial lengths, navigation and UX experience, free or paid delivery, and more.<br>
-- **Links:**
-  - To learn about A/B, visit these links [link](http://unbounce.com/landing-page-articles/what-is-ab-testing/){:target="_blank"}, [link](https://vwo.com/ab-testing/){:target="_blank"} & [link](https://www.optimizely.com/ab-testing/){:target="_blank"}.
-  - Learn how to bust these 7 A/B testing myths by Kissmetrics [link](https://blog.kissmetrics.com/ab-testing-myths/){:target="_blank"}.
-  - The ultimate guide to A/B Testing by Smashing Magazine [link](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/){:target="_blank"}.
-  - Learn about most important A/B Testing checklist by HubSpot [link](https://blog.hubspot.com/marketing/a-b-test-checklist#sm.00001z5neov22f9pvdk194oo5d7tq){:target="_blank"}.
-- **How?**<br>
-The correct way to run an A/B testing experiment is to follow a scientific experimental process. It includes the following steps:
-1. **Study your Website Data:** Use a website analytics tool such as Google Analytics and find the problem areas in your conversion funnel. For example, you can identify the bottleneck pages with bad metrics.
-2. **Observe User Behavior:** Utilize visitor behavior analysis tools and find out what is stopping the visitors from converting. For example, “The CTA button is not prominent on the home page."
-3. **Construct a Hypothesis:** Per the insights from visitor behavior analysis tools, build a hypothesis aimed at increasing conversions. For example, “increasing the size of the CTA button will make it more prominent and will increase conversions.”
-4. **Test your Hypothesis:** Create a variation per your hypothesis and A/B test it against the original page. For example, “A/B test your original homepage against a version that has a larger CTA button.” Calculate the test duration with respect to the number of your monthly visitors, current conversion rate, and the expected change in the conversion rate.
-5. **Analyze Test Data and Draw Conclusions:** Analyze the A/B test results and see which variation delivered the highest conversion. If there is a clear winner among the variations, go ahead with its implementation. If the test remains inconclusive, go back to step number three and rework your hypothesis.
-6. **Report results to all concerned:** Let others in Marketing, IT, and UI/UX know of the test results and the insights generated.
+- **什麼時候進行測試?**<br>
+在實作之後。
+- **為什麼需要做測試?**<br>
+A/B 測試可讓你從現有流量中獲得更多收益。雖然獲得付費流量的成本可能很高，但增加轉換次數的成本卻很低。A/B 測試的投資報酬率可能非常高，因為即使在頁面或網站上的微小變化，也會大幅增加新的潛在客戶、銷售和收入。
+- **你可以測試的項目有哪些？**
+  - 標題
+  - 副標
+  - 段落文字
+  - 推薦的文案
+  - 行為召喚的文案（希望使用者進行某種行為）
+  - 行為召喚的按鈕
+  - 連結
+  - 圖片  
+  - 內容靠近首屏的地方（在頁面首次加載時在瀏覽器窗口中可見的部分）
+  - 社會認同
+  - 多媒體
+  - 獎項和徽章<br>
+  - 進階的測試可以包含產品定價結構、促銷、免費試用時間長度、導覽和使用者經驗、免費或付費的交付等等。
+  <br>
+- **相關連結:**
+  - 想多了解各個 A/B 測試工具，可參考這些連結：<br>
+    1.[unbounce - 什麼是A/B 測試？](http://unbounce.com/landing-page-articles/what-is-ab-testing/){:target="_blank"}
+    <br>
+    2.[vwo - A / B測試完整指南](https://vwo.com/ab-testing/){:target="_blank"}
+    <br>
+    3.[optimizely - 什麼是A/B 測試？](https://www.optimizely.com/ab-testing/){:target="_blank"}.
+  - 學習如何打破七個 A/B 測試 by Kissmetrics（原文連結已失效）[連結](https://blog.kissmetrics.com/ab-testing-myths/){:target="_blank"}.
+  - A/B 測試的終極指南 by Smashing Magazine [連結](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/){:target="_blank"}.
+  - 了解最重要的 A/B 測試清單 by HubSpot [連結](https://blog.hubspot.com/marketing/a-b-test-checklist#sm.00001z5neov22f9pvdk194oo5d7tq){:target="_blank"}.
+- **該如何進行測試?**<br>
+進行 A/B 測試實驗的正確方法是遵循科學的實驗過程，它包含以下步驟：
+1. **研究你的網站數據：** <br>
+使用 Google Analytics 等網站分析工具，找到你的網站轉換管道中的問題區域。例如，你可以識別具有錯誤指標的瓶頸頁面。
+2. **觀察使用者的行為：** <br>
+利用訪客行為分析工具，找出阻止訪客轉換（頁面或行為）的內容。例如，在主要頁面上的行為召喚按鈕不明顯。
+3. **建立一個假設：** <br>
+根據訪客行為分析工具的洞察，建立一個目標是在增加轉換率的假設。例如，「增加行為召喚的按鈕大小，使按鈕變得更明顯以增加轉換率。」
+4. **測試你的假設：** <br>
+根據你的假設建立另一個版本，並在原始頁面上對 A/B 版本進行測試。例如，「A/B 針對具有更大行為召喚的按鈕的版本測試你的原始主頁。」根據每月訪客的數量，當前轉換率以及轉換率的預期變化計算測試可以持續時間。
+5. **分析測試數據並得出結論：** <br>
+分析 A/B 測試結果，看看哪種版本提供了最高的轉換率。如果變化中有明顯的贏家，請繼續執行。 如果測試仍然不確定，請返回第三步並重新設計您的假設。
+6. **向所有相關人員報告結果：** <br>
+讓營運行銷人員、工程部門和使用者經驗部門中的其他人知道測試結果和最後產出的洞察。
 
-**Heatmaps**
-- **Products:**<br>
-[Crazy egg](https://www.crazyegg.com/){:target="_blank"}, [Hotjar](https://www.hotjar.com/){:target="_blank"}
-- **When?**<br>
-After implementation.
-- **Why?**<br>
-Heatmaps are great for analyzing your visitors’ behavior. They can bring insights you wouldn't have found using other methods, and, consequently, they can greatly increase your conversion rate.<br>
-Rather than showing raw statistics, it works by using different colors to indicate such things as:
-  - Mouse movement: where the mouse moved (using mouse-tracking).
-  - Click tracking: where the actual click occurred.
-  - Scroll tracking: how far down the page the visitor scrolled.
-  - Eye tracking: where people are most likely to focus upon the first viewing of an image.<br>
-  - What’s more, a heatmap can be incredibly helpful in improving the clickability of your images. It will let you know what people look at and what details they miss. From there, you can adjust, remove, and add whatever you need to increase the effectiveness of each image used.<br>
-- **Links:**
-  - Learn about 8 heatmap tests that reveal visitors’ behavior [here](https://www.hotjar.com/heatmaps){:target="_blank"} (by Hotjar).
-  - Learn how to use heatmaps to increase conversions [here](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/){:target="_blank"} (by Dan Virgillito from AdEspresso).
-  - Look at a practical guide how to increase conversions by using heatmaps [here](https://vwo.com/blog/increase-conversions-using-heatmaps/){:target="_blank"} and [here](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/){:target="_blank"}.
-- **How?**<br>
-You can use Hotjar to generate heatmaps of any page on your site, including password-protected pages and dynamically generated pages.
-To learn about the different types of heatmaps (Click and Tap, Move, Scroll) visit this [link](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps){:target="_blank"}
 
-[**Analytics**](https://blog.kissmetrics.com/expert-google-analytics-reports/){:target="_blank"}
-- **Products:**<br>
-[Google Analytics](https://analytics.google.com){:target="_blank"}, [Woopra](https://www.woopra.com/){:target="_blank"}, [Intercom](https://www.intercom.com/){:target="_blank"}
-- **When?**<br>
-After implementation.
-- **Why?**<br>
-Analyze the traffic and users’ behavior on a website or mobile app. You can also measure the conversion rates by setting goals.
-- **How?**<br>
-Ask your developer to install Google Analytics (GA).<br>
-You can analyze many different statistics in GA: live traffic, bounce rate, time spent on a page, how users found your page, and a lot more.<br>
-Typical reports in GA:
-  - Device/Browser Report
-  - Visitor Acquisition Efficiency Analysis Report
-  - Customer Behavior Report
-  - Mobile Performance Report
-  - Site Diagnostics: Page Timing Report
-  - Hours & Days Report
-  - Referring Sites Report
-  - Content Efficiency Report
-  - Traffic Acquisition from Social Media Report
+## 熱點圖(Heatmaps)
+* 使用產品:[Crazy egg](https://www.crazyegg.com/)、[Hotjar](https://www.hotjar.com/)
+* 何時使用？
+  專案開始執行後。
+* 為什麼要使用熱點分析？
+  熱點圖(Heatmaps) 相當適合用來分析訪客行為，可提供你其他研究方法未必能洞察到的觀點，甚至能增加轉換率。
+* 有別於原始數據的呈現方式，熱點圖(Heatmaps)能運用不同色彩標示出不同數據，如：
+  * 滑鼠軌跡：將滑鼠移動的軌跡記錄下來。
+  * 點擊行為追蹤：紀錄實際發生點擊行為的位置。
+  * 視線軌跡：紀錄使用者第一眼會停留在圖片的哪個位置。
+  * 此外，使用熱點圖有助於提升圖片點擊率。它可以分析使用者視線集中於何處，以及操作過程中可能忽	略掉了哪些細節。你可以針對這結果去調整、刪減或增加任何功能，以提高每張圖片在操作上的效果。
 
-[**Beta testing**](https://www.playtestcloud.com/blog/testflight-alternatives-ios-android){:target="_blank"}
-- **Products:**
-<br>[TestFlight](https://developer.apple.com/testflight/){:target="_blank"}, [HockeyApp](https://hockeyapp.net/){:target="_blank"}, [Google Play Beta Testing](https://play.google.com/apps/publish/signup/){:target="_blank"}, [Fabric.io](https://get.fabric.io/){:target="_blank"}
-- **When?**<br>
-After implementation and before official launch.
-- **Why?**<br>
-You have your product ready and working, but before the official release, you should test it on a small sample to collect feedback and spot any remaining bugs.
-- **How?**<br>
-Beta testing is mostly done by developers and is especially useful for mobile apps testing, but it can be applied to any digital product. You can take advantage of usage metrics that are available in tools such as HockeyApp, and users can give feedback directly in the app.The smart approach to selecting your audience is to use [focus groups](https://en.wikipedia.org/wiki/Focus_group){:target="_blank"}, which work as small, representative, scaled-down groups of your future customer base.
+* 如果想了解更多，可以閱讀下列文章：
+  * [《從八個熱點分析案例，揭露訪客使用行為。》(英)](https://www.hotjar.com/heatmaps)(作者為 Hotjar 團隊)
+  * [《如何使用熱點圖增加轉換率。》(英)](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/)(作者為 AdEspresso 的 Dan Virgillito)
+  *《利用熱點圖提升轉換率的實作指南》(英) 請見[連結一](https://vwo.com/blog/increase-conversions-using-heatmaps/)與[連結二](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/)
+* 如何使用？
+	可以使用 [Hotjar](https://www.hotjar.com/) 製作網站上任一頁的熱點圖，包含有密碼保護的頁面與動態頁面都可製作。想了解不同類型的熱點圖（如滑鼠點擊、鍵盤敲擊、游標移動與滾輪滑動等），請參見[此連結(英)](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps)。
 
-## Tips for testing your designs
-- It’s wise to build prototypes and test as early and as often as possible to fix the major issues before you even move the project to the next stage.
-- You just need between 3 and 5 people to spot the most significant usability issues.
-- It’s often better to test the product with new participants without any knowledge about you and your product.
-- Don’t try to capture your insights (write them down, talk to yourself, etc.) while testing on real users – it makes them nervous.
-- You don’t want to bias your users during the test. You want to see how they figure out things for themselves, or how they don’t figure them out. In real life, you wouldn’t sit next to them while they would be using your product.
+## [分析](https://blog.kissmetrics.com/expert-google-analytics-reports/)
+* 使用產品：[Google Analytics](https://analytics.google.com/), [Woopra](https://www.woopra.com/), [Intercom](https://www.intercom.com/)
+* 何時使用？
+  專案開始執行後。
+* 為什麼要使用網站分析工具？
+  分析網站或行動裝置 App 的流量與使用者行為，也可設定目標追蹤轉換率。
+* 如何使用？
+* 請開發人員協助安裝 Google Analytics (GA)。您可以透過 GA 分析不同數據，如即時流量、跳出率、單頁停留時間、使用者如何找到您的網頁等。
+  典型的 GA 報表：
+  * 使用裝置/瀏覽器報表
+  * 客戶開發效率分析報表
+  * 消費者行為報表
+  * 行動裝置表現報表
+  * 網站診斷：網頁操作時間報表
+  * 時段報表（Hours & Days Report）
+  * 參照連結網址報表
+  * 網站內容有效性報表
+  * 社群管道流量來源報表
 
-## Questions your client can ask
-{% include qa.html question="為什麼我需要做測試？" answer="綜上所述，您必須將出現錯誤的風險降到最低，因為您要面對的是現實中使用您產品的真實用戶。此外，敏捷方法的反覆修正有助於在每個 sprint 中改善產品弱點。測試將會檢測出這些弱點。" %}
-{% include qa.html question="誰需為這些測試成本買單？" answer="客戶支付測試費用，因為這是我們所提供的服務的一環。但客戶應該一起討論、估計並同意去花費大量時間去做測試。" %}
-{% include qa.html question="測試需耗時多長時間？ 是否會影響截止日期或是開發時程？" answer="請參閱 工具 部分中的估計時間。如果測試的目的不是影響產品開發的話 (列如：熱點分析*)，則不應該影響截止日期或是開發時程。*熱點分析 (Heatmaps)" %}
-{% include qa.html question="Was the app tested after design? Can we start the implementation? How?" answer="Yes, it was tested in order to ensure the highest quality of our work. Let’s just test after the design phase, and we will be ready for implementation." %}
-{% include qa.html question="What kind of tests do you provide by default to ensure high quality?" answer="Every project needs different testing methods, so tests are tailored individually. Feedback from the team and a design bug bash are usually carried out in all projects." %}
+## 邀請團隊外部人員測試(Beta Testing)
+* 使用產品：[TestFlight](https://developer.apple.com/testflight/), [HockeyApp](https://hockeyapp.net/), [Google Play Beta Testing](https://play.google.com/apps/publish/signup/), [Fabric.io](https://get.fabric.io/)
+* 何時開始？
+  專案執行後，公開發布前。
+* 為什麼？
+  當產品準備公開發布前，應該在小部分的樣品上做測試，並收集其他人員的回饋，及檢查有無尚未解決的錯誤。
+* 如何執行？
+  通常由開發人員負責外部測試，如果是針對行動裝置 App 的測試，外部測試是最管用的方法。不過外部測試也能應用在任何數位產品。您可利用 HockeyApp 等工具中提供的指標，使用者可直接在 App 給予回饋。另外，在目標受眾的選擇上有更聰明的方法，利用焦點團體，也就是以人數較少、代表性的小規模群眾作為未來產品使用者樣貌。
+
+## 在產品測試上的建議
+* 當專案要進行到下一階段時，儘早建構原型並進行測試，並頻繁地修正產品的重大問題。
+* 您只需要約三到五人去檢查最重要的易用性問題。
+* 最好是找對產品毫無背景知識的新受測者，參與測試。
+* 在對真實用戶進行測試時，不要讓你的觀點影響使用者(寧可寫下來，與自己交談等)，這會讓受試者緊張。
+* 在測試時，不要引導您的使用者。因為您需要知道使用者是如何找到答案或為何無法解決問題。在現實生活中，當使用者在操作產品時，您是不會坐在他旁邊協助的。
+
+## 客戶可能會問您的問題
+### Q 為什麼我的產品需要測試？
+**A** 綜上所述，您必須將出現錯誤的風險降到最低，因為您要面對的是現實中使用您產品的真實用戶。
+
+{% include qa.html question="Who’s paying for the test?" answer="The client pays for the tests because they are part of the services we provide. Tests that take a significant amount of time should be discussed, estimated, and agreed on with the client." %}
+{% include qa.html question="How long will the test take? Will it affect the deadline and/or development?" answer="See estimated times in the Tools section. If affecting the course of the development is not the purpose of the test (e.g., Heatmaps), it shouldn’t affect the deadline or the development schedule." %}
+{% include qa.html question="用程式在設計階段之後有測試過了嗎？我們可以開始建置了嗎？要怎麼做？" answer="測試過了！為了要確保工作結果的品質，產品必須經過測試。經過測試之後，就可以開始建置了。" %}
+{% include qa.html question="What kind of tests do you provide by default to ensure high quality?建置前的測試包含了哪些項目以確保設計的品質？" answer="Every project needs different testing methods, so tests are tailored individually. Feedback from the team and a design bug bash are usually carried out in all projects.每個產品適用不同的測試方法，所以測試的項目會依照產品性質客製。通常在所有的專案中都會包含總結工作團隊的回饋訊息和設計的漏洞檢視(Bug Bash)" %}
 
 **Questions to ask yourself at this stage**
 - Have I collected feedback among the team?
