@@ -59,70 +59,73 @@ chapter_number: "02"
 * 品質驗證專員
 * 專案經理
 
-## Ideation Phase
-At this point in the Product Design Process, you will have already gone through a Strategic Analysis phase, where you will have conducted extensive Workshops, Desk Research, and User Research. At Netguru, we use a [UX Review](https://www.netguru.co/services/ux-review/){:target="_blank"} and a [Product Design Sprint](https://www.netguru.co/services/product-design-sprint/){:target="_blank"} for these purposes. With a proper [UX Review](https://www.netguru.co/services/ux-review/){:target="_blank"}, you can create an information architecture draft and user flows, define user personas (LINK), and develop a report based on a data analysis. A [Product Design Sprint](https://www.netguru.co/services/product-design-sprint/){:target="_blank"} allows you to validate the fundamental product assumptions and build the first versions of the product roadmap and user stories. In the following sections, you will learn what to do to conduct successful ideation.
+## 發想階段
 
-### The elements of the ideation phase:
-- Literature review (collecting and reviewing all existing materials relevant to your subject, e.g., academic articles, Google search).
-- Collecting detailed information (existing materials, corporate guidelines) about your client’s business and the services the client offers
-- Information on the target customer base (What do they want, need, and expect?)
-- Analysis of competitors (Who are they? How are they different? How are they similar? How do they advertise or make information available?)
-- Analysis of current or future user behaviors
-- Analysis of the outcomes of workshops and the research
+在產品設計過程的這個階段，您已經經歷了策略分析時期（包含大量的研工作坊、桌面研究和用戶研究）。在 Netguru，我們使用 UX 評鑑 和產品設計 Sprint 來實現這些目的。通過適當的 UX 評鑑，您可以建立資訊架構草稿和用戶流程、定義用戶人物誌 (連結)，並基於數據分析發展報告。產品設計 Sprint 讓你可以驗證基本的產品假設、建構第一版的產品計畫和用戶故事。在接下來的章節中，你將學習如何進行成功的發想。
 
-### Things to consider:
-- Do you need to run a full design audit? Much like a SWOT analysis, which assesses strengths, weaknesses, opportunities, and threats, a design audit applies the same stringent methodology to analyzing the competitors’ visual presence in the marketplace
+### 發想階段的基本要素
 
-{% include quote.html text="A graphic design audit is a fantastic and relatively easy way to get a clear picture of how your competitors are perceived, what key messages they are communicating and how you look when placed alongside them. It’s also a valuable exercise that informs you about the type of communication your customers are receiving on a regular basis from your key competitors." author="Clare, 2006e" %}
+- 文獻回顧（收集和檢視與你的主題相關的所有現有資料，例如學術文章、Google 搜尋）
+- 收集與客戶商業和服務相關的詳細資料（現有資訊、企業規範)
+- 目標用戶的訊息（他們想要、需要和期望什麽？）
+- 競爭對手的分析（他們是誰？他們有何不同？他們有何相似之處？他們如何做廣告或找到相關訊息？）
+- 分析當前或未來的用戶行為
+- 分析工作坊及研究的成果
 
-- What are the implications of the audience profile in relation to the project goals?
-- What are the most appropriate means of communicating with this audience (i.e., what media and marketing tools should you use)?
-- How do the goals of this project align with your client’s long-term goals?
-- Is your client’s message what actually needs to be communicated in order to further the client’s business goals?
+### 需要考量的事情
 
-Research takes time and can cost money, but in the grand scheme of things, it will save time and money by helping to focus the direction of the design process. It also helps you justify to your client the communication solutions you put forward. **Remember that all research must be carefully documented, and information sources need to be saved and made available for future reference.**
+- 是否需要進行全面的設計審核？與評估優勢、劣勢、機會和威脅的 SWOT 分析非常相似，設計審核使用同樣嚴格的方法來分析競爭對手在市場中的視覺定位
 
-### What is the product?
-- What is your product’s value proposition?
-- What is your desired competitive advantage?
-- What sets your product/feature apart from the competitors?
-- What is the main selling point?
-- What is the client’s idea/vision of the product?
-- Web & mobile?
-- Are other touchpoints relevant to the client?
-- Do you have any benchmarks and inspirations in mind?
-- How do you educate your users? (Onboarding, Content, etc.)
-- What is the most important feature of the product?
-- What is the primary goal of the product?
-- What is the primary action in the product?
-- What is the primary information that product provides?
+「平面設計的審核是一個不錯且相對容易的方式，來獲得你的競爭對手是如何被知覺、他們正在溝通哪些關鍵信息、以及當你與他們並列時你看起來如何。這也是一個很有價值的練習，它可以告訴你你的顧客從你的主要競爭對手那裏定期得到的交流方式。」
 
-### Business goals are the most important from the client’s perspective
-One of the most important aspects of design for both parties is to understand the goals of the product you are designing. Ask the client:
-- What are the business goals that you want to accomplish?
-- What is your business model?
-- Are you making any money?
-- Do you have an investor or are you bootstrapping?
-- Have you conducted market research?
-- Do you have a market niche?
+- 與專案目標相關的受眾概況的含義是什麽？
+- 與聽眾溝通最合適的方式是什麽？（例如：你應該使用什麽媒體和行銷工具？)
+- 這個專案的目標如何與客戶的長期目標保持一致？
+- 為了推進客戶的商業目標，你的客戶實際上需要傳達什麽訊息？
 
-#### Business model
-- How do you want to fund your business in the future?
-- Business strategy
-    - Do you have one?
-    - Desired pricing model?
-    - Market strategy?
-    - Digital marketing?
-    - Content strategy?
-    - Offline strategy?
-- Digital strategy
-    - How do you speak about your product online?
-    - Success stories, case studies.
-    - Strategies per product?
-    - Do you have a cross-platform promotion strategy?
-    - Are you planning an international expansion?
-- How would you like to be perceived as a brand?
-- How should your users perceive you as a company? (e.g., innovative, traditional, easy to use)?
+研究花費時間與金錢，但在大的計劃裡，它將節省時間和金錢藉由聚焦設計過程的方向。它還可以幫助你向客戶證明你提出的溝通解決方案是合理的。請記住，所有的研究都必須被仔細地記錄下來，以及訊息來源需要被保存下來，以便將來參考。
+
+### 產品是什麼？
+- 你的產品的價值主張是什麽？
+- 你期望的競爭優勢是什麽？
+- 你的產品/功能與競爭對手有何不同？
+- 主要的賣點是什麽？
+- 客戶對產品的想法/願景是什麽？
+- 網頁版 & 行動版？
+- 其他接觸點是否與客戶相關？
+- 你有任何的指標和靈感嗎？
+- 如何教育用戶？（第一次使用的訓練、內容…等)
+- 產品最重要的特色是什麽？
+- 產品的主要目標是什麽？
+- 產品的主要功能是什麽？
+- 產品提供的主要訊息是什麽？
+
+### 從客戶的角度來看，商業目標是最重要的
+對於雙方來說，設計中最重要的就是了解你所設計產品的目標，請詢問客戶：
+- 您想要實現的商業目標是什麽？
+- 你的商業模式是什麽？
+- 你賺了錢嗎？
+- 你有投資者嗎？還是你是用自己的資金？
+- 你做過市場調查嗎？
+- 你們有市場定位嗎？
+
+#### 商業模式
+- 你希望將來如何為你的事業提供資金？
+- 商業策略
+  - 你有嗎？
+  - 期望的定價模型？
+  - 市場策略？
+  - 數位行銷？
+  - 內容策略？
+  - 下線策略？
+- 數位策略
+  - 你如何在網上談論你的產品？
+  - 成功的故事、案例研究
+  - 每個產品的策略？
+  - 你有跨平台的推廣策略嗎？
+  - 你在計劃國際性擴張嗎？
+- 作為一個品牌，你希望如何被知覺？
+- 你的用戶應該如何看待你這個公司？（例如：創新、傳統、容易使用的？)
 
 #### Business goal
 - What is the main short-term business objective?
