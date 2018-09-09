@@ -3,28 +3,28 @@ title: "Design"
 chapter_number: "05"
 ---
 
-# Design
+# 設計
 
-## Introduction
-**In this section, you will learn:**
-- Where to look for inspiration
-- How to collect inspirations and prepare moodboards
-- How to prepare style guides
-- Specific design states and how to prepare one
-- Tips for designing for specific devices
-- Best practices for working in teams
-- Where to find design resources
-- Sketch tips
+## 介紹
+**在這個章節，你將會學到：**
+- 到哪裡可以找到靈感
+- 如何收集靈感與準備情緒板 ( moodboard )
+- 如何準備風格樣式指南
+- 如何準備一個特定的設計階段
+- 在不同特定裝置上設計的小技巧
+- 最好的團隊協作練習
+- 在哪裡可以找到設計資源
+- 設計草稿的小技巧
 
-We design something to give a form to a function and to solve a problem with a set of available resources. Good design is solving a problem so that it seems as if there had never been a problem in the first place. Well designed interfaces, communication processes, or objects shouldn’t require too much effort from their users. Good design often makes you think: Gosh, I could have done that myself!<br>
-And yes, well-designed things are often a pleasure to look at or experience. In some cases, the form will precede the function.
+我們設計東西是在透過一套可用的資源，給出可以解決問題的用途一個形式。好的設計是解決一個問題，所以他首先看起來是沒有什麼問題的。好的介面設計、溝通過程，或是物件的操作是不需要耗費使用者太多的力氣的。好的設計會讓你想到：天啊，我本來應該可以靠自己做到的！<br>
+是的，良好的設計物件通常是一個令人愉悅的看待或是體驗。在一些案例裡面，這些形式將會處於功能之前。
 
-**Stakeholders**
-- Designer
-- Client
-- QA
-- Developers
-- PM
+**利益相關人**
+- 設計師
+- 客戶
+- 品質管理員
+- 開發人員
+- 專案經理
 
 ## Inspiration
 **Find an accurate style for the project**<br>
