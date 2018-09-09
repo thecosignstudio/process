@@ -99,34 +99,33 @@ chapter_number: "01"
 	- 如果有，客戶跟設計師合作的經驗是怎麼樣？
 - 客戶理解設計師的角色嗎？
 
-#### Milestones & priorities
-- Make sure that the client has a reasonable approach to the creation of an [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"} (keep the scope small).
-- Make the client aware of the importance of going step-by-step in terms of functionalities.
+#### 里程碑與優先順序
+- 確認客戶有合理的 打造 [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"}（讓範圍保持夠小）
+- 確認客戶知道在功能方面要一步一步來的重要性。
 
-#### Why is it important to sell the outcomes of your work?
-- By selling yourself or your work well, you gain the client’s trust in your decision.
-- When you hesitate or don’t know the “whys” behind your design decision, you scare clients off.
+#### 為什麼宣傳作品的成果很重要？
+- 如果有好好宣傳作品，就可以讓客戶信任你的決策。
+- 覺得猶豫或不知道設計決策背後的「為什麼」的話，就會把客戶嚇跑。
 
-#### Must-haves when communicating with a client:
-- Know the benefits and outcomes of your work.
-- Gain the client’s trust – they will care about your opinions.
-- Your client’s future often depends on you, your decisions, and your work. Everything you do serves to convince them that their business is in good hands.
-- Don’t ask basic questions to which you can easily find answers on Google.
-- Every decision you make must match the business goals of your client – always and unconditionally.
-- You can use the structure:
-[What you did] + [how you came up with the thing you did] + [why you did it/how this will help the client’s business]
-- **There are no maybes – there is confidence.** Be absolutely sure about your statements.
-- Speak about the “whys” of your design and how your work will improve your client’s chances of achieving success.
-- Don’t talk about the things the client can see on their own. Say it this way: “This element is placed here because it will help X achieve Y/with Z”.
-- Use data. Whenever you assume something, base it on best practices, behavior studies, and statistics.
-- It’s much better to present a small number of excellent arguments than flood the client with dozens of mediocre ones.
-- Adjust your language – don’t use jargon.
+#### 跟客戶溝通時的必備項目
+- 知道作品的好處與成果。
+- 獲取客戶的信任：他們會重視你的意見
+- 客戶的未來通常交付在你、你的決策和作品手上。所有你做的事情都是要說服客戶，他們的事業有妥善營運。
+- 不要問可以輕易在 Google 就能找到的問題。
+- 每個決策都要符合客戶的事業目標 - 絕對必備，而且無條件的。
+- 可以利用此架構：「你們之前做過的事」+「當初是怎麼想到你們之前做過的事」+「為什麼而做/這要如何對客戶的事業有幫助」
+- **沒有或許，才有自信。**要很確定你的立場。
+- 說出設計的「為什麼」，還有你的作品會如何幫助客戶增加成功的機率。
+- 不要說客戶可以自己看到的東西。要這樣說：「這個元素放在這邊是因為可以幫助 X 跟著 Z 達到 Y。」
+- 利用資料 (data)。任何推測都要依據最佳做法、行為研究和統計。
+- 比起用一海票的普通論點淹沒客戶，說出少數幾個優秀的比較好。
+- 調整你的用語，不要使用專業術語。
 
-## Gathering feedback
-We use InVision at Netguru as the main tool for gathering feedback on each iteration and for keeping all comments in one place. [Check out how it works.](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"} We also have a dedicated process to get more precise feedback from other designers within our team.
+## 蒐集回饋
+在 Netguru，我們使用 inVision 做為每次進行逐步修改蒐集回饋和把所有留言都放在同一處的主要工具。（[看它的運作原理](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"}）我們也有從團隊內其他設計師獲取精準回饋的詳盡流程。
 
-#### From Teammates
-Remember that if you have any difficulties with your design, you can always ask other designers for feedback. It’s also important to share your solutions with the team before sharing them with the client. With this approach, you can improve your designs, spot bugs or logic issues in your solutions or, alternatively, read people’s praise for you and collect thumbs-ups.
+### 來自隊友
+請記得，如果你的設計遭遇任何困難，一定都可以向其他設計師徵求回饋。還有很重要的是：分享給客戶之前，先在團隊內部分享。這個做法可以改進設計、找出錯誤或邏輯問題，當然也可以收到對你的讚美，獲得按讚。
 
 - Just go to your team (use messaging apps or simply talk to them), share a link to your designs and ask for some help, opinions or comments.
 - Ask another designer for a review.
