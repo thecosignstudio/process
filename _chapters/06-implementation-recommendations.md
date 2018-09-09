@@ -72,7 +72,7 @@ Use optimization tools such as [Kraken](https://kraken.io/web-interface){:target
 - *ic_asset_name_disabled*
 - *ic_asset_name_activated*
 
-如果想了解更多，可以閱讀此篇文章：A Designers Guide for naming Android Assets{:target="_blank"}.
+如果想了解更多，可以閱讀此篇文章：[給設計師看的 Android 元件命名方式（英）](https://medium.com/@AkhilDad/a-designers-guide-for-naming-android-assets-f790359d11e5#.8gk28dx78){:target="_blank"}
 
 ## Android platform-specific tips
 
