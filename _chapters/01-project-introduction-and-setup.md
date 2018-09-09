@@ -43,22 +43,22 @@ chapter_number: "01"
         - [從設計師身上可期望的事情](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
         - [當你付錢找來設計師時，可以獲得的事情](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
         - [8 種建立/維護成功的客戶與設計師之間關係的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
-- **Avoid multi-platform designs at the early stages of the project**
-If the client needs a multi-platform design, ask another designer for help. If you believe that the scope is big enough, always suggest a design team. Learn more from: [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
-- **Emphasize that it’s impossible to predict users’ behavior accurately**
-We rely on research and available data – the validity of a solution can only be assessed with relevant tests.
-- **We cannot guarantee a business success**
-Try to make it clear that even the best product design does not guarantee a product’s success in terms of revenue.
-- **Give a quick overview of all the Product Design phases**
+- **在專案的早期階段，避免多平台設計。**
+如果客戶要求多平台設計，需找另外一位設計師來幫忙。如果你認為範疇夠大，一定要建議組成設計團隊。請看細節：[為什麼團隊採用的方法對於產品設計成功與否很關鍵？](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
+- **強調不可能精準地預測使用者行為。**
+我們依據研究和現有資料，解決方案的準確程度只有在有關的測試才能達成。
+- **我們無法保證生意上的成功。**
+請試著清楚說明：就算是最好的產品設計，也無法從利潤的角度保證產品成功。
+- **列出簡要的產品設計階段**
 
-### First meeting – get some info from the client:
-**General info**
-- What is your deadline? (design/release date)
-- What will make the application a success in your opinion?
-- What will make our work a success in your eyes?
-- Have you collected any user feedback yet?
-- Can you grant us access to your analytics tools?
-- Are there any similar products or alternative solutions to the same problem? What are your potential customers doing today instead of using your future product?
+### 首次會面 - 從客戶獲取訊息：
+**一般訊息**
+- 死線是什麼時候？（設計/推出日期）
+- 你自己認為此功能的成功因素？
+- 你認為我們一起合作能夠成功的因素？
+- 你曾經蒐集過任何使用者反映的意見嗎？
+- 可以讓我們看分析工具嗎？
+- 這個問題已經有類似的產品或替代解決方案了嗎？你的潛在客戶目前如何替代你未來推出的產品？
 
 #### Questions specific to UX Review:
 - On the call, try to establish the scope of the review:
