@@ -3,62 +3,69 @@ title: "Wireframing"
 chapter_number: "03"
 ---
 
-# Wireframing 線稿(wireframing)
+# Wireframing 製作線稿(wireframing)
 
-## Introduction
+## 前言
 **在這個章節你將會學到：**
-- The definition of wireframing and the things a client should understand了解線稿的定義以及在這個開發環節上客戶需要知道的事項.
-- What elements to include in a wireframe.
-- Best practices – DOs and DON’Ts of wireframing.
+- 了解線稿的定義以及在執行製作上客戶需要知道的事項。
+- 線稿流程包含哪些範疇。
+- 最佳實踐 – DOs and DON’Ts of wireframing. 線稿的ＯＯ與ＯＯ。
 
-### Stakeholders
-- Designer
-- Client
-- QA
+### 流程相關成員
+- 設計師
+- 客戶
+- 工程師
 
-As Product Designers, we should never skip the wireframing stage. The wireframing stage is the bridge between researching and designing visuals. It lets us test-drive ideas and iterate quickly from early on in the project. Not only does it save us a lot of time that would have otherwise been wasted on neverending adjustments, but it also makes our process more robust, our vision clearer and our rationale more valid. As a result, the final design becomes truly meaningful and valuable to the client. The outcome of this phase is usually a set of user flows and wireframes.
+身為一個設計師，我們絕不能跳過線稿這個階段。線稿階段是銜接前期研究與設計視覺化的橋樑，我們可以透過線稿在專案早期開發階段反覆快速地進行測試修正。
+這不只是因為它能幫我們節省大量時間，也能避免浪費時間在永無止境的調整上，同時確保我們的流程更加穩固。讓我們的想像更明確、更具邏輯性。
+根據線稿的成果，最後的設計對客戶而言也會更加務實跟具有價值助益。
 
-### Benefits of wireframing for the client:
-- Allows for fast prototyping.
-- Allows clients to test ideas early.
-- Allows us to eliminate errors and problems early.
-- The client will know their product, users’ needs and behavioral patterns better.
+### 執行線稿流程對客戶的益處：
+- 可以更快速產製原型。
+- 可以儘早測試客戶的想法。
+- 可以及早除錯與解決問題。
+- 客戶將會更了解他們的產品、使用者的行為模式與需求。
 
-### Benefits for the team:
-- Wireframes will often help to discover new requirements and questions that may not have been considered by the project team.
-- Developers will know how the website/application will work before designers provide them with final designs.
-- Opportunity to gather feedback and test how the product will work before proceeding to the design phase.
+### 執行線稿流程對團隊的益處：
+- 對專案團隊了解可能沒有考慮到的新需求與問題很有幫助。
+- 開發者將會知道在設計師提供網頁或 App 完稿介面前是如何進行開發的。
+- 在進入設計階段前有機會收集回饋並測試產品是如何運作的。
 
-## What is a wireframe?
+## 什麼是線稿？
 A wireframe is a basic visual interface guide that outlines the structure of an interface and the relationships between its pages. A wireframe serves as a blueprint that defines a project’s structure, content, and functionality. Wireframes are created before any visual design work starts so that the focus is on the information architecture without the distraction of color or visual elements.
+線稿是一種基本視覺介面指南，描繪介面畫面之間的關係性與層級架構。
+線稿是被用來定義一個專案的架構、內容與功能的藍圖。
+在任何設計視覺化工作開始前先創建線稿，因而讓人能更專注在資訊結構上不受色彩或視覺因素影響。
 
-## What is included in the wireframing phase?
-The wireframing phase can be divided into 2 subphases:
 
-### User Flow diagrams
+## 製作線稿的階段流程包含哪些內容？
+製作線稿的流程可被分為兩個子階段：
+
+### User Flow diagrams 使用者流程示意圖
 User Flow diagrams (also known as flowcharts) are a visual representation of a desired user journey path through the designed product. They illustrate the steps, decisions, and funnels users frequently come across. Thoughtfully crafted User Flow Diagrams let you reveal the moments critical for user conversion and then apply adequate solutions to the obstacles you identify. For an example of a user flow diagram [visit](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"} and to check out flowchart click [this link](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}.
 
-### Single-page wireframes
+### Single-page wireframes 單一畫面線稿
 Single-page wireframes (also known as page schematics or screen blueprints) are a visual guide to a page's structure, composition, and information hierarchy. Their purpose is to arrange the elements of a website’s content in an informed, user-friendly and business-effective manner. As their main focus lies in the functionality unobstructed by flashy visuals, they need to be stripped of all elements of visual language such as colors, infographics, effects, etc. Have a look at an example of [a single-page wireframe](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}.
 
-## What elements should I include in a wireframe?
+## What elements should I include in a wireframe? 在線稿中我該納入哪些元素？
 
-### List of elements
+### List of elements 因素清單
 Wireframes should include all the important elements of a product:
-- navigation,
-- the company's logo (if it exists),
-- content area sections + sample content (placeholder text),
-- calls to action,
-- widgets,
-- fields,
-- forms,
-- pop-ups,
-- hover states (if applicable).
+線稿應該包含一個產品中所有重要的元素：
+- navigation, 導覽,
+- the company's logo (if it exists), 公司識別標示 （如果具備的話），
+- content area sections + sample content (placeholder text),內容文字區塊＋範例文字（佔位符文本），
+- calls to action, 召喚行動，
+- widgets, 
+- fields, 
+- forms, 表單，
+- pop-ups, 彈窗，
+- hover states (if applicable). 滑入狀態（如果有應用）。
 
-### What kind of software should I use for designing wireframes?
-At Netguru, we use:
-- Sketch for wireframes.
-- InVision for quick prototyping.
+### What kind of software should I use for designing wireframes? 我該使用什麼樣的軟體來設計線稿？
+At Netguru, we use: 在 Netguru ，我們使用的工具有：
+- 以 Sketch 製作線稿。
+- 用 InvVision 產製簡便原型。
 
 ## Wireframing Best Practices
 
