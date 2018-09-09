@@ -124,46 +124,47 @@ chapter_number: "02"
 - 作為一個品牌，你希望如何被知覺？
 - 你的用戶應該如何看待你這個公司？（例如：創新、傳統、容易使用的？)
 
-#### Business goal
-- What is the main short-term business objective?
-- What are the KPIs you’d like to achieve?
+#### 商業目標
+- 主要的短期商業目標是什麽？
+- 你希望達到什麽 KPIs？
 
-#### Market
-- How is your brand unique and how does it differ from the competition? Why should people choose your brand and use your app?
-- How do you drive traffic / reach market groups?
-        - How do you track the results of your marketing efforts?
-        - Where are you trying to market groups?
-        - What are your promotion channels? Do you have a strategy?
-- Questions about the competitors:
-    - Who are they?
-    - How are they different?
-    - How are they similar?
-    - How do they advertise or make information available?
-    - Estimates and technical advice from subcontractors (e.g., printers)
-- Are there any similar product offerings or alternative solutions to the same problem?  What are your potential customers doing today instead of using your future product?
-- Are there any ideas already on the market that you would like to implement?
-- Business critical features?
-- Your Partners’ perspective:
-    - What do they need?
-    - Turning for customer sales people
-    - Division of responsibilities
-- Other requirements / legal restrictions
-- What country (or region) is the product to be launched in?
-- What is the language the product is to be designed in?
-- Are there any special requirements regarding the market that should be taken into consideration (e.g., limitations related to the culture or religion)?
-- Is the product limited by regional law anyhow (for example anti-spam regulations or copyright)?
-- Is the product to be regionally diversified (e.g., different language versions)?
+#### 市場
+- 你的品牌有何獨特之處？與競爭對手有何不同？為什麽人們應該選擇你的品牌並使用你的 app ？
+- 你如何提升流量/接觸市場族群？
+        - 你如何追蹤你的行銷成果？
+        - 你想在哪裡定位族群？
+        - 你們的推廣管道是什麽？你有什麽策略嗎？ 
+- 針對競爭對手的問題：
+    - 他們是誰？
+    - 他們有何不同？
+    - 他們有何相似之處？
+    - 他們如何做廣告或找到相關訊息？
+    - 發包商的估價及技術裝置（例如：印表機）
+- 對於相同的問題，是否有類似的產品或替代解決方案？你的潛在客戶現在在做什麽而不是使用你未來的產品？
+- 市場上有沒有你想要實現的想法？
+- 商業關鍵性的特色？
+- 你的夥伴的觀點：
+    - 他們需要什麼？
+    - 為客戶銷售人員提供服務
+    - 職責分工
+- 其他要求/法律限制
+- 產品將在哪個國家（或地區）推出
+- 產品的語言是什麽？
+- 市場是否有特別的需求需要考慮？（例如：與文化或宗教有關的限制）
+- 產品是否受到地域性法律的限制？（例如：反垃圾郵件法規或版權）
+- 產品是否在區域範圍內多樣化？（例如：不同的語言版本）
 
-Sometimes, very direct questions won’t work the way we want.
-- Be smart during the interview with your client and ask them about the things that seem to be vital to them.
-- Maybe there is a problem that we can solve and measure?
-- Be sure to set clear goals for what you want to achieve.
-- It’s highly recommended that you review the [Business Model Canvas.](https://upload.wikimedia.org/wikipedia/commons/1/10/Business_Model_Canvas.png){:target="_blank"} It’s not a clear example of which questions to ask, but it shows the fundamental aspects of business and products. You can treat it as an inspiration for collecting your thoughts.
+有時，非常直接的問題不會按照我們想要的方式進行。
+- 在面試你的客戶時要聰明，詢問他們對他們來說重要的事情
+- 也許有一個問題我們可以解決和衡量？
+- 確保為你想要實現的設定明確的目標
+- 非常推薦你閱讀 [商業模式圖（英文）]
+(https://upload.wikimedia.org/wikipedia/commons/1/10/Business_Model_Canvas.png){:target="_blank"} 這不是一個明確的問題，但它顯示了業務和產品的基本要素，你可以把它當作收集思想的靈感。
 
-Since everything is trackable, speak about the exact points you’re going to track. Identify the client’s KPIs (Key Performance Indicators). Good KPIs take into account the business context, predict success, show early warning signals, and validate the achieved results. You can use the following materials to create [tailor-made KPI materials.](http://www.bscdesigner.com/kpi-system-example.htm){:target="_blank"} They could range from new sign-ups to some customers using Paypal vs. purchases with credit cards. Always make sure you know how high you’re aiming from the start. Sometimes, it can be challenging to analyze. Read more here: [12 Steps System for the Most Challenging Metrics and KPIs](http://www.bscdesigner.com/kpi-system.htm){:target="_blank"}
+既然所有的東西都是可追蹤的，那就說說你要追蹤的確切目標吧。識別客戶的 KPIs（關鍵績效指標），好的 KPIs 需要考慮商業脈絡、預測成功、顯示早期預警的信號，並驗證已實現的結果。您可以使用以下材料創建 [量身定制的 KPI 材料](http://www.bscdesigner.com/kpi-system-example.htm){:target="_blank"} 它們可以是使用 Paypal 的新註冊用戶，也可以是使用信用卡購買的客戶，一定要從一開始就知道你的目標有多高，有時候，分析起來很有挑戰性，更多訊息請閱讀： [針對最具挑戰性的指標及 KPIs 的 12 步驟系統](http://www.bscdesigner.com/kpi-system.htm){:target="_blank"}
 
-### Define users/target customer base
-Regardless of what you design, it is absolutely mandatory to figure out whom you are targeting. Many of us believe that our product is for everyone, but trying to make your product appeal to everyone is going to be painful and expensive. What you want to do is figure out specifically whom you are targeting and focus your efforts on specifically on this niche. Finding out more about your target customer base will boost your effectiveness and eventually improve your reach because once you know who your users are, you’ll know how to design for them.
+### 定義用戶/定位顧客
+無論你的設計是什麽，你都必須弄清楚你的目標族群是誰。很多人都認為自己的產品適合所有人，但試圖讓你的產品吸引所有人將是費力且昂貴的。你要做的是明確想出你的目標族群，並把你的努力集中在這個細分市場上。了解更多你的目標族群將提高你的效率，且最終將提高你的影響力，因為一旦你知道你的用戶是誰，你就會知道如何為他們設計。
 
 - Who are the users of your site? (primary and secondary users)
     - How would you describe the users? (user characteristics such as age, experience, education, etc.)
@@ -174,8 +175,20 @@ Regardless of what you design, it is absolutely mandatory to figure out whom you
 - If personas are not provided, take a note of it and create personas.
 - Have you gathered any user feedback?
 
+- 您的網站用戶是誰？（主要及次要用戶）
+    - 你如何描述用戶？（用戶特徵，如年齡、經驗、教育...等）
+    - 他們為什麽要造訪這個網站？（用戶需求、興趣和目標）
+    - 用戶在何時何地造訪網站？（用戶環境和脈絡）
+    - 用戶如何造訪網站？（用戶硬體設置，如連線速度、解析度...等）
+- 你有或者意識到用戶人物誌嗎？
+- 如果沒有提供人物誌，請記錄下來並建立人物誌
+- 你收集了用戶回饋嗎？
+
 ### Define users’ goals
 For a better understanding of your users’ needs and goals, we can use [job stories](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"}. Based on our own empathy and this method, we can discover what users really need and what actions they have to take to achieve their goals. By knowing this, we can build a better [customer journey map](http://boxesandarrows.com/an-introduction-to-user-journeys/){:target="_blank"} that allows users to achieve their goals more quickly.
+
+### 定義用戶的目標
+為了了解用戶的需求及目標，我們可以使用 [任務故事（英）](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"}. 基於我們自己的同理心和此方法，我們可以發現用戶真正需要什麽、他們必須採取什麽行動來實現他們的目標。通過了解這一點，我們可以建立一個更好的 [顧客旅程地圖](http://boxesandarrows.com/an-introduction-to-user-journeys/){:target="_blank"} 來讓用戶更快速完成他們的目標。
 
 Answer questions below to define better users goals:
 
@@ -204,6 +217,32 @@ Answer questions below to define better users goals:
     - How many people use your product every day?
     - How many people download the app monthly
 
+藉由回答下列的問題來更好定義用戶的目標：
+
+- 什麼是用戶 [故事？](https://www.netguru.co/blog/doing-features-and-user-stories-the){:target="_blank"}
+- 什麼是用戶的 [jobs to be done?](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"}
+- 用戶在網站上做什麽？（用戶任務、內容、特點和功能）
+- 哪些任務對用戶在網站上的成功至關重要？(關鍵性)
+- 哪些任務對用戶最重要？（重要性）
+- 用戶最常使用的網站功能是什麽？（頻率）
+- 哪些功能容易出現易用性問題？（漏洞）
+- 哪些任務對組織在網站上的成功至關重要？
+- 你網站上的用戶留存是多少？
+- 什麽會讓用戶回到你的網站？
+- 你的用戶可能有哪些殘疾？  
+    - 他們需要輔助功能嗎？
+    - 有沒有其他的方法可以用來傳送相同的內容？
+- 客戶端進行用戶研究了嗎？
+- 你如何追蹤用戶的行為？
+- 用戶想要什麽？
+- 用戶需要什麽？
+- 用戶的期望是什麽？
+- JPG（工作、痛苦、收獲）
+- 你如何教育你的用戶關於你的產品和價值？
+- 誰是你的理想用戶，以及用戶在 app /網站...等的典型使用流程是什麽？
+- 統計數據（如果有的話）：
+    - 每天有多少人使用你的產品？
+    - 每月有多少人下載這個 app ？
 
 ### Define the competitors
 For UX designers, evaluating the competition involves looking at the designs of products that are both in direct and indirect competition. Products that **directly compete** with each other are looking to solve the same problem. They often offer the same core functionalities and have an overlapping user base. **Indirect competitors** either have a different user base or a different service offering, while some aspects of the products overlap.
