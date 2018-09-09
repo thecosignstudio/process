@@ -127,12 +127,12 @@ chapter_number: "01"
 ### 來自隊友
 請記得，如果你的設計遭遇任何困難，一定都可以向其他設計師徵求回饋。還有很重要的是：分享給客戶之前，先在團隊內部分享。這個做法可以改進設計、找出錯誤或邏輯問題，當然也可以收到對你的讚美，獲得按讚。
 
-- Just go to your team (use messaging apps or simply talk to them), share a link to your designs and ask for some help, opinions or comments.
-- Ask another designer for a review.
-- If you are not sure whether you can spend more time preparing dedicated designs, ask your PM if you have enough resources/time/money to develop such features.
+- 就只要敲你的隊友（用傳訊 app 或直接跟他們說），分享設計的連結，要求給予協助、意見或留言。
+- 請求另一位設計師幫忙檢查。
+- 如果不確定是否能繼續在詳盡的設計上花費很多時間，就去問 PM 是否有足夠的資源/時間/金錢來開發這些功能。
 
-#### From the client
-Gathering feedback from the client is the key to a successful project.
+#### 來自客戶
+從客戶蒐集回饋是專案成功的關鍵。
 - Ask for the feedback you want to receive.
 - Add designs to the project and share a link with the client. The best way to go is to always keep links to your designs in a project management tool, e.g. Jira.
 - Ask whether the client knows how your tools work or just guide the client through the process of adding comments to designs (mentioning a user’s name when adding a comment will send an e-mail notification – recommended).
