@@ -44,8 +44,11 @@ A wireframe is a basic visual interface guide that outlines the structure of an 
 ### User Flow diagrams 使用者流程示意圖
 User Flow diagrams (also known as flowcharts) are a visual representation of a desired user journey path through the designed product. They illustrate the steps, decisions, and funnels users frequently come across. Thoughtfully crafted User Flow Diagrams let you reveal the moments critical for user conversion and then apply adequate solutions to the obstacles you identify. For an example of a user flow diagram [visit](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"} and to check out flowchart click [this link](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}.
 
-### Single-page wireframes 單一畫面線稿
-Single-page wireframes (also known as page schematics or screen blueprints) are a visual guide to a page's structure, composition, and information hierarchy. Their purpose is to arrange the elements of a website’s content in an informed, user-friendly and business-effective manner. As their main focus lies in the functionality unobstructed by flashy visuals, they need to be stripped of all elements of visual language such as colors, infographics, effects, etc. Have a look at an example of [a single-page wireframe](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}.
+### Single-page wireframes 單頁畫面線稿
+單頁畫面的線稿（也稱為示意圖或藍圖），是頁面結構，組合和資訊層次的視覺指南。
+目的是為了以明智，使用者友善和設計和商業效益方式來排列網站的內容和元素。
+由於線稿主要的功能是不受華麗的視覺效果影響，因此需要卸掉視覺的所有元素，如顏色，圖表，效果等。可以看一下單頁線框的示例。 
+[單頁畫面線稿](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}.
 
 ## What elements should I include in a wireframe? 在線稿中我該納入哪些元素？
 
