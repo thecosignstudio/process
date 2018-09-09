@@ -254,46 +254,47 @@ After you have placed all your ideas on the concept map, you can add additional 
 ### Presentation
 You’re doing this because you care about the client’s business – remember about the importance of presentation. Keep it short and present it like a pro, because time is money. Your professional expertise, your knowledge, and your product design experience determine how you will deliver the client’s product to the world. It’s essential to help the client decide what the best solution is. **Don’t go over 5-15 slides – you can attach other materials to an e-mail, for example.**
 
-## How much time should Ideation & Concept take?
-UX Research is the core of making an impactful product. You need to start digging deeper to understand how users’ behave, how they think, what their mental models are, and how your product can help them in achieving their goals. There are various methods of doing so, but whatever you do, it will be beneficial for the product. Gaining insights evokes empathy, which is required to create meaningful and human-centered solutions.
+## 創意發想與確立概念需要花多少時間？
+UX研究是製作成功產品的核心。你需要深入的探索以暸解使用者的行為、思考方式、心智模型以及你的產品如何巴著使用者達成他們的需求。UX研究的方法有很多種，但不論你采用什麼方法，最終都會有利於你的產品。促使洞察更具同理能力(Gaining insights evokes empathy), 創造出有意義且以人為本的解決方案。
 
-**When starting a project, you need to answer a couple of questions:**
-- Are we building the product from scratch or does it already exist?
-- Is there any data that can be analyzed without engaging users?
-- Can I get access to the product’s potential or real users?
+**在專案開始之際，想想下面的幾個問題：**
+- 是從既有的初稿發展，還是從有到無的設計？
+- 能不能在不接觸使用者的狀況下取得可供分析的資料？
+- 有沒有辦法接觸到該產品的潛在或真實使用者？
 
 {% include image.html img="user-research-methods.png" alt="User research methods chart" %}
 Source: [https://www.nngroup.com/articles/which-ux-research-methods](https://www.nngroup.com/articles/which-ux-research-methods){:target="_blank"}
 
 
-The time required for user research depends on the methods you - the more you talk with users, the more time it would take to analyze their answers. However, rest assured that not skipping this part would eventually impact the later stages of creating the product - the more you’ll know from users, the less guessing and predicting you’ll be forced to do.  Stepping into users’ shoes will get so much easier!
+使用者調查需要的時間取決於你所採用的方法 ─ 訪談使用者時間與後續資料分析需時成正比。然而花費在使用者調查的心力，最終會在產品製作後期展現其成效。你花越多時間去了解使用者，就可以避免有天要迫於猜測使用者行為。使用者調查會讓你更容易以使用者的立場思考！
 
-Methods:
-- User testing
-- Market research
-- Surveys
-- Clickstream/heatmaps analysis
-- Analytics research
-- A/B Testing
-- Benchmarking
 
-## Questions your client may ask
-{% include qa.html question="Why do you have to spend time researching instead of designing?" answer="Good ideation is the foundation of every good design. It helps you save money on extra iterations and allows us to design a product that aligns better with the market and real user needs." %}
+方法包含以下幾種：
+- 使用者測試
+- 市場調查
+- 問券調查
+- 點擊流/熱點圖分析
+- 分析研究
+- A/B 測試 (A/B testing) 
+- 標竿分析法/基準化分析 (Benchmarking)
 
-{% include qa.html question="How long will it take?" answer="We always want to give you the best output we can provide, so our work needs time. Based on the information from the Strategy phase, we will generate the best possible report about your market and your customers." %}
+## 客戶可能會提的問題
+{% include qa.html question="為什麼要把設計的時間拿去做研究調查？" answer="完善的發想是優異設計的基石。好的發想會讓你省下往後反覆修改的錢，且讓設計師能夠設計出真正切合市場與使用者的真實需求" %}
 
-{% include qa.html question="What is the output of the ideation and concept phase?" answer="The output of this phase is a short report with information on your target customer base, users’ goals and needs, and competitors. You will also get a visual concept with such elements as moodboards, inspirations, photos, mindmaps, etc. All of that will make the foundation for the next stages." %}
+{% include qa.html question="需要花多少時間？" answer="我們會盡所能提出最完善的分析，所以確實會花一點時間。取決於策略階段所得到的資訊，我們會提出一份最接近的該產品真實市場與用戶的報告" %}
 
-{% include qa.html question="We don’t know so much! Does it make sense to continue this project?" answer="This is why we’re doing this phase – to know and understand your product and its environment better. After this stage, we can continue working on the project, because we will have laid the foundation for all the following stages." %}
+{% include qa.html question="概念發想會得出什麼結論？" answer="這個階段的成果會是一個簡短版本的分析報告，節錄該產品目標客層、客戶目標、需求以及競爭者的資訊。客戶也會得到一份圖像呈現的慨念，可能是：情緒版(moodboard)、靈感參考、圖片、心智圖等..." %}
 
-#### Questions to ask yourself at this stage
-- Has all the necessary research been conducted?
-- Has the concept been defined well enough?
-- Do I understand the product and its features?
-- Do I understand the product’s business goals?
-- Has the target customer base been defined?
-- Has the competition been analyzed?
-- Have user goals been defined?
+{% include qa.html question="我們不知道這麼多！真的有必要繼續這個計畫嗎？" answer="這就是發想階段重要的原因：更加了解你的產品以及環境條件！在這個階段的產出會是往後產品發展的重要基礎。" %}
+
+#### 在本階段問問自己：
+- 是否包含所有必需的研究？
+- 核心概念是否獲得定義？
+- 我是否了解該產品與其特點？
+- 我是否了解該產品的商業目標？
+- 目標客群是被定義？
+- 做過競爭者分析了嗎？
+- 使用者目標有沒有定義？
 
 ## Desired outcomes of this stage
 - You have a set of possible solutions that go beyond the most obvious ones, increasing the chances for real innovation.
