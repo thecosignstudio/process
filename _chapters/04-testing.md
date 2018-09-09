@@ -96,75 +96,86 @@ chapter_number: "04"
 6. 紀錄游擊測試過程中，受測者的見解
 7. 修正您的使用性問題。可實作的事：寫下最重要的三個使用性問題或使用表格完整記錄整個任務。觀看所有的操作說明[此處（英）](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}.
 
-**[User testing: moderated](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}**
-- **Time**<br>
-At least 3h
-- **When?**
-  - After design, after implementation
-  - Incomplete or buggy interfaces – MVPs, early-stage prototypes, low fidelity prototypes, or parts of the app that need a really direct and clear explanation
-  - Very complex interfaces – To make app learning process shorter/smoother
-  - Mature product – Product needs a test of particular functionalities
-  - Security concerns – If you’re testing a product with access to data that you don’t want to become public, a moderator will keep the user where they belong
-  - An existing product that needs to be redesigned
-- **Why?**<br>
-You need a reliable and objective test of your design (it must be something that your internal team or design-oriented bug bash can’t deliver) and of the existing product. The test should require a specific target/personas.
-- **How?**
-  - Use a specialized agency.
-  - In person: give a user a task and assist him/her through the test. Ask questions, guide, and explain if necessary.<br> Deliverables
-   - Detailed report
-   - Attachments (recordings, etc.)
+**[經過審核的易用性測試](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}**
+- **所需時間**<br>
+至少 3 小時
+- **什麼時候進行測試?**
+  - 在設計之後或在實作之後。
+  - 在不完整或有錯誤的介面的時候 – 例如：最小可行性產品 MVP (Minimum Viable Product)、早期的原型、低保真度的原型或在 APP 中的ㄧ部分需要非常直接且明確的解釋。
+  - 在非常複雜的介面的時候 – 讓 APP 的學習過程更短或更順暢。
+  - 成熟產品 – 需要對產品中的特定功能進行測試。
+  - 安全性問題 – 如果你正在測試一項可以存取你不希望公開的數據的產品，審核者會讓使用者保留在他們所屬的位置。
+  - 當現有產品需要被重新設計的時候。
+- **為什麼需要做測試?**<br>
+你需要對你目前設計和現有產品進行可靠且客觀的測試（它必須是你的內部團隊或設計導向的測試無法提供的），這項測試應該需要特定的目標或角色。
+- **該如何進行測試?**
+  - 找專門的機構。
+  - 親自測試：給使用者一項任務並協助他/她完成測試。必要的話，可以詢問使用者問題、給予使用者指引或解釋給使用者聽。
+  <br> 交付文件
+   - 詳細的測試報告。
+   - 附件 (例如：錄音檔等)
 
-**[User testing: unmoderated](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}**
-- **Products:** <br>[Userzoom](http://www.userzoom.com/remote-usability-testing/){:target="_blank"}, [AppSee](https://www.appsee.com/features/user-recordings){:target="_blank"}, [UserTesting](https://www.usertesting.com/plans){:target="_blank"}
-- **Time**<br>
-At least 3h
-- **When?**
-  - After design and after implementation.
-  - MVPs – you need to test and validate early-stage products.
-  - Low budget – the client has no budget for other kinds of testing.
-  - No time – No time to run a moderated user test. Unmoderated tests can be done virtually anywhere at any time by anyone who meets your criteria.
-  - An existing product that needs a redesign.
-- **Why?**<br>
-You need a reliable and objective test of your design (it must be something that your internal team or design-oriented bug bash can’t deliver) and of the existing product. The test should require a specific target/personas.
-- **How?**
-  - Use third-party tools.
-  - Personally: give the user a task and leave him/her alone while a camera is recording.<br>
-Deliverables: A video recording summarized in a report
+**[未經審核的易用性測試](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}**
+- **相關產品：** <br>[Userzoom](http://www.userzoom.com/remote-usability-testing/){:target="_blank"}, [AppSee](https://www.appsee.com/features/user-recordings){:target="_blank"}, [UserTesting](https://www.usertesting.com/plans){:target="_blank"}
+- **所需時間**<br>
+至少 3 小時
+- **什麼時候進行測試?**
+  - 在設計之後和在實作之後。
+  - 最小可行性產品 – 當你需要測試和驗證早期產品的時候。
+  - 預算低的時候 – 客戶沒有其他類型的測試預算。
+  - 沒時間的時候 – 沒時間去做適度的使用者測試。任何符合條件的人都可以隨時隨地進行無人審核的測試。
+  - 當現有產品需要被重新設計的時候。
+- **為什麼需要做測試?**<br>
+你需要對你目前設計和現有產品進行可靠且客觀的測試（它必須是你的內部團隊或設計導向的測試無法提供的），這項測試應該需要特定的目標或角色。
+- **該如何進行測試?**
+  - 使用第三方工具。
+  - 親自測試：給使用者一項任務，讓他/她獨自在相機錄製時完成任務。
+  <br>可交付的成果：在一份報告中提供匯總的視頻錄製檔案。
 
-**A/B testing**
-- **Products:**<br>
+**A/B 測試**
+- **相關產品：**<br>
 [Qubit](http://www.qubit.com){:target="_blank"}, [VWO](https://vwo.com/){:target="_blank"}
-- **When?**<br>
-After implementation.
-- **Why?**<br>
-A/B testing allows you to make more out of your existing traffic. While the cost of acquiring paid traffic can be substantial, the cost of increasing your conversions is minimal. The Return On Investment on A/B testing can be massive because even small changes on a landing page or website can result in significant increases in generated leads, sales, and revenue.
-- **What can you test?**
-  - Headings
-  - Subheadings
-  - Paragraph text
-  - Testimonials
-  - Call to Action text
-  - Call to Action button
-  - Links
-  - Images
-  - Content near the fold
-  - Social proofs
+- **什麼時候進行測試?**<br>
+在實作之後。
+- **為什麼需要做測試?**<br>
+A/B 測試可讓你從現有流量中獲得更多收益。雖然獲得付費流量的成本可能很高，但增加轉換次數的成本卻很低。A/B 測試的投資報酬率可能非常高，因為即使在頁面或網站上的微小變化，也會大幅增加新的潛在客戶、銷售和收入。
+- **你可以測試的項目有哪些？**
+  - 標題
+  - 副標
+  - 段落文字
+  - 推薦的文案
+  - 行為召喚的文案（希望使用者進行某種行為）
+  - 行為召喚的按鈕
+  - 連結
+  - 圖片  
+  - 內容靠近首屏的地方（在頁面首次加載時在瀏覽器窗口中可見的部分）
+  - 社會認同
   - Media mentions
-  - Awards and badges<br>
-  - Advanced tests can include pricing structures, sales promotions, free trial lengths, navigation and UX experience, free or paid delivery, and more.<br>
-- **Links:**
-  - To learn about A/B, visit these links [link](http://unbounce.com/landing-page-articles/what-is-ab-testing/){:target="_blank"}, [link](https://vwo.com/ab-testing/){:target="_blank"} & [link](https://www.optimizely.com/ab-testing/){:target="_blank"}.
-  - Learn how to bust these 7 A/B testing myths by Kissmetrics [link](https://blog.kissmetrics.com/ab-testing-myths/){:target="_blank"}.
-  - The ultimate guide to A/B Testing by Smashing Magazine [link](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/){:target="_blank"}.
-  - Learn about most important A/B Testing checklist by HubSpot [link](https://blog.hubspot.com/marketing/a-b-test-checklist#sm.00001z5neov22f9pvdk194oo5d7tq){:target="_blank"}.
-- **How?**<br>
-The correct way to run an A/B testing experiment is to follow a scientific experimental process. It includes the following steps:
-1. **Study your Website Data:** Use a website analytics tool such as Google Analytics and find the problem areas in your conversion funnel. For example, you can identify the bottleneck pages with bad metrics.
-2. **Observe User Behavior:** Utilize visitor behavior analysis tools and find out what is stopping the visitors from converting. For example, “The CTA button is not prominent on the home page."
-3. **Construct a Hypothesis:** Per the insights from visitor behavior analysis tools, build a hypothesis aimed at increasing conversions. For example, “increasing the size of the CTA button will make it more prominent and will increase conversions.”
-4. **Test your Hypothesis:** Create a variation per your hypothesis and A/B test it against the original page. For example, “A/B test your original homepage against a version that has a larger CTA button.” Calculate the test duration with respect to the number of your monthly visitors, current conversion rate, and the expected change in the conversion rate.
-5. **Analyze Test Data and Draw Conclusions:** Analyze the A/B test results and see which variation delivered the highest conversion. If there is a clear winner among the variations, go ahead with its implementation. If the test remains inconclusive, go back to step number three and rework your hypothesis.
-6. **Report results to all concerned:** Let others in Marketing, IT, and UI/UX know of the test results and the insights generated.
+  - 獎項和徽章<br>
+  - 進階的測試可以包含產品定價結構、促銷、免費試用時間長度、導覽和使用者經驗、免費或付費的交付等等。
+  <br>
+- **相關連結:**
+  - 想多了解各個 A/B 測試工具，可參考這些連結：<br>
+    1.[unbounce - 什麼是A/B 測試？](http://unbounce.com/landing-page-articles/what-is-ab-testing/){:target="_blank"}
+    2.[vwo - A / B測試完整指南](https://vwo.com/ab-testing/){:target="_blank"}
+    3.[optimizely - 什麼是A/B 測試？](https://www.optimizely.com/ab-testing/){:target="_blank"}.
+  - 學習如何打破七個 A/B 測試 by Kissmetrics（原文連結已失效）[連結](https://blog.kissmetrics.com/ab-testing-myths/){:target="_blank"}.
+  - A/B 測試的終極指南 by Smashing Magazine [連結](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/){:target="_blank"}.
+  - 了解最重要的 A/B 測試清單 by HubSpot [連結](https://blog.hubspot.com/marketing/a-b-test-checklist#sm.00001z5neov22f9pvdk194oo5d7tq){:target="_blank"}.
+- **該如何進行測試?**<br>
+進行 A/B 測試實驗的正確方法是遵循科學的實驗過程，它包含以下步驟：
+1. **研究你的網站數據：** 
+使用 Google Analytics 等網站分析工具，找到你的網站轉換渠道中的問題區域。例如，你可以識別具有錯誤指標的瓶頸頁面。
+2. **觀察使用者的行為：** 
+利用訪客行為分析工具，找出阻止訪客轉換（頁面或行為）的內容。例如，在主要頁面上的行為召喚按鈕不明顯。
+3. **構建一個假設：** 
+根據訪客行為分析工具的洞察，建立一個假設目標是在增加轉換率的假設。例如，「增加行為召喚的按鈕大小，使按鈕變得更明顯以增加轉換率。」
+4. **測試你的假設：** 
+根據你的假設建立另一個版本，並在原始頁面上對 A/B 版本進行測試。例如，「A/B 針對具有更大行為召喚的按鈕的版本測試你的原始主頁。」根據每月訪客的數量，當前轉換率以及轉換率的預期變化計算測試可以持續時間。
+5. **分析測試數據並得出結論：** 
+分析 A/B 測試結果，看看哪種變化提供了最高的轉換率。如果變化中有明顯的贏家，請繼續執行。 如果測試仍然不確定，請返回第三步並重新設計您的假設。
+6. **向所有相關人員報告結果：** 
+讓營運行銷人員、工程部門和使用者經驗部門中的其他人知道測試結果和最後產出的洞察。
 
 **Heatmaps**
 - **Products:**<br>
