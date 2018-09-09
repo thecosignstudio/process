@@ -64,43 +64,90 @@ At Netguru, we use:
 
 ### DOs and DON'Ts
 The main purpose of wireframing is to create a visual representation of ideas to support conversations, iterations, and rapid ideation. Below is a list of best practices we truly believe in at Netguru:
+線框圖主要的目的是直觀的展現想法及支持溝通的論點，反覆修正及快速構思。以下列出了我們在 Netguru 真正相信的最佳實踐：
 
 {% include dosndonts.html introduction="1. Colors can be distracting. Ensure that your design remains focused on the experience you’re creating and not the visual design solutions to come." dos="
+1, 色彩可能分散注意力，確保你的設計專注於你正在創造的體驗並非以視覺設計取向為解決方案。
+
 Create your wireframes based on a muted color palette.
+以低飽和度的色調創作線框圖。
+
 | Use color only if it helps define the idea behind the design; even then – limit yourself to as few colors as possible.
 " donts="
+即便只有在有助於定義設計背後的理念時才使用顏色；也要盡可能地限制自己使用極少的色彩。
+（即便只有使用色彩才能助於定義設計的理念）
 Don’t use color in your wireframe designs unless it has a solid purpose.
+除非有確切的用途，否則不要在線框設計中使用色彩。
+
 | Don’t use various tints of grey; using tinted grey is ok, but stick to one."%}
+不要使用太多淺灰色；使用淺灰色的可以的，但專注一種。
 
 {% include dosndonts.html introduction="2. Be consistent: the best way to help the presented solutions is to be consistent in your wireframe designs." dos="
+2, 保持一致：呈現解決方案的最佳方式是在將線框稿的設計保持一致
+
 Be consistent in the visual representation of UI elements. Ideally, present them by using reusable elements like [Symbols in Sketch](https://www.sketchapp.com/learn/documentation/symbols/).
+在 UI 元素中的視覺展現保持一致。理想情況下，通過可重複使用的元素（該使用元素還是元件）來呈現例如：[Sketch的元件功能（英）](https://www.sketchapp.com/learn/documentation/symbols/)。
+
 | Be aware of font sizes and spacing.
+請注意字體大小及間距。
+
 | Sketch your ideas before you start digitizing them – you’ll save a lot of time in the early iterations.
 " donts="
+開始數位化你的想法之前，先簡單地畫下來 —— 將讓你在早期的反覆修正中節省許多時間。
+
 Don’t use different line weights for similar elements.
 | Don’t use too many fonts and font sizes."%}
+避免在相似的元素中使用不同粗細的線條。
+避免使用過多的字體及字體大小。
 
 {% include dosndonts.html introduction="3. Use real content: writing is a design skill, and it will help you understand the client and the story better." dos="
+使用真實的內容：寫作是一種設計技能，可以更好地幫助你理解客戶及事件（說法？）。
+
 If you don’t have real content: write it yourself based on what the competition does and your own research.
 |Use solid grey placeholder elements to represent photos, videos, and maps.
+如果沒有真實的內容：根據自己研究的競品內容。使用純灰色佔位符來表示照片，影片和地圖。
+
 | Design for real-life cases (that is, don’t assume that every surname is max. 10 characters long, for instance).
+為現實案例設計（也就是說，不要假設每個姓氏的字元都是最大值。例如：十個字符長）
+
 " donts="
 Don’t use placeholder text in crucial design elements, such as navigation or CTAs (i.e., Lorem Ipsum…).
 | If you need to show a series of data such as tables or tiles, be sure not to use the same copy for each of those elements."%}
+不要在關鍵設計元素中使用佔位符文本，例如導航欄或點擊招喚行動CTAs（即假字生成器）
+如果需要顯示一系列數據，如表格或圖塊，請確保不要使用相同的複製元素。
 
 {% include dosndonts.html introduction="4. Never wireframe alone. The main purpose of having this process is the conversational potential and a greater chance of discovering better solutions than if you were working on your own." dos="
+4, 不要獨自使用線框稿。這個過程的主要目的為溝通潛力，並且比您自己工作時更有機會發現更好的解決方案。
+
 Be open to new ideas.
+對新的想法保持開放的態度。
+
 | Before presenting your wireframes to the client, get a few opinions from within your project team – they understand the product and know the client.
+向客戶展示你的線框稿之前，請從你的專案團隊中獲取一些意見——他們了解產品並了解客戶。
+
 | Always get a second opinion on your solutions (at Netguru, we use a dedicated Slack channel).
 " donts="
+始終對你的解決方案有第二個想法（在 Netguru, 我們使用專門的Slack頻道）
+
 Don’t work on the wireframes alone just to show the client the end result of the whole product. Instead, cooperate and exchange ideas."%}
+避免單獨使用線框稿只是為了向客戶展示整個產品的最終結果。相反地，合作並交流。
 
 {% include dosndonts.html introduction="5. Set clear expectations: be sure that the client understands the principles behind this process." dos="
+5, 設定明確的期望：確保客戶理解過程背後的原則。
+
 Tell the client about the desired outcome before you start designing.|
 Communicate clearly, early and often.|
+在開始設計之前，請告知客戶期望的結果。
+儘早地、經常地、清晰地溝通。
+
 It’s a good idea to have a live conversation/meeting/call with the client when presenting your wireframes for the first time – this way you have the opportunity to answer all questions and avoid misunderstandings.
+在第一次展示您的線框時，與客戶進行即時（實時）溝通/會議/通話是個好主意——這樣你就有機會回答所有問題並避免誤解。
+
+
 " donts="
 Don’t assume your client knows how to use collaboration tools or knows that wireframes are not final designs – always educate. |
+不要假設
+
 Don’t leave designs of complex processes without any comments."%}
 
 {% include dosndonts.html introduction="
