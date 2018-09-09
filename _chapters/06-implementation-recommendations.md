@@ -36,41 +36,43 @@ Moreover, it is very important for us to generate a description of the logic and
 
 Use optimization tools such as [Kraken](https://kraken.io/web-interface){:target="_blank"}, [ImageOptim](https://imageoptim.com/mac){:target="_blank"} or [Optimage](http://getoptimage.com/){:target="_blank"}. Photoshop and Sketch save a picture’s metadata by default and don’t use optimization algorithms that could make your picture look the same but take up less space.
 
-## Asset naming convention
+## 設計元件命名習慣
 
-You can create your own naming pattern for your app, but keep in mind the following:
-- The valid charset for naming resources is [a-z, _, 0–9], i.e., all lowercase characters, numbers, and underscore.
-- The first character of your asset name can be either an underscore _ or a lowercase letter, but it cannot be a number.
-- Do not use uppercase letters. Not even in extensions such as *.png* or *.jpg*
-- Use an underscore _ as separator wherever you want to “put a space” between two words because hyphen (-) and space are not allowed.
-- Asset names should be unique across the app’s screens. If you have two add buttons with different dimensions, you cannot name both as *add_icon.png*. Instead, you can create two different icons, e.g., *add_icon_small.png* and *add_icon_big.png* with all their density variants.
-- For iOS, name each asset according to this naming convention: _asset.png, asset@2x.png, asset@3x.png_
-- For Android Devices, provide each asset with the same name _asset.png_ but dedicated folders. Desired folder structure:
+你可以創造屬於自己的命名模式，但也可以尊循以下的方式：
+
+- 在應用程式中有效的命名資源字符包含了 小寫的a-z英文字元，_底線，和0-9的數字。
+- 設計元件第一個字母可以是_底線，小寫字母，但不能是數字。
+- 不要使用大寫字母等，也不要包括 .png或 .jpg等檔名。
+- 可以在兩個單詞之間用_下底線作為分隔符號，(-)和空白格在命名上不允許被使用。
+- 設計元件命名應該是獨一無二的，如果你有兩個不同尺寸的“新增按鈕”，你不能都命名成add_icon.png，你可以命名為add_icon_small.png和add_icon_big.png或其他的變量。
+- 對於iOS系統，可以根據此規則命名每個設計元件：asset.png, asset@2x.png, asset@3x.png
+- 對於Android系統，需將每個設計元件命名成相同的 asset.png，並放在不同的專用資料夾內。所需要的資料夾結構為：
 
 {% include image.html img="image6.png" img2x="Image6@2x.png" alt="Desired folder structure" %}
+為設計團隊建立好設計的命名習慣，每個人都應當遵循設計命名原則，為了防止誤解，我們建議在設計素材的不同狀態使用特定術語，就像CSS開發一樣，不用解釋太多工程人員就能夠理解其中含意。
 
-Set a naming convention for your design team – everyone should follow the same naming convention. To prevent misunderstandings, we recommend that you use a specific terminology for the different states of your elements, just as we do in CSS. Developers will know what you’re talking about without too much explanation.
+- **Default** 預設的狀態
+- **Hover** 徘徊，懸停的狀態
+- **Active** 按下按鈕時的狀態
+- **Focus** 使用鍵盤或滑鼠啟用的狀態（輸入，文字區）
+- **Visited** 連結已造訪過的狀態
 
-- **Default.**
-- **Hover.** The state of the element on a mouseover.
-- **Active.** The state of the element upon a button press.
-- **Focus.** The state of an element that is currently manipulated with the keyboard, or activated with the mouse (i.e., inputs, text areas).
-- **Visited.** The state of the links that have already been visited
+好的命名方式如下：
 
-A good naming convention will look as follows:
-- *ic* as a prefix for all icons
-- *bg* as a prefix for all background assets
-- *selected* as a suffix for selected states
-- *pressed* as a suffix for pressed states and so on
+- *ic*可以作為圖示元件的字首
+- *bg*可以作為所有背景元件的字首
+- *selected*做為選擇狀態的字尾*
+- *pressed*做為按下選擇狀態的字尾等*
 
-Examples:
+範例：
+
 - *ic_asset_name*
 - *ic_asset_name_pressed*
 - *ic_asset_name_selected*
 - *ic_asset_name_disabled*
 - *ic_asset_name_activated*
 
-If you want to find out more, here’s an excellent article: [A Designers Guide for naming Android Assets](https://medium.com/@AkhilDad/a-designers-guide-for-naming-android-assets-f790359d11e5#.8gk28dx78){:target="_blank"}.
+如果想了解更多，可以閱讀此篇文章：A Designers Guide for naming Android Assets{:target="_blank"}.
 
 ## Android platform-specific tips
 
