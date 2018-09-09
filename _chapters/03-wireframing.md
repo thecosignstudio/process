@@ -3,11 +3,11 @@ title: "Wireframing"
 chapter_number: "03"
 ---
 
-# Wireframing
+# Wireframing 線稿(wireframing)
 
 ## Introduction
-**In this section you will learn:**
-- The definition of wireframing and the things a client should understand.
+**在這個章節你將會學到：**
+- The definition of wireframing and the things a client should understand了解線稿的定義以及在這個開發環節上客戶需要知道的事項.
 - What elements to include in a wireframe.
 - Best practices – DOs and DON’Ts of wireframing.
 
