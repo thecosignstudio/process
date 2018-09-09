@@ -25,7 +25,7 @@ In order to deliver a great product, much effort needs to be taken, and Ideation
 #### Benefits: why is it a good idea to do ideation together as a team?
 When doing the ideation & concept phase together, a team can generate ideas faster and verify their ideas in the context of the product. Working in a group also gives you a chance to use the so-called mutual design critique (when one designer contests the ideas of another designer). This technique will allow you to see drawbacks in your thinking process and bring you visual inspirations from others.
 
-#### 優點：為何一個團隊一起做創意發想是個好主意？####
+#### 優點：為何一個團隊一起做創意發想是個好主意？
 在一起執行做創意發想及概念定義的階段時，團隊可以快速產出想法，並在產品背景中驗證他們的想法。在團隊中工作同時讓你有機會可以執行所謂的設計互評（當一個設計師對其他設計師的想法有意見時），這個技巧讓你得以看到自己發想流程的缺點以及帶給你其他成員的靈感激盪。
 
 ## What are the benefits of Ideation & Concept?
