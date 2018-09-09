@@ -198,11 +198,11 @@ To sum up, we need wireframes to work out the backbone of the product, whereas v
 
 
 ### 在這階段後期望的結果
--可點擊的低或高保真度（low or high fidelity）線框稿（以高保真度線框為主）
--使用者流程（user flows）涵蓋所以必須完成的工作和使用者故事（user stories）
--包括真實的內容的應用
--為線框稿設計測試情境（scenario）
--線框稿已經被客戶測試過並且同意－準備進入視覺設計階段
+- 可點擊的低或高保真度（low or high fidelity）線框稿（以高保真度線框為主）
+- 使用者流程（user flows）涵蓋所以必須完成的工作和使用者故事（user stories）
+- 包括真實的內容的應用
+- 為線框稿設計測試情境（scenario）
+- 線框稿已經被客戶測試過並且同意－準備進入視覺設計階段
 
 ## Desired outcomes of this stage
 
