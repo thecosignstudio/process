@@ -7,19 +7,26 @@ chapter_number: "02"
 
 ## 引言
 **在這個章節，你將會學到**
-* 什麼是發想以及何時該執行
-* 如何向客戶解釋發想的重要性
-* 發想的組成
-* 一個概念的組成
-* 在發想及概念的流程上該花多久的時間
-* 那些最常被客戶問到的問題
+* 什麼是創意發想以及何時該執行
+* 如何向客戶解釋創意發想的重要性
+* 創意發想的組成
+* 概念定義的組成
+* 創意發想及概念定義的流程該花多久的時間
+* 那些客戶最常問的問題
+
+The Ideation & Concept phase is the very foundation of the design process. This is the time when the big requirements are agreed upon, and the overall direction for the development is chosen. This is also the moment when the initial idea is turned into a basic draft/prototype. The main goal of the design process is not just to create pretty pictures or satisfy the subjective feelings of various stakeholders – the primary goal is to fit the client’s business goals with users’ goals by delivering an accessible, usable and attractive product. We want to make a product that not only looks great, but, more importantly, also works great, and seamlessly meets (or even exceeds) users’ expectations.
 
 發想及概念階段是設計流程中最基礎的，正是取得主要需求共識以及決定日後發展大方向的時間點，同時是將最初的想法轉變成基本草案/原型的時刻。設計流程最主要的目標不僅是創造漂亮的圖像或是去滿足各個利害關係人主觀的感受 - 最主要的目標是交出一個容易理解、使用方便且引人注意的產品，使客戶的企業目標與用戶目標相符合。我們希望做的產品不僅好看，更重要的是它也需要好用且完美的滿足（甚至超越）使用者的期待。
 
 In order to deliver a great product, much effort needs to be taken, and Ideation & Concept marks the first major milestone in this process. This is the stage where many questions will arise, and conducting thorough research will help answer most of them early and will also bring benefits in the latter stages. Not only will research save us time, but it will also give the Product Design team a deep insight into and a better understanding of the product specifics. The client, on the other hand, will benefit from the research too, because challenging a client with the right questions helps them crystallize their vision and may lead to some substantial changes.
 
+為了實現一個優秀的產品，需要做很多的努力，而且創意發想及概念定義階段會在設計流程中寫下第一個最主要的里程碑。在這個階段，很多問題會浮現，進行深入的研究將有助於及早回答大多數問題，並為後期階段帶來好處。研究不只節省我們的時間，也同時給予產品設計團隊對於產品特點更好的洞察及理解。從客戶的角度來說，他們一樣可以從研究中得到好處，因為向客戶提出正確的問題有助於具體化他們的想法，也有引起重大改變的可能。
+
 #### Benefits: why is it a good idea to do ideation together as a team?
 When doing the ideation & concept phase together, a team can generate ideas faster and verify their ideas in the context of the product. Working in a group also gives you a chance to use the so-called mutual design critique (when one designer contests the ideas of another designer). This technique will allow you to see drawbacks in your thinking process and bring you visual inspirations from others.
+
+#### 優點：為何一個團隊一起做創意發想是個好主意？####
+在一起執行做創意發想及概念定義的階段時，團隊可以快速產出想法，並在產品背景中驗證他們的想法。在團隊中工作同時讓你有機會可以執行所謂的設計互評（當一個設計師對其他設計師的想法有意見時），這個技巧讓你得以看到自己發想流程的缺點以及帶給你其他成員的靈感激盪。
 
 ## What are the benefits of Ideation & Concept?
 **Benefits for people who will use the product:**
