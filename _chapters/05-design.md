@@ -26,27 +26,28 @@ chapter_number: "05"
 - 開發人員
 - 專案經理
 
-## Inspiration
-**Find an accurate style for the project**<br>
-Remember that the inspiration process is critical when you start designing a new project. The overall feeling of an application/website depends on the colors, fonts, or photos you use. **Remember: Do not copy, just get inspired!**
+## 靈感
+**替專案找到一個準確的風格**<br>
+當你開始設計一個新專案，要記得靈感激發的過程是具有評論性的。 關於一個應用程式/網站整體的感受，取決於你使用的顏色、字型或照片。
+**記住：不要抄襲，只管汲取更多靈感！**
 
-You can look for inspiration here:
+你可以在這裡找尋靈感：
 - [Awwwards](http://www.awwwards.com){:target="_blank"}
 - [Dribbble](http://www.dribbble.com){:target="_blank"}
 - [Behance](http://www.behance.com){:target="_blank"}
 - [Designspiration](http://www.designspiration.net){:target="_blank"}
 - [Pinterest](http://www.pinterest.com){:target="_blank"}
 
-### Preparing moodboards
-This step is essential for you and your client. There will, of course, be situations when you finish your design, and the client is thrilled – but this will not always be the case. We recommend that you prepare a board with a lot of photos and pictures that will show to your client what you would like to do with the future app, what “feelings” your designs will evoke, and finally, what the client can expect. Thanks to this approach, you will increase the chances that the client likes your solutions, and you will show that you appreciate the client’s feedback. **Approximate time: 4h.** Visit [this link](https://netguru.invisionapp.com/boards/3M37AJO452DFW/){:target="_blank"} to see an example of a moodboard.
+### 準備情緒板
+這個步驟是對你和你的客戶來說是必要的。在未來，當然，在一個當你完成你的設計的情況下，並且客戶是感到非常愉快的 - 但這將不會永遠是這麼回事。我們建議你準備一個板子包含許多的照片和圖片，向你的客戶展示什麼是你想設計在這個未來的應用程式上的，什麼樣的「感覺」是你的設計將會喚起的，還有最後，什麼是你的客戶可以期待的。托這個方式的福，你將會增加客戶喜歡你的解決方案的機會，還有你也會表現出你欣賞你的客戶的回饋的樣子。**大概所需時間: 4小時** 造訪 [這個連結](https://netguru.invisionapp.com/boards/3M37AJO452DFW/){:target="_blank"} 去查看一個情緒板的範本。
 
-**How to prepare a moodboard?**<br>
-We use Boards by InVision for the following reasons:
-- Flexibility
-- Predefined layouts
-- Option to add images, fonts, and attachments
+**如何準備一個情緒板？**<br>
+我們使用 InVision 的白板的理由如下：
+- 較有彈性
+- 有立即可用的樣板
+- 提供加入圖片、字型和附件的功能選項
 
-Of course, feel free to choose your own tool!
+當然，你也可以隨意選擇你使用的工具！
 
 ## Style guide
 It’s good to start creating a style guide right after the research stage. The initial version of the style guide should at least contain the colors and typography. During the visual design phase, you should update your style guide to a full version.
