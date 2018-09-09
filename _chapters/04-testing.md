@@ -67,7 +67,7 @@
 僅需對他人分享您的設計，且建議同時詢問：您需要測試或驗證什麼？或您需要對方提供什麼看法。<br>
 可實作的事：受測者應對您分享的設計留下評論（例如：透過InVision）
 
-**[設計缺陷掃除](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow){:target="_blank"}**
+**[設計缺陷掃除（英）](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow){:target="_blank"}**
 - **時間**<br>
 最多一小時
 - **何時？**<br>
@@ -79,22 +79,22 @@
 您的品保專家將主持這個設計缺陷掃除。在一開始，您可以告知其他人您的專案的內容，以及描述典型使用者的細節。解釋您需要參與者完成什麼事。但是不要預先解釋任何設計理念。任何人都需參與產品設計師提供的原型設計與任務
 可實作的事：受測者感受到的任何錯誤、懷疑將被他們的邀請者記錄，例如：透過InVision的評論區。
 
-**[Guerrilla Usability Testing](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}**
-- **Time**<br>
-Up to 2h
-- **When?**<br>
-After wireframing and after design.
-- **Why?**<br>
-This is the most casual version of user testing. The main goal of guerrilla testing is to find errors and fix them as quickly as possible. Guerilla testing is about finding and fixing the most severe problems, not agonizing over every possible obstacle a user might encounter.
-- **How?**<br>
-You will need from 3 to 5 participants – they can be your colleagues, friends or family. Steps of the process:
-1. Come up with a list of tasks.
-2. Prioritize tasks and decide which to test.
-3. Turn your tasks into scenarios.
-4. Combine all scenarios.
-5. Start guerrilla testing.
-6. Capture the insights from the guerrilla testing.
-7. Fix your usability problems. Deliverables: Write down the top 3 usability problems or capture the task completion in a table. See detailed instructions [here](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}.
+**[游擊測試（英）](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}**
+- **時間**<br>
+最多兩小時
+- **何時？**<br>
+線框圖繪製後或設計後
+- **原因？**<br>
+這是最隨興的測試方法。游擊測試的最主要目的是去找到錯誤並快速解開它。游擊測試也是關於找到並修正最嚴重的問題，而非苦於每個使用者可能遇到的潛在阻礙。
+- **如何做？**<br>
+您需要三到五個參與者，他們可以是你的同事、朋友或家人。步驟如下：
+1. 想出任務列表。
+2. 為任務排列優先順序，並決定要測試哪些任務。
+3. 將這些任務列入方案中。
+4. 合併所有的方案。
+5. 開始游擊測試。
+6. 紀錄游擊測試過程中，受測者的見解
+7. 修正您的使用性問題。可實作的事：寫下最重要的三個使用性問題或使用表格完整記錄整個任務。觀看所有的操作說明[此處（英）](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}.
 
 **[User testing: moderated](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}**
 - **Time**<br>
