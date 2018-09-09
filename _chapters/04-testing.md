@@ -179,86 +179,6 @@ A/B 測試可讓你從現有流量中獲得更多收益。雖然獲得付費流�
 6. **向所有相關人員報告結果：** <br>
 讓營運行銷人員、工程部門和使用者經驗部門中的其他人知道測試結果和最後產出的洞察。
 
-**Heatmaps**
-- **Products:**<br>
-[Crazy egg](https://www.crazyegg.com/){:target="_blank"}, [Hotjar](https://www.hotjar.com/){:target="_blank"}
-- **When?**<br>
-After implementation.
-- **Why?**<br>
-Heatmaps are great for analyzing your visitors’ behavior. They can bring insights you wouldn't have found using other methods, and, consequently, they can greatly increase your conversion rate.<br>
-Rather than showing raw statistics, it works by using different colors to indicate such things as:
-  - Mouse movement: where the mouse moved (using mouse-tracking).
-  - Click tracking: where the actual click occurred.
-  - Scroll tracking: how far down the page the visitor scrolled.
-  - Eye tracking: where people are most likely to focus upon the first viewing of an image.<br>
-  - What’s more, a heatmap can be incredibly helpful in improving the clickability of your images. It will let you know what people look at and what details they miss. From there, you can adjust, remove, and add whatever you need to increase the effectiveness of each image used.<br>
-- **Links:**
-  - Learn about 8 heatmap tests that reveal visitors’ behavior [here](https://www.hotjar.com/heatmaps){:target="_blank"} (by Hotjar).
-  - Learn how to use heatmaps to increase conversions [here](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/){:target="_blank"} (by Dan Virgillito from AdEspresso).
-  - Look at a practical guide how to increase conversions by using heatmaps [here](https://vwo.com/blog/increase-conversions-using-heatmaps/){:target="_blank"} and [here](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/){:target="_blank"}.
-- **How?**<br>
-You can use Hotjar to generate heatmaps of any page on your site, including password-protected pages and dynamically generated pages.
-To learn about the different types of heatmaps (Click and Tap, Move, Scroll) visit this [link](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps){:target="_blank"}
-
-[**Analytics**](https://blog.kissmetrics.com/expert-google-analytics-reports/){:target="_blank"}
-- **Products:**<br>
-[Google Analytics](https://analytics.google.com){:target="_blank"}, [Woopra](https://www.woopra.com/){:target="_blank"}, [Intercom](https://www.intercom.com/){:target="_blank"}
-- **When?**<br>
-After implementation.
-- **Why?**<br>
-Analyze the traffic and users’ behavior on a website or mobile app. You can also measure the conversion rates by setting goals.
-- **How?**<br>
-Ask your developer to install Google Analytics (GA).<br>
-You can analyze many different statistics in GA: live traffic, bounce rate, time spent on a page, how users found your page, and a lot more.<br>
-Typical reports in GA:
-  - Device/Browser Report
-  - Visitor Acquisition Efficiency Analysis Report
-  - Customer Behavior Report
-  - Mobile Performance Report
-  - Site Diagnostics: Page Timing Report
-  - Hours & Days Report
-  - Referring Sites Report
-  - Content Efficiency Report
-  - Traffic Acquisition from Social Media Report
-
-[**Beta testing**](https://www.playtestcloud.com/blog/testflight-alternatives-ios-android){:target="_blank"}
-- **Products:**
-<br>[TestFlight](https://developer.apple.com/testflight/){:target="_blank"}, [HockeyApp](https://hockeyapp.net/){:target="_blank"}, [Google Play Beta Testing](https://play.google.com/apps/publish/signup/){:target="_blank"}, [Fabric.io](https://get.fabric.io/){:target="_blank"}
-- **When?**<br>
-After implementation and before official launch.
-- **Why?**<br>
-You have your product ready and working, but before the official release, you should test it on a small sample to collect feedback and spot any remaining bugs.
-- **How?**<br>
-Beta testing is mostly done by developers and is especially useful for mobile apps testing, but it can be applied to any digital product. You can take advantage of usage metrics that are available in tools such as HockeyApp, and users can give feedback directly in the app.The smart approach to selecting your audience is to use [focus groups](https://en.wikipedia.org/wiki/Focus_group){:target="_blank"}, which work as small, representative, scaled-down groups of your future customer base.
-
-## Tips for testing your designs
-- It’s wise to build prototypes and test as early and as often as possible to fix the major issues before you even move the project to the next stage.
-- You just need between 3 and 5 people to spot the most significant usability issues.
-- It’s often better to test the product with new participants without any knowledge about you and your product.
-- Don’t try to capture your insights (write them down, talk to yourself, etc.) while testing on real users – it makes them nervous.
-- You don’t want to bias your users during the test. You want to see how they figure out things for themselves, or how they don’t figure them out. In real life, you wouldn’t sit next to them while they would be using your product.
-
-## Questions your client can ask
-{% include qa.html question="Why do I need testing?" answer="Above all, you need it to minimize the risk of exposing bugs to real users in real scenarios. Also, the iterative nature of the Agile Scrum methodology helps to improve the weak points of the product in every sprint. Testing will detect those weak points." %}
-{% include qa.html question="Who’s paying for the test?" answer="The client pays for the tests because they are part of the services we provide. Tests that take a significant amount of time should be discussed, estimated, and agreed on with the client." %}
-{% include qa.html question="How long will the test take? Will it affect the deadline and/or development?" answer="See estimated times in the Tools section. If affecting the course of the development is not the purpose of the test (e.g., Heatmaps), it shouldn’t affect the deadline or the development schedule." %}
-{% include qa.html question="Was the app tested after design? Can we start the implementation? How?" answer="Yes, it was tested in order to ensure the highest quality of our work. Let’s just test after the design phase, and we will be ready for implementation." %}
-{% include qa.html question="What kind of tests do you provide by default to ensure high quality?" answer="Every project needs different testing methods, so tests are tailored individually. Feedback from the team and a design bug bash are usually carried out in all projects." %}
-
-**Questions to ask yourself at this stage**
-- Have I collected feedback among the team?
-- Is the mockup clickable?
-- Was a design bug-bash conducted?
-- Were tests conducted after the wireframe phase?
-- Was a test conducted after the visual design phase?
-- After the implementation, were Google Analytics installed, at least? (Y/N)
-
-## Desired outcomes of this stage
-1. Wireframes or designs tested using appropriate techniques.
-2. Feedback collected and implemented.
-
-## Additional reading
-- [How to Improve Your UI with Remote Usability Testing](https://www.netguru.co/blog/improve-ui-remote-usability-testing){:target="_blank"}
 
 ## 熱點圖(Heatmaps)
 * 使用產品:[Crazy egg](https://www.crazyegg.com/)、[Hotjar](https://www.hotjar.com/)
@@ -317,3 +237,23 @@ Beta testing is mostly done by developers and is especially useful for mobile ap
 ## 客戶可能會問您的問題
 ### Q 為什麼我的產品需要測試？
 **A** 綜上所述，您必須將出現錯誤的風險降到最低，因為您要面對的是現實中使用您產品的真實用戶。
+
+{% include qa.html question="Who’s paying for the test?" answer="The client pays for the tests because they are part of the services we provide. Tests that take a significant amount of time should be discussed, estimated, and agreed on with the client." %}
+{% include qa.html question="How long will the test take? Will it affect the deadline and/or development?" answer="See estimated times in the Tools section. If affecting the course of the development is not the purpose of the test (e.g., Heatmaps), it shouldn’t affect the deadline or the development schedule." %}
+{% include qa.html question="Was the app tested after design? Can we start the implementation? How?" answer="Yes, it was tested in order to ensure the highest quality of our work. Let’s just test after the design phase, and we will be ready for implementation." %}
+{% include qa.html question="What kind of tests do you provide by default to ensure high quality?" answer="Every project needs different testing methods, so tests are tailored individually. Feedback from the team and a design bug bash are usually carried out in all projects." %}
+
+**Questions to ask yourself at this stage**
+- Have I collected feedback among the team?
+- Is the mockup clickable?
+- Was a design bug-bash conducted?
+- Were tests conducted after the wireframe phase?
+- Was a test conducted after the visual design phase?
+- After the implementation, were Google Analytics installed, at least? (Y/N)
+
+## Desired outcomes of this stage
+1. Wireframes or designs tested using appropriate techniques.
+2. Feedback collected and implemented.
+
+## Additional reading
+- [How to Improve Your UI with Remote Usability Testing](https://www.netguru.co/blog/improve-ui-remote-usability-testing){:target="_blank"}
