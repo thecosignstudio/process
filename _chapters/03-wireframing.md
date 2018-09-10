@@ -4,7 +4,7 @@
 **在這個章節你將會學到：**
 - 了解線稿的定義以及在執行製作上客戶需要知道的事項。
 - 線稿流程包含哪些範疇。
-- 最佳實踐 – 製作線稿所需要或該必免的事項。
+- 最佳作法 – 製作線稿所需要與該避免的事項。
 
 ### 流程相關成員
 - 設計師
@@ -36,15 +36,13 @@
 製作線稿的流程可被分為兩個子階段：
 
 ### 使用者流程示意圖
-User Flow diagrams (also known as flowcharts) are a visual representation of a desired user journey path through the designed product. They illustrate the steps, decisions, and funnels users frequently come across. Thoughtfully crafted User Flow Diagrams let you reveal the moments critical for user conversion and then apply adequate solutions to the obstacles you identify. For an example of a user flow diagram [visit](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"} and to check out flowchart click [this link](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}.
-
 使用者流程示意圖（也被稱為流程圖）可視化了使用者產品操作的用戶旅程。
 它們用來說明步驟、決策及使用者常用的流程。
 一個考量周全成熟的使用者流程示意圖，能展現用戶轉換的行為觸發時機、適當地解決使用者在操作應用上遇到的判讀障礙。
- [查看關於使用者流程示意圖的範例](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"} ，以及 [流程圖](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}。
+ [有關使用者流程示意圖的範例](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"} ，以及 [點此觀看流程圖參考](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}。
 
 
-### 單一畫面線稿
+### 單頁畫面線稿
 單頁畫面的線稿（也稱為示意圖或藍圖），是頁面結構，組合和資訊層次的視覺指南。
 目的是為了以明智，使用者友善和設計和商業效益方式來排列網站的內容和元素。
 由於線稿主要的功能是不受華麗的視覺效果影響，因此需要卸掉視覺的所有元素，如顏色，圖表，效果等。可以看一下單頁線框的示例。 
@@ -53,7 +51,6 @@ User Flow diagrams (also known as flowcharts) are a visual representation of a d
 ## 在線稿中我該納入哪些元素？
 
 ### 元素清單
-Wireframes should include all the important elements of a product:
 線稿應該包含一個產品中所有重要的元素：
 - 導覽,
 - 公司識別標示 （如果具備的話），
@@ -72,9 +69,9 @@ Wireframes should include all the important elements of a product:
 - 用 Sketch 製作線稿。
 - 用 InvVision 產製簡便原型。
 
-## Wireframing Best Practices
+## 製作線稿的最佳作法
 
-### DOs and DON'Ts
+### 需要與避免
 線框圖主要的目的是直觀的展現想法及支持溝通的論點，反覆修正及快速構思。以下列出了我們在 Netguru 真正相信的最佳實踐：
 
 
@@ -169,10 +166,10 @@ Wireframes should include all the important elements of a product:
 5. 線框稿已經被客戶測試過並且同意－準備進入視覺設計階段
 
 ## Additional reading
-- [Improve Your Online Store UX With These Handy Tips](https://www.netguru.co/blog/ecommerce-ux-tips){:target="_blank"}
-- [How to get value from wireframes](https://medium.com/@dustin/how-to-get-value-from-wireframes-f40c2cf27960#.2yuoqqwmz){:target="_blank"}
-- [Wireframes: A Good Communication Tool, a Poor Design Tool](https://medium.com/@danritz/wireframes-a-good-communication-tool-a-poor-design-tool-1bc64b033962#.jp1i8lyxt){:target="_blank"}
-- [The product design sprint: decide (day 3)](https://library.gv.com/the-product-design-sprint-decide-day-3-7d4804bd2fd1#.fhdrt1bfx){:target="_blank"}
-- [Choosing the Right Level of Fidelity for Your Wireframes](https://blinkux.com/blog/choosing-the-right-level-of-fidelity-for-your-wireframes/){:target="_blank"}
-- [InVision User testing ](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"}
-- [How NOT To Design An Interface For Your Mobile App](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
+- [靠這些簡單的提示來改善你的網路商店體驗](https://www.netguru.co/blog/ecommerce-ux-tips){:target="_blank"}
+- [如何從線稿中獲得價值](https://medium.com/@dustin/how-to-get-value-from-wireframes-f40c2cf27960#.2yuoqqwmz){:target="_blank"}
+- [線圖稿：一個很棒的溝通工具，很爛的設計工具](https://medium.com/@danritz/wireframes-a-good-communication-tool-a-poor-design-tool-1bc64b033962#.jp1i8lyxt){:target="_blank"}
+- [產品敏捷設計 (design sprint)：決策（第三天）](https://library.gv.com/the-product-design-sprint-decide-day-3-7d4804bd2fd1#.fhdrt1bfx){:target="_blank"}
+- [為你的線稿選擇合適的保真度](https://blinkux.com/blog/choosing-the-right-level-of-fidelity-for-your-wireframes/){:target="_blank"}
+- [InVision 使用者測試 ](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"}
+- [你的 App 介面該避免哪些設計](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
