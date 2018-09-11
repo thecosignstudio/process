@@ -83,7 +83,7 @@
 | 不要使用太多淺灰色；使用淺灰色的可以的，但專注一種。"%}
 
 {% include dosndonts.html introduction="2. 保持一致：呈現解決方案的最佳方式是在將線框稿的設計保持一致" dos="
-在 UI 元素中的視覺展現保持一致。理想情況下，通過可重複使用的元件來呈現例如：[Sketch的元件功能（英）](https://www.sketchapp.com/learn/documentation/symbols/).
+在 UI 元素中的視覺展現保持一致。理想情況下，通過可重複使用的元件來呈現例如：[Sketch 的元件功能（英）](https://www.sketchapp.com/learn/documentation/symbols/).
 | 請注意字體大小及間距。
 | 開始數位化你的想法之前，先簡單地畫下來 —— 將讓你在早期的反覆修正中節省許多時間。
 " donts="
@@ -95,14 +95,14 @@
 |使用純灰色佔位符(placeholder elements)來表示照片，影片和地圖。
 | 為現實案例設計（也就是說，不要假設每個姓氏的字元都是最大值。例如：十個字符長）
 " donts="
-不要在關鍵設計元素中使用佔位符文本(placeholder text)，例如導航欄或行為招喚CTAs（i.e., Lorem Ipsum…）。
+不要在關鍵設計元素中使用佔位符文本(placeholder text)，例如導航欄或 CTA（Call to Actions, i.e., Lorem Ipsum…）。
 | 如果需要顯示一系列數據，如表格或圖塊，請確保不要使用相同的複製元素。"%}
 
 {% include dosndonts.html introduction="4. 不要獨自使用線框稿。這個過程的主要目的為溝通潛力，並且比你自己工作時更有機會發現更佳的解決方案。
 " dos="
 對新的想法保持開放的態度。
 | 向客戶展示你的線框稿之前，請從你的專案團隊中獲取一些意見——他們了解產品並了解客戶。
-| 始終對你的解決方案有第二個想法（在 Netguru, 我們有專門的Slack頻道）。
+| 始終對你的解決方案有第二個想法（在 Netguru, 我們有專門的 Slack 頻道）。
 " donts="
 避免單獨使用線框稿只是為了向客戶展示整個產品的最終結果。相反地，合作並交流。"%}
 
@@ -146,9 +146,9 @@
 
 ## Questions your client may ask
 
-{% include qa.html question="Can you explain the difference between wireframes and visual design?" answer="Wireframes are a quick visual method of building the backbone of the product. At this stage, we define how our product/features should work. It also helps us to avoid UX problems and present to developers how the website/application will work before we provide them with the final designs.
-Visual design is the part of the design process that comes after wireframing. In the visual design phase, we focus on creating the visual image and style of the product based on wireframes.
-To sum up, we need wireframes to work out the backbone of the product, whereas visual design is there to design what the product will look like. By using both of them, we build products that are better adjusted to users’ needs." %}
+{% include qa.html question="Can you explain the difference between wireframes and visual design?" answer="Wireframes are a quick visual method of building the backbone of the product. At this stage, we define how our product/features should work. It also helps us to avoid UX problems and present to developers how the website/application will work before we provide them with the final designs. Visual design is the part of the design process that comes after wireframing. In the visual design phase, we focus on creating the visual image and style of the product based on wireframes. To sum up, we need wireframes to work out the backbone of the product, whereas visual design is there to design what the product will look like. By using both of them, we build products that are better adjusted to users’ needs." %}
+
+{% include qa.html question="Are wireframes just static images? Let’s make them testable!" answer="You’re probably thinking about a prototype, which is a very simple clickable thing that allows you to test interactions, scenarios, and stories at a very early stage. A prototype (or a clickable mockup) is a tool to study users’ behavior and the product’s functionality." %}
 
 {% include qa.html question="將會從中獲得什麼好處呢？" answer="使用線稿圖通常有助於發現團隊未考慮過的新需求和問題。線框稿通常會演變成系統的需求。在這個階段，我們還可以檢視你的產品是否滿足所有的用戶需求。經由製作線框稿，你將會獲得一個更貼近你目標客戶群的產品。" %}
 
