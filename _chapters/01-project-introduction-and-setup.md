@@ -229,9 +229,9 @@ assets & Exports 是提供給前端工程師使用的。
 - 我已經搜集好客戶提供的可使用的資源(包含品牌規範等等)。
 
 ## 延伸閱讀
-- [雇用一個設計師時你所要付出的代價](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
-- [8個客戶與設計師關係成功建立和維持的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
-- [給非設計師們：如何與設計師聊設計](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}
-- [對設計師的期望](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
-- [為什麼團隊態度是促成一個專案成功的關鍵](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
-- [如何選擇一位設計師 - 步驟導讀](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}
+- [雇用一個設計師時你所要付出的代價（英）](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
+- [8個客戶與設計師關係成功建立和維持的方法（英）](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
+- [給非設計師們：如何與設計師聊設計（英）](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}
+- [對設計師的期望（英）](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
+- [為什麼團隊態度是促成一個專案成功的關鍵（英）](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
+- [如何選擇一位設計師 - 步驟導讀（英）](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}
