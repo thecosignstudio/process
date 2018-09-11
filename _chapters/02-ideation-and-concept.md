@@ -257,17 +257,6 @@ Answer the following questions to define the competition better:
 - What are the key brand differentiators? What are the messaging, product/service offerings, etc., that set the competitor apart from their competition?
 - What do we share? What are the competitor’s must-haves/must-avoids?
 
-## Concept
-### Definition
-Concept is the visual and verbal summary of the research process. At this stage of the design process, you’re making a synthesis of everything that you have found about the project: the competition, goals, etc. The result of this stage is a potential visual direction formed into a concept.
-
-### What is the goal of making the concept for your project?
-The Research and Concept stages are closely related to each other. The concept helps clarify the information found during the research and put it into a logical order. Thanks to this, you will easily determine rough guidelines for the style and form of your project. As a result, it will save you time during the next stages of the design process.
-
-### Setup Project Folder and Start Collecting Moodboards
-There are plenty of sites you can use for inspiration: [Dribbble](https://dribbble.com/){:target="_blank"}, [Behance](https://www.behance.net/){:target="_blank"}, [Pttrns](https://pttrns.com/){:target="_blank"}, [Pinterest](https://pl.pinterest.com/){:target="_blank"}, etc. It’s really easy to find similar projects to the one you will be working on. Additionally, there may already exist a UI solution to a problem you’re experiencing and trying to solve.
-You can save everything you have found on the Internet to an Inspirations folder to be able to use it later to create basic moodboards. This folder could be filled with anything: plugins, swatches, or even full case studies from Behance. You can use InVision Moodboards, which is a perfect tool for collecting and sharing inspiration within the team.
-
 ## 概念(Concept)
 ### 定義
 在研究階段中，將視覺想法與口頭討論做整合的步驟，稱之為「概念」。在這個設計階段中，你會將上個步驟中你找到的一切例如：競爭者分析、設計目標等等整合，集合各種有潛力的方向最後就會形成一個「概念」。
@@ -280,18 +269,6 @@ You can save everything you have found on the Internet to an Inspirations folder
 
 你可以存下所有覺得有趣的東西，放進一個靈感資料夾，之後可以利用它來建立情緒板，這個資料夾可以放任何東西：外掛、色票、甚至是整個 Behance 上的專案截圖，你可以用 InVision Moodboards，它是一個可以和團隊分享協作的完美工具。
 
-
-### Generating Ideas and Concepts from Concept Mapping
-You can use the information in a concept map to generate additional concepts for your project by reorganizing the items on the map.
-- Position your design problem as the central idea of your mind map.
-- Place circles containing your initial concepts for solving the problem around the central topic.
-- Brainstorm related but non-specific concepts and add them as subtopics of these ideas. All related concepts are relevant. At this stage, every conceivable concept is valuable and should not be judged.
-- Generate related ideas for each concept you brainstormed in step 3 and add them as subtopics.
-- Repeat steps 3 and 4 until you run out of ideas.
-
-### Applying Rhetorical Devices to Concept Mapping
-After you have placed all your ideas on the concept map, you can add additional layering to help you refine and explore them further. For example, you can use rhetorical devices to add context to the concepts and make them come alive. Rhetoric is the study of effective communication through the use of the art of persuasion. Design uses many forms of rhetoric, metaphor in particular. If you apply a metaphor-based approach to each idea in your concept map, you will find many new ways to express your message.
-
 ### 透過概念構圖 (Concept Mapping) 產生點子與概念
 你可以利用重組概念圖 (Concept Map) 上的物件為你的專案產生更多新想法。
 
@@ -303,25 +280,6 @@ After you have placed all your ideas on the concept map, you can add additional 
 
 ### 透過修辭手段進行概念構圖。
 將你的想法全部放在概念圖上後，你可以加入額外的 layering 來幫助你更深入的探索它們，舉例來說，你可以利用修辭手段來為概念加上更多說明，讓想法更加鮮明，修辭手段是一種有效溝通的方法，設計會用到許多形式的修辭，尤其是隱喻，如果你運用隱喻修辭來製作概念圖，你將可以找到更多新方法來傳達你的訊息。
-
-### What should the concept include?
-#### Verbal (text):
-- Executive Summary of the research (short assumptions, disclaimers)
-- Suggested tone and voice (if the client’s product didn’t have it earlier)
-
-#### Visual:
-- Moodboard
-- Inspirations
-- Fonts
-- Photos
-- Patterns
-- Mindmap
-- Similar case studies
-
-**Tip:** Show the results of your work wisely. Sometimes, your client might become inspired by the existing solutions too early, and they will try to impose a style from an existing project. To avoid this problem, you can use specific slices of typography and UI examples that are separated from the context.
-
-### Presentation
-You’re doing this because you care about the client’s business – remember about the importance of presentation. Keep it short and present it like a pro, because time is money. Your professional expertise, your knowledge, and your product design experience determine how you will deliver the client’s product to the world. It’s essential to help the client decide what the best solution is. **Don’t go over 5-15 slides – you can attach other materials to an e-mail, for example.**
 
 ### 「概念」應該包含什麼？
 #### 口語（文字）
