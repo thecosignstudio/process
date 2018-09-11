@@ -83,7 +83,7 @@
 | 不要使用太多淺灰色；使用淺灰色的可以的，但專注一種。"%}
 
 {% include dosndonts.html introduction="2. 保持一致：呈現解決方案的最佳方式是在將線框稿的設計保持一致" dos="
-在 UI 元素中的視覺展現保持一致。理想情況下，通過可重複使用的元件來呈現例如：[Sketch的元件功能（英）](https://www.sketchapp.com/learn/documentation/symbols/).
+在 UI 元素中的視覺展現保持一致。理想情況下，通過可重複使用的元件來呈現例如：[Sketch 的元件功能（英）](https://www.sketchapp.com/learn/documentation/symbols/).
 | 請注意字體大小及間距。
 | 開始數位化你的想法之前，先簡單地畫下來 —— 將讓你在早期的反覆修正中節省許多時間。
 " donts="
@@ -95,14 +95,14 @@
 |使用純灰色佔位符(placeholder elements)來表示照片，影片和地圖。
 | 為現實案例設計（也就是說，不要假設每個姓氏的字元都是最大值。例如：十個字符長）
 " donts="
-不要在關鍵設計元素中使用佔位符文本(placeholder text)，例如導航欄或行為招喚CTAs（i.e., Lorem Ipsum…）。
+不要在關鍵設計元素中使用佔位符文本(placeholder text)，例如導航欄或 CTA（Call to Actions, i.e., Lorem Ipsum…）。
 | 如果需要顯示一系列數據，如表格或圖塊，請確保不要使用相同的複製元素。"%}
 
 {% include dosndonts.html introduction="4. 不要獨自使用線框稿。這個過程的主要目的為溝通潛力，並且比你自己工作時更有機會發現更佳的解決方案。
 " dos="
 對新的想法保持開放的態度。
 | 向客戶展示你的線框稿之前，請從你的專案團隊中獲取一些意見——他們了解產品並了解客戶。
-| 始終對你的解決方案有第二個想法（在 Netguru, 我們有專門的Slack頻道）。
+| 始終對你的解決方案有第二個想法（在 Netguru, 我們有專門的 Slack 頻道）。
 " donts="
 避免單獨使用線框稿只是為了向客戶展示整個產品的最終結果。相反地，合作並交流。"%}
 
@@ -144,12 +144,18 @@
 通過專注於線框稿的視覺形式，不要忘記功能的重要性。 |
 別太完美像素，不要花太多時間在後期容易被改變的事情上。"%}
 
+## Questions your client may ask
+
+{% include qa.html question="Can you explain the difference between wireframes and visual design?" answer="Wireframes are a quick visual method of building the backbone of the product. At this stage, we define how our product/features should work. It also helps us to avoid UX problems and present to developers how the website/application will work before we provide them with the final designs. Visual design is the part of the design process that comes after wireframing. In the visual design phase, we focus on creating the visual image and style of the product based on wireframes. To sum up, we need wireframes to work out the backbone of the product, whereas visual design is there to design what the product will look like. By using both of them, we build products that are better adjusted to users’ needs." %}
+
+{% include qa.html question="Are wireframes just static images? Let’s make them testable!" answer="You’re probably thinking about a prototype, which is a very simple clickable thing that allows you to test interactions, scenarios, and stories at a very early stage. A prototype (or a clickable mockup) is a tool to study users’ behavior and the product’s functionality." %}
+
 {% include qa.html question="將會從中獲得什麼好處呢？" answer="使用線稿圖通常有助於發現團隊未考慮過的新需求和問題。線框稿通常會演變成系統的需求。在這個階段，我們還可以檢視你的產品是否滿足所有的用戶需求。經由製作線框稿，你將會獲得一個更貼近你目標客戶群的產品。" %}
 
 
 ### 在這個階段可以審視自己的問題
 - 用戶流程是否完整？
-- Invision上是否有線稿圖可用？
+- Invision 上是否有線稿圖可用？
 - 線稿圖是否可點擊？
 - 線稿圖是否遵循我們的最佳作法？
 -- 使用真實內容
@@ -159,17 +165,17 @@
 
 ### 在這階段後期望的結果
 
-1. 可點擊的低或高保真度（low or high fidelity）線框稿（以高保真度線框為主）
+1. 可點擊的低或高保真度（fidelity）線框稿（以高保真度線框為主）
 2. 使用者流程（user flows）涵蓋所以必須完成的工作和使用者故事（user stories）
 3. 包括真實的內容的應用
 4. 為線框稿設計測試情境（scenario）
 5. 線框稿已經被客戶測試過並且同意－準備進入視覺設計階段
 
 ## Additional reading
-- [靠這些簡單的提示來改善你的網路商店體驗](https://www.netguru.co/blog/ecommerce-ux-tips){:target="_blank"}
-- [如何從線稿中獲得價值](https://medium.com/@dustin/how-to-get-value-from-wireframes-f40c2cf27960#.2yuoqqwmz){:target="_blank"}
-- [線圖稿：一個很棒的溝通工具，很爛的設計工具](https://medium.com/@danritz/wireframes-a-good-communication-tool-a-poor-design-tool-1bc64b033962#.jp1i8lyxt){:target="_blank"}
+- [靠這些簡單的提示來改善你的網路商店體驗（英）](https://www.netguru.co/blog/ecommerce-ux-tips){:target="_blank"}
+- [如何找到線稿的價值](https://intersection.tw/99a830480da){:target="_blank"}
+- [線圖稿：一個很棒的溝通工具，很爛的設計工具（英）](https://medium.com/@danritz/wireframes-a-good-communication-tool-a-poor-design-tool-1bc64b033962#.jp1i8lyxt){:target="_blank"}
 - [產品敏捷設計 (design sprint)：決策（第三天）](https://library.gv.com/the-product-design-sprint-decide-day-3-7d4804bd2fd1#.fhdrt1bfx){:target="_blank"}
-- [為你的線稿選擇合適的保真度](https://blinkux.com/blog/choosing-the-right-level-of-fidelity-for-your-wireframes/){:target="_blank"}
-- [InVision 使用者測試 ](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"}
-- [你的 App 介面該避免哪些設計](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
+- [為你的線稿選擇合適的保真度（英）](https://blinkux.com/blog/choosing-the-right-level-of-fidelity-for-your-wireframes/){:target="_blank"}
+- [InVision 使用者測試（英）](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"}
+- [你的 App 介面該避免哪些設計（英）](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
