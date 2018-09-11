@@ -1,83 +1,83 @@
 ---
-title: "Testing"
-chapter_number: "04"
+標題: "測試"
+章節編號: "04"
 ---
 
-# Testing
+# 測試
 
-## Introduction
-**In this section, you will learn**
-- When to test wireframes or designs.
-- What tests to use in specific situations.
-- Tips for testing designs.
-- Questions most frequently asked by clients.
+## 介紹
+**您將於此章節中學習到**
+- 測試原型與設計的時機。
+- 根據不同的情形使用不同的測試。
+- 測試設計的訣竅。
+- 使用者的常見問題。
 
-{% include quote.html text="Test (v.): take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice." author="From Oxford English Dictionary" %}
+{% include quote.html text="Test (v.): 藉由各種方式去確認品質、效能或一件事的可信度，尤其在它還未為眾人使用或實踐" author="來自牛津辭典" %}
 
-You can test just about anything in a digital product: design solutions, code, performance, forms, buttons, etc. In this article, we will focus on design only. We are working in the Agile Scrum methodology, in which **testing is part and parcel of every sprint**. That’s why each design team needs to include a dedicated QA specialist, who is responsible for testing.
-Every iteration you make on your design should be tested. The primary stages of the design process, which you can see below, should involve testing methods that are adequate to the project’s scope and the stage you are in.
+數位產品的任何部分均可測試：設計理念、程式碼、效能、表單、按鈕...等。在本文中，我們將僅探討設計。另一方面，我們以敏捷開發方式切入，闡述**測試在每個衝刺階段皆為重要的一環**。這就是每個設計團隊都有一個專門負責測試的品保專家的原因。
+您測試中的所有反覆修正，皆需要測試。下列重要的設計開發過程中，應該要有適用於專案與您的階段的測試方法。
 
-## Benefits of testing
-**For the client**
-- Minimize the risk of the product’s failure – when it’s in users’ hands, it must work as intended.
-- Be more confident and calm upon the product’s launch.
-- Save money on fixing bugs and flaws after the product is launched.
-- Save money on customer service; otherwise, users would ask for help after not being able to accomplish what they set out to do.
-- Get to know your customers, their behavior, needs, and preferences.
+## 測試的好處
+**對使用者而言**
+- 最小化產品的錯誤，在使用者使用後，成效更好。
+- 在產品的發佈時，您將更有自信而且可冷靜面對問題。
+- 產品發佈後，修正錯誤的成本降低
+- 降低了客服的成本，不然的話，使用者將會一直諮詢那些無法滿足他們需求的問題。
+- 可藉此瞭解您客群的行為、需求、喜好。
 
-**For Designers**
-- Even a team of skilled designers won’t spot all the points where real users may get stuck when using the product.
-- People not involved in creating the product will give the most valuable feedback because they will have a fresh view.
-- Avoid the embarrassing moment when you have to admit that you made a mistake in front of the client.
-- When designing, be sure you are not going in a wrong direction for too long, because bugs and flaws can escalate quickly.
-- You will make a positive impression on the client when you recommend testing and give strong arguments about it.
+**對設計師而言**
+- 就算是一個經驗豐富的設計團隊也無法預測所有使用者在使用上的困惑點。
+- 沒有參與開發的使用者，將可以給予最有價值的回饋，因為他們對於產品沒有太多成見。
+- 對使用者承認您犯了錯誤這件事將不會那麼尷尬。
+- 在設計階段中，您可以確認沒有在錯誤的方向，以免錯誤快速增加。
+- 若您邀請客戶測試並發表一個理論基礎健全的論述，您將在客戶心中建立一個正面的形象，
 
-**Stakeholders**
-- QA
-- Designer
-- PM
-- Developers
+**參與者**
+- 品保
+- 設計師
+- 專案經理
+- 開發工程師
 
-## When to test
-### Tests after wireframing
+## 測試時機
+### 線框稿繪製後的測試
 
-**Participants**: PD, QA, users
-**Goal**: Test the UX. Wireframes are focused on high-level design decisions such as user experience, user flow, and information architecture. So, before you go to the next stage – the visual design – you will need to test these elements. In small projects, you can test the UX and the UI at the same time in the next stage.
-**Tools**: design bug bash, user testing within your organization, guerrilla usability testing.
+**參與者**：產品設計師、品保、使用者
+**目標**：測試使用者體驗。線框稿將專注於重要性高的設計決定，例如：使用者體驗、使用者流程以及資訊架構。因此，在您進入下一階段「視覺設計」前，您將需要先測試這些元素。在小型專案中，您可以在下一階段同時測試使用者體驗與介面。
+**工具**：設計缺陷掃除、組織內的使用者測試、游擊測試。
 
-### Tests after design
-**Participants**: PD, QA, users
-**Goal**: Test the UI. Visual design is focused on more specific design solutions such as UI elements, colors, shapes, and interactions. Assuming you ran tests after the wireframing, you need to test these elements now.
-**Tools**: design bug bash (link), user testing within your organization or with outside testers, guerrilla usability testing.
+### 設計後的測試
+**參與者**：產品設計師、品保、使用者
+**目標**：測試使用者介面。視覺設計將更專注於特定設計理念，例如：使用者介面元素、顏色、形狀以及互動。假如您已在線框圖繪製後進行測試，您將在此階段測試那些元素。
+**工具**: 設計缺陷掃除（連結）、組織內的使用者測試或者外部的測試者、游擊測試。
 
-### Tests after implementation
-**Participants**: PD, QA, users
-**Goal**: Analyze user behavior to make sure customers use the product the way it was designed and if the client’s goals are met.
-**Tools**: heatmaps, A/B tests, user testing within your organization or with outside testers, analytics.
+### 完成後的測試
+**參與者**：產品設計師、品保、使用者
+**目標**：藉由分析使用者行為，確認使用者以當初設計的方式使用產品，以及使用者是否達成他的目標。
+**工具**：熱圖、A/B測試、組織內的使用者測試或者外部的測試者、分析。
 
-## Tools and techniques for testing
-**Feedback from the team (e.g., delivered in a Slack channel)**
-- **Time:**<br>
-15 minutes
-- **When?**<br>
-After wireframing and after design.
-- **Why?**<br>
-This is the very first step, and the easiest one you can take, to validate your design at any stage.
-- **How?**<br>
-Just share your design with others, preferably with a question – what you need to have validated/tested or what you would like to get people’s opinion about.<br>
-Deliverables: Others should leave comments on the design you've shared (e.g., on InVision).
+## 測試工具與技術
+**團隊的回饋（例如：Slack Channel的報告）**
+- **時間：**<br>
+十五分鐘
+- **何時？**<br>
+線框圖繪製後或設計後
+- **原因？**<br>
+這是最初始的階段，而且是進行測試最簡單的階段，並以便在任何階段驗證您的設計。
+- **如何做？**<br>
+僅需對他人分享您的設計，且建議同時詢問：您需要測試或驗證什麼？或您需要對方提供什麼看法。<br>
+可實作的事：受測者應對您分享的設計留下評論（例如：透過InVision）
 
-**[Design bug bash](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow){:target="_blank"}**
-- **Time**<br>
-Up to 1h
-- **When?**<br>
-After wireframing and after design.
-- **Why?**<br>
-As you progress with the design, it gets more and more complex, you lose your fresh view, and help from other people becomes necessary.
-- **How?**<br>
-Arrange a 30- to 60-minute-long design bug bash that will include at least three QA specialists: the project’s QA specialist and two QA specialists not involved in the project. It should also include a PD. Also nice to have: a PM, a front-end developer, other project team members.<br>
-Your QA specialist will lead the bug bash. In the beginning, you can tell others what the project is about, and who the typical users will be. Explain what tasks you want to have accomplished by participants but don’t explain any design solutions beforehand. Everyone should go through the whole prototype, performing tasks given by the PD individually.
-Deliverables: Any bugs/doubts should be taken note of by their finder as, for example, InVision comments.
+**[設計缺陷掃除](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow){:target="_blank"}**
+- **時間**<br>
+最多一小時
+- **何時？**<br>
+線框圖繪製後或設計後
+- **原因？**<br>
+當您著手進行設計，測試將會越來越複雜，您將有更多的成見，因此，必須他人的幫助
+- **如何做？**<br>
+安排一個三十至六十分鐘的設計缺陷掃除，參與成員將包含至少三個品保專家：專案的品保專家以及兩個未參與專案的品保專家。也可以讓一個產品設計師加入。若有一個專案經理、前端工程師以及團隊的其他成員的加入，成效將更好。<br>
+您的品保專家將主持這個設計缺陷掃除。在一開始，您可以告知其他人您的專案的內容，以及描述典型使用者的細節。解釋您需要參與者完成什麼事。但是不要預先解釋任何設計理念。任何人都需參與產品設計師提供的原型設計與任務
+可實作的事：受測者感受到的任何錯誤、懷疑將被他們的邀請者記錄，例如：透過InVision的評論區。
 
 **[Guerrilla Usability Testing](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}**
 - **Time**<br>
