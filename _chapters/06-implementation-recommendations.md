@@ -96,30 +96,28 @@ chapter_number: "06"
 
 請確認應用程式中的圖示和 Play Store 的物件有依照 Google 所提供的[設計規範 (英) ](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en){:target="_blank"}。
 
-## iOS platform-specific
+## 針對iOS系統
 
-You must supply high-resolution images for all the artwork in your app and all the devices your app supports. Depending on the device, you will accomplish this by multiplying the number of pixels in each image by a specific scale factor. We advise you to work on a @1x canvas size of 375x667 px (iPhone 6/7) and export upsized assets.
+在你的應用程式和該應用程式支援的其他裝置裡，所有的原圖都必須是高解析度圖片。根據不同裝置，每張圖片將依據一個特定的比例乘以一定量的像素（piexl）。我們建議你先 375 X 667 像素（iPhone 6/7）一倍@1x 畫布為基礎，再放大成更大比例的設計元件。
+簡單來說，你只需要提供一倍、兩倍和三倍大小的設計元件給工程師。就是這樣簡單。你非常棒！
+確定應用程式圖示和 App Store 設計元件都有符合 App Store 規範（請參見Human Interface Guidelines 和 App Icons on iPhone, iPad and Apple Watch）。另外，Apple會駁回有包含透明塗層的PNG檔案，所以要多檢查一遍。
 
-To put it simply, all you need is to provide the developer with @1x, @2x, @3x assets. That’s it. You’re brilliant.
+## 客戶有可能會問的問題
 
-Be sure that App icons and App store Assets will be in accordance with the App Store guidelines (see [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/){:target="_blank"} and [App Icons on iPhone, iPad and Apple Watch](https://developer.apple.com/library/content/qa/qa1686/_index.html){:target="_blank"}), also double-check that PNG files do not contain the alpha channel, because Apple will reject them otherwise.
+問：所有設計元件都準備好了嗎？所有iPhone/Android版本的設計元件都製作好了嗎？
+答：給客戶你所有設計元件的連結（例如：吉拉提供設計元件附檔或是Google Drive 連結到設計元件存儲地。）
 
-## Questions your client may ask
 
-{% include qa.html question="Are all assets ready? Are all assets for the iPhone/Android done?" answer="Guide the client to where you store the assets (e.g. Jira tickets with assets attached or links to assets on Google Drive)." %}
+## 在這階段你可能會問自己的問題
+  - 所有設計元件的命名都有和工程師們討論並同意過嗎？
+  - 我命名習慣有一至性嗎？
+  - 我有製作所有符合平台尺寸的設計元件嗎？
+  - 我確定工程師有拿到所有他們所需要的嗎？
 
-### Questions to ask yourself at this stage:
+## 在這階段後期望的結果
+完成一系列符合所有目標裝置的設計元件。
 
-- Has the naming of my assets been discussed and agreed with the developers?
-- Is my naming convention consistent?
-- Have I made platform-specific assets in all required sizes?
-- Am I sure developers have all they need?
-
-## Desired outcomes after this stage
-
-A set of assets covering all the designs for all target devices is complete.
-
-## Additional reading
+## 延伸閱讀
 - [Better Android workflows with Sketch](https://medium.com/@lmindler/using-sketch-3-and-a-bit-of-fairy-dust-for-a-better-android-workflow-f667d0048855#.lgpmpu10m){:target="_blank"}
 - [Design like a Developer](https://medium.com/going-your-way-anyway/design-like-a-developer-b92f7a8f4520#.1ynw77olc){:target="_blank"}
 - [Why should you use Material Design](https://www.netguru.co/blog/why-should-you-use-material-design){:target="_blank"}
