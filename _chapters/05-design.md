@@ -113,8 +113,8 @@ chapter_number: "05"
 
 這個狀態將會在頁面上一再發生，使用者的互動、更新的數據和非常多的任何改變發生在你的應用程式的狀態上。經過仔細思考的設計這些改變，你可以替使用者們創造一個優美的使用者體驗無論他們處在什麼樣的狀態之下。
 
-## Designing specifics for native mobile apps
-If you are only starting to design native apps, the best thing to do is to read the official guidelines for the Android (Material Design) and iOS (Human Interface Guidelines) operating systems.
+## 針對手機軟體做更細節的設計
+如果你剛開始做原生的軟體(apps)，最好的方式，是去閱讀官方指南，Android (Material Design) 和 iOS (Human Interface Guidelines)操作系統。
 
 **Android devices**
 [Material Design Guidelines](https://material.io/guidelines/){:target="_blank"}
@@ -122,98 +122,98 @@ If you are only starting to design native apps, the best thing to do is to read 
 **Apple’s iPhones**
 [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/){:target="_blank"}
 
-### Designing for gestures in general
-Use [the most popular gestures](https://blogs.adobe.com/creativecloud/in-app-gestures-and-mobile-app-user-experience/){:target="_blank"} to make application even more interactive. Remember that when using your phone, there is no “right click” as would be the case with browsing websites on a computer. Try to put the most popular and intuitive gestures in areas where users might expect them.
+### 一般設計手勢
+使用 [the most popular gestures](https://blogs.adobe.com/creativecloud/in-app-gestures-and-mobile-app-user-experience/){:target="_blank"} 讓應用軟體更具互動性。 請記住，當你使用手機時，沒有像使用電腦看網頁一樣，可以透過右鍵點擊。嘗試在區域中放置流行且直觀的手勢來符合使用者的預期。T
 
-**Mobile app interactions matter**<br>
+**手機 app 互動的重要性**<br>
 Read: [Microinteractions: The Secret of Great App Design](https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf){:target="_blank"}<br>
 
-## Designing in Teams: Best Practices
+## 團隊設計: 最佳練習
 
-{% include dosndonts.html introduction="1. Start every project with a brainstorming session." dos="
-Debate and encourage wild ideas.
-| Capture the ideas in a tool available for the whole group
-| Number your ideas and go for quantity.
-| Having a non-designer present during brainstorming brings diversity to the table.
+{% include dosndonts.html introduction="1. 透過腦力激盪會議做為每個專案的開始。" dos="
+爭辯、討論及鼓勵各種瘋狂般的想法。
+| 利用團隊中現有的工具來建構想法。
+| 為你的想法編號並量化它。
+| 在腦力激盪時，讓非設計工作者參與，可帶來更多的變化。
 " donts="
-Do not criticize. Suspend any judgment until the end of the session.
+避免批評，在這個會議結束前停止一切的判定。
 "%}
 
-{% include dosndonts.html introduction="2. Be sure to know your responsibilities and the overall team hierarchy." dos="
-Make sure you clearly understand your role and the tasks you’re responsible for.
-| When responsible for task distribution, be sure to balance skill sets and eliminate gaps
+{% include dosndonts.html introduction="2. 務必了解你個人的責任及整個團隊的結構。" dos="
+確保你清楚自己角色及所劃分的任務你的責任相符
+| 負責分配任務時，確保能力分配平均並縮短差距。
 " donts="
-Don’t forget about the project timeline and task deadlines.
+別忘了專案時程及任務的期限。
 "%}
 
-{% include dosndonts.html introduction="3. When a design conflict emerges, bring the discussion back to the business objectives." dos="
-When a conflict arises, collect all arguments from the team and choose the solution that serves your product’s business objectives better.
-| Support your ideas with real-life examples and surveys.
+{% include dosndonts.html introduction="3. 當遇到設計分歧時, 將討論帶回並以商業目標導向。" dos="
+當設計分歧產生時, 蒐集團隊所有的論點，並選擇其解決方法，用來滿足你產品的商業目標。
+| 以現實生活的例子及調查來證明你的想法。
 " donts="
-Don’t let aesthetics or personal preferences be your primary guide when searching for solutions.
-| Do not try to reinvent the wheel: always make sure that your problem hasn’t already been solved by someone else.
-| Don’t forget about the project timeline and task deadlines.
+在尋找解決方案時，別讓視覺及個人喜好成為你主要的準則。
+| 不要試圖創新: 確保你的問題還沒有被其他人解決。
+| 別忘了專案時程及任務的期限
 "%}
 
-{% include dosndonts.html introduction="4. Be a team player and work to deliver the business objectives." dos="
-Be responsive and helpful: if a team member asks you for urgent feedback, give it a high priority.
-| Solve conflicts and misunderstandings within the team quickly: personal conflicts tend to escalate.
+{% include dosndonts.html introduction="4. 成為團隊的一員並努力實現商業目標。" dos="
+積極反應並熱於助人：如果團隊中有成員詢問你一個緊急的問題，你應該給給予一個高度優先權的回應。
+| 快速解決團隊內部的衝突及誤解: 個人的衝突更優先。
 " donts="
-Don’t take credit for the final design on your own.
-| Don’t get too attached to your designs – your teammates’ solutions might be better than yours.
+千萬不要獨自確認最終的設計。
+| 不要固執己見，你團的對解決方案可能比你更好。
 "%}
 
-{% include dosndonts.html introduction="5. Prepare your files properly." dos="
-Use consistent naming conventions; standardize the folder naming within your design software. Tools as Sketch, Adobe XD, or Invision Studio work best when all layers have proper naming and a consistent hierarchy.
-| Use shared text styles and shared colors wherever possible.
-| Create symbols and instances for recurrent patterns.
-| Try to split your designs using artboards or pages.
+{% include dosndonts.html introduction="5. 準備好你的文件，並確定其正確性。" dos="
+命名一致性；將你設計軟體中的命名資料夾標準化。Sketch、Adobe XD 或 Invision Studio等工具在每個圖層都有適當的命名及一致性的結構時，效果最好。
+| 盡可能使用共享的文字及顏色樣式。
+| 針對反覆出現的模式，創建符號 (symbols) 及實例 (instances)。
+| 透過畫板或頁面切割你的設計。
 " donts="
-Don’t scatter files around: use one location for all the project’s assets – ideally a shared folder.
-| Be on the lookout for bad layer or file naming.
-| Don’t leave your layers ungrouped and unnamed: your team member might need to pick up from your file.
+避免檔案分散：: 所有專案都使用同一位置 – 共享資料夾是最理想的情況。
+| 避免不好的圖層及文件命名。
+| 確保每個圖層都有群組及命名: 您的團隊可能會需要從你的文件中使用。
 "%}
 
-{% include dosndonts.html introduction="6. Give feedback and be open to feedback." dos="
-Ask your team for feedback on every step. Have regular design reviews.
-| Before presenting your work to the client, be sure to get feedback from the whole design team via a messaging app or in person.
+{% include dosndonts.html introduction="6. 提供反饋及接受反饋。" dos="
+每個階段都可以詢問團隊成員反饋建議，定期回顧設計。
+| 在產品上線前，務必確保能從團隊的訊息對話或個人得到反饋。
 " donts="
-Don’t be stubborn and accept constructive criticism – you won’t grow without feedback.
+不要固執，接受有建設性的批判 – 沒有反饋，就不會成長.
 "%}
 
-{% include dosndonts.html introduction="7. Presenting and defending your ideas." dos="
-Knowing why your design works is the key to explaining and defending it well.
-| Do research on the ideas you try to convince the client to.
-| Know the numbers behind your solutions.
+{% include dosndonts.html introduction="7. 提出並捍衛你的想法。" dos="
+了解你的設計如何運行是關鍵，解釋並捍衛他的可行性。
+| 說服你的客戶前，嘗試為你的想法尋找更多的研究證明。
+| 了解解決方法背後的數字。
 " donts="
-Don’t use jargon when presenting your work – the client doesn’t have to know what persona or above-the-fold mean.
+介紹時，不要使用專業術語 – 客戶並不知道什麼是人物誌 (persona) 或 above-the-fold。
 "%}
 
-{% include dosndonts.html introduction="8. Embrace the culture of communication." dos="
-Communicate clearly, early and often.
-| It’s a good idea to have a live call with the client when presenting the designs for the first time – this way you will have an opportunity to answer all questions and avoid misunderstandings.
+{% include dosndonts.html introduction="8. 擁抱各種文化溝通。" dos="
+提早、經常且清楚的溝通
+| 在第一次介紹給客戶時，與客戶進行實際的對話是個好方法 – 這樣你可以有更多的機會回答所有的問題以及避免不清楚的地方。
 " donts="
-Don’t be afraid to ask – remember that there are no stupid questions.
-| Don’t assume your client knows how to use collaboration tools.
-| Don’t leave designs of complicated processes without any comments.
+不要害怕詢問 – 記住！沒有笨問題。
+| 不要假設客戶知道如何使用協作工具。
+| 不要再沒有任何評論下，留下複雜的設計流程。
 "%}
 
-## Nice-to-haves when designing
+## 很高興可以做設計
 
-### Prepare interactive designs
-If there is enough time, try to search for ready transitions between the elements of your designed interface. This will greatly enhance the experience of users, as animations in your project can do magic. To prepare such interactions, you can use:
-1. **Principle.** Use _Principle_ when you need to animate interface elements, especially in a multi-screen project; the built-in transitions and element-based animations will help create quick and easily clickable prototypes. _Principle_ should be your go-to tool if:
-  - you need to build a quick prototype to check if a UI solution works;
-  - you want to make sure the developer knows how to code the interaction;
-  - you want to enrich the experience by creating meaningful animations;
-  - you want to showcase your design on social media.
-2. **Adobe After Effects.** _AE_ is a true workhorse – it can do almost everything related to animation. While versatile and powerful, _After Effects_ could be better when it comes to working with Sketch files. _AE_ also won’t allow you to test your interactions on a prototype. _After Effects_ is your go-to tool if:
-  - you need custom transitions or animation effects;
-  - you need to use perspective or other video effects;
-  - you want to animate icons and illustrations.
+### 準備互動式設計
+如果有足夠的時間，嘗試搜尋元素 (element) 之間的等待過渡期。像是你的專案中，有如魔法般的動態效果，這樣可以大大提升用戶體驗，如果要準備這些互動效果，你可以使用：
+1. **Principle.** 當你需要在界面中設計動畫，你可以使用_Principle_ ，尤其是在一個適用不同螢幕的專案中；在設計原型(prototype)時，透過建立過渡期及元素的動態效果，可以幫助你更快速且容易點擊。 _Principle_ 應該是你的首選，如果:
+  - 你需要快速產出一個原型(prototype)來確認 UI 解決方案是否有效；
+  - 你要確定開發人員知道如何寫出互動效果；
+  - 你想要創造更有意義的效果來增添經驗；
+  - 你想要在社群平台上展示你的設計。
+2. **Adobe After Effects.** _AE_ 真的很夠用 – 只要跟動畫有關的事情，它幾乎都可以做。 雖然功能豐富伽且強大，但_After Effects_ 如果可以處理 Sketch 的文件會更好。 _AE_ 也不允許在原型(prototype)上測試互動行為。a _After Effects_ 應該是你的首選，如果:
+  - 你需要客制過度期或動態效果；
+  - 你需要用不同角度或其他影片效果；
+  - 你需要做出動態圖示(icons)或插圖(illustrations)。
 
-### Craft your own icons
-If there is enough time, you can create your own icon set. We use _Nucleo_ for our designs, but creating your own icons will add a more individual feeling to the application.
+### 自做自己的圖示(icon)
+我們使用 _Nucleo_ 來設計, 如果有足夠的時間，你可以製作一組個人的圖示 (icon)，能讓應用軟體更有個性。
 
 ## Resources
 
