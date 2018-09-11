@@ -3,66 +3,67 @@ title: "Project termination"
 chapter_number: "07"
 ---
 
-# Project termination
+# 結束專案
 
-## Introduction
-**In this section you can learn:**
-- Where to put the source files and store assets at every stage of your involvement in the project.
-- How to ensure your project team are safe when they leave the project.
-- When to recommend Product Checkups to your clients.
-- How to make sure your project passes the Peer Review.
+## 介紹
+**這本章節，您可以學到：**
+- 在您參與專案的每個階段，將原檔和資料庫放在何處。
+- 如何確保您的專案團隊安全的離開專案。
+- 何時向您的客戶建議產品審查。
+- 如何確保您的專案通過審查。
 
-Remember that it is just an example of how we do stuff at Netguru. You might want to adapt the process to your own workflow.
+請記住，這只是我們如何在 Netguru 做事的一個例子。您可能希望依據自己的工作流程做調整。
 
-### Stakeholders:
-- Other designers
-- Client
-- Internal Developers
-- External Developers
-- Project Manager
+### 利害關係人：
+- 其他設計師
+- 客戶
+- 內部開發人員
+- 外部開發人員
+- 專案經理
 
-## Termination checklist items
+## 最終審查項目
 
-### After the design phase: InVision
+### 在設計階段之後：InVision
 
-- Source files (psd, sketch, ai) are in the ASSETS/Source Files tab on InVision.
-- Fonts are in the ASSETS/Fonts tab on InVision.
-- All elements that require clarification for developers (animation, responsiveness, behavior, state) have Tour Points attached.
-- All screens have proper names.
+- 原檔 (psd, sketch, ai) 在 InVision 的 ASSET/Source Files 標籤裡。
+- 字型在 InVision 的 ASSETS/Fonts 標籤裡。
+- 所有需要對開發人員說明的元素（動畫、響應、行為、狀態）皆附在 Tour Points 。
+- 所有畫面都有正確的名稱。
 
-### After the design phase: Google Drive
+### 在設計階段之後：Google Drive
 
-- Follow the steps from Chapter one.
+- 按照第一章的步驟操作。
 
-### Slack pinned items
-- The InVision and Drive links are **pinned** to the Project's channel on Slack with an explanation of how to use them and added to Project Info in Google Drive.
+### 在 Slack 釘選項目
+- InVision 和 Drive 的連結都 **釘選** 在 Slack 的專案頻道上，並說明如何使用它們和加進 Google Drive 的專案計畫。
 
-### Final call with the team: team Q&A
 
-Create a Q&A session with your project team: Developers, PM, and QAs. We advise you to go through each journey and visit every screen on every device. Tell the team about your solutions, discuss potential problems and development bottlenecks. It’s best to arrange this kind of a meeting at least a day or two before the deadline.
+### 與團隊的最後會議：團隊問答
 
-### Termination checklist:
+和您的專案團隊開一個問答會議，包括：開發人員、專案經理和品管。我們建議您完成每個流程和查看每個畫面在不同的裝置上。將您的解決方案、被提出的潛在問題和開發的瓶頸告訴您的團隊。最好在截止日前一兩天安排這種會議。
 
-- Make sure your project will pass the peer review checklist.
+### 最終審查清單：
 
-### After the Development
-- The project is archived in InVision.
-- The designer does a review of the developer's work.
+- 確保您的專案將通過審查。
 
-## Questions your client may ask
+### 開發之後
+- 專案被儲存在 InVision。
+- 設計師對開發人員的工作進行審核。
 
-{% include qa.html question="Is the development team safe to proceed without the presence of designers?" answer="Yes. All assets have been prepared and are available on Google Drive or as links on Jira Tickets" %}
+## 您的客戶可能會問的問題
 
-{% include qa.html question="Where can I find all the files and assets?" answer="You can find them on Jira Tickets or through the provided Google Drive & InVision links" %}
+{% include qa.html question="在沒有設計師的狀況下繼續進行，開發團隊是安全的嗎？" answer="是的。所有的資料庫都準備好，可在 Google Drive 或是 Jira Tickets 的連結上取得。" %}
 
-{% include qa.html question="Can you send me the source files of the designs?
-" answer="Yes. You can get links to the source files." %}
+{% include qa.html question="我可以在哪裡找到所有的檔案和資料庫？" answer="您可以在 Jira Tickets 或 Google Drive 與 InVision 的連結找到它們。" %}
 
-### Questions to ask yourself at this stage:
-- Did I check the termination checklist?
-- Are the relevant files uploaded and available to developers?
-- If the project has been released and development has been completed – have I archived the InVision project?
+{% include qa.html question="你能把這些設計的原檔給我嗎？
+" answer="好的。您可以拿到這些原檔的連結。" %}
 
-## Desired outcome after this stage
-1. The team’s questions regarding the design have been answered.
-2. The client knows about the help you can offer in the future (regular checkups, iterations).
+### 在此階段問自己的問題：
+- 我確認過最終審查清單了嗎？
+- 相關檔案是否已上傳且可被開發人員取得？
+- 如果專案已被發布且完成開發，我是否儲存了 InVision 專案？
+
+## 這個階段後預期的結果
+1. 團隊對於設計的問題都被解答。
+2. 客戶知道您未來可提供的幫助（定期檢查、反覆修正）。
