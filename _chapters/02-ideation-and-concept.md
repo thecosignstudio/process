@@ -205,18 +205,18 @@ chapter_number: "02"
     - 每天有多少人使用你的產品？
     - 每月有多少人下載這個 app ？
 
-### Define the competitors
-For UX designers, evaluating the competition involves looking at the designs of products that are both in direct and indirect competition. Products that **directly compete** with each other are looking to solve the same problem. They often offer the same core functionalities and have an overlapping user base. **Indirect competitors** either have a different user base or a different service offering, while some aspects of the products overlap.
+### 定義競爭對手
+對於UX設計師而言，評估競爭對手包含檢視主要競爭對手與次要競爭對手的產品設計。**主要競爭對手** 就是針對類似問題提出解決方案產品，通常提供一樣的核心功能，且在目標使用者上有所重疊。**次要競爭對手** 則是有類似的考量面，但提供不同的服務，或是有不同的目標客群。
 
-Answer the following questions to define the competition better:
+下面的問題有助於更清晰的定義競爭對手：
 
-- Have you benchmarked against your main competitors recently?
-- What is your competitor’s mission (if it exists)?
-- What are the products/services offered (with pricing)?
-- What are the competitor’s strengths? What is the competitor good at?
-- What are the competitor’s weaknesses? Where does the competitor fall short?
-- What are the key brand differentiators? What are the messaging, product/service offerings, etc., that set the competitor apart from their competition?
-- What do we share? What are the competitor’s must-haves/must-avoids?
+- 是否對主要競爭產品做了基準測試？
+- 什麼是競爭對手的核心價值（使命/mission)?(如果有的話）
+- 對方的產品/服務提供了什麼內容（及價錢）？
+- 對方的優勢是什麼？最擅長什麼？
+- 對方的缺點是什麼？在什麼方面有所欠缺？
+- 兩個品牌間的差異點？對方的產品/服務傳達了什麼訊息來做市場區隔？
+- 我們與對方有什麼共通點？對方有什麼不能沒有 (must-haves)/應避免的 (must-avoids) 特點
 
 ## 概念(Concept)
 ### 定義
