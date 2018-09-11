@@ -43,89 +43,89 @@ chapter_number: "01"
         - [從設計師身上可期望的事情](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
         - [當你付錢找來設計師時，可以獲得的事情](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
         - [8 種建立/維護成功的客戶與設計師之間關係的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
-- **Avoid multi-platform designs at the early stages of the project**
-If the client needs a multi-platform design, ask another designer for help. If you believe that the scope is big enough, always suggest a design team. Learn more from: [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
-- **Emphasize that it’s impossible to predict users’ behavior accurately**
-We rely on research and available data – the validity of a solution can only be assessed with relevant tests.
-- **We cannot guarantee a business success**
-Try to make it clear that even the best product design does not guarantee a product’s success in terms of revenue.
-- **Give a quick overview of all the Product Design phases**
+- **在專案的早期階段，避免多平台設計。**
+如果客戶要求多平台設計，需找另外一位設計師來幫忙。如果你認為範疇夠大，一定要建議組成設計團隊。請看細節：[為什麼團隊採用的方法對於產品設計成功與否很關鍵？](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
+- **強調不可能精準地預測使用者行為。**
+我們依據研究和現有資料，解決方案的準確程度只有在有關的測試才能達成。
+- **我們無法保證生意上的成功。**
+請試著清楚說明：就算是最好的產品設計，也無法從利潤的角度保證產品成功。
+- **列出簡要的產品設計階段**
 
-### First meeting – get some info from the client:
-**General info**
-- What is your deadline? (design/release date)
-- What will make the application a success in your opinion?
-- What will make our work a success in your eyes?
-- Have you collected any user feedback yet?
-- Can you grant us access to your analytics tools?
-- Are there any similar products or alternative solutions to the same problem? What are your potential customers doing today instead of using your future product?
+### 首次會面 - 從客戶獲取訊息：
+**一般訊息**
+- 死線是什麼時候？（設計/推出日期）
+- 你自己認為此功能的成功因素？
+- 你認為我們一起合作能夠成功的因素？
+- 你曾經蒐集過任何使用者反映的意見嗎？
+- 可以讓我們看分析工具嗎？
+- 這個問題已經有類似的產品或替代解決方案了嗎？你的潛在客戶目前如何替代你未來推出的產品？
 
-#### Questions specific to UX Review:
-- On the call, try to establish the scope of the review:
-    - The narrower, the better – a more focused scope is superior.
-    - Try to get to know the client’s requirements and expectations for the review.
-    - Try to get to know what user journeys are key to the client.
-    - In a perfect scenario, narrow down the scope to just one.
-- After the call, discuss the client’s requirements within the team and ask the team about possible blockers.
+#### 針對 UX 檢查的問題：
 
-#### Visual:
-- Do you have a branding, brand book, brand guidelines?
-    - If not, give a heads-up about the importance of those in the later phases.
-- If the client wants to use corporate fonts in the UI, be sure they own a web/mobile licence.
-- If you suggest an alternative paid font for the UI, be sure that the client is open to buying a licence.
-- Does the client have any benchmarks or a visual style in mind?
-- Does the client have the source files for the old designs?
+- 在電話裡，試著建立檢查的範圍
+	- 越小越好。優秀的範圍是專注的。
+	- 嘗試瞭解客戶對於檢查的需求與期望。
+	- 嘗試找出對客戶來說很關鍵的使用者旅程。
+	- 在完美的情況下，範圍會縮小到只有一個。
+- 電話談過後，與團隊內部討論客戶需求，詢問各種可能遇到的阻礙。
 
-Make sure that all answers are documented and available for other team members – both current and future.
+#### 視覺：
+- 你們有品牌策略、品牌書或品牌規範嗎？
+	- 如果沒有的話，在稍後的階段簡述一下它們的重要性。
+- 如果客戶想要在 UI 使用商業字型，要確認他們擁有網站/手機版的授權。
+- 如果你認為 UI 需另外使用的付費字型，要確定客戶可以接受要購買授權。
+- 客戶已經有任何符號或視覺風格的想法了嗎？
+- 客戶有先前設計的原始檔案嗎？
 
-## Communication tips
-#### General rules:
-- Be active, not passive – recommend solutions.
-- Listen to the client’s expectations, don’t be afraid to ask questions.
-- Consult your solutions with the developers from day one.
-- Make sure you explain to the client how to use communication tools e.g. comments in [InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"}; explain the difference between [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} and comments
+請確定每個回答都確實記錄起來了，而且現在和未來的團隊其他成員都可以看到。
 
-#### Feedback
-- Does the client have enough time to give you feedback? If not, try to ask which active stakeholders can actively participate in the communication.
-- Make the client aware of the value of an active and collaborative approach (feedback, communication).
-- Make sure that there is only one final point of feedback on the client’s part.
-- Make sure that you will have an opportunity to present your solutions to all stakeholders.
-- Make sure that the client knows that we don’t work on the basis of a fixed number of reviews but rather in a constant feedback-and-iteration mode.
+## 溝通技巧
+#### 一般規則
+- 要積極地建議解決方案，不要消極
+- 聆聽客戶的期望，不要害怕問問題
+- 從第一天開始就向開發者諮詢你的解決方案
+- 確認有向客戶說明過溝通工具的使用方法。例如：[InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"} 的留言功能，解釋 [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} 和留言的不同。
 
-#### Previous experience:
-- Has the client worked with designers before?
-    - If not, try to educate the client on the best practices and basic principles of design during your meetings.
-    - If yes, what are the client’s experiences of working with designers?
-- Does the client understand the role of a designer?
+#### 意見回饋
+- 客戶有足夠的時間給你意見回饋嗎？如果沒有，要試著要求有空的利害關係人積極參與溝通。
+- 讓客戶能夠理解積極與合作方法的價值（回饋與溝通）
+- 確認在客戶的部分只有一個最終回饋點
+- 確認你有機會向所有利害關係人展示解決方案。
+- 確認客戶知道我們不是根據幾篇固定數量的評論做事，而是常態的回饋與反覆修改 (feedback-and-iteration) 模式。
 
-#### Milestones & priorities
-- Make sure that the client has a reasonable approach to the creation of an [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"} (keep the scope small).
-- Make the client aware of the importance of going step-by-step in terms of functionalities.
+#### 過往經驗：
+- 客戶之前有跟設計師合作過嗎？
+	- 如果沒有，試著在會面的過程中，培養客戶對於設計的最佳實做方法和基本原則。
+	- 如果有，客戶跟設計師合作的經驗是怎麼樣？
+- 客戶理解設計師的角色嗎？
 
-#### Why is it important to sell the outcomes of your work?
-- By selling yourself or your work well, you gain the client’s trust in your decision.
-- When you hesitate or don’t know the “whys” behind your design decision, you scare clients off.
+#### 里程碑與優先順序
+- 確認客戶有合理的 打造 [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"}（讓範圍保持夠小）
+- 確認客戶知道在功能方面要一步一步來的重要性。
 
-#### Must-haves when communicating with a client:
-- Know the benefits and outcomes of your work.
-- Gain the client’s trust – they will care about your opinions.
-- Your client’s future often depends on you, your decisions, and your work. Everything you do serves to convince them that their business is in good hands.
-- Don’t ask basic questions to which you can easily find answers on Google.
-- Every decision you make must match the business goals of your client – always and unconditionally.
-- You can use the structure:
-[What you did] + [how you came up with the thing you did] + [why you did it/how this will help the client’s business]
-- **There are no maybes – there is confidence.** Be absolutely sure about your statements.
-- Speak about the “whys” of your design and how your work will improve your client’s chances of achieving success.
-- Don’t talk about the things the client can see on their own. Say it this way: “This element is placed here because it will help X achieve Y/with Z”.
-- Use data. Whenever you assume something, base it on best practices, behavior studies, and statistics.
-- It’s much better to present a small number of excellent arguments than flood the client with dozens of mediocre ones.
-- Adjust your language – don’t use jargon.
+#### 為什麼宣傳作品的成果很重要？
+- 如果有好好宣傳作品，就可以讓客戶信任你的決策。
+- 覺得猶豫或不知道設計決策背後的「為什麼」的話，就會把客戶嚇跑。
 
-## Gathering feedback
-We use InVision at Netguru as the main tool for gathering feedback on each iteration and for keeping all comments in one place. [Check out how it works.](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"} We also have a dedicated process to get more precise feedback from other designers within our team.
+#### 跟客戶溝通時的必備項目
+- 知道作品的好處與成果。
+- 獲取客戶的信任：他們會重視你的意見
+- 客戶的未來通常交付在你、你的決策和作品手上。所有你做的事情都是要說服客戶，他們的事業有妥善營運。
+- 不要問可以輕易在 Google 就能找到的問題。
+- 每個決策都要符合客戶的事業目標 - 絕對必備，而且無條件的。
+- 可以利用此架構：「你們之前做過的事」+「當初是怎麼想到你們之前做過的事」+「為什麼而做/這要如何對客戶的事業有幫助」
+- **沒有或許，才有自信。**要很確定你的立場。
+- 說出設計的「為什麼」，還有你的作品會如何幫助客戶增加成功的機率。
+- 不要說客戶可以自己看到的東西。要這樣說：「這個元素放在這邊是因為可以幫助 X 跟著 Z 達到 Y。」
+- 利用資料 (data)。任何推測都要依據最佳做法、行為研究和統計。
+- 比起用一海票的普通論點淹沒客戶，說出少數幾個優秀的比較好。
+- 調整你的用語，不要使用專業術語。
 
-#### From Teammates
-Remember that if you have any difficulties with your design, you can always ask other designers for feedback. It’s also important to share your solutions with the team before sharing them with the client. With this approach, you can improve your designs, spot bugs or logic issues in your solutions or, alternatively, read people’s praise for you and collect thumbs-ups.
+## 蒐集回饋
+在 Netguru，我們使用 inVision 做為每次進行逐步修改蒐集回饋和把所有留言都放在同一處的主要工具。（[看它的運作原理](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"}）我們也有從團隊內其他設計師獲取精準回饋的詳盡流程。
+
+### 來自隊友
+請記得，如果你的設計遭遇任何困難，一定都可以向其他設計師徵求回饋。還有很重要的是：分享給客戶之前，先在團隊內部分享。這個做法可以改進設計、找出錯誤或邏輯問題，當然也可以收到對你的讚美，獲得按讚。
 
 - Just go to your team (use messaging apps or simply talk to them), share a link to your designs and ask for some help, opinions or comments.
 - Ask another designer for a review.
@@ -142,94 +142,96 @@ Gathering feedback from the client is the key to a successful project.
 - Stay in touch with the client. Send the client up-to-date links to the designs and give progress updates. Last but not least, ask the client about the feelings and emotions that the design evokes.
 - You get in touch with the client to present your designs. Sometimes, you need to sell your vision or just present the bigger picture behind your designs.
 
-## Design files – organization
-This section presents the way we organize our files and folders by default. Of course, this file structure is only an example, and you might want to organize your files and folders in a way that suits you best.
+## 設計文件 - 組織架構
+在這個階段將介紹默認情況下我們所建立的組織文件與資料夾。當然，我們的文件架構僅是一個範例，你可以運用最適合你的方式去建立你的組織文件及資料夾。
 
-#### 1. Preparation
 
-When we start a new project, we create a Designer folder in the client’s main folder.
+#### 1. 準備
+
+當我們進行一個新專案，我們會在客戶的主要文件中建立一個給設計師的資料夾
 
 {% include image.html img="image7.png" img2x="Image7@2x.png" alt="Designer folder" %}
 
-#### 2. The structure of the Designer folder
+#### 2. 該設計師資料夾的架構
 
 {% include image.html img="image2.png" img2x="Image2@2x.png" alt="Designer folder structure" %}
 
-**A. Sources**
+**A. 原檔**
 
 {% include image.html img="image3.png" img2x="Image3@2x.png" alt="Sources folders" %}
 
-Each folder (_Visual_ and _Wireframes_) contains all source files (.psd, .sketch etc.). It depends on the project, but if we have two sources of files, we create subfolders for .psd, .sketch, or any other extensions.
-
+E每個資料夾（視覺和wireframes）將包含所有原檔（.psd, .sketch 等等）。 視每個專案而定，但假如我們有兩種檔案， 我們就會為 .psd, .sketch, 或任何其他擴充文件建立子文件夾。
 {% include image.html img="image1.png" img2x="Image1@2x.png" alt="Source files subfolders" %}
 
-Each source file is presented as a preview in the .jpg or .png format.
+所有原檔的預覽將以 .jpg或 .png 格式呈現
 
 
-**B. Fonts**
+**B. 字型**
 
-In this folder, we put all the fonts which we have used in the project, even if they are free. They are grouped by font name. Like so:
+這個資料夾中， 我們將專案中用過的所有字型放在這裡， 即使是免費字型也一樣。他們會以字型名稱被群組起來，範例如下：
 
 {% include image.html img="image5.png" img2x="Image5@2x.png" alt="Fonts folder" %}
 
-**C. Assets & Exports**
+**C. 資源(Assets)與輸出(export)**
 
-This folder contains two subfolders:
+這個資料夾包含兩個子資料夾：
 
 {% include image.html img="image9.png" img2x="Image9@2x.png" alt="Assets and Exports subfolders" %}
 
-*Assets & Exports* is a folder for FrontEnd Developers.
+assets & Exports 是提供給前端工程師使用的。
 
-- Assets
+- 資源 (assets)
 
-_Assets_ contains all additional assets that we couldn’t put in Exports. For example, SVG icons, etc.
-- Exports
+資源包含所有我們無法放在輸出資料夾 (Exports) 所額外補充的的資源，舉例來說 :SVG、icon 等等
 
-In *Exports*, we put all exports from Sketch or Photoshop.
+- 輸出 (Exports)
 
-**D. Images & Icons**
+在輸出資料夾中，我們將所有Sketch 和 Photoshop的匯出檔放在這裡。
 
-If we have some external images (Shutterstock, etc.) or icon sets, we upload them here.
+**D. 圖檔和 Icon (images&icons)**
+
+如果我們有一些額外的圖檔（Shutterstock等等圖資源）或是 icon set，我們會上傳到這裡。
 
 **E. Documentation**
 
-IMPORTANT! At the end of a project, we create a list of all screens with URLs to particular screens on the InVisionApp broken down by different platforms, breakpoints, and so on.
+非常重要！在專案的最後，我們可以為所有畫面建立連結網址，利用InVision app將每個連結將連到指定的畫面，打破不同平台、斷點的藩籬去溝通(不確定有沒有翻對we create a list of all screens with URLs to particular screens on the InVisionApp broken down by different platforms, breakpoints, and so on.)
 
-In this folder, we upload all documents related to a specific project. Those documents can be personas, user stories, etc.
 
-We also create an _Initial interview_ subfolder, which contains the most important data collected during the initial interview, the materials sent by the client, or scoping session notes related to the design phase relevant to the project.
+在這個資料夾中，我們會上傳跟所有跟實際專案有關的文件。這些文件可以是人物誌(persona) 和 使用者旅程 (user stories) 等等。
+
+我們也會建立一個初次測試 (Initial interview) 的子資料夾，內含跟初次測試期間的重要數據收集，客戶提供的跟專案還有設計階段相關的資源或是scoping session
 
 {% include image.html img="image8.png" img2x="Image8@2x.png" alt="Initial interview folder" %}
 
-## Questions your client may ask
-{% include qa.html question="Why do you want to know the business model?" answer="This will help us focus on important things and prioritize work." %}
+## 你的客戶可能會問
+{% include qa.html question="為什麼你要了解商業模式 (business model)？" answer="這可以幫助我們專注在更重要的工作與優先執行的項目" %}
 
-{% include qa.html question="Why do you have to know this stuff before we meet?" answer="This will allow us to prepare better and have a more focused meeting." %}
+{% include qa.html question="為什麼你在我們會議前就要先知道這些事情？" answer="這些可以讓我們在會議前準備得更充足並專心在我們的會議上面" %}
 
-{% include qa.html question="We don’t have: [a business analysis, market research, target customer base]. Can you do this for us?" answer="We can help you with some parts of it." %}
+{% include qa.html question="We don’t have: 我們沒有什麼「商業分析、市場調查、主要受眾的基礎」。你可以幫我們做嗎？" answer="我們可以支援一部分的工作。" %}
 
-### Questions to ask yourself at this stage:
-- Have I asked all the necessary questions?
-- Do I have all the necessary answers?
-- Was all the project info gathered during the first meeting with the client?
-- Has the process been explained to the client?
-- Has the project structure been created?
-- Have InVision prototypes been created for all target platforms?
+### 這個階段你應該問自己的問題：
+- 我有學問過所有必要的問題了嗎？
+- 我已經得到所有必要的答案了嗎？
+- 在跟客戶的第一次會議中已搜集專案所需的必要資源了嗎？
+- 這個專案流程已經跟客戶對過了嗎？
+- 專案架構已經被建立了嗎？
+- 合乎所有螢幕裝置的InVision原型(prototypes)已經建立好了嗎？
 
-## Desired outcomes of this stage
-- The project info has been collected.
-    - I know the project requirements and problems we need solve.
-    - I know what will make the project a success.
-    - We understand the client’s business.
-    - We know if the client understands their own business.
-    - I have collected the answers to design- and business-related questions.
-- I have a folder structure set up.
-- I know and have collected all the available materials from the client (including brand guidelines, etc.).
+## 這個階段的期望結果
+- 專案的資源已經蒐集完成。
+    - 我了解我們需要解決的專案需求跟問題。
+    - 我知道如何使這個專案執行成功。
+    - 我們瞭解客戶的商業模式。
+    - 我們會知道客戶是否清楚他們的商業模式。
+    - 我們之前的設計及商業相關的問題已經得到解答。
+- 我有一個已建立好架構的文件
+- 我已經搜集好客戶提供的可使用的資源(包含品牌規範等等)。
 
-## Additional reading
-- [What You Pay For When You're Hiring a Designer](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
-- [8 Ways to Establish and Maintain a Successful Client-Designer Relationship](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
-- [How to Talk to Designers About Design: Tips for Non-Designers](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}
-- [What To Expect From a Designer](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
-- [Why a Team Approach Is the Key to Successful Product Design](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
-- [How to Choose a Designer – Step by Step Guide](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}
+## 延伸閱讀
+- [雇用一個設計師時你所要付出的代價](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
+- [8個客戶與設計師關係成功建立和維持的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
+- [給非設計師們：如何與設計師聊設計](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}
+- [對設計師的期望](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
+- [為什麼團隊態度是促成一個專案成功的關鍵](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
+- [如何選擇一位設計師 - 步驟導讀](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}
