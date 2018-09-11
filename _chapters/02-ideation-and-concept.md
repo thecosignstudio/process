@@ -27,6 +27,11 @@ When doing the ideation & concept phase together, a team can generate ideas fast
 - The product is based on hypotheses and assumptions that have been verified with users; thus, users will be more satisfied with the solution
 - The product is not based on one idea but on an analysis of many possible solutions
 
+**產品用戶的效益：**
+* 考慮到產品的價值主張
+* 產品是基於用戶驗證過的假設(hypotheses)及前提(assumptions)，因此用戶會對於解決方案更加滿意
+* 產品不只根據單一想法，而是以許多可能的解決方案分析為基礎
+
 **產品設計師的效益：**
 - 你能為未來的設計流程奠定強而有力的基礎
 - 你無需在設計階段浪費時間為專案的線框圖尋找適合的外觀
@@ -48,11 +53,30 @@ When doing the ideation & concept phase together, a team can generate ideas fast
 - An informed competitive advantage.
 - The wireframing phase will be easier and faster to conduct (recommendations, etc.).
 
+**客戶的效益：**
+* 一個扎實的發想過程提高了產品成功的機會，因為整個開發流程是建立在關於市場、文化及競爭對手可靠的數據
+* 概念定義協助客戶對他們的產品有新的看法
+* 客戶可以看到產品如何契合市場
+* 在產品設計初期，客戶將會知道所有的解決方案的範圍並能夠找到最好的一個
+* 客戶可以在內部及外部（例如，與投資者）分享你的工作成果
+* 對市場有更好的理解
+* 評論同級的競爭對手：他們的缺點和優點
+* 洞察他們應避免的潛在風險及陷阱
+* 了解最終用戶的期望的資訊
+* 了解競爭優勢
+* 線框稿階段將會更容易及更快的進行（建議...等）
+
 **Stakeholders**
 - Designers
 - Clients
 - Quality Assurance specialist (QA specialist)
 - Project Manager (PM)
+
+**利益關係人：**
+* 設計師
+* 客戶
+* 品質驗證專員
+* 專案經理
 
 ## Ideation Phase
 At this point in the Product Design Process, you will have already gone through a Strategic Analysis phase, where you will have conducted extensive Workshops, Desk Research, and User Research. At Netguru, we use a [UX Review](https://www.netguru.co/services/ux-review/){:target="_blank"} and a [Product Design Sprint](https://www.netguru.co/services/product-design-sprint/){:target="_blank"} for these purposes. With a proper [UX Review](https://www.netguru.co/services/ux-review/){:target="_blank"}, you can create an information architecture draft and user flows, define user personas (LINK), and develop a report based on a data analysis. A [Product Design Sprint](https://www.netguru.co/services/product-design-sprint/){:target="_blank"} allows you to validate the fundamental product assumptions and build the first versions of the product roadmap and user stories. In the following sections, you will learn what to do to conduct successful ideation.
