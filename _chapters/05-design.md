@@ -213,7 +213,7 @@ Read: [Microinteractions: The Secret of Great App Design](https://uxplanet.org/m
   - 你需要做出動態圖示(icons)或插圖(illustrations)。
 
 ### 自做自己的圖示(icon)
-我們使用_Nucleo_來設計, 如果有足夠的時間，你可以製作一組個人的圖示(icon)，能讓應用軟體更有個性。
+我們使用 _Nucleo_ 來設計, 如果有足夠的時間，你可以製作一組個人的圖示 (icon)，能讓應用軟體更有個性。
 
 ## Resources
 
