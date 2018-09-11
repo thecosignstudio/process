@@ -1,9 +1,9 @@
 ---
-title: "Ideation and Concept"
+title: "創意發想與概念"
 chapter_number: "02"
 ---
 
-# Ideation and Concept
+# 創意發想與概念
 
 ## 引言
 **在這個章節，你將會學到**
@@ -29,7 +29,7 @@ chapter_number: "02"
 
 **產品用戶的效益：**
 * 考慮到產品的價值主張
-* 產品是基於用戶驗證過的假設(hypotheses)及前提(assumptions)，因此用戶會對於解決方案更加滿意
+* 產品是基於用戶驗證過的假設 (hypotheses) 及前提 (assumptions)，因此用戶會對於解決方案更加滿意
 * 產品不只根據單一想法，而是以許多可能的解決方案分析為基礎
 
 **產品設計師的效益：**
@@ -40,25 +40,12 @@ chapter_number: "02"
 - 對於產品的市場、文化和用戶脈絡有更宏觀的願景。
 - 除此之外，視覺概念有助於你可以更容易地理解用戶，並透過收集和建立假設與客戶和最終用戶進行驗證。
 
-**Benefits for the client:**
-- A solid ideation phase raises the chances of the product’s success because the whole development process is built upon solid data about the market, culture, and competitors.
-- The concept helps the client get a new perspective on their product.
-- The client can see how the product fits the market.
-- At the beginning of the design stage, the client will know the whole spectrum of possible solutions and will be able to find the best one.
-- The client can share the results of your work internally and externally (for example, with investors).
-- A better understanding of the market.
-- Review of direct competitors: their flaws and merits.
-- An insight into the potential obstacles and pitfalls that they should avoid.
-- Information about end users’ expectations.
-- An informed competitive advantage.
-- The wireframing phase will be easier and faster to conduct (recommendations, etc.).
-
 **客戶的效益：**
 * 一個扎實的發想過程提高了產品成功的機會，因為整個開發流程是建立在關於市場、文化及競爭對手可靠的數據
 * 概念定義協助客戶對他們的產品有新的看法
 * 客戶可以看到產品如何契合市場
 * 在產品設計初期，客戶將會知道所有的解決方案的範圍並能夠找到最好的一個
-* 客戶可以在內部及外部（例如，與投資者）分享你的工作成果
+* 客戶可以在內部及外部（例如：與投資者）分享你的工作成果
 * 對市場有更好的理解
 * 評論同級的競爭對手：他們的缺點和優點
 * 洞察他們應避免的潛在風險及陷阱
@@ -66,13 +53,7 @@ chapter_number: "02"
 * 了解競爭優勢
 * 線框稿階段將會更容易及更快的進行（建議...等）
 
-**Stakeholders**
-- Designers
-- Clients
-- Quality Assurance specialist (QA specialist)
-- Project Manager (PM)
-
-**利益關係人：**
+**利害關係人：**
 * 設計師
 * 客戶
 * 品質驗證專員
