@@ -341,13 +341,13 @@ Source: [https://www.nngroup.com/articles/which-ux-research-methods](https://www
 - 做過競爭者分析了嗎？
 - 使用者目標有沒有定義？
 
-## Desired outcomes of this stage
-- You have a set of possible solutions that go beyond the most obvious ones, increasing the chances for real innovation.
-- You have understood the results of the research and strategy analysis and created a solid concept.
-- Your design ideas are supported and aligned with the research outcomes.
-- You conducted the ideation and concept phase and presented the results to the client.
+## 本階段的理想成果
+- 除了最直覺的設計方案，你還有一系列其他可行的方案，增加真正創新的機會。
+- 你充分理解研究和策略分析的結果，並依據結果產生一個紮實的概念。
+- 你的設計構想是經由研究結果驗證支撐的。
+- 你完成了發想和概念的階段，並已經呈現給客戶看過。
 
-## Additional reading
+## 延伸閱讀
 - [Accessibility in Apps: the Necessity Often Forgotten](https://www.netguru.co/blog/accessibility-web-mobile-apps){:target="_blank"}
 - [Designing The Invisible Experience (15 minutes workshops)](https://www.netguru.co/blog/designing-the-invisible-experience){:target="_blank"}
 - [Voice Recognition Tools Review. Alexa, PocketSphinx, Google API or Project Oxford?](https://www.netguru.co/blog/voice-recognition-tools-review){:target="_blank"}
