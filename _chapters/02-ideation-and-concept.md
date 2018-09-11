@@ -166,15 +166,6 @@ chapter_number: "02"
 ### 定義用戶/定位顧客
 無論你的設計是什麽，你都必須弄清楚你的目標族群是誰。很多人都認為自己的產品適合所有人，但試圖讓你的產品吸引所有人將是費力且昂貴的。你要做的是明確想出你的目標族群，並把你的努力集中在這個細分市場上。了解更多你的目標族群將提高你的效率，且最終將提高你的影響力，因為一旦你知道你的用戶是誰，你就會知道如何為他們設計。
 
-- Who are the users of your site? (primary and secondary users)
-    - How would you describe the users? (user characteristics such as age, experience, education, etc.)
-    - Why will they visit the site? (user needs, interests, and goals)
-    - When and where will the users access the site? (user environment and context)
-    - How will the users access the site? (user hardware settings such as connection speed, resolution, etc.)
-- Do you have or are aware of user personas?
-- If personas are not provided, take a note of it and create personas.
-- Have you gathered any user feedback?
-
 - 您的網站用戶是誰？（主要及次要用戶）
     - 你如何描述用戶？（用戶特徵，如年齡、經驗、教育...等）
     - 他們為什麽要造訪這個網站？（用戶需求、興趣和目標）
@@ -184,38 +175,8 @@ chapter_number: "02"
 - 如果沒有提供人物誌，請記錄下來並建立人物誌
 - 你收集了用戶回饋嗎？
 
-### Define users’ goals
-For a better understanding of your users’ needs and goals, we can use [job stories](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"}. Based on our own empathy and this method, we can discover what users really need and what actions they have to take to achieve their goals. By knowing this, we can build a better [customer journey map](http://boxesandarrows.com/an-introduction-to-user-journeys/){:target="_blank"} that allows users to achieve their goals more quickly.
-
 ### 定義用戶的目標
 為了了解用戶的需求及目標，我們可以使用 [任務故事（英）](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"}. 基於我們自己的同理心和此方法，我們可以發現用戶真正需要什麽、他們必須採取什麽行動來實現他們的目標。通過了解這一點，我們可以建立一個更好的 [顧客旅程地圖](http://boxesandarrows.com/an-introduction-to-user-journeys/){:target="_blank"} 來讓用戶更快速完成他們的目標。
-
-Answer questions below to define better users goals:
-
-- What are the user [stories?](https://www.netguru.co/blog/doing-features-and-user-stories-the){:target="_blank"}
-- What are users’ [jobs to be done?](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"}
-- What will users do on the site? (user tasks, content, features, and functionality)
-- Which tasks are critical to users’ success on the website? (criticality)
-- Which tasks are most important to users? (importance)
-- Which features of the site will users use most? (frequency)
-- Which features are prone to usability issues? (vulnerability)
-- Which tasks are critical to the organization’s success on the website?
-- What is the user retention on your website?
-- What will make users return to your website?
-- What kind of disabilities might your users have?
-    - Do they need assistive features?
-    - Are there any alternative methods that we can use to deliver the same content?
-- Did client run user research?
-- How do you track users’ behavior?
-- What do the users want?
-- What do the users need?
-- What are the users’ expectations?
-- JPG (jobs, pains, gains)
-- How do you educate your users about your products and their value?
-- Who’s your ideal user and what is the typical flow performed by that user in the app/website, etc.?
-- Statistics (if they exist):
-    - How many people use your product every day?
-    - How many people download the app monthly
 
 藉由回答下列的問題來更好定義用戶的目標：
 
