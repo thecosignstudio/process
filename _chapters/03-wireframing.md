@@ -58,22 +58,22 @@ chapter_number: "03"
 
 ### 元素清單
 線稿應該包含一個產品中所有重要的元素：
-- 導覽,
-- 公司識別標示 （如果具備的話），
-- 內容文字區塊＋範例文字（佔位符文本＊），
-- 行動召喚，
-- 物件，
-- 區塊， 
-- 表單，
-- 彈窗，
-- 滑入狀態（如果有應用）。
+- 導覽
+- 公司識別標示 （如果有的話）
+- 內容文字區塊＋範例文字（佔位符文本*）
+- 行動召喚 (calls to action)
+- 小工具
+- 區塊
+- 表單
+- 彈出對話
+- 滑入狀態（如果有用到的話）
 
-＊Placeholder text
+*Placeholder text
 
 ### 我該使用什麼樣的軟體來設計線稿？
 在 Netguru 我們所使用的工具：
 - 用 Sketch 製作線稿。
-- 用 InvVision 產製簡便原型。
+- 用 inVision 產製簡便原型。
 
 ## 製作線稿的最佳作法
 
@@ -176,11 +176,11 @@ chapter_number: "03"
 4. 為線框稿設計測試情境（scenario）
 5. 線框稿已經被客戶測試過並且同意－準備進入視覺設計階段
 
-## Additional reading
+## 延伸閱讀
 - [靠這些簡單的提示來改善你的網路商店體驗（英）](https://www.netguru.co/blog/ecommerce-ux-tips){:target="_blank"}
 - [如何找到線稿的價值](https://intersection.tw/99a830480da){:target="_blank"}
 - [線圖稿：一個很棒的溝通工具，很爛的設計工具（英）](https://medium.com/@danritz/wireframes-a-good-communication-tool-a-poor-design-tool-1bc64b033962#.jp1i8lyxt){:target="_blank"}
 - [產品敏捷設計 (design sprint)：決策（第三天）](https://library.gv.com/the-product-design-sprint-decide-day-3-7d4804bd2fd1#.fhdrt1bfx){:target="_blank"}
 - [為你的線稿選擇合適的保真度（英）](https://blinkux.com/blog/choosing-the-right-level-of-fidelity-for-your-wireframes/){:target="_blank"}
-- [InVision 使用者測試（英）](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"}
+- [inVision 使用者測試（英）](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"}
 - [你的 App 介面該避免哪些設計（英）](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
