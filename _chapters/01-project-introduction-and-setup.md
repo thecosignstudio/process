@@ -128,24 +128,23 @@ chapter_number: "01"
 ### 來自隊友
 請記得，如果你的設計遭遇任何困難，一定都可以向其他設計師徵求回饋。還有很重要的是：分享給客戶之前，先在團隊內部分享。這個做法可以改進設計、找出錯誤或邏輯問題，當然也可以收到對你的讚美，獲得按讚。
 
-- Just go to your team (use messaging apps or simply talk to them), share a link to your designs and ask for some help, opinions or comments.
-- Ask another designer for a review.
-- If you are not sure whether you can spend more time preparing dedicated designs, ask your PM if you have enough resources/time/money to develop such features.
+- 就只要敲你的隊友（用傳訊 app 或直接跟他們說），分享設計的連結，要求給予協助、意見或留言。
+- 請求另一位設計師幫忙檢查。
+- 如果不確定是否還可以花更多時間準備詳盡的設計，就問 PM 是否有足夠的資源/時間/金錢來開發這些功能。
 
-#### From the client
-Gathering feedback from the client is the key to a successful project.
-- Ask for the feedback you want to receive.
-- Add designs to the project and share a link with the client. The best way to go is to always keep links to your designs in a project management tool, e.g. Jira.
-- Ask whether the client knows how your tools work or just guide the client through the process of adding comments to designs (mentioning a user’s name when adding a comment will send an e-mail notification – recommended).
-- Reply to comments and mark them as resolved.
-- If something is unclear to you or the client, try to explain until everything is crystal clear to both parties.
-- Preparing clickable designs (links between views) will enhance the client’s experience.
-- Stay in touch with the client. Send the client up-to-date links to the designs and give progress updates. Last but not least, ask the client about the feelings and emotions that the design evokes.
-- You get in touch with the client to present your designs. Sometimes, you need to sell your vision or just present the bigger picture behind your designs.
+#### 來自客戶
+從客戶獲取的回饋是成功專案的關鍵
+- 請求你想要獲得的回饋。
+- 專案裡加入設計，並且分享連結給客戶。最好的做法是：隨時把設計的連結放在專案管理工具裡，例如 Jira。
+- 詢問客戶是否能理解工具的使用方式，要不然就引導他走過一遍在設計上加入評論的流程。
+- 回覆評論，然後把它們標記為已完成。
+- 客戶或你有什麼不清楚的地方時，試著解釋到兩邊都清楚瞭解為止。
+- 準備好能夠點按的設計（畫面之間設定連結），可以增進客戶感受到的體驗。
+- 跟客戶保持聯繫，把設計的最新版連結傳給客戶，給予進度更新。最好也要詢問客戶這些設計帶來的感覺和情緒。
+- 你就是為了要展示設計而跟客戶接觸。有時候，得要兜售願景，或是設計背後的全局。
 
 ## 設計文件 - 組織架構
 在這個階段將介紹默認情況下我們所建立的組織文件與資料夾。當然，我們的文件架構僅是一個範例，你可以運用最適合你的方式去建立你的組織文件及資料夾。
-
 
 #### 1. 準備
 
