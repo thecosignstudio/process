@@ -4,4 +4,5 @@ _site
 bower_components
 .DS_Store
 npm-debug.log
-node_modules
+node_modules/*
+!node_modules/bootstrap-sass
