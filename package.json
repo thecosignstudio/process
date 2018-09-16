@@ -5,7 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "baseline-element": "^1.0.2",
-    "clipboard": "^1.7.1"
+    "clipboard": "^1.7.1",
+    "rollup-stream": "^1.24.1"
   },
   "devDependencies": {
     "babel-plugin-external-helpers": "^6.22.0",

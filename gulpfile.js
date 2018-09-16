@@ -1,5 +1,5 @@
 const gulp = require('gulp');
-const rollup = require('gulp-rollup');
+const rollup = require('rollup-stream');
 const babel = require('rollup-plugin-babel');
 const concat = require('gulp-concat');
 const uglify = require('gulp-uglify');
