@@ -39,7 +39,7 @@ defaults:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 sass:
   sass_dir: _sass
 gems:
