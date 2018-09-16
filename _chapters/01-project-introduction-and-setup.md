@@ -152,50 +152,49 @@ chapter_number: "01"
 
 {% include image.html img="image7.png" img2x="Image7@2x.png" alt="Designer folder" %}
 
-#### 2. 該設計師資料夾的架構
+#### 2. 設計師資料夾的架構
 
 {% include image.html img="image2.png" img2x="Image2@2x.png" alt="Designer folder structure" %}
 
-**A. 原檔**
+**A. 原始檔案**
 
 {% include image.html img="image3.png" img2x="Image3@2x.png" alt="Sources folders" %}
 
-E每個資料夾（視覺和wireframes）將包含所有原檔（.psd, .sketch 等等）。 視每個專案而定，但假如我們有兩種檔案， 我們就會為 .psd, .sketch, 或任何其他擴充文件建立子文件夾。
+每個資料夾（視覺和線稿）會包含所有原檔（source，.psd, .sketch 等）。視每個專案而定，但假如有兩種檔案，我們就會為 .psd, .sketch, 或任何其他擴充文件建立子文件夾。
+
 {% include image.html img="image1.png" img2x="Image1@2x.png" alt="Source files subfolders" %}
 
-所有原檔的預覽將以 .jpg或 .png 格式呈現
-
+所有原檔的預覽將以 .jpg 或 .png 格式呈現
 
 **B. 字型**
 
-這個資料夾中， 我們將專案中用過的所有字型放在這裡， 即使是免費字型也一樣。他們會以字型名稱被群組起來，範例如下：
+這個資料夾中， 我們將專案中用過的所有字型放在這裡，即使是免費字型也一樣。他們會以字型名稱群組起來，範例如下：
 
 {% include image.html img="image5.png" img2x="Image5@2x.png" alt="Fonts folder" %}
 
-**C. 資源(Assets)與輸出(export)**
+**C. 資源與輸出檔案**
 
 這個資料夾包含兩個子資料夾：
 
 {% include image.html img="image9.png" img2x="Image9@2x.png" alt="Assets and Exports subfolders" %}
 
-assets & Exports 是提供給前端工程師使用的。
+資源和輸出檔案是提供給前端工程師使用的。
 
 - 資源 (assets)
 
-資源包含所有我們無法放在輸出資料夾 (Exports) 所額外補充的的資源，舉例來說 :SVG、icon 等等
+資源包含所有我們無法放在輸出資料夾 (Exports) 所額外補充的的資源，舉例來說：SVG 和圖示等。
 
-- 輸出 (Exports)
+- 輸出檔案 (Exports)
 
-在輸出資料夾中，我們將所有Sketch 和 Photoshop的匯出檔放在這裡。
+在輸出資料夾中，我們將所有 Sketch 和 Photoshop 的匯出檔放在這裡。
 
-**D. 圖檔和 Icon (images&icons)**
+**D. 圖檔和圖示**
 
-如果我們有一些額外的圖檔（Shutterstock等等圖資源）或是 icon set，我們會上傳到這裡。
+如果我們有一些額外的圖檔（Shutterstock 等等圖資源）或圖示集，我們會上傳到這裡。
 
-**E. Documentation**
+**E. 文件記錄**
 
-非常重要！在專案的最後，我們可以為所有畫面建立連結網址，利用InVision app將每個連結將連到指定的畫面，打破不同平台、斷點的藩籬去溝通(不確定有沒有翻對we create a list of all screens with URLs to particular screens on the InVisionApp broken down by different platforms, breakpoints, and so on.)
-
+非常重要！在專案的最後，我們可以為所有畫面建立連結網址，利用 inVision app將每個連結將連到指定的畫面，打破不同平台、斷點的藩籬去溝通。
 
 在這個資料夾中，我們會上傳跟所有跟實際專案有關的文件。這些文件可以是人物誌(persona) 和 使用者旅程 (user stories) 等等。
 
@@ -216,7 +215,7 @@ assets & Exports 是提供給前端工程師使用的。
 - 在跟客戶的第一次會議中已搜集專案所需的必要資源了嗎？
 - 這個專案流程已經跟客戶對過了嗎？
 - 專案架構已經被建立了嗎？
-- 合乎所有螢幕裝置的InVision原型(prototypes)已經建立好了嗎？
+- 合乎所有螢幕裝置的 inVision 原型 (prototypes) 已經建立好了嗎？
 
 ## 這個階段的期望結果
 - 專案的資源已經蒐集完成。
