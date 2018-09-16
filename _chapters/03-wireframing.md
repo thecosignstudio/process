@@ -150,18 +150,17 @@ chapter_number: "03"
 通過專注於線框稿的視覺形式，不要忘記功能的重要性。 |
 別太完美像素，不要花太多時間在後期容易被改變的事情上。"%}
 
-## Questions your client may ask
+## 客戶可能會問的問題
 
-{% include qa.html question="Can you explain the difference between wireframes and visual design?" answer="Wireframes are a quick visual method of building the backbone of the product. At this stage, we define how our product/features should work. It also helps us to avoid UX problems and present to developers how the website/application will work before we provide them with the final designs. Visual design is the part of the design process that comes after wireframing. In the visual design phase, we focus on creating the visual image and style of the product based on wireframes. To sum up, we need wireframes to work out the backbone of the product, whereas visual design is there to design what the product will look like. By using both of them, we build products that are better adjusted to users’ needs." %}
+{% include qa.html question="你能夠解釋線稿和視覺設計的差別嗎？" answer="線稿是快速以視覺建立產品基礎架構的方式。在此階段，一起定義產品/功能是如何運行，也可以幫助我們避免發生 UX 問題；也可以在提供最終設計前，向開發者展示網站/程式應該如何運作。視覺設計也是設計流程的一環，在線稿之後。在視覺設計階段，我們專注在視覺圖片的產出，還有根據線稿的產品風格。總結來說，我們使用線稿想出產品的基礎架構；而視覺設計是接著規劃產品的長相。我們利用兩者打造更適合於使用者需求的產品。" %}
 
-{% include qa.html question="Are wireframes just static images? Let’s make them testable!" answer="You’re probably thinking about a prototype, which is a very simple clickable thing that allows you to test interactions, scenarios, and stories at a very early stage. A prototype (or a clickable mockup) is a tool to study users’ behavior and the product’s functionality." %}
+{% include qa.html question="線稿就只是靜態圖片嗎？讓它們可以進行測試吧！" answer="此時，你可能想到產品原型 (prototype)，它是在非常早期就可以簡單的、可以點按的玩意，用來測試互動、情境與故事。產品原型（或是可以點按的 Mockup）是研究使用者行為和產品功用的工具。" %}
 
 {% include qa.html question="將會從中獲得什麼好處呢？" answer="使用線稿圖通常有助於發現團隊未考慮過的新需求和問題。線框稿通常會演變成系統的需求。在這個階段，我們還可以檢視你的產品是否滿足所有的用戶需求。經由製作線框稿，你將會獲得一個更貼近你目標客戶群的產品。" %}
 
-
 ### 在這個階段可以審視自己的問題
 - 用戶流程是否完整？
-- Invision 上是否有線稿圖可用？
+- inVision 上是否有線稿圖可用？
 - 線稿圖是否可點擊？
 - 線稿圖是否遵循我們的最佳作法？
 -- 使用真實內容
