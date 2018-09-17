@@ -26,7 +26,7 @@ chapter_number: "01"
 ### 在首次與客戶見面之前：
 與專案經理開會，蒐集所有專案的訊息。讓專案經理 (PM)、業務開發 (BD) 和開發團隊知道：不要把相同的問題問客戶兩遍。你要知道的事情：
 - 客戶已有正在使用的產品嗎？
-    - 如果有，可以考慮先做 [UX 檢查](https://www.netguru.co/services/ux-review){:target="_blank"}。
+    - 如果有，可以考慮先做 [UX 評鑑](https://www.netguru.co/services/ux-review){:target="_blank"}。
 - 產品有清楚的範疇 (scope) 嗎？
     - 是/否（在此階段，產品應該已經有範疇。沒有的話，就要進行一次範疇流程。）
 - 專案的構想是否已經足以進行設計？
@@ -85,7 +85,7 @@ chapter_number: "01"
 - 要積極地建議解決方案，不要消極
 - 聆聽客戶的期望，不要害怕問問題
 - 從第一天開始就向開發者諮詢你的解決方案
-- 確認有向客戶說明過溝通工具的使用方法。例如：[InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"} 的留言功能，解釋 [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} 和留言的不同。
+- 確認有向客戶說明過溝通工具的使用方法。例如：[inVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"} 的留言功能，解釋 [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} 和留言的不同。
 
 #### 意見回饋
 - 客戶有足夠的時間給你意見回饋嗎？如果沒有，要試著要求有空的利害關係人積極參與溝通。

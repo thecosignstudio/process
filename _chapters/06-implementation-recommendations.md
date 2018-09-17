@@ -23,11 +23,11 @@ chapter_number: "06"
 
 ## 最佳化的元件製作和管理工具
 
-當我們在準備規範給開發人員時，明確的製作和容易使用文件是極為重要的。經過深入研究和比較不同類型的軟體後，我們決定將 [InVision Inspect](https://www.invisionapp.com/feature/inspect){:target="_blank"} 作為 Netguru 的預設提交工具。
+當我們在準備規範給開發人員時，明確的製作和容易使用文件是極為重要的。經過深入研究和比較不同類型的軟體後，我們決定將 [inVision Inspect](https://www.invisionapp.com/feature/inspect){:target="_blank"} 作為 Netguru 的預設提交工具。
 
 另一種免費工具的選擇 [Sketch Measure](http://utom.design/measure/how-to.html){:target="_blank"}。你能在[此頁面](https://github.com/utom/sketch-measure){:target="_blank"}找到導覽和下載連結。
 
-除了原生 Sketch 解決方案，InVision Inspect 和 Sketch Measure 外掛程式，你還可以使用其他工具，例如 [Zeplin](https://zeplin.io/){:target="_blank"}.
+除了原生 Sketch 解決方案，inVision Inspect 和 Sketch Measure 外掛程式，你還可以使用其他工具，例如 [Zeplin](https://zeplin.io/){:target="_blank"}.
 
 除此之外，運用像 [Principle](http://principleformac.com){:target="_blank"}. 和 [Framer](https://framer.com){:target="_blank"}. 這類工具，針對特定元件製作動畫，並透過預覽動畫去產生有邏輯性的解釋和表現是非常重要的。
 

@@ -121,13 +121,13 @@ chapter_number: "02"
 
 #### 商業目標
 - 主要的短期商業目標是什麽？
-- 你希望達到什麽 KPIs？
+- 你希望達到哪些 KPI？
 
 #### 市場
-- 你的品牌有何獨特之處？與競爭對手有何不同？為什麽人們應該選擇你的品牌並使用你的 app ？
-- 你如何提升流量/接觸市場族群？
-        - 你如何追蹤你的行銷成果？
-        - 你想在哪裡定位族群？
+- 你的品牌有何獨特之處？與競爭對手有何不同？為什麽人們應該選擇你的品牌和 app ？
+- 如何提升流量/接觸市場族群？
+        - 如何追蹤你的行銷成果？
+        - 定位的族群是哪些？
         - 你們的推廣管道是什麽？你有什麽策略嗎？ 
 - 針對競爭對手的問題：
     - 他們是誰？
@@ -153,8 +153,7 @@ chapter_number: "02"
 - 在面試你的客戶時要聰明，詢問他們對他們來說重要的事情
 - 也許有一個問題我們可以解決和衡量？
 - 確保為你想要實現的設定明確的目標
-- 非常推薦你閱讀 [商業模式圖（英文）]
-(https://upload.wikimedia.org/wikipedia/commons/1/10/Business_Model_Canvas.png){:target="_blank"} 這不是一個明確的問題，但它顯示了業務和產品的基本要素，你可以把它當作收集思想的靈感。
+- 非常推薦你閱讀 [商業模式圖（英文）](https://upload.wikimedia.org/wikipedia/commons/1/10/Business_Model_Canvas.png){:target="_blank"} 這不是一個明確的問題，但它顯示了業務和產品的基本要素，你可以把它當作收集思想的靈感。
 
 既然所有的東西都是可追蹤的，那就說說你要追蹤的確切目標吧。識別客戶的 KPIs（關鍵績效指標），好的 KPIs 需要考慮商業脈絡、預測成功、顯示早期預警的信號，並驗證已實現的結果。您可以使用以下材料創建 [量身定制的 KPI 材料](http://www.bscdesigner.com/kpi-system-example.htm){:target="_blank"} 它們可以是使用 Paypal 的新註冊用戶，也可以是使用信用卡購買的客戶，一定要從一開始就知道你的目標有多高，有時候，分析起來很有挑戰性，更多訊息請閱讀： [針對最具挑戰性的指標及 KPIs 的 12 步驟系統](http://www.bscdesigner.com/kpi-system.htm){:target="_blank"}
 
@@ -223,7 +222,7 @@ chapter_number: "02"
 ### 為專案建立資料夾並開始收集情緒板(Mood Board)
 有許多靈感網站像是 [Dribbble](https://dribbble.com/){:target="_blank"}, [Behance](https://www.behance.net/){:target="_blank"}, [Pttrns](https://pttrns.com/){:target="_blank"}, [Pinterest](https://pl.pinterest.com/){:target="_blank"} 等等，你可以很容易找到類似你專案的其他專案，也許網路上已經有你正在設法解決的 UI 問題的答案。
 
-你可以存下所有覺得有趣的東西，放進一個靈感資料夾，之後可以利用它來建立情緒板，這個資料夾可以放任何東西：外掛、色票、甚至是整個 Behance 上的專案截圖，你可以用 InVision Moodboards，它是一個可以和團隊分享協作的完美工具。
+你可以存下所有覺得有趣的東西，放進一個靈感資料夾，之後可以利用它來建立情緒板，這個資料夾可以放任何東西：外掛、色票、甚至是整個 Behance 上的專案截圖，你可以用 inVision Moodboards，它是一個可以和團隊分享協作的完美工具。
 
 ### 透過概念構圖 (Concept Mapping) 產生點子與概念
 你可以利用重組概念圖 (Concept Map) 上的物件為你的專案產生更多新想法。
