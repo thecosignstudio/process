@@ -10,8 +10,8 @@ $base-small-sizing: .5rem;
   src: local('.SFNSText-Light'), local('.HelveticaNeueDeskInterface-Light'), local('.LucidaGrandeUI'), local('Ubuntu Light'), local('Segoe UI Light'), local('Roboto-Light'), local('DroidSans'), local('Tahoma');
 }
 
-$ff-sans-serif: system;
-$ff-serif: 'Noto Serif', sans-serif;
+$ff-sans-serif: system, '思源黑體', '微軟正黑體', sans-serif;
+$ff-serif: 'Noto Serif', '思源宋體', sans-serif;
 
 /* FONT SIZES */
 $fs-0: 12px;
