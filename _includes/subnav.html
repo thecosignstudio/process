@@ -23,7 +23,7 @@
       <div class="subnav__chapter-header-container">
         <div class="subnav__arrows-container">
           {% if prevurl %}
-            <a href="{{prevurl}}" class="subnav__arrow">
+            <a href="/process{{prevurl}}" class="subnav__arrow">
               {% include svgs/arrow-left.svg %}
             </a>
           {% else %}
@@ -32,7 +32,7 @@
             </span>
           {% endif %}
           {% if nexturl %}
-            <a href="{{nexturl}}" class="subnav__arrow">
+            <a href="/process{{nexturl}}" class="subnav__arrow">
               {% include svgs/arrow-right.svg %}
             </a>
           {% else %}
@@ -63,12 +63,12 @@
       </div>
       <div class="subnav__mobile-arrows">
         {% if prevurl %}
-          <a href="{{prevurl}}" class="subnav__mobile-arrow">
+          <a href="/process{{prevurl}}" class="subnav__mobile-arrow">
             {% include svgs/arrow-left.svg %}
           </a>
         {% endif %}
         {% if nexturl %}
-          <a href="{{nexturl}}" class="subnav__mobile-arrow">
+          <a href="/process{{nexturl}}" class="subnav__mobile-arrow">
             {% include svgs/arrow-right.svg %}
           </a>
         {% endif %}
