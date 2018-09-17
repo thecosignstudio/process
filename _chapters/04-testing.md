@@ -239,8 +239,8 @@ A/B 測試可讓你從現有流量中獲得更多收益。雖然獲得付費流�
 ### Q 為什麼我的產品需要測試？
 **A** 綜上所述，您必須將出現錯誤的風險降到最低，因為您要面對的是現實中使用您產品的真實用戶。
 
-{% include qa.html question="Who’s paying for the test?" answer="The client pays for the tests because they are part of the services we provide. Tests that take a significant amount of time should be discussed, estimated, and agreed on with the client." %}
-{% include qa.html question="How long will the test take? Will it affect the deadline and/or development?" answer="See estimated times in the Tools section. If affecting the course of the development is not the purpose of the test (e.g., Heatmaps), it shouldn’t affect the deadline or the development schedule." %}
+{% include qa.html question="測試由誰來買單？" answer="由客戶買單，因為這是我們提供的服務之一。會耗費大量時間的測試得先與客戶一同討論、評估，並且同意。" %}
+{% include qa.html question="測試得花多少時間？會影響到期限和開發流程嗎？" answer="請見「工具」那段的預估時間。如果測試目標不是開發步調的影響（像是熱點分佈），那就不應該影響期限或開發時程。" %}
 {% include qa.html question="用程式在設計階段之後有測試過了嗎？我們可以開始建置了嗎？要怎麼做？" answer="測試過了！為了要確保工作結果的品質，產品必須經過測試。經過測試之後，就可以開始建置了。" %}
 {% include qa.html question="What kind of tests do you provide by default to ensure high quality?建置前的測試包含了哪些項目以確保設計的品質？" answer="Every project needs different testing methods, so tests are tailored individually. Feedback from the team and a design bug bash are usually carried out in all projects.每個產品適用不同的測試方法，所以測試的項目會依照產品性質客製。通常在所有的專案中都會包含總結工作團隊的回饋訊息和設計的漏洞檢視(Bug Bash)" %}
 
