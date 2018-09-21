@@ -244,21 +244,21 @@ Read: [Microinteractions: The Secret of Great App Design](https://uxplanet.org/m
 
 {% include qa.html question="如何尋找靈感呢?" answer="最好的網站資源是 Behance (behance.net) 與 Dribbble (dribbble.com). " %}
 
-{% include qa.html question="風格指南是什麼?為何需要風格指南？" answer="風格指南是整體產品外觀與感覺的規範，它包含色彩、字型與常用設計元素的標準。在整個設計過程，定義標準有助於在不同螢幕與裝置上，產品整體外觀皆保持一致的視覺風格，尤其是多個設計師協作的情況下，每個成員有責任確保自己負責的設計在規範內。" %}
+{% include qa.html 問="風格樣式指南是什麼?為何需要風格樣式指南？" 答=“風格樣式指南是整體產品外觀與感覺的規範，它包含色彩、字型與常用設計元素的標準。在整個設計過程，定義標準有助於在不同螢幕與裝置上，產品整體外觀皆保持一致的視覺風格，尤其是多個設計師協作的情況下，每個成員有責任確保自己負責的設計在規範內。" %}
 
 {% include qa.html question="為何需要知道我們的商業模式?" answer="樣式指南是整體產品外觀與感覺的規範，它包含色彩、字型與常用設計元素的標準。在整個設計過程，定義標準有助於在不同螢幕與裝置上，產品整體外觀皆保持一致的視覺風格，尤其是多個設計師協作的情況下，每個成員有責任確保自己負責的設計在規範內。" %}
 
-{% include qa.html question="您希望得到哪種回饋呢?" answer="設計師提供使用者服務與商業的解決方案維目標，因此，您可以試著反覆檢查設計是否符合產業與商業目標。請記得，美學通常是個人主觀的想法，您的美感不一定與產品潛在客群的美學一致。" %}
+{% include qa.html 問="您希望得到哪種回饋呢?" 答="設計師提供使用者服務與商業的解決方案為目標，因此，您可以試著反覆檢查設計是否符合產業與商業目標。請記得，美學通常是個人主觀的想法，您的美感不一定與產品潛在客群的美學一致。" %}
 
 **在此階段先確認四件事**
 - 我是否有情緒板了呢？
-- 我是否有風格指南了呢？
+- 我是否有風格樣式指南了呢？
 - 我是否完成了所有目標裝置與各設計階段的設計了呢？
 - 我是否蒐集客戶與團隊成員的回饋了呢？
 
 ## Desired outcomes of this stage
 - 情緒板 (請參考 [範例一](https://netguru.invisionapp.com/boards/D834FYVZBKNWP){:target="_blank"} 與 [範例二](https://netguru.invisionapp.com/boards/F736L21WBKCPU){:target="_blank"})
-- 風格指南 (請參考範例 [Taqsim 風格指南](https://netguru.invisionapp.com/share/7UAMU5OB3#/screens){:target="_blank"} 與 [色彩](https://projects.invisionapp.com/share/P79V1I7NK#/screens/212581073){:target="_blank"})
+- 風格樣式指南 (請參考範例 [Taqsim 風格樣式指南](https://netguru.invisionapp.com/share/7UAMU5OB3#/screens){:target="_blank"} 與 [色彩](https://projects.invisionapp.com/share/P79V1I7NK#/screens/212581073){:target="_blank"})
 - 設計 ([參考範例 ](https://netguru.invisionapp.com/share/ZD9VDND6E#/screens/212677302){:target="_blank"})
 
 ## 延伸閱讀
