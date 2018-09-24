@@ -1,8 +1,17 @@
 .home-chapters {
   margin-bottom: 0;
   padding: 0;
+  counter-reset: chapter;
 }
 
 .home-chapter-item {
+  position: relative;
+  display: block;
   list-style: none;
+  background-color: $white;
+
+  &::before {
+    content: counter(chapter);
+    counter-increment: chapter;
+  }
 }
