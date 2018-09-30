@@ -1,0 +1,55 @@
+.intro-title {
+  background-image: url('../assets/home_imgs/intro_background.svg');
+  background-position: 26px top;
+  background-repeat: no-repeat;
+  background-size: 72px auto;
+  color: $white-shade-dark;
+  font-size: 1.714285rem;
+  padding-top: 48px;
+}
+
+.intro-content-motto {
+  font-weight: 700;
+}
+
+.intro-highlights {
+  display: flex;
+  overflow-x: auto;
+  margin-top: 12px;
+  padding: 0 16px;
+}
+
+.intro-highlight-item {
+  flex: 1 1 auto;
+  list-style: none;
+  margin-right: 20px;
+}
+
+@mixin intro-highlight-icon($iconwidth) {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: #{$iconwidth} auto;
+  display: block;
+  height: 48px;
+  margin: 0 auto 8px;
+  width: 48px;
+}
+
+.intro-highlight-icon-github {
+  @include intro-highlight-icon(66.66667%);
+
+  background-image: url('../assets/home_imgs/bygithub.svg');
+}
+
+.intro-highlight-icon-process {
+  @include intro-highlight-icon(83.33333%);
+
+  background-image: url('../assets/home_imgs/theprocess.svg');
+}
+
+
+.intro-highlight-icon-legend {
+  @include intro-highlight-icon(83.33333%);
+
+  background-image: url('../assets/home_imgs/wordlegend.svg');
+}

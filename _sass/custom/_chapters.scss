@@ -15,7 +15,7 @@
 
   &::before {
     content: counter(chapter);
-    font-size: 2rem;
+    font-size: 2.5rem;
     color: $white-shade-lighter;
     counter-increment: chapter;
     position: absolute;
@@ -27,6 +27,7 @@
   display: block;
   background-color: $white;
   border-radius: 8px;
+  height: 100%;
   overflow: hidden;
   padding: 64px 12px 8px;
 
