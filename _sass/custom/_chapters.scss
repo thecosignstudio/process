@@ -1,17 +1,31 @@
-.home-chapters {
-  margin-bottom: 0;
+.home-chapter-list {
   padding: 0;
   counter-reset: chapter;
 }
 
 .home-chapter-item {
   position: relative;
-  display: block;
+  margin-bottom: 12px;
   list-style: none;
-  background-color: $white;
 
   &::before {
+    color: $white-shade-light;
     content: counter(chapter);
+    font-size: 2rem;
     counter-increment: chapter;
+    position: absolute;
+    left: 28px;
   }
+}
+
+.home-chapter-link {
+  display: block;
+  background-color: $white;
+  border-radius: 4px;
+  overflow: hidden;
+  padding: 48px 12px 8px;
+}
+
+.home-chapter-title {
+  color: $white-shade-dark;
 }
