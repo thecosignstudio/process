@@ -1,9 +1,18 @@
 .home-cover {
-  background-color: $white-floral;
   padding-top: 50%;
+  background-color: $white-floral;
+
+  @media screen and (min-width: 768px) {
+    padding-top: 20%;
+  }
 }
 
 .home-cover-title {
+  color: $white-shade-dark;
   font-size: 2rem;
   margin-bottom: 0;
+}
+
+.home-cover-subtitle {
+  color: $white-shade-lighter;
 }
