@@ -1,0 +1,30 @@
+.home-cover {
+  padding-top: 50%;
+  background-image: url('../assets/home_imgs/header_hero.svg'),
+                    url('../assets/home_imgs/header_background.svg');
+  background-position: right 16px, left bottom;
+  background-repeat: no-repeat;
+  background-size: 90% auto, 100% auto;
+
+  @media screen and (min-width: 768px) {
+    padding-top: 20%;
+    background-position: right 20%, left top;
+    background-size: 400px auto, 100% auto;
+  }
+
+  @media screen and (min-width: 992px) {
+    padding-top: 15%;
+    background-position: right 5%, left top;
+    background-size: 600px auto, 100% auto;
+  }
+}
+
+.home-cover-title {
+  color: $white-shade-dark;
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+
+.home-cover-subtitle {
+  color: $white-shade-light;
+}

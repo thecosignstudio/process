@@ -1,17 +1,51 @@
-.home-chapters {
-  margin-bottom: 0;
+.home-chapter-list {
+  margin-top: 88px;
   padding: 0;
   counter-reset: chapter;
+
+  @media screen and (min-width: 768px) {
+    margin-top: 48px;
+  }
 }
 
 .home-chapter-item {
   position: relative;
-  display: block;
+  margin-bottom: 18px;
   list-style: none;
-  background-color: $white;
 
   &::before {
     content: counter(chapter);
+    font-size: 2.5rem;
+    color: $white-shade-lighter;
     counter-increment: chapter;
+    position: absolute;
+    left: 28px;
   }
+}
+
+.home-chapter-link {
+  display: block;
+  background-color: $white;
+  border-radius: 8px;
+  height: 100%;
+  overflow: hidden;
+  padding: 64px 12px 8px;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.home-chapter-title {
+  color: $white-shade-dark;
+}
+
+.home-chapter-preview {
+  font-size: 0.8571rem;
+  color: $white-shade-medium;
+}
+
+.home-chapter-cta {
+  font-size: 0.8571rem;
+  color: $green-laurel;
 }
