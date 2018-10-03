@@ -16,7 +16,7 @@
   display: flex;
   overflow-x: auto;
   margin-top: 12px;
-  padding: 0 16px;
+  padding: 0;
 }
 
 .intro-highlight-item {
@@ -52,4 +52,8 @@
   @include intro-highlight-icon(83.33333%);
 
   background-image: url('../assets/home_imgs/wordlegend.svg');
+}
+
+.intro-highlight-title {
+  text-align: center;
 }
