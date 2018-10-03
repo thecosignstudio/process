@@ -24,6 +24,8 @@ url: "https://thecosignstudio.github.io" # the base hostname & protocol for your
 twitter_username: jekyllrb
 github_username:  jekyll
 
+encoding: utf-8
+
 # BOOK SETTINGS
 book_title: "專業人士的設計流程"
 

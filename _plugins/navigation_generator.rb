@@ -1,5 +1,3 @@
-require 'byebug'
-
 class NavigationGenerator < Jekyll::Generator
   attr_accessor :site
 
