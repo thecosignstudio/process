@@ -2,9 +2,9 @@
   padding-top: 50%;
   background-image: url('../assets/home_imgs/header_hero.svg'),
                     url('../assets/home_imgs/header_background.svg');
-  background-position: right 16px, left bottom;
+  background-position: right 16px, center bottom;
   background-repeat: no-repeat;
-  background-size: 90% auto, 100% auto;
+  background-size: 90% auto, cover;
 
   @media screen and (min-width: 768px) {
     padding-top: 20%;
