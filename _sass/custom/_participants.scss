@@ -8,4 +8,11 @@
 
 .home-participant-link {
   color: $green-laurel;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: $green-laurel;
+    text-decoration: underline;
+  }
 }
