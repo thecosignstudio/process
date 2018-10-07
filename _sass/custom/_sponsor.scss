@@ -1,0 +1,21 @@
+.home-sponsor-layout {
+  align-items: center;
+  display: flex;
+}
+
+.home-sponsor-title {
+  flex: 1 1 50%;
+}
+
+.home-sponsor-jkopay {
+  flex: 1 1 50%;
+}
+
+.home-sponsor-jkopay-logo {
+  display: inline-block;
+  background-image: url('../assets/home_imgs/jkopay.svg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 57px;
+  width: 120px;
+}
