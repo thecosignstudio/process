@@ -2,15 +2,31 @@
   margin-top: 48px;
 }
 
+.home-about-cosign-logo {
+  background-image: url('../assets/home_imgs/cosign.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  display: inline-block;
+  height: 54px;
+  width: 100px;
+}
+
 .home-about-intersection-logo {
   background-image: url('../assets/home_imgs/intersection.png');
   background-repeat: no-repeat;
   background-size: 100% auto;
   display: inline-block;
-  height: 36px;
-  width: 145px;
+  height: 41px;
+  width: 160px;
 }
 
 .home-about-link {
-  color: $white-shade-dark;
+  color: $white-shade-medium;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: $white-shade-dark;
+    text-decoration: underline;
+  }
 }

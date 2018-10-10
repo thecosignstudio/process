@@ -25,6 +25,39 @@
   margin-right: 20px;
 }
 
+.intro-link-fbevent {
+  color: $green-laurel;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: $green-laurel;
+    text-decoration: underline;
+  }
+}
+
+.intro-link-netguru {
+  color: $green-laurel;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: $green-laurel;
+    text-decoration: underline;
+  }
+}
+
+.intro-link-github {
+  color: $green-laurel;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: $green-laurel;
+    text-decoration: underline;
+  }
+}
+
 @mixin intro-highlight-icon($iconwidth) {
   background-position: center center;
   background-repeat: no-repeat;
