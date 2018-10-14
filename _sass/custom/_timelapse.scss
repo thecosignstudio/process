@@ -8,6 +8,10 @@
   position: relative;
 
   @media screen and (min-width: 768px) {
+    padding-top: 42.1875%;
+  }
+
+  @media screen and (min-width: 992px) {
     padding-top: 28.0625%;
   }
 }
@@ -23,6 +27,10 @@
 
   @media screen and (min-width: 768px) {
     margin: 0 auto;
+    width: 75%;
+  }
+
+  @media screen and (min-width: 992px) {
     width: 50%;
   }
 }

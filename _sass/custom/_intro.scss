@@ -23,6 +23,10 @@
   flex: 1 1 auto;
   list-style: none;
   margin-right: 20px;
+
+  &:last-child {
+    margin-right: 0;
+  }
 }
 
 .intro-link-fbevent {
