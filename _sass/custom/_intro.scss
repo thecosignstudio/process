@@ -1,4 +1,4 @@
-.intro-title {
+.home-intro-title {
   background-image: url('../assets/home_imgs/intro_background.svg');
   background-position: 26px top;
   background-repeat: no-repeat;
@@ -8,18 +8,18 @@
   padding-top: 48px;
 }
 
-.intro-content-motto {
+.home-intro-content-motto {
   font-weight: 700;
 }
 
-.intro-highlights {
+.home-intro-highlights {
   display: flex;
   overflow-x: auto;
   margin-top: 12px;
   padding: 0;
 }
 
-.intro-highlight-item {
+.home-intro-highlight-item {
   flex: 1 1 auto;
   list-style: none;
   margin-right: 20px;
@@ -29,37 +29,29 @@
   }
 }
 
-.intro-link-fbevent {
-  color: $green-laurel;
+@mixin intro-links {
+  color: $white-shade-medium;
+  display: block;
+  margin-top: 24px;
 
   &:active,
   &:focus,
   &:hover {
-    color: $green-laurel;
+    color: $white-shade-dark;
     text-decoration: underline;
   }
 }
 
-.intro-link-netguru {
-  color: $green-laurel;
-
-  &:active,
-  &:focus,
-  &:hover {
-    color: $green-laurel;
-    text-decoration: underline;
-  }
+.home-intro-link-fbevent {
+  @include intro-links;
 }
 
-.intro-link-github {
-  color: $green-laurel;
+.home-intro-link-netguru {
+  @include intro-links;
+}
 
-  &:active,
-  &:focus,
-  &:hover {
-    color: $green-laurel;
-    text-decoration: underline;
-  }
+.home-intro-link-github {
+  @include intro-links;
 }
 
 @mixin intro-highlight-icon($iconwidth) {
@@ -72,25 +64,24 @@
   width: 48px;
 }
 
-.intro-highlight-icon-github {
+.home-intro-highlight-icon-github {
   @include intro-highlight-icon(66.66667%);
 
   background-image: url('../assets/home_imgs/bygithub.svg');
 }
 
-.intro-highlight-icon-process {
+.home-intro-highlight-icon-process {
   @include intro-highlight-icon(83.33333%);
 
   background-image: url('../assets/home_imgs/theprocess.svg');
 }
 
-
-.intro-highlight-icon-legend {
+.home-intro-highlight-icon-legend {
   @include intro-highlight-icon(83.33333%);
 
   background-image: url('../assets/home_imgs/wordlegend.svg');
 }
 
-.intro-highlight-title {
+.home-intro-highlight-title {
   text-align: center;
 }
