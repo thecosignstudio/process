@@ -23,10 +23,10 @@ chapter_number: "07"
 
 ## 最終審查項目
 
-### 在設計階段之後：inVision
+### 在設計階段之後：InVision
 
-- 原檔 (psd, sketch, ai) 在 inVision 的 ASSET/Source Files 標籤裡。
-- 字型在 inVision 的 ASSETS/Fonts 標籤裡。
+- 原檔 (psd, sketch, ai) 在 InVision 的 ASSET/Source Files 標籤裡。
+- 字型在 InVision 的 ASSETS/Fonts 標籤裡。
 - 所有需要對開發人員說明的元素（動畫、響應、行為、狀態）皆附在 Tour Points 。
 - 所有畫面都有正確的名稱。
 
@@ -35,7 +35,7 @@ chapter_number: "07"
 - 按照第一章的步驟操作。
 
 ### 在 Slack 釘選項目
-- inVision 和 Drive 的連結都 **釘選** 在 Slack 的專案頻道上，並說明如何使用它們和加進 Google Drive 的專案計畫。
+- InVision 和 Drive 的連結都 **釘選** 在 Slack 的專案頻道上，並說明如何使用它們和加進 Google Drive 的專案計畫。
 
 
 ### 與團隊的最後會議：團隊問答
@@ -47,14 +47,14 @@ chapter_number: "07"
 - 確保您的專案將通過審查。
 
 ### 開發之後
-- 專案被儲存在 inVision。
+- 專案被儲存在 InVision。
 - 設計師對開發人員的工作進行審核。
 
 ## 您的客戶可能會問的問題
 
 {% include qa.html question="在沒有設計師的狀況下繼續進行，開發團隊是安全的嗎？" answer="是的。所有的資料庫都準備好，可在 Google Drive 或是 Jira Tickets 的連結上取得。" %}
 
-{% include qa.html question="我可以在哪裡找到所有的檔案和資料庫？" answer="您可以在 Jira Tickets 或 Google Drive 與 inVision 的連結找到它們。" %}
+{% include qa.html question="我可以在哪裡找到所有的檔案和資料庫？" answer="您可以在 Jira Tickets 或 Google Drive 與 InVision 的連結找到它們。" %}
 
 {% include qa.html question="你能把這些設計的原檔給我嗎？
 " answer="好的。您可以拿到這些原檔的連結。" %}
@@ -62,7 +62,7 @@ chapter_number: "07"
 ### 在此階段問自己的問題：
 - 我確認過最終審查清單了嗎？
 - 相關檔案是否已上傳且可被開發人員取得？
-- 如果專案已被發布且完成開發，我是否儲存了 inVision 專案？
+- 如果專案已被發布且完成開發，我是否儲存了 InVision 專案？
 
 ## 這個階段後預期的結果
 1. 團隊對於設計的問題都被解答。

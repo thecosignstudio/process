@@ -12,7 +12,7 @@ chapter_number: "01"
 **在此部分可以學到：**
 - 與客戶第一次的會面該問什麼問題
 - 溝通技巧：如何與客戶對話
-- 如何設定 Google 雲端硬碟、inVision 文件資料夾
+- 如何設定 Google 雲端硬碟、InVision 文件資料夾
 - 客戶最常問的問題
 
 **相關成員**
@@ -26,24 +26,22 @@ chapter_number: "01"
 ### 在首次與客戶見面之前：
 與專案經理開會，蒐集所有專案的訊息。讓專案經理 (PM)、業務開發 (BD) 和開發團隊知道：不要把相同的問題問客戶兩遍。你要知道的事情：
 - 客戶已有正在使用的產品嗎？
-    - 如果有，可以考慮先做 [UX 評鑑](https://www.netguru.co/services/ux-review){:target="_blank"}。
+  - 如果有，可以考慮先做 [UX 評鑑](https://www.netguru.co/services/ux-review){:target="_blank"}。
 - 產品有清楚的範疇 (scope) 嗎？
-    - 是/否（在此階段，產品應該已經有範疇。沒有的話，就要進行一次範疇流程。）
+  - 是/否（在此階段，產品應該已經界定範疇。沒有的話，就要進行一次範疇界定流程。）
 - 專案的構想是否已經足以進行設計？
-    - 我們在 Netguru 會進行 [產品設計衝刺 (Product Design Sprints)](https://www.netguru.co/services/product-design-sprint){:target="_blank"}，幫助客戶充實想法。
+  - 我們在 Netguru 會進行 [產品設計衝刺 (Product Design Sprints)](https://www.netguru.co/services/product-design-sprint){:target="_blank"}，幫助客戶充實想法。
 - 設計給哪個平台？
 - 如果是網頁設計，要做響應式 (responsive) 嗎？
 - 工程開發階段是由我們的團隊進行嗎？
 
 ### 首次會面 - 向客戶解釋流程：
 - **讓客戶知道**
-    - 產品設計是一組流程，即是可以讓產品或服務變得更好的反覆修改 (iterations)。客戶和使用者的目標皆達成時，即是完成最後一次修改。
-    - 設計不僅僅只看外觀，還有其運作原理。
-讓客戶知道你的角色與期望。在一開始就要設立界線與期望。
-有用的連結：
-        - [從設計師身上可期望的事情](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
-        - [當你付錢找來設計師時，可以獲得的事情](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
-        - [8 種建立/維護成功的客戶與設計師之間關係的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
+  - 產品設計是一組流程，即是可以讓產品或服務變得更好的反覆修改 (iterations)。客戶和使用者的目標皆達成時，即是完成最後一次修改。
+  - 設計不僅僅只看外觀，還有其運作原理。讓客戶知道你的角色與期望。在一開始就要設立界線與期望。有幫助的連結：
+    - [從設計師身上可期望的事情](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
+    - [當你付錢找來設計師時，可以獲得的事情](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
+    - [8 種建立/維護成功的客戶與設計師之間關係的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
 - **在專案的早期階段，避免多平台設計。**
 如果客戶要求多平台設計，需找另外一位設計師來幫忙。如果你認為範疇夠大，一定要建議組成設計團隊。請看細節：[為什麼團隊採用的方法對於產品設計成功與否很關鍵？](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
 - **強調不可能精準地預測使用者行為。**
@@ -64,15 +62,15 @@ chapter_number: "01"
 #### 針對 UX 評鑑的問題：
 
 - 在電話裡，試著建立評鑑的範圍
-	- 越小越好。還可以更集中的話，就太棒了。
-	- 嘗試瞭解客戶對於評鑑的需求與期望。
-	- 嘗試找出對客戶來說很關鍵的使用者旅程。
-	- 在完美的情況下，範圍會縮小到只有一個。
+  - 越小越好。還可以更集中的話，就太棒了。
+  - 嘗試瞭解客戶對於評鑑的需求與期望。
+  - 嘗試找出對客戶來說很關鍵的使用者旅程。
+  - 在完美的情況下，範圍會縮小到只有一個。
 - 電話談過後，與團隊內部討論客戶需求，詢問各種可能遇到的阻礙。
 
 #### 視覺：
 - 你們有品牌策略、品牌書或品牌規範嗎？
-	- 如果沒有的話，在稍後的階段簡述一下它們的重要性。
+  - 如果沒有的話，在稍後的階段簡述一下它們的重要性。
 - 如果客戶想要在 UI 使用商業字型，要確認他們擁有網站/手機版的授權。
 - 如果你認為 UI 需另外使用的付費字型，要確定客戶可以接受要購買授權。
 - 客戶已經有任何符號或視覺風格的想法了嗎？
@@ -85,7 +83,7 @@ chapter_number: "01"
 - 要積極地建議解決方案，不要消極
 - 聆聽客戶的期望，不要害怕問問題
 - 從第一天開始就向開發者諮詢你的解決方案
-- 確認有向客戶說明過溝通工具的使用方法。例如：[inVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"} 的留言功能，解釋 [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} 和留言的不同。
+- 確認有向客戶說明過溝通工具的使用方法。例如：[InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"} 的留言功能，解釋 [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} 和留言的不同。
 
 #### 意見回饋
 - 客戶有足夠的時間給你意見回饋嗎？如果沒有，要試著要求有空的利害關係人積極參與溝通。
@@ -96,8 +94,8 @@ chapter_number: "01"
 
 #### 過往經驗：
 - 客戶之前有跟設計師合作過嗎？
-	- 如果沒有，試著在會面的過程中，培養客戶對於設計的最佳實做方法和基本原則。
-	- 如果有，客戶跟設計師合作的經驗是怎麼樣？
+    - 如果沒有，試著在會面的過程中，培養客戶對於設計的最佳實做方法和基本原則。
+    - 如果有，客戶跟設計師合作的經驗是怎麼樣？
 - 客戶理解設計師的角色嗎？
 
 #### 里程碑與優先順序
@@ -112,18 +110,18 @@ chapter_number: "01"
 - 知道作品的好處與成果。
 - 獲取客戶的信任：他們會重視你的意見
 - 客戶的未來通常交付在你、你的決策和作品手上。所有你做的事情都是要說服客戶，他們的事業有妥善營運。
-- 不要問可以輕易在 Google 就能找到的問題。
+- 不要問輕易在 Google 就能找到的問題。
 - 每個決策都要符合客戶的事業目標 - 絕對必備，而且無條件的。
 - 可以利用此架構：「你們之前做過的事」+「當初是怎麼想到你們之前做過的事」+「為什麼而做/這要如何對客戶的事業有幫助」
 - **沒有或許，才有自信。**要很確定你的立場。
 - 說出設計的「為什麼」，還有你的作品會如何幫助客戶增加成功的機率。
 - 不要說客戶可以自己看到的東西。要這樣說：「這個元素放在這邊是因為可以幫助 X 跟著 Z 達到 Y。」
 - 利用資料 (data)。任何推測都要依據最佳做法、行為研究和統計。
-- 比起用一海票的普通論點淹沒客戶，說出少數幾個優秀的比較好。
+- 比起用一海票的普通論點淹沒客戶，說出少數幾個優秀的會更好。
 - 調整你的用語，不要使用專業術語。
 
 ## 蒐集回饋
-在 Netguru，我們使用 inVision 做為每次進行逐步修改蒐集回饋和把所有留言都放在同一處的主要工具。（[看它的運作原理](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"}）我們也有從團隊內其他設計師獲取精準回饋的詳盡流程。
+在 Netguru，我們使用 InVision 做為每次進行反覆修正獲得的意見回饋，和把所有留言都放在同一處的主要工具。（[看它的運作原理](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"}）我們也有從團隊內其他設計師獲取精準回饋的詳盡流程。
 
 ### 來自隊友
 請記得，如果你的設計遭遇任何困難，一定都可以向其他設計師徵求回饋。還有很重要的是：分享給客戶之前，先在團隊內部分享。這個做法可以改進設計、找出錯誤或邏輯問題，當然也可以收到對你的讚美，獲得按讚。
@@ -144,11 +142,11 @@ chapter_number: "01"
 - 你就是為了要展示設計而跟客戶接觸。有時候，得要兜售願景，或是設計背後的全局。
 
 ## 設計文件 - 組織架構
-在這個階段將介紹默認情況下我們所建立的組織文件與資料夾。當然，我們的文件架構僅是一個範例，你可以運用最適合你的方式去建立你的組織文件及資料夾。
+在此部分會介紹預設情況下，我們所建立的組織文件與資料夾。當然，此文件架構僅是一個範例，你可以運用最適合的方式建立。
 
 #### 1. 準備
 
-當我們進行一個新專案，我們會在客戶的主要文件中建立一個給設計師的資料夾
+當我們進行新專案，我們會在客戶的主要文件中建立給設計師的資料夾
 
 {% include image.html img="image7.png" img2x="Image7@2x.png" alt="Designer folder" %}
 
@@ -160,15 +158,15 @@ chapter_number: "01"
 
 {% include image.html img="image3.png" img2x="Image3@2x.png" alt="Sources folders" %}
 
-每個資料夾（視覺和線稿）會包含所有原檔（source，.psd, .sketch 等）。視每個專案而定，但假如有兩種檔案，我們就會為 .psd, .sketch, 或任何其他擴充文件建立子文件夾。
+每個資料夾（視覺和線稿）會包含所有原始檔案（source、.psd、.sketch 等）。視專案而定，但假如有兩種檔案，我們就會為 .psd, .sketch, 或任何其他附檔名文件建立子資料夾。
 
 {% include image.html img="image1.png" img2x="Image1@2x.png" alt="Source files subfolders" %}
 
-所有原檔的預覽將以 .jpg 或 .png 格式呈現
+所有原始檔案都會以 .jpg 或 .png 格式的檔案預覽。
 
 **B. 字型**
 
-這個資料夾中， 我們將專案中用過的所有字型放在這裡，即使是免費字型也一樣。他們會以字型名稱群組起來，範例如下：
+這個資料夾中，我們將專案中用過的所有字型放在這裡，即使是免費字型也一樣。他們以字型名稱為群組，範例如下：
 
 {% include image.html img="image5.png" img2x="Image5@2x.png" alt="Fonts folder" %}
 
@@ -182,11 +180,11 @@ chapter_number: "01"
 
 - 資源 (assets)
 
-資源包含所有我們無法放在輸出資料夾 (Exports) 所額外補充的的資源，舉例來說：SVG 和圖示等。
+資源包含所有我們無法放在輸出資料夾 (Exports) 所額外補充的資源，舉例來說：SVG 和圖示等。
 
 - 輸出檔案 (Exports)
 
-在輸出資料夾中，我們將所有 Sketch 和 Photoshop 的匯出檔放在這裡。
+在輸出資料夾中，將所有 Sketch 和 Photoshop 的匯出檔放在這裡。
 
 **D. 圖檔和圖示**
 
@@ -194,43 +192,43 @@ chapter_number: "01"
 
 **E. 文件記錄**
 
-非常重要！在專案的最後，我們可以為所有畫面建立連結網址，利用 inVision app將每個連結將連到指定的畫面，打破不同平台、斷點的藩籬去溝通。
+非常重要！在專案的最後，我們可以為所有畫面建立連結網址，利用 InVision app 將每個連結將連到指定的畫面，打破不同平台、斷點的藩籬去溝通。
 
-在這個資料夾中，我們會上傳跟所有跟實際專案有關的文件。這些文件可以是人物誌(persona) 和 使用者旅程 (user stories) 等等。
+在這個資料夾中，我們會上傳跟所有跟實際專案有關的文件。這些文件可以是人物誌 (persona) 和 使用者旅程 (user stories) 等。
 
-我們也會建立一個初次測試 (Initial interview) 的子資料夾，內含跟初次測試期間的重要數據收集，客戶提供的跟專案還有設計階段相關的資源或是scoping session
+我們也會建立初次測試 (Initial interview) 的子資料夾，內含初次測試期間的重要資料、客戶提供的資料，還有可能會在專案裡用到，設計階段相關的範疇界定流程筆記。
 
 {% include image.html img="image8.png" img2x="Image8@2x.png" alt="Initial interview folder" %}
 
 ## 你的客戶可能會問
-{% include qa.html question="為什麼你要了解商業模式 (business model)？" answer="這可以幫助我們專注在更重要的工作與優先執行的項目" %}
+{% include qa.html question="為什麼你要了解商業模式 (business model)？" answer="這可以幫助我們專注在更重要的工作與優先執行的項目。" %}
 
-{% include qa.html question="為什麼你在我們會議前就要先知道這些事情？" answer="這些可以讓我們在會議前準備得更充足並專心在我們的會議上面" %}
+{% include qa.html question="為什麼在會議前就要先知道這些事情？" answer="讓我們在會議前準備得更充足，進行的時候能夠更集中。" %}
 
-{% include qa.html question="We don’t have: 我們沒有什麼「商業分析、市場調查、主要受眾的基礎」。你可以幫我們做嗎？" answer="我們可以支援一部分的工作。" %}
+{% include qa.html question="We don’t have: 我們沒有什麼「商業分析、市場調查、基本目標課群」。可以幫我們做嗎？" answer="我們可以支援一部分的工作。" %}
 
 ### 這個階段你應該問自己的問題：
-- 我有學問過所有必要的問題了嗎？
-- 我已經得到所有必要的答案了嗎？
-- 在跟客戶的第一次會議中已搜集專案所需的必要資源了嗎？
-- 這個專案流程已經跟客戶對過了嗎？
-- 專案架構已經被建立了嗎？
-- 合乎所有螢幕裝置的 inVision 原型 (prototypes) 已經建立好了嗎？
+- 有問過所有必要的問題了嗎？
+- 已經得到所有必要的答案了嗎？
+- 與客戶的第一次會議中，已搜集專案所需的必要資源了嗎？
+- 專案流程已經跟客戶對過了嗎？
+- 專案架構已經建立了嗎？
+- 合乎所有螢幕裝置的 InVision 原型 (prototypes) 已經建立好了嗎？
 
-## 這個階段的期望結果
-- 專案的資源已經蒐集完成。
-    - 我了解我們需要解決的專案需求跟問題。
-    - 我知道如何使這個專案執行成功。
-    - 我們瞭解客戶的商業模式。
-    - 我們會知道客戶是否清楚他們的商業模式。
-    - 我們之前的設計及商業相關的問題已經得到解答。
-- 我有一個已建立好架構的文件
-- 我已經搜集好客戶提供的可使用的資源(包含品牌規範等等)。
+## 此階段的期望結果
+- 專案的資訊已經蒐集完成。
+  - 了解我們得解決的專案需求與問題。
+  - 知道如何使這個專案執行成功。
+  - 都瞭解客戶的商業模式。
+  - 都知道客戶是否清楚他們的商業模式。
+  - 之前的設計及商業相關的問題已經蒐集到。
+- 已建立好架構的資料夾
+- 已經搜集好客戶提供的可使用資源(包含品牌規範...等)。
 
 ## 延伸閱讀
 - [雇用一個設計師時你所要付出的代價（英）](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
-- [8個客戶與設計師關係成功建立和維持的方法（英）](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
-- [給非設計師們：如何與設計師聊設計（英）](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}
+- [8 個客戶與設計師關係成功建立和維持的方法（英）](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
+- [給非設計師：如何與設計師聊設計（英）](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}
 - [對設計師的期望（英）](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
-- [為什麼團隊態度是促成一個專案成功的關鍵（英）](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
-- [如何選擇一位設計師 - 步驟導讀（英）](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}
+- [團隊態度是促使專案成功的關鍵（英）](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
+- [逐步說明：如何選擇設計師（英）](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}

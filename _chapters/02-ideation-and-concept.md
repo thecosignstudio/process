@@ -222,7 +222,7 @@ chapter_number: "02"
 ### 為專案建立資料夾並開始收集情緒板(Mood Board)
 有許多靈感網站像是 [Dribbble](https://dribbble.com/){:target="_blank"}, [Behance](https://www.behance.net/){:target="_blank"}, [Pttrns](https://pttrns.com/){:target="_blank"}, [Pinterest](https://pl.pinterest.com/){:target="_blank"} 等等，你可以很容易找到類似你專案的其他專案，也許網路上已經有你正在設法解決的 UI 問題的答案。
 
-你可以存下所有覺得有趣的東西，放進一個靈感資料夾，之後可以利用它來建立情緒板，這個資料夾可以放任何東西：外掛、色票、甚至是整個 Behance 上的專案截圖，你可以用 inVision Moodboards，它是一個可以和團隊分享協作的完美工具。
+你可以存下所有覺得有趣的東西，放進一個靈感資料夾，之後可以利用它來建立情緒板，這個資料夾可以放任何東西：外掛、色票、甚至是整個 Behance 上的專案截圖，你可以用 InVision Moodboards，它是一個可以和團隊分享協作的完美工具。
 
 ### 透過概念構圖 (Concept Mapping) 產生點子與概念
 你可以利用重組概念圖 (Concept Map) 上的物件為你的專案產生更多新想法。

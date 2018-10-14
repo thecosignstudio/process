@@ -42,7 +42,7 @@ chapter_number: "05"
 這個步驟是對你和你的客戶來說是必要的。在未來，當然，在一個當你完成你的設計的情況下，並且客戶是感到非常愉快的 - 但這將不會永遠是這麼回事。我們建議你準備一個板子包含許多的照片和圖片，向你的客戶展示什麼是你想設計在這個未來的應用程式上的，什麼樣的「感覺」是你的設計將會喚起的，還有最後，什麼是你的客戶可以期待的。托這個方式的福，你將會增加客戶喜歡你的解決方案的機會，還有你也會表現出你欣賞你的客戶的回饋的樣子。**大概所需時間: 4小時** 造訪 [這個連結](https://netguru.invisionapp.com/boards/3M37AJO452DFW/){:target="_blank"} 去查看一個情緒板的範本。
 
 **如何準備一個情緒板？**<br>
-我們使用 inVision 的白板的理由如下：
+我們使用 InVision 的白板的理由如下：
 - 較有彈性
 - 有立即可用的樣板
 - 提供加入圖片、字型和附件的功能選項
@@ -164,7 +164,7 @@ Read: [Microinteractions: The Secret of Great App Design](https://uxplanet.org/m
 "%}
 
 {% include dosndonts.html introduction="5. 準備好你的文件，並確定其正確性。" dos="
-命名一致性；將你設計軟體中的命名資料夾標準化。Sketch、Adobe XD 或 inVision Studio等工具在每個圖層都有適當的命名及一致性的結構時，效果最好。
+命名一致性；將你設計軟體中的命名資料夾標準化。Sketch、Adobe XD 或 InVision Studio等工具在每個圖層都有適當的命名及一致性的結構時，效果最好。
 | 盡可能使用共享的文字及顏色樣式。
 | 針對反覆出現的模式，創建符號 (symbols) 及實例 (instances)。
 | 透過畫板或頁面切割你的設計。
@@ -240,7 +240,7 @@ Read: [Microinteractions: The Secret of Great App Design](https://uxplanet.org/m
 
 {% include qa.html question="為何不直接買現有的圖示，而要請設計師畫圖示?" answer="圖示與插畫並非只要求漂亮即可，而是要傳達訊息。使用客製化的圖示， 能夠確保圖片能夠傳達正確的訊息給使用者。就像是品牌使用統一的視覺元素，使用一致的色彩與字體，與競爭對手做區隔" %}
 
-{% include qa.html question="我沒有 Sketch 這套軟體，我要如何開你們的設計檔案呢?" answer="我們可以提供PNG檔，有圖層的PDF檔，或是 HTML 檔的所有檔案，檔案包含給開發工程師的必要資訊。在互動上，我們用 inVision 這套軟體作出可在網頁瀏覽的互動原型。 " %}
+{% include qa.html question="我沒有 Sketch 這套軟體，我要如何開你們的設計檔案呢?" answer="我們可以提供PNG檔，有圖層的PDF檔，或是 HTML 檔的所有檔案，檔案包含給開發工程師的必要資訊。在互動上，我們用 InVision 這套軟體作出可在網頁瀏覽的互動原型。 " %}
 
 {% include qa.html question="如何尋找靈感呢?" answer="最好的網站資源是 Behance (behance.net) 與 Dribbble (dribbble.com). " %}
 
