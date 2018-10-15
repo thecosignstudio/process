@@ -73,7 +73,7 @@ chapter_number: "03"
 ### 我該使用什麼樣的軟體來設計線稿？
 在 Netguru 我們所使用的工具：
 - 用 Sketch 製作線稿。
-- 用 inVision 產製簡便原型。
+- 用 InVision 產製簡便原型。
 
 ## 製作線稿的最佳作法
 
@@ -160,7 +160,7 @@ chapter_number: "03"
 
 ### 在這個階段可以審視自己的問題
 - 用戶流程是否完整？
-- inVision 上是否有線稿圖可用？
+- InVision 上是否有線稿圖可用？
 - 線稿圖是否可點擊？
 - 線稿圖是否遵循我們的最佳作法？
 -- 使用真實內容
@@ -182,5 +182,5 @@ chapter_number: "03"
 - [線圖稿：一個很棒的溝通工具，很爛的設計工具（英）](https://medium.com/@danritz/wireframes-a-good-communication-tool-a-poor-design-tool-1bc64b033962#.jp1i8lyxt){:target="_blank"}
 - [產品敏捷設計 (design sprint)：決策（第三天）](https://library.gv.com/the-product-design-sprint-decide-day-3-7d4804bd2fd1#.fhdrt1bfx){:target="_blank"}
 - [為你的線稿選擇合適的保真度（英）](https://blinkux.com/blog/choosing-the-right-level-of-fidelity-for-your-wireframes/){:target="_blank"}
-- [inVision 使用者測試（英）](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"}
+- [InVision 使用者測試（英）](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"}
 - [你的 App 介面該避免哪些設計（英）](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
