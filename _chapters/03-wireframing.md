@@ -37,8 +37,7 @@ chapter_number: "03"
 製作線稿的流程可分為兩個子階段：
 
 ### 使用者流程圖
-使用者流程圖，也稱為流程圖 (flowchart)，是以視覺呈現產品設計裡所有規劃的使用者旅程。用來說明使用者會碰到的步驟、決策及漏斗 (funnel)。考量周全、成熟的使用者流程圖讓你發覺使用者轉換的關鍵時機，適當地應用在已找到的阻礙上。
- [有關使用者流程示意圖的範例](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"} ，以及 流程圖參考[點此觀看](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}。
+使用者流程圖，也稱為流程圖 (flowchart)，是以視覺呈現產品設計裡所有規劃的使用者旅程。用來說明使用者會碰到的步驟、決策及漏斗 (funnel)。考量周全、成熟的使用者流程圖讓你發覺使用者轉換的關鍵時機，適當地應用在已找到的阻礙上。可以參考使用者流程示意圖的[範例](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"} ，或流程圖[點此觀看](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}。
 
 
 ### 單頁畫面線稿
