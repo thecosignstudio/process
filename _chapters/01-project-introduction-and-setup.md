@@ -9,7 +9,7 @@ chapter_number: "01"
 
 你的工作從拿起紙和筆之前就已經開始了。從準備與客戶第一次的會議就已經啟動設計流程。在第一次的接觸顯示準備充份且專業，就能開始建立關係。你的專業將會獲得很大的回報：你的決策將賭上客戶對你的信任。
 
-**在此部分可以學到：**
+**您將在此章節中學習到：**
 - 與客戶第一次的會面該問什麼問題
 - 溝通技巧：如何與客戶對話
 - 如何設定 Google 雲端硬碟、InVision 文件資料夾
@@ -99,7 +99,7 @@ chapter_number: "01"
 - 客戶理解設計師的角色嗎？
 
 #### 里程碑與優先順序
-- 確認客戶有合理的 打造 [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"}（讓範圍保持夠小）
+- 確認客戶有合理的 打造[最小可行性產品 (MVP)](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"}（讓範圍保持夠小）
 - 確認客戶知道在功能方面要一步一步來的重要性。
 
 #### 為什麼宣傳作品的成果很重要？
