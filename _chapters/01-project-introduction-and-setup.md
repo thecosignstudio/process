@@ -99,7 +99,7 @@ chapter_number: "01"
 - 客戶理解設計師的角色嗎？
 
 #### 里程碑與優先順序
-- 確認客戶有合理的 打造 [MVP](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"}（讓範圍保持夠小）
+- 確認客戶有合理的 打造[最小可行性產品 (MVP)](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"}（讓範圍保持夠小）
 - 確認客戶知道在功能方面要一步一步來的重要性。
 
 #### 為什麼宣傳作品的成果很重要？
