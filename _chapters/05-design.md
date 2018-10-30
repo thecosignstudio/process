@@ -92,7 +92,7 @@ chapter_number: "05"
 
 **4. 只有單一資料的狀態**
 
-現在總算有一些資料了。在輸入資料的情況，這可能出現在一按下鍵盤之後。在一份清單當中，它可能是在有一個項目的時候（或是只剩下一個項目的時候。）
+現在總算有資料了。在資料輸入的情況，這可能出現在一按下鍵盤之後。在一份清單當中，它可能是在有一個項目的時候（或是只剩下一個項目的時候。）
 
 **5. 有一些資料的狀態**
 
@@ -115,94 +115,91 @@ chapter_number: "05"
 
 根據使用者的互動、上傳資料和各種應用程式狀態的改變，這些狀態會在頁面上不斷循環。只要能夠細心設計這些變化，就能夠為不管身處在哪種情況的使用者，打造優良的體驗。
 
-## 針對手機軟體做更細節的設計
-如果你剛開始做原生的軟體(apps)，最好的方式，是去閱讀官方指南，Android (Material Design) 和 iOS (Human Interface Guidelines)操作系統。
+## 針對手機原生應用程式的設計細節
+如果你是原生應用程式的新手，閱讀 Android (Material Design) 和 iOS (Human Interface Guidelines) 作業系統官方規範是最好的方式。
 
-**Android devices**
-[Material Design Guidelines](https://material.io/guidelines/){:target="_blank"}
+**Android 裝置**：[Material Design Guidelines](https://material.io/guidelines/){:target="_blank"}
 
-**Apple’s iPhones**
-[Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/){:target="_blank"}
+**Apple iPhone**：[Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/){:target="_blank"}
 
-### 一般設計手勢
-使用 [the most popular gestures](https://blogs.adobe.com/creativecloud/in-app-gestures-and-mobile-app-user-experience/){:target="_blank"} 讓應用軟體更具互動性。 請記住，當你使用手機時，沒有像使用電腦看網頁一樣，可以透過右鍵點擊。嘗試在區域中放置流行且直觀的手勢來符合使用者的預期。T
+### 手勢設計的通則
+使用 [最常見的手勢](https://blogs.adobe.com/creativecloud/in-app-gestures-and-mobile-app-user-experience/){:target="_blank"}讓 App 更具互動性。請記住，使用手機的時候，沒有像使用電腦看網頁一樣，能夠「右鍵點擊。」試著在使用者可能預期的區域設定最常見、直覺的手勢。
 
-**手機 app 互動的重要性**<br>
-Read: [Microinteractions: The Secret of Great App Design](https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf){:target="_blank"}<br>
+**行動 App 互動的重要性**<br>
+閱讀：[微互動：設計良好 app 的秘密](https://intersection.tw/742c369a464e){:target="_blank"}（[原文](https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf){:target="_blank"}）<br>
 
-## 團隊設計: 最佳練習
+## 團隊設計: 最佳作法
 
-{% include dosndonts.html introduction="1. 透過腦力激盪會議做為每個專案的開始。" dos="
-爭辯、討論及鼓勵各種瘋狂般的想法。
-| 利用團隊中現有的工具來建構想法。
-| 為你的想法編號並量化它。
-| 在腦力激盪時，讓非設計工作者參與，可帶來更多的變化。
+{% include dosndonts.html introduction="1. 每個專案都從腦力激盪階段開始。" dos="
+要激烈討論、也鼓勵各種瘋狂想法。
+| 利用團隊中現有的工具記錄想法。
+| 為想法編號，並且以量化呈現。
+| 進行腦力激盪時，讓非設計工作者參與，可帶來更多變化。
 " donts="
-避免批評，在這個會議結束前停止一切的判定。
+避免批評，任何評斷都要保留到此階段結束後才說。
 "%}
 
-{% include dosndonts.html introduction="2. 務必了解你個人的責任及整個團隊的結構。" dos="
-確保你清楚自己角色及所劃分的任務你的責任相符
+{% include dosndonts.html introduction="2. 務必了解個人責任及整個團隊的結構。" dos="
+確保清楚知道自己的角色，以及負責的任務。
 | 負責分配任務時，確保能力分配平均並縮短差距。
 " donts="
 別忘了專案時程及任務的期限。
 "%}
 
-{% include dosndonts.html introduction="3. 當遇到設計分歧時, 將討論帶回並以商業目標導向。" dos="
-當設計分歧產生時, 蒐集團隊所有的論點，並選擇其解決方法，用來滿足你產品的商業目標。
-| 以現實生活的例子及調查來證明你的想法。
+{% include dosndonts.html
+  introduction="3. 設計分歧出現時，將對話帶回到商業目標。"
+  dos="設計出現分歧的時候，從團隊蒐集所有意見，選擇最能滿足產品商業目標的解決方案。
+  | 以現實生活的範例與調查來證明你的想法。"
+  donts="在尋找解決方案時，別讓視覺及個人喜好成為主要準則。
+  | 不要試圖重新發明輪子：確認是否有人解決過此問題。
+  | 別忘了專案時程及任務期限。"
+%}
+
+{% include dosndonts.html
+  introduction="4. 要融入團隊，專注在傳達商業目標。"
+  dos="積極反應並熱於助人：如果團隊成員詢問緊急問題，應該要視為高度優先。
+  | 快速解決團隊內部的衝突及誤解：個人衝突要更優先。"
+  donts="千萬不要將最終設計當做完全是自己的功勞。
+  | 不要固執己見，隊友的解決方案可能更好。"
+%}
+
+{% include dosndonts.html introduction="5. 正確配置檔案。" dos="
+命名一致性；在設計軟體工具中，將資料夾的命名標準化。Sketch、Adobe XD 或 inVision Studio 在每個圖層都有適當命名且結構一致時，最有效率。
+| 盡可能共用文字及顏色樣式。
+| 針對反覆出現的樣式建立 Symbol 和參照樣本 (instances)。
+| 透過 Artboard 或分頁劃分設計。
 " donts="
-在尋找解決方案時，別讓視覺及個人喜好成為你主要的準則。
-| 不要試圖創新: 確保你的問題還沒有被其他人解決。
-| 別忘了專案時程及任務的期限
+避免檔案四散各處：所有專案素材都放在都同一位置，最好是共享資料夾。
+| 特別注意不佳的圖層及文件命名。
+| 確保每個圖層都有群組及命名：要不然團隊成員打開檔案後可能還得要幫忙收拾。
 "%}
 
-{% include dosndonts.html introduction="4. 成為團隊的一員並努力實現商業目標。" dos="
-積極反應並熱於助人：如果團隊中有成員詢問你一個緊急的問題，你應該給給予一個高度優先權的回應。
-| 快速解決團隊內部的衝突及誤解: 個人的衝突更優先。
-" donts="
-千萬不要獨自確認最終的設計。
-| 不要固執己見，你團的對解決方案可能比你更好。
+{% include dosndonts.html introduction="6. 要給予回饋意見，也要放寬心胸接納意見。"
+dos="每個階段都詢問團隊成員意見回饋，有定期的設計評鑑。
+| 向客戶展示成果前，務必要先以傳訊程式從全體設計團隊獲得回饋，或是當面進行。"
+donts="
+不要固執，接受有建設性的批評：沒有回饋，就不會成長。
 "%}
 
-{% include dosndonts.html introduction="5. 準備好你的文件，並確定其正確性。" dos="
-命名一致性；將你設計軟體中的命名資料夾標準化。Sketch、Adobe XD 或 InVision Studio等工具在每個圖層都有適當的命名及一致性的結構時，效果最好。
-| 盡可能使用共享的文字及顏色樣式。
-| 針對反覆出現的模式，創建符號 (symbols) 及實例 (instances)。
-| 透過畫板或頁面切割你的設計。
+{% include dosndonts.html introduction="7. 展示、辯護想法。" dos="
+知道自己作品行得通的原因，是能夠流暢地解釋、辯護的關鍵。
+| 針對想要說服客戶的想法做功課。
+| 熟悉解決方案背後的數字。
 " donts="
-避免檔案分散：: 所有專案都使用同一位置 – 共享資料夾是最理想的情況。
-| 避免不好的圖層及文件命名。
-| 確保每個圖層都有群組及命名: 您的團隊可能會需要從你的文件中使用。
+介紹作品時，不要使用專業術語：客戶不必知道什麼是人物誌 (persona) 或第一眼畫面 (above-the-fold)。
 "%}
 
-{% include dosndonts.html introduction="6. 提供反饋及接受反饋。" dos="
-每個階段都可以詢問團隊成員反饋建議，定期回顧設計。
-| 在產品上線前，務必確保能從團隊的訊息對話或個人得到反饋。
-" donts="
-不要固執，接受有建設性的批判 – 沒有反饋，就不會成長.
-"%}
+{% include dosndonts.html introduction="8. 擁抱溝通文化。"
+dos="提早、經常且清楚地溝通
+| 最好在第一次展示設計時，與客戶進行即時通話，這樣才有機會回答所有問題並避免誤解。"
+donts="不要害怕發問：記住！沒有笨問題。
+| 不要認為客戶應該知道如何使用協作工具。
+| 不要在複雜流程的設計上未留下任何註解。"
+%}
 
-{% include dosndonts.html introduction="7. 提出並捍衛你的想法。" dos="
-了解你的設計如何運行是關鍵，解釋並捍衛他的可行性。
-| 說服你的客戶前，嘗試為你的想法尋找更多的研究證明。
-| 了解解決方法背後的數字。
-" donts="
-介紹時，不要使用專業術語 – 客戶並不知道什麼是人物誌 (persona) 或 above-the-fold。
-"%}
+## 有做到也不錯 (nice-to-haves) 的設計
 
-{% include dosndonts.html introduction="8. 擁抱各種文化溝通。" dos="
-提早、經常且清楚的溝通
-| 在第一次介紹給客戶時，與客戶進行實際的對話是個好方法 – 這樣你可以有更多的機會回答所有的問題以及避免不清楚的地方。
-" donts="
-不要害怕詢問 – 記住！沒有笨問題。
-| 不要假設客戶知道如何使用協作工具。
-| 不要再沒有任何評論下，留下複雜的設計流程。
-"%}
-
-## 很高興可以做設計
-
-### 準備互動式設計
+### 準備有互動的設計
 如果有足夠的時間，嘗試搜尋元素 (element) 之間的等待過渡期。像是你的專案中，有如魔法般的動態效果，這樣可以大大提升使用者體驗，如果要準備這些互動效果，你可以使用：
 1. **Principle.** 當你需要在界面中設計動畫，你可以使用_Principle_ ，尤其是在一個適用不同螢幕的專案中；在設計原型(prototype)時，透過建立過渡期及元素的動態效果，可以幫助你更快速且容易點擊。 _Principle_ 應該是你的首選，如果:
   - 你需要快速產出一個原型(prototype)來確認 UI 解決方案是否有效；
