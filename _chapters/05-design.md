@@ -197,39 +197,41 @@ donts="不要害怕發問：記住！沒有笨問題。
 | 不要在複雜流程的設計上未留下任何註解。"
 %}
 
-## 有做到也不錯 (nice-to-haves) 的設計
+## 進行設計時，「有做到會更好」的項目
 
-### 準備有互動的設計
-如果有足夠的時間，嘗試搜尋元素 (element) 之間的等待過渡期。像是你的專案中，有如魔法般的動態效果，這樣可以大大提升使用者體驗，如果要準備這些互動效果，你可以使用：
-1. **Principle.** 當你需要在界面中設計動畫，你可以使用_Principle_ ，尤其是在一個適用不同螢幕的專案中；在設計原型(prototype)時，透過建立過渡期及元素的動態效果，可以幫助你更快速且容易點擊。 _Principle_ 應該是你的首選，如果:
-  - 你需要快速產出一個原型(prototype)來確認 UI 解決方案是否有效；
-  - 你要確定開發人員知道如何寫出互動效果；
-  - 你想要創造更有意義的效果來增添經驗；
-  - 你想要在社群平台上展示你的設計。
-2. **Adobe After Effects.** _AE_ 真的很夠用 – 只要跟動畫有關的事情，它幾乎都可以做。 雖然功能豐富伽且強大，但_After Effects_ 如果可以處理 Sketch 的文件會更好。 _AE_ 也不允許在原型(prototype)上測試互動行為。a _After Effects_ 應該是你的首選，如果:
-  - 你需要客制過度期或動態效果；
-  - 你需要用不同角度或其他影片效果；
-  - 你需要做出動態圖示(icons)或插圖(illustrations)。
+### 準備互動式設計
+如果有足夠的時間，為已設計的介面元素搜尋現成轉場效果 (transitions)。這可以大大提升使用者體驗，因為專案的動畫就像是魔法一般。要準備這些互動效果，可以使用：
+1. **Principle**<br>
+當你需要讓介面元素以動畫呈現，尤其在用到多重螢幕的專案的時候，適合使用 **Principle**。透過內建的轉場效果及元素動畫，有助於更快速且容易地建立能夠點擊的原型。以下這些情況， **Principle** 會是可靠的工具：
+  - 需要快速產出原型來驗證 UI 解決方案是否有效；
+  - 確認開發人員理解如何寫出互動效果的程式碼；
+  - 想要創造更有意義的動畫來增添體驗；
+  - 想要在社群平台上展示設計。
+2. **Adobe After Effects**<br>
+**AE** 真的很夠用：只要跟動畫有關的事情，它幾乎都可以搞定。雖然功能豐富又強大，但是，After Effects 可以處理 Sketch 文件的話會更好。**AE** 也不允許在原型上測試互動行為。After Effects 是可靠的工具，會用在：
+  - 需要自訂轉場或動畫效果；
+	- 需要用到透視法 (perspective) 或其他影片效果；
+	- 需要做出動態圖示或插圖。
 
-### 自做自己的圖示(icon)
-我們使用 _Nucleo_ 來設計, 如果有足夠的時間，你可以製作一組個人的圖示 (icon)，能讓應用軟體更有個性。
+### 打造自己的圖示
+只要時間足夠，就可以自製圖示。我們使用 **Nucleo** 進行設計，自製圖示能讓應用軟體更具有獨特感。
 
 ## 資源
 
 ### 圖示
-- [Nucleo](https://nucleoapp.com/){:target="_blank"}, [FlatIcon](https://www.flaticon.com/){:target="_blank"}, [IconFinder](https://www.iconfinder.com/){:target="_blank"}
+  - [Nucleo](https://nucleoapp.com/){:target="_blank"}、[FlatIcon](https://www.flaticon.com/){:target="_blank"}、[IconFinder](https://www.iconfinder.com/){:target="_blank"}
 
 ### 圖庫資源
-- 付費圖庫資源： [iStockPhoto](http://www.istockphoto.com/){:target="_blank"}, [ShutterStock](https://www.shutterstock.com/){:target="_blank"}, [GettyImages](http://www.gettyimages.com/){:target="_blank"}
-- 免費圖庫資源： [Aggregator for all top free stocks](http://allthefreestock.com/){:target="_blank"}
+  - 付費圖庫資源： [iStockPhoto](http://www.istockphoto.com/){:target="_blank"}、[ShutterStock](https://www.shutterstock.com/){:target="_blank"}、[GettyImages](http://www.gettyimages.com/){:target="_blank"}
+  - 免費圖庫資源： [Aggregator for all top free stocks](http://allthefreestock.com/){:target="_blank"}
 
 ### 字型
-- [Google Fonts](https://fonts.google.com/){:target="_blank"}, [Adobe Typekit](https://typekit.com/fonts){:target="_blank"}, [Font Squirrel](https://www.fontsquirrel.com/){:target="_blank"}, [MyFonts](https://www.myfonts.com/){:target="_blank"}, [DaFont](http://www.dafont.com/){:target="_blank"}
+  - [Google Fonts](https://fonts.google.com/){:target="_blank"}、[Adobe Typekit](https://typekit.com/fonts){:target="_blank"}、[Font Squirrel](https://www.fontsquirrel.com/){:target="_blank"}、[MyFonts](https://www.myfonts.com/){:target="_blank"}、[DaFont](http://www.dafont.com/){:target="_blank"}
 
-### Sketch – 標準範例
+### 良好的 Sketch 做法
 - [Sketch 的一般標準範例](https://www.uxpin.com/studio/blog/10-best-practices-sketch/){:target="_blank"}, [統一 Sketch 的元素](https://www.uxpin.com/studio/blog/10-best-practices-sketch/){:target="_blank"}
 
-## 客戶可能會問的問答集
+## 客戶可能會問的問題
 
 {% include qa.html question="設計加入團隊?" answer="團隊內有更多的專業人士，團隊的（其他設計專業像是UX、視覺設計或是插畫）。藉由團隊的專業經驗，能夠立即驗證不良的解決方案與錯誤，將會更有效率地解決開發產品遇到的問題。由於各司其職，工作分配後更有效率（特定設計師負責特定設計工作）。團隊成員間的互相激發創意，亦可相互給予專業的設計建議，產品成功的機會大大增加。" %}
 
