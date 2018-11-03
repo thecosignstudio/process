@@ -200,7 +200,7 @@ chapter_number: "01"
 
 {% include image.html img="image8.png" img2x="Image8@2x.png" alt="Initial interview folder" %}
 
-## 你的客戶可能會問
+## 客戶可能會問的問題
 {% include qa.html question="為什麼你要了解商業模式 (business model)？" answer="這可以幫助我們專注在更重要的工作與優先執行的項目。" %}
 
 {% include qa.html question="為什麼在會議前就要先知道這些事情？" answer="讓我們在會議前準備得更充足，進行的時候能夠更集中。" %}

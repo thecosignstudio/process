@@ -104,7 +104,7 @@ chapter_number: "06"
 
 確認應用程式圖示和 App Store 素材都有符合 App Store 規範（請參見 Human Interface Guidelines 和 App Icons on iPhone, iPad and Apple Watch。）另外，Apple 會駁回有透明圖層的 PNG 檔案，所以要多檢查一遍。
 
-## 客戶可能會問的問題
+## 客戶可能會提的問題
 
 {% include qa.html question="所有素材都準備好了嗎？所有 iPhone/Android 的素材都做好了嗎？" answer="給客戶放置所有素材的連結（例如：以 Jira Ticket 附帶素材檔案或放置素材的 Google Drive 連結。）" %}
 

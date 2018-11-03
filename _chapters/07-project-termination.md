@@ -51,7 +51,7 @@ chapter_number: "07"
 - 專案封存在 InVision。
 - 設計師確實確認過開發人員的成果。
 
-## 客戶可能會問的問題
+## 客戶可能會提的問題
 
 {% include qa.html question="在沒有設計師的狀況下，開發團隊繼續進行是安全的嗎？" answer="是的。所有的素材都準備好，可在 Google 雲端硬碟 或是 Jira Tickets 的連結上取得。" %}
 
