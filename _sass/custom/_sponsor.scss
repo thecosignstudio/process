@@ -1,15 +1,32 @@
 .home-sponsor-layout {
   align-items: center;
   display: flex;
+  flex-wrap: wrap;
   margin-top: 48px;
+
+  @media screen and (min-width: 768px) {
+    flex-wrap: nowrap;
+  } 
 }
 
 .home-sponsor-title {
-  flex: 1 1 50%;
+  flex: 1 0 100%;
+  text-align: center;
+
+  @media screen and (min-width: 768px) {
+    flex: 1 1 50%;
+    text-align: left;
+  }
 }
 
 .home-sponsor-jkopay {
-  flex: 1 1 50%;
+  flex: 1 0 100%;
+  text-align: center;
+
+  @media screen and (min-width: 768px) {
+    flex: 1 1 50%;
+    text-align: left;
+  }
 }
 
 .home-sponsor-jkopay-logo-link {
