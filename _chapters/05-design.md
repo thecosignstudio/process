@@ -249,13 +249,13 @@ donts="不要害怕發問：記住！沒有笨問題。
 
 {% include qa.html question="為什麼想要知道商業模式？" answer="設計師汲汲於提供同時解決使用者與企業本身的方案，因此，可以試著檢查設計是否滿足商業目標並且符合該產業。請記得，美學通常是個人主觀品味，自己的美感不一定與產品潛在客群的美學一致。" %}
 
-**在此階段先確認四件事**
+#### 在本階段問問自己：
 - 是否有情緒板了？
 - 是否有風格規範了？
 - 是否完成所有目標裝置與各個設計狀態了？
 - 是否收到客戶與團隊成員的回饋了？
 
-## 本階段的期望成果
+## 本階段的理想成果
 - 情緒板 (請參考[範例一](https://netguru.invisionapp.com/boards/D834FYVZBKNWP){:target="_blank"}與[範例二](https://netguru.invisionapp.com/boards/F736L21WBKCPU){:target="_blank"})。
 - 風格樣式指南 (請參考範例 [Taqsim 風格樣式指南](https://netguru.invisionapp.com/share/7UAMU5OB3#/screens){:target="_blank"} 與 [色彩](https://projects.invisionapp.com/share/P79V1I7NK#/screens/212581073){:target="_blank"})
 - 設計 ([參考範例 ](https://netguru.invisionapp.com/share/ZD9VDND6E#/screens/212677302){:target="_blank"})
