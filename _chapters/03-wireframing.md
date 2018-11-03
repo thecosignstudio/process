@@ -10,7 +10,7 @@ chapter_number: "03"
 **您將在此章節中學習到：**
 - 了解線稿的定義以及在執行製作上客戶需要知道的事項。
 - 線稿流程包含哪些範疇。
-- 最佳作法 – 製作線稿所需要與該避免的事項。
+- 最佳做法：製作線稿所需要與該避免的事項。
 
 ### 相關成員
 - 設計師
@@ -37,11 +37,11 @@ chapter_number: "03"
 製作線稿的流程可分為兩個子階段：
 
 ### 使用者流程圖
-使用者流程圖，也稱為流程圖 (flowchart)，是以視覺呈現產品設計裡所有規劃的使用者旅程。用來說明使用者會碰到的步驟、決策及漏斗 (funnel)。考量周全、成熟的使用者流程圖讓你發覺使用者轉換的關鍵時機，適當地應用在已找到的阻礙上。可以參考使用者流程示意圖的[範例](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"} ，或流程圖[點此觀看](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}。
+使用者流程圖，也稱為流程圖 (flowchart)，是以視覺呈現產品設計裡所有規劃的使用者旅程。用來說明使用者會碰到的步驟、決策及漏斗 (funnel)。考量周全、成熟的使用者流程圖讓你發覺使用者轉換的關鍵時機，適當地應用在已找到的阻礙上。可以參考使用者流程示意圖的[範例](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2SFRaeU54OS1LMGc/view?usp=sharing){:target="_blank"}，或流程圖[點此觀看](https://drive.google.com/a/netguru.pl/file/d/0B__Yya_9jbd2cHVmWUhISUFUdk0/view?usp=sharing){:target="_blank"}。
 
 
 ### 單頁畫面線稿
-單頁畫面的線稿（也稱為示意圖或藍圖，）是頁面架構，構圖和資訊階層的視覺指南。目的是能夠以充分表達、使用者友善和商業效益的方式來排列網站內容和元素。由於線稿要專注在不受華麗的視覺效果影響，因此要拿掉所有視覺元素，如顏色，圖表，效果…等。可以看一下單頁線稿的範例。[單頁畫面線稿](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}.
+單頁畫面的線稿（也稱為示意圖或藍圖，）是頁面架構、構圖和資訊階層的視覺指南。目的是能夠以充分表達、使用者友善和商業效益的方式來排列網站內容和元素。由於線稿要專注在不受華麗的視覺效果影響，因此要拿掉所有視覺元素，如顏色，圖表，效果…等。可以看一下單頁線稿的範例。[單頁畫面線稿](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}.
 
 ## 在線稿中該納入哪些元素？
 
@@ -49,15 +49,13 @@ chapter_number: "03"
 線稿應包含產品所有重要的元素：
 - 導覽
 - 公司識別標示（如果有的話）
-- 內容文字區塊＋範例文字（佔位符文本*）
+- 內容文字區塊＋範例文字（佔位符文本，placeholder text）
 - 行動呼籲 (calls to action)
 - 小工具
 - 區塊
 - 表單
 - 彈出對話框
 - 滑入狀態（如果有用到的話）
-
-*Placeholder text
 
 ### 該使用什麼樣的軟體來設計線稿？
 在 Netguru 我們所使用的工具：
@@ -67,7 +65,7 @@ chapter_number: "03"
 ## 製作線稿的最佳作法
 
 ### 必需與避免
-線稿的主要目的是直觀地展現想法，還有促進溝通、反覆修正及快速構思。以下列出我們在 Netguru 深深相信的最佳實踐作法：
+線稿的主要目的是直觀地展現想法，還有促進溝通、反覆修正及快速構思。以下列出我們在 Netguru 深深相信的最佳實踐做法：
 
 {% include dosndonts.html introduction="1. 色彩可能分散注意力，確保設計專注於創造體驗，而非以視覺設計取向為解決方案。
 " dos="
@@ -85,10 +83,10 @@ chapter_number: "03"
 
 {% include dosndonts.html introduction="3. 使用真實內容：寫作是一項設計技能，可以幫助你更佳理解客戶及故事。" dos="
 如果沒有真實內容：就根據自己研究的競品內容。
-|使用純灰色佔位符 (placeholder) 元素來表示圖片、影片和地圖。。
-|以現實案例設計（也就是說，不要假設每個姓氏的字元都是最大值。例如：十個字符長）
+|使用純灰色佔位符元素來表示圖片、影片和地圖。
+|以現實案例設計（也就是說，不要假設每個姓氏的字元都是最大值。例如：10 個字符長）
 " donts="
-不要在關鍵設計元素中使用佔位符文本(placeholder text)，例如導航欄或 CTA（Call to Actions, i.e., Lorem Ipsum…）。
+不要在關鍵設計元素中使用佔位符文本，例如導航欄或行動呼籲（ 例如：Lorem Ipsum…。）
 |如果要顯示一系列的資料，如表格或磚塊式排列 (tile)，每個元素不要使用相同的文案。"%}
 
 {% include dosndonts.html introduction="4. 不要只有自己使用線稿。這個過程的主要目的是以溝通帶來潛在可能，並且比你獨自工作時，更有機會發現更好的解決方案。

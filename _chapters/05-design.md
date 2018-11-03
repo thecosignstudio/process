@@ -61,8 +61,8 @@ chapter_number: "05"
 為了讓設計保持簡潔，限制使用的字體數量和尺寸。根據經驗，從最多兩種字型開始：一個給標題使用，另一個給內文使用。在大多數情況下，不會需要用到更多。<br>
 我們強烈建議使用免費字型。如果想要使用付費字型，就要小心確認字型的使用授權。客戶可能不願意為字型額外付費，所以要確認他們真的想花錢在字型上。
 
-免費字型： [Google Fonts](https://fonts.google.com/){:target="_blank"}<br>
-付費字型： [MyFonts](http://www.myfonts.com/){:target="_blank"} 和 [Typekit](https://typekit.com/){:target="_blank"}<br>
+免費字型：[Google Fonts](https://fonts.google.com/){:target="_blank"}<br>
+付費字型：[MyFonts](http://www.myfonts.com/){:target="_blank"} 和 [Typekit](https://typekit.com/){:target="_blank"}<br>
 苦惱於字型搭配嗎？試試 [Typewolf](https://www.typewolf.com/){:target="_blank"} 或 [FontPairs](https://fontpair.co/){:target="_blank"}<br>
 
 - **元件資源庫 (Components Library)**（狀態的設計）<br>
@@ -123,7 +123,7 @@ chapter_number: "05"
 **Apple iPhone**：[Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/){:target="_blank"}
 
 ### 手勢設計的通則
-使用 [最常見的手勢](https://blogs.adobe.com/creativecloud/in-app-gestures-and-mobile-app-user-experience/){:target="_blank"}讓 App 更具互動性。請記住，使用手機的時候，沒有像使用電腦看網頁一樣，能夠「右鍵點擊。」試著在使用者可能預期的區域設定最常見、直覺的手勢。
+使用[最常見的手勢](https://blogs.adobe.com/creativecloud/in-app-gestures-and-mobile-app-user-experience/){:target="_blank"}讓 App 更具互動性。請記住，使用手機的時候，沒有像使用電腦看網頁一樣，能夠「右鍵點擊。」試著在使用者可能預期的區域設定最常見、直覺的手勢。
 
 **行動 App 互動的重要性**<br>
 閱讀：[微互動：設計良好 app 的秘密](https://intersection.tw/742c369a464e){:target="_blank"}（[原文](https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf){:target="_blank"}）<br>

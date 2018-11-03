@@ -220,7 +220,7 @@ chapter_number: "02"
 「研究」和「概念」兩者是緊密結合的，「概念」幫助釐清在研究階段找到的所有資訊，並有邏輯地把資訊排序，如此一來，就定義了專案的風格規範草稿，並且可以為下個階段「設計」省下很多時間。
 
 ### 為專案建立資料夾並開始收集情緒板 (Mood Board)
-有許多靈感網站像是 [Dribbble](https://dribbble.com/){:target="_blank"}, [Behance](https://www.behance.net/){:target="_blank"}, [Pttrns](https://pttrns.com/){:target="_blank"}, [Pinterest](https://pinterest.com/){:target="_blank"} 等等，你可以很容易找到類似的專案。甚至，你遇到、正試著解決的問題在網路上已經有 UI 解決方案。你可以存下所有覺得有趣的東西，放進靈感資料夾，之後可以利用它建立情緒板，此資料夾可以放任何東西：外掛、色票、甚至是整個 Behance 上的專案截圖，試試看 InVision Moodboards，是跟團隊蒐集、分享靈感的完美工具。
+有許多靈感網站像是 [Dribbble](https://dribbble.com/){:target="_blank"}、[Behance](https://www.behance.net/){:target="_blank"}、[Pttrns](https://pttrns.com/){:target="_blank"} 和 [Pinterest](https://pinterest.com/){:target="_blank"} 等，可以很容易找到類似的專案。甚至，你遇到、正試著解決的問題在網路上已經有 UI 解決方案。你可以存下所有覺得有趣的東西，放進靈感資料夾，之後可以利用它建立情緒板，此資料夾可以放任何東西：外掛、色票、甚至是整個 Behance 上的專案截圖，試試看 InVision Moodboards，是跟團隊蒐集、分享靈感的完美工具。
 
 ### 透過概念構圖 (Concept Mapping) 產生創意發想與概念
 利用概念構圖上的項目為專案產生更多新想法。
@@ -300,7 +300,7 @@ Source: [https://www.nngroup.com/articles/which-ux-research-methods](https://www
 - 完成了創意發想和概念的階段，並已經呈現給客戶看過。
 
 ## 延伸閱讀
-- [App 的易達性 (Accessibility): 經常忘記的必備項目](https://www.netguru.co/blog/accessibility-web-mobile-apps){:target="_blank"}
+- [App 的易達性 (Accessibility)：經常忘記的必備項目](https://www.netguru.co/blog/accessibility-web-mobile-apps){:target="_blank"}
 - [設計透明的體驗（15 分鐘工作坊）](https://www.netguru.co/blog/designing-the-invisible-experience){:target="_blank"}
 - [語音辨識工具評鑑：要用 Alexa、PocketSphinx、Google API 還是 Project Oxford?](https://www.netguru.co/blog/voice-recognition-tools-review){:target="_blank"}
 - [良好設計的數位產品有什麼特徵？（內有範例）](https://www.netguru.co/blog/how-to-recognize-a-well-designed-digital-product-examples){:target="_blank"}
