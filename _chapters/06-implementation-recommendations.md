@@ -121,5 +121,5 @@ chapter_number: "06"
 
 ## 延伸閱讀
 - [讓 Sketch 有更好的 Android 流程（英）](https://medium.com/@lmindler/using-sketch-3-and-a-bit-of-fairy-dust-for-a-better-android-workflow-f667d0048855#.lgpmpu10m){:target="_blank"}
-- [以開發者的角度進行設計（英）](https://medium.com/going-your-way-anyway/design-like-a-developer-b92f7a8f4520#.1ynw77olc){:target="_blank"}
+- [以開發人員的角度進行設計（英）](https://medium.com/going-your-way-anyway/design-like-a-developer-b92f7a8f4520#.1ynw77olc){:target="_blank"}
 - [應該使用 Material Design 的原因（英）](https://www.netguru.co/blog/why-should-you-use-material-design){:target="_blank"}
