@@ -102,21 +102,19 @@ chapter_number: "06"
 
 簡單來說，只需要提供 1 倍、2 倍和 3 倍大小的素材給工程師。就是這樣簡單。你一定知道怎麼做！
 
-確認應用程式圖示和 App Store 素材都有符合 App Store 規範（請參見 Human Interface Guidelines 和 App Icons on iPhone, iPad and Apple Watch）。另外，Apple 會駁回有透明圖層的 PNG 檔案，所以要多檢查一遍。
+確認應用程式圖示和 App Store 素材都有符合 App Store 規範（請參見 Human Interface Guidelines 和 App Icons on iPhone, iPad and Apple Watch。）另外，Apple 會駁回有透明圖層的 PNG 檔案，所以要多檢查一遍。
 
 ## 客戶可能會問的問題
 
-問：所有設計元件都準備好了嗎？所有iPhone/Android版本的設計元件都製作好了嗎？
-答：給客戶你所有設計元件的連結（例如：吉拉提供設計元件附檔或是Google Drive 連結到設計元件存儲地。）
+{% include qa.html question="所有素材都準備好了嗎？所有 iPhone/Android 的素材都做好了嗎？" answer="給客戶放置所有素材的連結（例如：以 Jira Ticket 附帶素材檔案或放置素材的 Google Drive 連結。）" %}
 
-
-## 在這階段你可能會問自己的問題
+## 在本階段問問自己：
   - 素材的命名都有跟工程師們討論過，並同意嗎？
   - 命名慣例有一致性嗎？
   - 已經製作所有符合平台尺寸需求的素材嗎？
   - 確定工程師有拿到所有他們所需要的嗎？
 
-## 進行過此階段的期望結果
+## 進行過此階段的理想結果
 完成一整套符合所有目標裝置的設計素材。
 
 ## 延伸閱讀
