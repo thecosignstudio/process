@@ -108,7 +108,7 @@ chapter_number: "06"
 
 {% include qa.html question="所有素材都準備好了嗎？所有 iPhone/Android 的素材都做好了嗎？" answer="給客戶放置所有素材的連結（例如：以 Jira Ticket 附帶素材檔案或放置素材的 Google Drive 連結。）" %}
 
-## 在本階段問問自己：
+#### 在本階段問問自己：
   - 素材的命名都有跟工程師們討論過，並同意嗎？
   - 命名慣例有一致性嗎？
   - 已經製作所有符合平台尺寸需求的素材嗎？
