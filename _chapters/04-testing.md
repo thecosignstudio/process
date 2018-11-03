@@ -74,7 +74,7 @@ chapter_number: "04"
   僅需對他人分享設計，建議同時要問：您需要測試或驗證什麼？或您需要對方提供什麼看法。<br>
   交付資料：受測者應對你分享的設計留下評論（例如：透過 InVision）
 
-**[設計缺陷掃除（英）](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow){:target="_blank"}**
+[**設計缺陷掃除（英）**](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow){:target="_blank"}
 - **所需時間**<br>
   最多 1 小時
 - **時機？**<br>
@@ -86,7 +86,7 @@ chapter_number: "04"
   由品保專家主持設計缺陷掃除。在一開始，告知其他人專案內容，接著描述典型使用者的細節。解釋參與者得要完成的事情，但是不要預先解釋任何設計理念。每個人都需參與產品設計師提供的原型設計與任務。<br>
   交付資料：察覺到任何錯誤與疑惑的人，都要記錄起來，像是在 InVision 留下評論。
 
-**[游擊測試（英）](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}**
+[**游擊測試（英）**](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}
 - **所需時間**<br>
   最多 2 小時
 - **時機？**<br>
@@ -104,11 +104,11 @@ chapter_number: "04"
   7. 修正易用性問題。<br>
   交付資料：寫下 3 個最重要的易用性問題，或使用表格完整記錄整個任務。詳細的教學請看[此處（英）](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}。
 
-**[有引導的易用性測試](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}**
+[**有引導的易用性測試**](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}
 - **所需時間**<br>
   至少 3 小時
 - **時機？**<br>
-  - 在設計之後或在實作之後。
+  - 在設計之後或在實做之後。
   - 在不完整或有錯誤的介面的時候 – 例如：最小可行性產品 (Minimum Viable Product)、早期的原型、低保真度的原型，或在 App 中需要非常直接且明確解釋的部分。
   - 非常複雜的介面：讓 App 的學習過程更短、更順暢。
   - 成熟的產品：需要對產品中的特定功能進行測試。
@@ -123,32 +123,32 @@ chapter_number: "04"
   - 詳細的測試報告。
   - 相關檔案（例如：錄音檔等）
 
-**[沒有引導的易用性測試](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}**
+[**沒有引導的易用性測試**](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}
 - **使用產品：** <br>
-  [Userzoom](http://www.userzoom.com/remote-usability-testing/){:target="_blank"}, [AppSee](https://www.appsee.com/features/user-recordings){:target="_blank"}, [UserTesting](https://www.usertesting.com/plans){:target="_blank"}
+  [Userzoom](http://www.userzoom.com/remote-usability-testing/){:target="_blank"}、[AppSee](https://www.appsee.com/features/user-recordings){:target="_blank"}、[UserTesting](https://www.usertesting.com/plans){:target="_blank"}
 - **所需時間**<br>
   至少 3 小時
-- **時機？**
-  - 在設計之後和在實作之後。
+- **時機？**<br>
+  - 在設計之後和在實做之後。
   - 最小可行性產品：需要測試和驗證早期階段產品的時候。
   - 低預算：客戶沒有其他類型的測試預算。
   - 沒時間：沒時間去做有引導的使用者測試。任何符合條件的人都可以隨時隨地進行沒有引導的測試。
   - 現有產品需要重新設計。
-- **原因？**
+- **原因？**<br>
   需要對目前設計和現有產品進行可靠且客觀的測試（必須是內部團隊或設計導向的缺陷掃除無法提供的，）這項測試應有特定的目標或人物誌。
-- **如何進行？**
+- **如何進行？**<br>
   - 使用第三方工具。
   - 親自測試：給予使用者任務，以相機錄製他/她獨自完成任務。<br>
   交付資料：簡述錄影檔案的報告。
 
 **A/B 測試**
-- 使用產品：<br>
+- **使用產品：**<br>
   [Qubit](http://www.qubit.com){:target="_blank"}、[VWO](https://vwo.com/){:target="_blank"}
-- 時機？<br>
-  在實作之後
-- 原因？<br>
+- **時機？**<br>
+  在實做之後
+- **原因？**<br>
   A/B 測試可讓你從現有流量獲得更多收穫。雖然付費流量的成本可能很高，但增加轉換次數的成本卻很低。A/B 測試的投資報酬率可能非常高，因為即使在登陸頁面或網站上的微小變化，也會大幅增加新的潛在客戶、銷售和收益。
-- 可以測試的項目有哪些？<br>
+- **可以測試的項目有哪些？**<br>
   - 標題
   - 副標題
   - 段落文字
@@ -184,12 +184,12 @@ chapter_number: "04"
   讓行銷人員、工程部門和使用者經驗部門中的其他成員知道測試結果和最後找到的洞察。
 
 
-#### 熱點圖 (Heatmaps)
+**熱點圖 (Heatmaps)**
 - **使用產品：**<br>
   [Crazy egg](https://www.crazyegg.com/)、[Hotjar](https://www.hotjar.com/)
-- **時機？**
+- **時機？**<br>
   專案開始執行後。
-- **原因？**
+- **原因？**<br>
   熱點圖 (Heatmaps) 相當適合用來分析訪客行為，提供其他研究方法未必能洞察到的觀點，甚至能增加轉換率。
   - 有別於原始數據的呈現方式，熱點圖運用不同色彩標示出：
     - 滑鼠軌跡：記錄滑鼠移動的軌跡。
@@ -197,14 +197,14 @@ chapter_number: "04"
     - 捲動追蹤：記錄使用者在頁面往下捲到的位置。
     - 此外，使用熱點圖有助於提升圖片的可點性 (clickability)，讓你知道使用者的視線集中處，還有忽略掉的細節，就可以調整、刪減或增加任何功能，提高每張圖片的使用效果。
 
-- **連結：**
-  - 從八個熱點分析案例，揭露訪客使用行為[按此 (英)](https://www.hotjar.com/heatmaps)，作者為 Hotjar 團隊。
+- **連結：**<br>
+  - 從 8 個熱點分析案例，揭露訪客使用行為[按此 (英)](https://www.hotjar.com/heatmaps)，作者為 Hotjar 團隊。
   - 如何使用熱點圖增加轉換率[按此 (英)](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/)，作者是 AdEspresso 的 Dan Virgillito。
-  - 利用熱點圖提升轉換率的實作指南請見[連結一 (英)](https://vwo.com/blog/increase-conversions-using-heatmaps/)與[連結二 (英)](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/)。
+  - 利用熱點圖提升轉換率的實做指南請見[連結一 (英)](https://vwo.com/blog/increase-conversions-using-heatmaps/)與[連結二 (英)](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/)。
 - **如何使用？**<br>
 	使用 [Hotjar](https://www.hotjar.com/) 就能在網站任一頁製作熱點圖，密碼保護與動態的頁面也可以。想了解不同類型的熱點圖（如滑鼠點擊、鍵盤敲擊、游標移動與滾輪滑動等，）請參見[此連結 (英)](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps)。
 
-#### [分析](https://blog.kissmetrics.com/expert-google-analytics-reports/)
+[**分析**](https://blog.kissmetrics.com/expert-google-analytics-reports/){:target="_blank"}
 - **使用產品：**<br>
   [Google Analytics](https://analytics.google.com/)、[Woopra](https://www.woopra.com/)、[Intercom](https://www.intercom.com/)
 - **時機？**<br>
@@ -212,19 +212,20 @@ chapter_number: "04"
 - **原因？**<br>
   分析網站或行動裝置 App 的流量與使用者行為，也可設定目標追蹤轉換率。
 - **如何使用？**<br>
-  - 請開發人員協助安裝 Google Analytics (GA)。透過 GA 分析不同數據，例如即時流量、跳出率、單頁停留時間、使用者如何找到您的網頁等。
-    常見的 GA 報表：
-    - 使用裝置/瀏覽器報表
-    - 客戶開發效率分析報表
-    - 消費者行為報表
-    - 行動裝置效能報表
-    - 網站診斷：網頁操作時間報表
-    - 時段報表（Hours & Days Report）
-    - 參照連結網址報表
-    - 網站內容有效性報表
-    - 社群管道流量來源報表
+  請開發人員協助安裝 Google Analytics (GA)。<br>
+  透過 GA 分析不同數據，例如即時流量、跳出率、單頁停留時間、使用者如何找到您的網頁等。<br>
+  常見的 GA 報表：
+  - 使用裝置/瀏覽器報表
+  - 客戶開發效率分析報表
+  - 消費者行為報表
+  - 行動裝置效能報表
+  - 網站診斷：網頁操作時間報表
+  - 時段報表（Hours & Days Report）
+  - 參照連結網址報表
+  - 網站內容有效性報表
+  - 社群管道流量來源報表
 
-#### 外部人員測試 (Beta Testing)
+[**外部人員測試 (Beta testing)**](https://www.playtestcloud.com/blog/testflight-alternatives-ios-android){:target="_blank"}
 - **使用產品：**<br>
   [TestFlight](https://developer.apple.com/testflight/)、[HockeyApp](https://hockeyapp.net/)、[Google Play Beta Testing](https://play.google.com/apps/publish/signup/)、[Fabric.io](https://get.fabric.io/)
 - **時機？**<br>
