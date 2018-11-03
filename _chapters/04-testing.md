@@ -161,7 +161,7 @@ chapter_number: "04"
   - 社交推薦 (social proof)
   - 媒體曝光
   - 獎項與徽章
-  - 更進階的測試有產品定價結構、促銷、免費試用時間長度、導覽和使用者經驗、運費是否免費... 等。
+  - 更進階的測試有產品定價結構、促銷、免費試用時間長度、導覽和使用者經驗、運費是否免費…等。
 
 - **相關連結：**
   - 想進一步瞭解 A/B 測試工具，可參考這些連結：[這個](http://unbounce.com/landing-page-articles/what-is-ab-testing/){:target="_blank"}、[這個](https://vwo.com/ab-testing/){:target="_blank"}、和[這個連結](https://www.optimizely.com/ab-testing/){:target="_blank"}。

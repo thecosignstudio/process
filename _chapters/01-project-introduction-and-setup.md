@@ -20,7 +20,7 @@ chapter_number: "01"
 - 設計師
 - 業務開發代表
 - 專案經理
-- 開發者
+- 開發人員
 
 ## Kick-off 會議檢查清單
 ### 在首次與客戶見面之前：
@@ -82,7 +82,7 @@ chapter_number: "01"
 #### 一般規則
 - 要積極地建議解決方案，不要消極
 - 聆聽客戶的期望，不要害怕問問題
-- 從第一天開始就向開發者諮詢你的解決方案
+- 從第一天開始就向開發人員諮詢你的解決方案
 - 確認有向客戶說明過溝通工具的使用方法。例如：[InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"} 的留言功能，解釋 [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} 和留言的不同。
 
 #### 意見回饋
@@ -223,7 +223,7 @@ chapter_number: "01"
   - 都知道客戶是否清楚他們的商業模式。
   - 之前的設計及商業相關的問題已經蒐集到。
 - 已建立好架構的資料夾
-- 已經搜集好客戶提供的可使用資源(包含品牌規範...等)。
+- 已經搜集好客戶提供的可使用資源(包含品牌規範…等)。
 
 ## 延伸閱讀
 - [雇用一個設計師時你所要付出的代價（英）](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
