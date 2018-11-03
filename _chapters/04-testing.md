@@ -185,7 +185,7 @@ chapter_number: "04"
 
 
 #### 熱點圖 (Heatmaps)
-- 使用產品：
+- **使用產品：**<br>
   [Crazy egg](https://www.crazyegg.com/)、[Hotjar](https://www.hotjar.com/)
 - **時機？**
   專案開始執行後。
@@ -198,11 +198,11 @@ chapter_number: "04"
     - 此外，使用熱點圖有助於提升圖片的可點性 (clickability)，讓你知道使用者的視線集中處，還有忽略掉的細節，就可以調整、刪減或增加任何功能，提高每張圖片的使用效果。
 
 - **連結：**
-  - [《從八個熱點分析案例，揭露訪客使用行為。》(英](https://www.hotjar.com/heatmaps)，作者為 Hotjar 團隊）
-  - [《如何使用熱點圖增加轉換率。》(英)](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/)(作者為 AdEspresso 的 Dan Virgillito)
-  *《利用熱點圖提升轉換率的實作指南》(英) 請見[連結一](https://vwo.com/blog/increase-conversions-using-heatmaps/)與[連結二](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/)
-- 如何使用？
-	使用 [Hotjar](https://www.hotjar.com/) 就能在網站任一頁製作熱點圖，以密碼保護以及動態頁面也可以。想了解不同類型的熱點圖（如滑鼠點擊、鍵盤敲擊、游標移動與滾輪滑動等），請參見[此連結 (英)]。(https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps)。
+  - 從八個熱點分析案例，揭露訪客使用行為[按此 (英)](https://www.hotjar.com/heatmaps)，作者為 Hotjar 團隊。
+  - 如何使用熱點圖增加轉換率[按此 (英)](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/)，作者是 AdEspresso 的 Dan Virgillito。
+  - 利用熱點圖提升轉換率的實作指南請見[連結一 (英)](https://vwo.com/blog/increase-conversions-using-heatmaps/)與[連結二 (英)](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/)。
+- **如何使用？**<br>
+	使用 [Hotjar](https://www.hotjar.com/) 就能在網站任一頁製作熱點圖，密碼保護與動態的頁面也可以。想了解不同類型的熱點圖（如滑鼠點擊、鍵盤敲擊、游標移動與滾輪滑動等，）請參見[此連結 (英)](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps)。
 
 #### [分析](https://blog.kissmetrics.com/expert-google-analytics-reports/)
 - **使用產品：**<br>
