@@ -65,30 +65,30 @@ chapter_number: "04"
 ## 測試工具與技巧
 **團隊的回饋（例如：透過 Slack Channel）**
 - **所需時間**<br>
-十五分鐘
+  15 分鐘
 - **時機？**<br>
-線稿繪製後或設計後
+  線稿繪製後或設計後
 - **原因？**<br>
-這是最開始的階段，而且是進行測試最簡單的階段，以便在任何階段驗證設計。
+  這是最開始的階段，而且是進行測試最簡單的階段，以便在任何階段驗證設計。
 - **如何進行？**<br>
-僅需對他人分享設計，建議同時要問：您需要測試或驗證什麼？或您需要對方提供什麼看法。<br>
-交付資料：受測者應對你分享的設計留下評論（例如：透過 InVision）
+  僅需對他人分享設計，建議同時要問：您需要測試或驗證什麼？或您需要對方提供什麼看法。<br>
+  交付資料：受測者應對你分享的設計留下評論（例如：透過 InVision）
 
 **[設計缺陷掃除（英）](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow){:target="_blank"}**
-- **所需時間**
-最多一小時
+- **所需時間**<br>
+  最多 1 小時
 - **時機？**<br>
-線稿繪製後或設計後
+  線稿繪製後或設計後
 - **原因？**<br>
-著手進行設計後，測試將會越來越複雜，出現更多的成見，因此，必須從他人獲得幫助。
+  著手進行設計後，測試將會越來越複雜，出現更多的成見，因此，必須從他人獲得幫助。
 - **如何進行？**<br>
   安排 30 至 60 分鐘的設計缺陷掃除，參與成員包含至少 3 位品保專家：專案的品保專家以及 2 位未參與專案的品保專家。也可以讓 1 位產品設計師加入。若還有 1 位專案經理、前端工程師以及團隊的其他成員加入，成效會更好。<br>
   由品保專家主持設計缺陷掃除。在一開始，告知其他人專案內容，接著描述典型使用者的細節。解釋參與者得要完成的事情，但是不要預先解釋任何設計理念。每個人都需參與產品設計師提供的原型設計與任務。<br>
-  產出：察覺到任何錯誤與疑惑的人，都要記錄起來，像是在 InVision 留下評論。
+  交付資料：察覺到任何錯誤與疑惑的人，都要記錄起來，像是在 InVision 留下評論。
 
 **[游擊測試（英）](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}**
 - **所需時間**<br>
-最多兩小時
+  最多 2 小時
 - **時機？**<br>
   線稿繪製後或設計後
 - **原因？**<br>
@@ -102,12 +102,12 @@ chapter_number: "04"
   5. 開始游擊測試。
   6. 記錄游擊測試過程中，受測者的見解。
   7. 修正易用性問題。<br>
-交付文件：寫下 3 個最重要的易用性問題，或使用表格完整記錄整個任務。詳細的教學請看[此處（英）](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}。
+  交付資料：寫下 3 個最重要的易用性問題，或使用表格完整記錄整個任務。詳細的教學請看[此處（英）](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}。
 
 **[有引導的易用性測試](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}**
 - **所需時間**<br>
   至少 3 小時
-- **時機？**
+- **時機？**<br>
   - 在設計之後或在實作之後。
   - 在不完整或有錯誤的介面的時候 – 例如：最小可行性產品 (Minimum Viable Product)、早期的原型、低保真度的原型，或在 App 中需要非常直接且明確解釋的部分。
   - 非常複雜的介面：讓 App 的學習過程更短、更順暢。
@@ -115,11 +115,11 @@ chapter_number: "04"
   - 安全性問題：如果你正在測試一項要存取不希望公開數據的產品，引導員可以讓使用者留在應該待的地方。
   - 現有產品需要重新設計。
 - **原因？**<br>
-  你需要對目前設計和現有產品進行可靠且客觀的測試（必須是內部團隊或設計導向的缺陷掃除無法提供的），這項測試應有特定的目標或人物誌。
-- **如何進行？**
+  需要對目前設計和現有產品進行可靠且客觀的測試（必須是內部團隊或設計導向的缺陷掃除無法提供的，）這項測試應有特定的目標或人物誌。
+- **如何進行？**<br>
   - 找專門的機構。
   - 親自測試：給予使用者任務，並協助他/她完成測試。必要的話，可以詢問問題、給予指引或解釋。<br>
-交付資料
+  交付資料
   - 詳細的測試報告。
   - 相關檔案（例如：錄音檔等）
 
@@ -135,20 +135,20 @@ chapter_number: "04"
   - 沒時間：沒時間去做有引導的使用者測試。任何符合條件的人都可以隨時隨地進行沒有引導的測試。
   - 現有產品需要重新設計。
 - **原因？**
-  你需要對目前設計和現有產品進行可靠且客觀的測試（必須是內部團隊或設計導向的缺陷掃除無法提供的），這項測試應有特定的目標或人物誌。
+  需要對目前設計和現有產品進行可靠且客觀的測試（必須是內部團隊或設計導向的缺陷掃除無法提供的，）這項測試應有特定的目標或人物誌。
 - **如何進行？**
   - 使用第三方工具。
   - 親自測試：給予使用者任務，以相機錄製他/她獨自完成任務。<br>
-交付資料：在一份報告中提供匯總的視頻錄製檔案。
+  交付資料：簡述錄影檔案的報告。
 
 **A/B 測試**
-- **使用產品：**
-  [Qubit](http://www.qubit.com){:target="_blank"}, [VWO](https://vwo.com/){:target="_blank"}
-- **時機？**
-  在實作之後。
-- **原因？**
+- 使用產品：<br>
+  [Qubit](http://www.qubit.com){:target="_blank"}、[VWO](https://vwo.com/){:target="_blank"}
+- 時機？<br>
+  在實作之後
+- 原因？<br>
   A/B 測試可讓你從現有流量獲得更多收穫。雖然付費流量的成本可能很高，但增加轉換次數的成本卻很低。A/B 測試的投資報酬率可能非常高，因為即使在登陸頁面或網站上的微小變化，也會大幅增加新的潛在客戶、銷售和收益。
-- **可以測試的項目有哪些？**
+- 可以測試的項目有哪些？<br>
   - 標題
   - 副標題
   - 段落文字
@@ -184,8 +184,8 @@ chapter_number: "04"
   讓行銷人員、工程部門和使用者經驗部門中的其他成員知道測試結果和最後找到的洞察。
 
 
-## 熱點圖 (Heatmaps)
-- **使用產品：**
+#### 熱點圖 (Heatmaps)
+- 使用產品：
   [Crazy egg](https://www.crazyegg.com/)、[Hotjar](https://www.hotjar.com/)
 - **時機？**
   專案開始執行後。
@@ -197,22 +197,23 @@ chapter_number: "04"
     - 捲動追蹤：記錄使用者在頁面往下捲到的位置。
     - 此外，使用熱點圖有助於提升圖片的可點性 (clickability)，讓你知道使用者的視線集中處，還有忽略掉的細節，就可以調整、刪減或增加任何功能，提高每張圖片的使用效果。
 
-- 連結：
+- **連結：**
   - [《從八個熱點分析案例，揭露訪客使用行為。》(英](https://www.hotjar.com/heatmaps)，作者為 Hotjar 團隊）
   - [《如何使用熱點圖增加轉換率。》(英)](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/)(作者為 AdEspresso 的 Dan Virgillito)
   *《利用熱點圖提升轉換率的實作指南》(英) 請見[連結一](https://vwo.com/blog/increase-conversions-using-heatmaps/)與[連結二](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/)
-- **如何使用？**
+- 如何使用？
 	使用 [Hotjar](https://www.hotjar.com/) 就能在網站任一頁製作熱點圖，以密碼保護以及動態頁面也可以。想了解不同類型的熱點圖（如滑鼠點擊、鍵盤敲擊、游標移動與滾輪滑動等），請參見[此連結 (英)]。(https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps)。
 
-## [分析](https://blog.kissmetrics.com/expert-google-analytics-reports/)
-- 使用產品：[Google Analytics](https://analytics.google.com/), [Woopra](https://www.woopra.com/), [Intercom](https://www.intercom.com/)
-**時機？**
+#### [分析](https://blog.kissmetrics.com/expert-google-analytics-reports/)
+- **使用產品：**<br>
+  [Google Analytics](https://analytics.google.com/)、[Woopra](https://www.woopra.com/)、[Intercom](https://www.intercom.com/)
+- **時機？**<br>
   專案開始執行後。
-**原因？**
+- **原因？**<br>
   分析網站或行動裝置 App 的流量與使用者行為，也可設定目標追蹤轉換率。
-**如何使用？**
+- **如何使用？**<br>
   - 請開發人員協助安裝 Google Analytics (GA)。透過 GA 分析不同數據，例如即時流量、跳出率、單頁停留時間、使用者如何找到您的網頁等。
-    典型的 GA 報表：
+    常見的 GA 報表：
     - 使用裝置/瀏覽器報表
     - 客戶開發效率分析報表
     - 消費者行為報表
@@ -223,14 +224,14 @@ chapter_number: "04"
     - 網站內容有效性報表
     - 社群管道流量來源報表
 
-## 邀請團隊外部人員測試 (Beta Testing)
-- **使用產品：**
-  [TestFlight](https://developer.apple.com/testflight/), [HockeyApp](https://hockeyapp.net/), [Google Play Beta Testing](https://play.google.com/apps/publish/signup/), [Fabric.io](https://get.fabric.io/)
-**時機？**
+#### 外部人員測試 (Beta Testing)
+- **使用產品：**<br>
+  [TestFlight](https://developer.apple.com/testflight/)、[HockeyApp](https://hockeyapp.net/)、[Google Play Beta Testing](https://play.google.com/apps/publish/signup/)、[Fabric.io](https://get.fabric.io/)
+- **時機？**<br>
   專案執行後，公開發布前。
-**原因？**
+- **原因？**<br>
   當產品準備公開發布前，應該在小部分的樣品上做測試，並收集其他人員的回饋，及檢查有無尚未解決的錯誤。
-**如何執行？**
+- **如何執行？**<br>
   通常由開發人員負責測試，如果是針對行動裝置 App 的測試，外部測試是最管用的方法。不過也能應用在任何數位產品。利用 HockeyApp 等工具中提供的指標，使用者可直接在 App 給予回饋。另外，在目標受眾的選擇上有更聰明的方法，利用焦點團體 (focus group)，也就是以人數較少、代表性的小規模群眾作為未來產品使用者樣貌。
 
 ## 設計測試的建議
@@ -240,7 +241,7 @@ chapter_number: "04"
 - 在對真實使用者進行測試時，不要立刻記下洞察（寫下來、自言自語等），這會讓受試者覺得緊張。
 - 進行測試時，不要引導使用者。因為想要知道的是使用者是如何自行找到答案或為何無法解決問題。在現實生活中，當使用者在操作產品時，您是不會坐在他旁邊協助的。
 
-## 客戶可能會問您的問題
+## 客戶可能會提的問題
 {% include qa.html question="為什麼我的產品需要測試？" answer="綜上所述，您必須將出現錯誤的風險降到最低，因為您要面對的是現實中使用您產品的真實使用者。而且，敏捷 Scrum 方法的反覆修改特性，有助於在每個 Sprint 階段改進產品的弱點。測試就試用來找出弱點。" %}
 {% include qa.html question="測試由誰來買單？" answer="由客戶買單，因為這是我們提供的服務之一。耗費大量時間的測試得先與客戶一同討論、評估，並且同意。" %}
 {% include qa.html question="測試得花多少時間？會影響到期限和開發流程嗎？" answer="請見「工具」那段的預估時間。如果測試目標不是開發步調的影響（像是熱點分佈），那就不應該影響期限或開發時程。" %}
