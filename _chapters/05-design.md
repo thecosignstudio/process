@@ -256,7 +256,7 @@ donts="不要害怕發問：記住！沒有笨問題。
 - 是否收到客戶與團隊成員的回饋了？
 
 ## 本階段的期望成果
-- 情緒板 (請參考 [範例一](https://netguru.invisionapp.com/boards/D834FYVZBKNWP){:target="_blank"}與[範例二](https://netguru.invisionapp.com/boards/F736L21WBKCPU){:target="_blank"})。
+- 情緒板 (請參考[範例一](https://netguru.invisionapp.com/boards/D834FYVZBKNWP){:target="_blank"}與[範例二](https://netguru.invisionapp.com/boards/F736L21WBKCPU){:target="_blank"})。
 - 風格樣式指南 (請參考範例 [Taqsim 風格樣式指南](https://netguru.invisionapp.com/share/7UAMU5OB3#/screens){:target="_blank"} 與 [色彩](https://projects.invisionapp.com/share/P79V1I7NK#/screens/212581073){:target="_blank"})
 - 設計 ([參考範例 ](https://netguru.invisionapp.com/share/ZD9VDND6E#/screens/212677302){:target="_blank"})
 
