@@ -72,7 +72,7 @@ chapter_number: "04"
   這是最開始的階段，而且是進行測試最簡單的階段，以便在任何階段驗證設計。
 - **如何進行？**<br>
   僅需對他人分享設計，建議同時要問：您需要測試或驗證什麼？或您需要對方提供什麼看法。<br>
-  交付資料：受測者應對你分享的設計留下評論（例如：透過 InVision）
+交付資料：受測者應對你分享的設計留下評論（例如：透過 InVision）
 
 [**設計缺陷掃除（英）**](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow){:target="_blank"}
 - **所需時間**<br>
@@ -84,7 +84,7 @@ chapter_number: "04"
 - **如何進行？**<br>
   安排 30 至 60 分鐘的設計缺陷掃除，參與成員包含至少 3 位品保專家：專案的品保專家以及 2 位未參與專案的品保專家。也可以讓 1 位產品設計師加入。若還有 1 位專案經理、前端工程師以及團隊的其他成員加入，成效會更好。<br>
   由品保專家主持設計缺陷掃除。在一開始，告知其他人專案內容，接著描述典型使用者的細節。解釋參與者得要完成的事情，但是不要預先解釋任何設計理念。每個人都需參與產品設計師提供的原型設計與任務。<br>
-  交付資料：察覺到任何錯誤與疑惑的人，都要記錄起來，像是在 InVision 留下評論。
+交付資料：察覺到任何錯誤與疑惑的人，都要記錄起來，像是在 InVision 留下評論。
 
 [**游擊測試（英）**](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}
 - **所需時間**<br>
@@ -102,7 +102,8 @@ chapter_number: "04"
   5. 開始游擊測試。
   6. 記錄游擊測試過程中，受測者的見解。
   7. 修正易用性問題。<br>
-  交付資料：寫下 3 個最重要的易用性問題，或使用表格完整記錄整個任務。詳細的教學請看[此處（英）](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}。
+
+  交付資料：寫下 3 個最重要的易用性問題，或使用表格完整記錄整個任務。詳細的教學請看[此處 (英。)](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}
 
 [**有引導的易用性測試**](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}
 - **所需時間**<br>
@@ -119,7 +120,8 @@ chapter_number: "04"
 - **如何進行？**<br>
   - 找專門的機構。
   - 親自測試：給予使用者任務，並協助他/她完成測試。必要的話，可以詢問問題、給予指引或解釋。<br>
-  交付資料
+
+交付資料
   - 詳細的測試報告。
   - 相關檔案（例如：錄音檔等）
 
@@ -139,7 +141,8 @@ chapter_number: "04"
 - **如何進行？**<br>
   - 使用第三方工具。
   - 親自測試：給予使用者任務，以相機錄製他/她獨自完成任務。<br>
-  交付資料：簡述錄影檔案的報告。
+
+交付資料：簡述錄影檔案的報告。
 
 **A/B 測試**
 - **使用產品：**<br>
@@ -258,8 +261,8 @@ chapter_number: "04"
 - 實做階段後，至少已安裝完 Google Analytics？(是/否)
 
 ## 本階段的理想成果
-1.使用適合的工具測試線稿或設計稿。
-2.收集使用者回饋並且執行。
+1. 使用適合的工具測試線稿或設計稿。
+2. 收集使用者回饋並且執行。
 
 ## 延伸閱讀
 - [如何以遠端易用性測試改進介面設計 (英)](https://www.netguru.co/blog/improve-ui-remote-usability-testing)
