@@ -3,6 +3,11 @@ title: "設計"
 chapter_number: "05"
 ---
 
+{% contentfor seo_scripts %}
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+{% endcontentfor %}
+
 # 設計
 
 ## 介紹

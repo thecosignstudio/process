@@ -3,6 +3,11 @@ title: "專案啟動與設置"
 chapter_number: "01"
 ---
 
+{% contentfor seo_scripts %}
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+{% endcontentfor %}
+
 # 專案啟動與設置
 
 ## 啟動
@@ -226,9 +231,9 @@ chapter_number: "01"
 - 已經搜集好客戶提供的可使用資源(包含品牌規範…等)。
 
 ## 延伸閱讀
-- [雇用一個設計師時你所要付出的代價（英）](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
-- [8 個客戶與設計師關係成功建立和維持的方法（英）](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
-- [給非設計師：如何與設計師聊設計（英）](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}
-- [對設計師的期望（英）](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
-- [團隊態度是促使專案成功的關鍵（英）](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
-- [逐步說明：如何選擇設計師（英）](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}
+- [雇用一個設計師時你所要付出的代價](https://www.netguru.co/blog/hiring-designers){:target="_blank"}（英）
+- [8 個客戶與設計師關係成功建立和維持的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}（英）
+- [給非設計師：如何與設計師聊設計](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}（英）
+- [對設計師的期望](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}（英）
+- [團隊態度是促使專案成功的關鍵](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}（英）
+- [逐步說明：如何選擇設計師](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}（英）

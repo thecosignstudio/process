@@ -3,6 +3,11 @@ title: "製作線稿"
 chapter_number: "03"
 ---
 
+{% contentfor seo_scripts %}
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+{% endcontentfor %}
+
 # 製作線稿
 
 ## 前言
@@ -163,8 +168,8 @@ chapter_number: "03"
 ## 延伸閱讀
 - [靠這些簡單的提示來改善你的網路商店體驗（英）](https://www.netguru.co/blog/ecommerce-ux-tips){:target="_blank"}
 - [如何找到線稿的價值](https://intersection.tw/99a830480da){:target="_blank"}
-- [線圖稿：一個很棒的溝通工具，很爛的設計工具（英）](https://medium.com/@danritz/wireframes-a-good-communication-tool-a-poor-design-tool-1bc64b033962#.jp1i8lyxt){:target="_blank"}
-- [產品敏捷設計 (design sprint)：決策（第三天）](https://library.gv.com/the-product-design-sprint-decide-day-3-7d4804bd2fd1#.fhdrt1bfx){:target="_blank"}
+- [線稿：一個很棒的溝通工具，很不理想的設計工具（英）](https://medium.com/@danritz/wireframes-a-good-communication-tool-a-poor-design-tool-1bc64b033962#.jp1i8lyxt){:target="_blank"}
+- [產品設計衝刺：決策（第三天）](https://library.gv.com/the-product-design-sprint-decide-day-3-7d4804bd2fd1#.fhdrt1bfx){:target="_blank"}
 - [為你的線稿選擇合適的保真度（英）](https://blinkux.com/blog/choosing-the-right-level-of-fidelity-for-your-wireframes/){:target="_blank"}
 - [InVision 使用者測試（英）](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"}
-- [你的 App 介面該避免哪些設計（英）](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
+- [行動 App 介面該避免哪些設計（英）](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
