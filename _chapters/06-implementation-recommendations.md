@@ -3,11 +3,6 @@ title: "實做建議"
 chapter_number: "06"
 ---
 
-{% contentfor seo_scripts %}
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-{% endcontentfor %}
-
 # 實做建議
 
 ## 介紹

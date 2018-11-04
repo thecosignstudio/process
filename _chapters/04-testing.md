@@ -3,11 +3,6 @@ title: "測試"
 chapter_number: "04"
 ---
 
-{% contentfor seo_scripts %}
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-{% endcontentfor %}
-
 # 測試
 
 ## 介紹

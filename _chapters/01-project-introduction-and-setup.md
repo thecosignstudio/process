@@ -3,11 +3,6 @@ title: "專案啟動與設置"
 chapter_number: "01"
 ---
 
-{% contentfor seo_scripts %}
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-{% endcontentfor %}
-
 # 專案啟動與設置
 
 ## 啟動

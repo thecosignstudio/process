@@ -3,11 +3,6 @@ title: "結束專案"
 chapter_number: "07"
 ---
 
-{% contentfor seo_scripts %}
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-{% endcontentfor %}
-
 # 結束專案
 
 ## 介紹

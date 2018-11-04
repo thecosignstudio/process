@@ -3,11 +3,6 @@ title: "創意發想與概念"
 chapter_number: "02"
 ---
 
-{% contentfor seo_scripts %}
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-{% endcontentfor %}
-
 # 創意發想與概念
 
 ## 引言
