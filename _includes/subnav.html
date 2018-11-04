@@ -17,7 +17,7 @@
 <div class="subnav-wrapper">
   <div class="col-xs-12 col-md-3 subnav js-subnav subnav--active">
     <a href="https://thecosignstudio.github.io/process" class="subnav__back-button">
-        Exit e-book
+      回到封面首頁
     </a>
     <div class="subnav__chapters-container subnav__chapters-container--active">
       <div class="subnav__chapter-header-container">
@@ -42,6 +42,9 @@
           {% endif %}
         </div>
         <div class="chapter-number">{{ page.chapter_number }}</div>
+        <button class="chapter-toggle js-show-chapter-nav">
+          所有章節
+        </button>
       </div>
       <div class="subnav__chapters-listing js-toc"></div>
     </div>
@@ -88,11 +91,12 @@
   </div>
   <div class="js-toc-all-chapters"></div>
   <a href="https://thecosignstudio.github.io/process" class="subnav__back-button-mobile">
-    Exit e-book
+    回到封面首頁
   </a>
   <div class="chapter-sidebar__logo-wrapper">
     <a href="https://www.netguru.co/">
       {% include image.html img="logo_netguru_b.png" alt="Netguru logo" %}
     </a>
+    <h2 class="subnav__logo-cosign"></h2>
   </div>
 </div>

@@ -243,13 +243,13 @@
       display: none;
     }
   }
-}
 
-.subnav__logo-cosign {
-  background-image: url('../assets/home_imgs/cosign.png');
-  background-repeat: no-repeat;
-  background-size: 100% auto;
-  height: 54px;
-  margin: 0 0 24px;
-  width: 100px;
+  &__logo-cosign {
+    background-image: url('../assets/home_imgs/cosign.png');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 54px;
+    margin: 0 0 24px;
+    width: 100px;
+  }
 }

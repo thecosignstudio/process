@@ -3,7 +3,7 @@ function capitalizeFirstLetter(string) {
 }
 
 export default function updateText(element) {
-  const currentText = element.text().replace('/chapters/', '');
+  const currentText = element.text().replace('/process/chapters/', '');
   const [chapterNo] = currentText.split('-');
   const [, newText] = currentText.split('#');
   const capitalized = capitalizeFirstLetter(newText).split('-')

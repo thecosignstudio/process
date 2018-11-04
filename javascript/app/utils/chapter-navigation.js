@@ -15,7 +15,7 @@ function addToc() {
     anchorName(i, heading) {
       return $(heading)
         .text()
-        .replace('/chapters/', '');
+        .replace('/chapters/process', '');
     },
   });
 
@@ -61,7 +61,7 @@ function addToc() {
     anchorName(i, heading) {
       return $(heading)
         .text()
-        .replace('/chapters/', '');
+        .replace('/chapters/process', '');
     },
   });
 
