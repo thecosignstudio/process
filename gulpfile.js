@@ -41,6 +41,22 @@ gulp.task('build', () => {
           exclude: 'node_modules/**',
         }),
       ],
+    },
+    {
+      input: 'javascript/app/home.js',
+      output: {
+        sourcemap: 'inline',
+        format: 'iife',
+        file: 'build/js/home.min.js',
+      },
+      plugins: [
+        eslint({
+          exclude: ['javascript/vendor'],
+        }),
+        babel({
+          exclude: 'node_modules/**',
+        }),
+      ],
     }))
     .pipe(uglify())
     .pipe(gulp.dest(buildFolder));
