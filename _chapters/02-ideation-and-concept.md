@@ -153,9 +153,9 @@ chapter_number: "02"
 - 在客戶與客戶對談時要察言觀色，詢問對他們來說重要的事情
 - 也許會有我們可以解決和衡量的問題
 - 要明確設定想要實現的目標
-- 非常推薦你閱讀 [商業模式圖（英）](https://upload.wikimedia.org/wikipedia/commons/1/10/Business_Model_Canvas.png){:target="_blank"} 這不是一個明確的問題，但它顯示了業務和產品的基本要素，你可以把它當作收集想法的靈感。
+- 非常推薦回顧一遍[商業模式圖（英）](https://upload.wikimedia.org/wikipedia/commons/1/10/Business_Model_Canvas.png){:target="_blank"}，這不是明確的問題範例，但它顯示了業務和產品的基本要素，你可以把它當作收集想法的靈感。
 
-既然所有東西都是可追蹤的，就來談談你要追蹤的確切目標吧。找出客戶的 KPI（關鍵績效指標），好的 KPI 需要考慮商業脈絡、成功預測、顯示早期預警的訊號，並驗證已實現的結果。可以使用此資源製作 [量身定制的 KPI 材料](http://www.bscdesigner.com/kpi-system-example.htm){:target="_blank"} 它們可以是使用 Paypal 的新註冊使用者，也可以是使用信用卡購買的客戶，一定要從一開始就知道你的目標有多高，有時候，分析起來很有挑戰性，更多訊息請閱讀：[針對最具挑戰性的指標及 KPI 的 12 步驟系統](http://www.bscdesigner.com/kpi-system.htm){:target="_blank"}
+既然所有東西都是可追蹤的，就來談談你要追蹤的確切目標吧。找出客戶的 KPI（關鍵績效指標），好的 KPI 需要考慮商業脈絡、成功預測、顯示早期預警的訊號，並驗證已實現的結果。可以使用此資源製作[量身定制的 KPI 材料](http://www.bscdesigner.com/kpi-system-example.htm){:target="_blank"}。它們可以是使用 Paypal 的新註冊使用者，也可以是使用信用卡購買的客戶，一定要從一開始就知道你的目標有多高，有時候，分析起來很有挑戰性，更多細節請閱讀：[針對最具挑戰性的指標及 KPI 的 12 步驟系統](http://www.bscdesigner.com/kpi-system.htm){:target="_blank"}。
 
 ### 定義使用者/定位顧客
 無論你的設計是什麽，你都必須弄清楚目標族群是誰。很多人都認為自己的產品適合所有人，但試圖讓你的產品吸引所有人不但費力且昂貴。你要做的是明確想出目標族群，並把投入在此細分市場上。更深入了解目標族群將提高效率，且最終將提高你的影響力，因為一旦知道使用者是誰，就會知道如何為他們設計。
