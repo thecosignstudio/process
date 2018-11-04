@@ -3,6 +3,11 @@ title: "創意發想與概念"
 chapter_number: "02"
 ---
 
+{% contentfor seo_scripts %}
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+{% endcontentfor %}
+
 # 創意發想與概念
 
 ## 引言
@@ -306,7 +311,7 @@ Source: [https://www.nngroup.com/articles/which-ux-research-methods](https://www
 - [良好設計的數位產品有什麼特徵？（內有範例）](https://www.netguru.co/blog/how-to-recognize-a-well-designed-digital-product-examples){:target="_blank"}（英）
 - [10 個你今年應該要關注的優秀網頁設計 Podcast](https://www.netguru.co/blog/top-10-web-design-podcasts-you-should-follow-this-year){:target="_blank"}（英）
 - [使用者研究：Airbnb 的中國市場](https://uxdesign.cc/user-research-airbnb-for-the-chinese-market-5ee21ce34bff){:target="_blank"}（英）
-- [打造頂尖的品牌塑造](https://medium.com/swlh/crafting-a-great-branding-delivery-7992990d2548){:target="_blank"}（英）
+- [打造優秀的品牌塑造交付](https://medium.com/swlh/crafting-a-great-branding-delivery-7992990d2548){:target="_blank"}（英）
 - [https://www.nngroup.com](https://www.nngroup.com/articles/which-ux-research-methods){:target="_blank"}
 - [https://www.uxmatters.com](https://www.uxmatters.com/mt/archives/2012/08/stakeholder-research-precedes-ux-research.php#top ){:target="_blank"}
 - [https://www.usertesting.com](https://www.usertesting.com/blog/2013/03/04/when-to-test-incorporating-usability-testing-into-product-design/){:target="_blank"}

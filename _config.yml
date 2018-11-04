@@ -45,7 +45,7 @@ theme: minima
 sass:
   sass_dir: _sass
 plugins:
-  - jekyll-feed
+  - jekyll-contentblocks
 exclude:
   - Gemfile
   - Gemfile.lock

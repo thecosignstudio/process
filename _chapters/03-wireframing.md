@@ -3,6 +3,11 @@ title: "製作線稿"
 chapter_number: "03"
 ---
 
+{% contentfor seo_scripts %}
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+{% endcontentfor %}
+
 # 製作線稿
 
 ## 前言
