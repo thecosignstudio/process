@@ -13,11 +13,17 @@
 }
 
 .home-nav-item {
+  flex: 1 1 auto;
   list-style: none;
-  margin-right: 48px;
+  text-align: center;
 
-  &:last-child {
-    margin-right: 0;
+  @media screen and (min-width: 768px) {
+    margin-right: 48px;
+    text-align: left;
+
+    &:last-child {
+      margin-right: 0;
+    }
   }
 }
 
