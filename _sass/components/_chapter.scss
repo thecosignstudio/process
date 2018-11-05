@@ -94,7 +94,7 @@
     ul {
       margin: 0;
       margin-bottom: $base-sizing;
-      padding: 0;
+      padding-left: 1rem;
       list-style: none;
 
       ul {
@@ -119,16 +119,21 @@
     li {
       font-size: $fs-rel-1;
       line-height: $base-sizing;
+      position: relative;
 
       &::before {
         @include sizing(8px);
         content: '';
-        display: inline-block;
+        display: block;
         margin-right: 15px;
         margin-bottom: 3px;
         font-size: $fs-rel-1;
         background-color: $orange-color;
         border-radius: 8px;
+        position: absolute;
+        left: -1rem;
+        top: 1em;
+        transform: translateY(-50%);
       }
 
       p:first-of-type::first-letter {
