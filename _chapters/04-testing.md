@@ -14,9 +14,9 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
 - 測試設計的訣竅。
 - 使用者的常見問題。
 
-{% include quote.html text="Test（動詞）：藉由各種方式去確認品質、效能或一件事的可信度，尤其在它還未經過眾人使用或實踐的時候。" author="來自牛津辭典" %}
+{% include quote.html text="Test (動詞): 藉由各種方式去確認品質、效能或一件事的可信度，尤其在它還未經過眾人使用或實踐的時候。" author="來自牛津辭典" %}
 
-數位產品的任何部分均可測試：設計理念、程式碼、效能、表單、按鈕…等。在本文中，我們將僅探討設計。另一方面，我們以敏捷開發方式切入，闡述**測試在每個衝刺階段皆為重要的一環**。這就是每個設計團隊都有專門負責測試的品保專家的原因。
+數位產品的任何部分均可測試：設計理念、程式碼、效能、表單、按鈕…等。在本文中，我們將僅探討設計。另一方面，我們以敏捷開發方式切入，闡述**測試在每個 Sprint 階段皆為重要的一環**。這就是每個設計團隊都有專門負責測試的品保專家的原因。
 您測試中的所有反覆修正，皆需要測試。下列重要的設計開發過程中，應該要有適用於專案與該階段的測試方法。
 
 ## 測試的好處
@@ -38,7 +38,7 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
 - 品保
 - 設計師
 - 專案經理
-- 開發工程師
+- 開發人員
 
 ## 測試時機
 ### 線稿繪製後的測試
@@ -54,7 +54,7 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
 
 **目標**：測試 UI。視覺設計將更專注於特定設計理念，例如：UI 元素、顏色、形狀以及互動。假如已在線稿繪製後進行測試，在此階段要測試那些元素。
 
-**工具**: 設計缺陷掃除（連結）、組織內或外部的使用者測試、易用性游擊測試。
+**工具**: 設計缺陷掃除 (連結)、組織內或外部的使用者測試、易用性游擊測試。
 
 ### 實做後的測試
 **參與者**：產品設計師、品保、使用者
@@ -64,7 +64,7 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
 **工具**：熱點圖、A/B 測試、組織內或外部的使用者測試、分析。
 
 ## 測試工具與技巧
-**團隊的回饋（例如：透過 Slack Channel）**
+**團隊的回饋 (例如：透過 Slack Channel)**
 - **所需時間**<br>
   15 分鐘
 - **時機？**<br>
@@ -73,9 +73,9 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
   這是最開始的階段，而且是進行測試最簡單的階段，以便在任何階段驗證設計。
 - **如何進行？**<br>
   僅需對他人分享設計，建議同時要問：您需要測試或驗證什麼？或您需要對方提供什麼看法。<br>
-交付資料：受測者應對你分享的設計留下評論（例如：透過 InVision）
+交付資料：受測者應對你分享的設計留下評論 (例如：透過 InVision)。
 
-[**設計缺陷掃除（英）**](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow){:target="_blank"}
+[**設計缺陷掃除 (英)**](https://www.netguru.co/blog/tips-for-a-bountiful-bug-bash-netguru-qa-flow){:target="_blank"}
 - **所需時間**<br>
   最多 1 小時
 - **時機？**<br>
@@ -87,7 +87,7 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
   由品保專家主持設計缺陷掃除。在一開始，告知其他人專案內容，接著描述典型使用者的細節。解釋參與者得要完成的事情，但是不要預先解釋任何設計理念。每個人都需參與產品設計師提供的原型設計與任務。<br>
 交付資料：察覺到任何錯誤與疑惑的人，都要記錄起來，像是在 InVision 留下評論。
 
-[**游擊測試（英）**](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}
+[**游擊測試 (英)**](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}
 - **所需時間**<br>
   最多 2 小時
 - **時機？**<br>
@@ -104,7 +104,7 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
   6. 記錄游擊測試過程中，受測者的見解。
   7. 修正易用性問題。<br>
 
-  交付資料：寫下 3 個最重要的易用性問題，或使用表格完整記錄整個任務。詳細的教學請看[此處 (英。)](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"}
+  交付資料：寫下 3 個最重要的易用性問題，或使用表格完整記錄整個任務。詳細的教學請看[此處](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method){:target="_blank"} (英)。
 
 [**有引導的易用性測試**](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}
 - **所需時間**<br>
@@ -117,14 +117,14 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
   - 安全性問題：如果你正在測試一項要存取不希望公開數據的產品，引導員可以讓使用者留在應該待的地方。
   - 現有產品需要重新設計。
 - **原因？**<br>
-  需要對目前設計和現有產品進行可靠且客觀的測試（必須是內部團隊或設計導向的缺陷掃除無法提供的，）這項測試應有特定的目標或人物誌。
+  需要對目前設計和現有產品進行可靠且客觀的測試 (必須是內部團隊或設計導向的缺陷掃除無法提供的)，這項測試應有特定的目標或人物誌。
 - **如何進行？**<br>
   - 找專門的機構。
   - 親自測試：給予使用者任務，並協助他/她完成測試。必要的話，可以詢問問題、給予指引或解釋。<br>
 
 交付資料
   - 詳細的測試報告。
-  - 相關檔案（例如：錄音檔等）
+  - 相關檔案 (例如：錄音檔等)
 
 [**沒有引導的易用性測試**](https://www.uxpin.com/studio/blog/moderated-vs-unmoderated-usability-testing-better/){:target="_blank"}
 - **使用產品：** <br>
@@ -138,7 +138,7 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
   - 沒時間：沒時間去做有引導的使用者測試。任何符合條件的人都可以隨時隨地進行沒有引導的測試。
   - 現有產品需要重新設計。
 - **原因？**<br>
-  需要對目前設計和現有產品進行可靠且客觀的測試（必須是內部團隊或設計導向的缺陷掃除無法提供的，）這項測試應有特定的目標或人物誌。
+  需要對目前設計和現有產品進行可靠且客觀的測試 (必須是內部團隊或設計導向的缺陷掃除無法提供的)，這項測試應有特定的目標或人物誌。
 - **如何進行？**<br>
   - 使用第三方工具。
   - 親自測試：給予使用者任務，以相機錄製他/她獨自完成任務。<br>
@@ -168,10 +168,10 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
   - 更進階的測試有產品定價結構、促銷、免費試用時間長度、導覽和使用者經驗、運費是否免費…等。
 
 - **相關連結：**
-  - 想進一步瞭解 A/B 測試工具，可參考這些連結：[這個](http://unbounce.com/landing-page-articles/what-is-ab-testing/){:target="_blank"}、[這個](https://vwo.com/ab-testing/){:target="_blank"}、和[這個連結](https://www.optimizely.com/ab-testing/){:target="_blank"}。
-  - 學習如何打破七個 A/B 測試 by Kissmetrics [連結](https://blog.kissmetrics.com/ab-testing-myths/){:target="_blank"}。
-  - A/B 測試的終極指南 by Smashing Magazine [連結](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/){:target="_blank"}。
-  - 了解最重要的 A/B 測試清單 by HubSpot [連結](https://blog.hubspot.com/marketing/a-b-test-checklist#sm.00001z5neov22f9pvdk194oo5d7tq){:target="_blank"}。
+  - 想進一步瞭解 A/B 測試工具，可參考這些連結：[這個](http://unbounce.com/landing-page-articles/what-is-ab-testing/){:target="_blank"}、[這個](https://vwo.com/ab-testing/){:target="_blank"}和[這個連結](https://www.optimizely.com/ab-testing/){:target="_blank"}。
+  - 學習如何破除這 7 個 A/B 測試的迷思，來源：Kissmetrics，[連結](https://blog.kissmetrics.com/ab-testing-myths/){:target="_blank"}。
+  - A/B 測試的終極指南，來源：Smashing Magazine，[連結](https://www.smashingmagazine.com/2010/06/the-ultimate-guide-to-a-b-testing/){:target="_blank"}。
+  - 了解最重要的 A/B 測試清單，來源：HubSpot，[連結](https://blog.hubspot.com/marketing/a-b-test-checklist#sm.00001z5neov22f9pvdk194oo5d7tq){:target="_blank"}。
 - **該如何進行測試?**
   進行 A/B 測試實驗的正確方法是遵循科學的實驗過程，包含以下步驟：
   1. **研究你的網站數據：**
@@ -202,11 +202,11 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
     - 此外，使用熱點圖有助於提升圖片的可點性 (clickability)，讓你知道使用者的視線集中處，還有忽略掉的細節，就可以調整、刪減或增加任何功能，提高每張圖片的使用效果。
 
 - **連結：**<br>
-  - 從 8 個熱點分析案例，揭露訪客使用行為[按此 (英)](https://www.hotjar.com/heatmaps)，作者為 Hotjar 團隊。
-  - 如何使用熱點圖增加轉換率[按此 (英)](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/)，作者是 AdEspresso 的 Dan Virgillito。
-  - 利用熱點圖提升轉換率的實做指南請見[連結一 (英)](https://vwo.com/blog/increase-conversions-using-heatmaps/)與[連結二 (英)](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/)。
+  - 從 8 個熱點分析案例，揭露訪客使用行為[按此](https://www.hotjar.com/heatmaps)(英)，作者為 Hotjar 團隊。
+  - 如何使用熱點圖增加轉換率[按此] (英)(https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/)，作者是 AdEspresso 的 Dan Virgillito。
+  - 利用熱點圖提升轉換率的實做指南請見[連結一](https://vwo.com/blog/increase-conversions-using-heatmaps/) (英)與[連結二] (英)(https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/)。
 - **如何使用？**<br>
-	使用 [Hotjar](https://www.hotjar.com/) 就能在網站任一頁製作熱點圖，密碼保護與動態的頁面也可以。想了解不同類型的熱點圖（如滑鼠點擊、鍵盤敲擊、游標移動與滾輪滑動等，）請參見[此連結 (英)](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps)。
+	使用 [Hotjar](https://www.hotjar.com/) 就能在網站任一頁製作熱點圖，密碼保護與動態的頁面也可以。想了解不同類型的熱點圖 (如滑鼠點擊、鍵盤敲擊、游標移動與滾輪滑動等，)請參見[此連結](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps) (英)。
 
 [**分析**](https://blog.kissmetrics.com/expert-google-analytics-reports/){:target="_blank"}
 - **使用產品：**<br>
@@ -224,7 +224,7 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
   - 消費者行為報表
   - 行動裝置效能報表
   - 網站診斷：網頁操作時間報表
-  - 時段報表（Hours & Days Report）
+  - 時段報表 (Hours & Days Report)
   - 參照連結網址報表
   - 網站內容有效性報表
   - 社群管道流量來源報表
@@ -243,13 +243,13 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
 - 當專案要進行到下一階段時，儘早建構原型並進行測試，並頻繁地修正重大產品問題。
 - 只需要 3 到 5 人檢查最重要的易用性問題。
 - 最好是找對產品毫無背景知識的新受測者，參與測試。
-- 在對真實使用者進行測試時，不要立刻記下洞察（寫下來、自言自語等），這會讓受試者覺得緊張。
+- 在對真實使用者進行測試時，不要立刻記下洞察 (寫下來、自言自語等)，這會讓受試者覺得緊張。
 - 進行測試時，不要引導使用者。因為想要知道的是使用者是如何自行找到答案或為何無法解決問題。在現實生活中，當使用者在操作產品時，您是不會坐在他旁邊協助的。
 
 ## 客戶可能會提的問題
 {% include qa.html question="為什麼我的產品需要測試？" answer="綜上所述，您必須將出現錯誤的風險降到最低，因為您要面對的是現實中使用您產品的真實使用者。而且，敏捷 Scrum 方法的反覆修改特性，有助於在每個 Sprint 階段改進產品的弱點。測試就試用來找出弱點。" %}
 {% include qa.html question="測試由誰來買單？" answer="由客戶買單，因為這是我們提供的服務之一。耗費大量時間的測試得先與客戶一同討論、評估，並且同意。" %}
-{% include qa.html question="測試得花多少時間？會影響到期限和開發流程嗎？" answer="請見「工具」那段的預估時間。如果測試目標不是開發步調的影響（像是熱點分佈），那就不應該影響期限或開發時程。" %}
+{% include qa.html question="測試得花多少時間？會影響到期限和開發流程嗎？" answer="請見「工具」那段的預估時間。如果測試目標不是開發步調的影響 (像是熱點分佈)，那就不應該影響期限或開發時程。" %}
 {% include qa.html question="App 在設計階段之後有測試過了嗎？我們可以開始實做了嗎？要怎麼做？" answer="測試過了！為了要確保工作結果的品質，產品必須經過測試。經過測試之後，就可以開始實做了。" %}
 {% include qa.html question="至少會有哪些測試來確保高品質？" answer="每個產品適用不同的測試方法，所以測試的項目會依照產品性質客製。通常在所有的專案中都會包含總結工作團隊的回饋訊息和設計的漏洞掃除。" %}
 
@@ -266,4 +266,4 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
 2. 收集使用者回饋並且執行。
 
 ## 延伸閱讀
-- [如何以遠端易用性測試改進介面設計 (英)](https://www.netguru.co/blog/improve-ui-remote-usability-testing)
+- [如何以遠端易用性測試改進介面設計](https://www.netguru.co/blog/improve-ui-remote-usability-testing) (英)

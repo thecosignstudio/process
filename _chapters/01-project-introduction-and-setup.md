@@ -29,9 +29,9 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 - 客戶已有正在使用的產品嗎？
   - 如果有，可以考慮先做 [UX 評估](https://www.netguru.co/services/ux-review){:target="_blank"}。
 - 產品有清楚的範疇 (scope) 嗎？
-  - 是/否（在此階段，產品應該已經界定範疇。沒有的話，就要進行一次範疇界定流程。）
+  - 是/否 (在此階段，產品應該已經界定範疇。沒有的話，就要進行一次範疇界定流程。)
 - 專案的構想是否已經足以進行設計？
-  - 我們在 Netguru 會進行[產品設計衝刺 (Product Design Sprints)](https://www.netguru.co/services/product-design-sprint){:target="_blank"}，幫助客戶充實想法。
+  - 我們在 Netguru 會進行[產品設計 Sprint](https://www.netguru.co/services/product-design-sprint){:target="_blank"}，幫助客戶充實想法。
 - 設計給哪個平台？
 - 如果是網頁設計，要做響應式 (responsive) 嗎？
 - 工程開發階段是由我們的團隊進行嗎？
@@ -53,7 +53,7 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 
 ### 首次會面 - 從客戶獲取訊息：
 **一般訊息**
-- 最後期限是什麼時候？（設計/推出日期）
+- 最後期限是什麼時候？ (設計/推出日期)
 - 你自己認為此功能的成功因素？
 - 你認為我們一起合作能夠成功的因素？
 - 你曾經蒐集過任何使用者反映的意見嗎？
@@ -88,7 +88,7 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 
 #### 意見回饋
 - 客戶有足夠的時間給你意見回饋嗎？如果沒有，要試著要求有空的利害關係人積極參與溝通。
-- 讓客戶能夠理解積極與合作方法的價值（回饋與溝通。）
+- 讓客戶能夠理解積極與合作方法的價值 (回饋與溝通。)
 - 確認在客戶的部分只有一個最終回饋點。
 - 確認你有機會向所有利害關係人展示解決方案。
 - 確認客戶知道我們不是根據幾篇固定數量的評論做事，而是常態的回饋與反覆修改 (feedback-and-iteration) 模式。
@@ -100,7 +100,7 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 - 客戶理解設計師的角色嗎？
 
 #### 里程碑與優先順序
-- 確認客戶有合理的[最小可行性產品 (MVP)](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"} 製作方式（讓範圍保持夠小。）
+- 確認客戶有合理的[最小可行性產品 (MVP)](https://www.netguru.co/blog/first-a-definition-the-minimum-viable-product-is){:target="_blank"} 製作方式 (讓範圍保持夠小)。
 - 確認客戶知道在功能方面要一步一步來的重要性。
 
 #### 為什麼宣傳作品的成果很重要？
@@ -122,12 +122,12 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 - 調整你的用語，不要使用專業術語。
 
 ## 蒐集回饋
-在 Netguru，我們使用 InVision 做為每次進行反覆修正獲得的意見回饋，和把所有留言都放在同一處的主要工具。（[看它的運作原理](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"}）我們也有從團隊內其他設計師獲取精準回饋的詳盡流程。
+在 Netguru，我們使用 InVision 做為每次進行反覆修正獲得的意見回饋，和把所有留言都放在同一處的主要工具。[看它的運作原理](https://www.youtube.com/watch?v=J09zw08ihw4){:target="_blank"}。我們也有從團隊內其他設計師獲取精準回饋的詳盡流程。
 
 ### 來自隊友
 請記得，如果你的設計遭遇任何困難，一定都可以向其他設計師徵求回饋。還有很重要的是：分享給客戶之前，先在團隊內部分享。這個做法可以改進設計、找出錯誤或邏輯問題，當然也可以收到對你的讚美，獲得按讚。
 
-- 就只要敲你的隊友（用傳訊 app 或直接跟他們說），分享設計的連結，要求給予協助、意見或留言。
+- 就只要敲你的隊友 (用傳訊 app 或直接跟他們說)，分享設計的連結，要求給予協助、意見或留言。
 - 請求另一位設計師幫忙檢查。
 - 如果不確定是否還可以花更多時間準備詳盡的設計，就問 PM 是否有足夠的資源/時間/金錢來開發這些功能。
 
@@ -138,7 +138,7 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 - 詢問客戶是否能理解工具的使用方式，要不然就引導他走過一遍在設計上加入評論的流程。
 - 回覆評論，然後把它們標記為已完成。
 - 客戶或你有什麼不清楚的地方時，試著解釋到兩邊都清楚瞭解為止。
-- 準備好能夠點按的設計（畫面之間設定連結），可以增進客戶感受到的體驗。
+- 準備好能夠點按的設計 (畫面之間設定連結)，可以增進客戶感受到的體驗。
 - 跟客戶保持聯繫，把設計的最新版連結傳給客戶，給予進度更新。最好也要詢問客戶這些設計帶來的感覺和情緒。
 - 你就是為了要展示設計而跟客戶接觸。有時候，得要兜售願景，或是設計背後的全局。
 
@@ -159,7 +159,7 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 
 {% include image.html img="image3.png" img2x="Image3@2x.png" alt="Sources folders" %}
 
-每個資料夾（視覺和線稿）會包含所有原始檔案（source、.psd、.sketch 等）。視專案而定，但假如有兩種檔案，我們就會為 .psd, .sketch, 或任何其他附檔名文件建立子資料夾。
+每個資料夾 (視覺和線稿) 會包含所有原始檔案 (source、.psd、.sketch 等)。視專案而定，但假如有兩種檔案，我們就會為 .psd、.sketch 或任何其他附檔名文件建立子資料夾。
 
 {% include image.html img="image1.png" img2x="Image1@2x.png" alt="Source files subfolders" %}
 
@@ -189,7 +189,7 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 
 **D. 圖檔和圖示**
 
-如果我們有一些額外的圖檔（Shutterstock 等等圖資源）或圖示集，我們會上傳到這裡。
+如果我們有一些額外的圖檔 (Shutterstock 等等圖資源) 或圖示集，我們會上傳到這裡。
 
 **E. 文件記錄**
 
@@ -224,12 +224,12 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
   - 都知道客戶是否清楚他們的商業模式。
   - 之前的設計及商業相關的問題已經蒐集到。
 - 已建立好架構的資料夾
-- 已經搜集好客戶提供的可使用資源 (包含品牌規範…等。)
+- 已經搜集好客戶提供的可使用資源 (包含品牌規範…等)。
 
 ## 延伸閱讀
-- [雇用一個設計師時你所要付出的代價](https://www.netguru.co/blog/hiring-designers){:target="_blank"}（英）
-- [8 個客戶與設計師關係成功建立和維持的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}（英）
-- [給非設計師：如何與設計師聊設計](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"}（英）
-- [對設計師的期望](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}（英）
-- [團隊態度是促使專案成功的關鍵](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}（英）
-- [逐步說明：如何選擇設計師](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"}（英）
+- [雇用一個設計師時你所要付出的代價](https://www.netguru.co/blog/hiring-designers){:target="_blank"} (英)
+- [8 個客戶與設計師關係成功建立和維持的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"} (英)
+- [給非設計師：如何與設計師聊設計](https://www.netguru.co/blog/talking-designers-about-design){:target="_blank"} (英)
+- [對設計師的期望](https://www.netguru.co/blog/what-expect-designer){:target="_blank"} (英)
+- [團隊態度是促使專案成功的關鍵](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"} (英)
+- [逐步說明：如何選擇設計師](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"} (英)
