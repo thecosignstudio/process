@@ -129,7 +129,7 @@ exerpt: "進行設計的目的是讓功能實現；以可用的資源解決問�
 **行動 App 互動的重要性**<br>
 閱讀：[微互動：設計良好 app 的秘密](https://intersection.tw/742c369a464e){:target="_blank"} ([原文](https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf){:target="_blank"})<br>
 
-## 團隊設計: 最佳做法
+## 團隊設計：最佳做法
 
 {% include dosndonts.html introduction="1. 每個專案都從腦力激盪階段開始。" dos="
 要激烈討論、也鼓勵各種瘋狂想法。
