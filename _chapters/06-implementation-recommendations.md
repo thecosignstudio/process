@@ -93,17 +93,17 @@ exerpt: "每個開發人員對於實做設計有不同的方法。對於像是�
 
 {% include image.html img="9_patch_Android.png" img2x="9_patch_Android@2x.png" alt="9-patch scaling for Android" %}
 
-如果有素材是多次使用於應用程式當中，並且能夠縮放成不同尺寸的，可以使用 9-patch 縮放 (例如：按鈕)。像是圖示之類的東西可能無法正確縮放。所以，很遺憾地，必須手動調整所有解析度的大小。9-patch 的導線一定是 1 像素寬並且是黑色的 (#000000)，不然會無法辨識。切圖範圍則須比素材本身大 2 像素 (左右或是上下 1 個像素寬)。因此，若素材是 48x48 像素，切圖範圍就是 50x50 像素。因為不能把 9-patch 圖片縮小，所以必須盡可能以最小尺寸交付，如此應用程式的整體性能會更好。使用 Android 的 Draw9Patch 工具輕鬆建立或是檢查 9-patch 圖片。更多有關於 9-patch 圖片詳細資料，請看 [Android Developers](http://developer.android.com/tools/help/draw9patch.html){:target="_blank"}網站。還可以利用[簡易 9-patch 圖片生成器](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=320&name=example){:target="_blank"}。
+如果有素材是多次使用於應用程式當中，並且能夠縮放成不同尺寸的，可以使用 9-patch 縮放 (例如：按鈕)。像是圖示之類的東西可能無法正確縮放。所以，很遺憾地，必須手動調整所有解析度的大小。9-patch 的導線一定是 1 像素寬並且是黑色的 (#000000)，不然會無法辨識。切圖範圍則須比素材本身大 2 像素 (左右或是上下 1 個像素寬)。因此，若素材是 48x48 像素，切圖範圍就是 50x50 像素。因為不能把 9-patch 圖片縮小，所以必須盡可能以最小尺寸交付，如此應用程式的整體性能會更好。使用 Android 的 Draw9Patch 工具輕鬆建立或是檢查 9-patch 圖片。更多有關於 9-patch 圖片詳細資料，請看 [Android Developers](http://developer.android.com/tools/help/draw9patch.html){:target="_blank"} 網站。還可以利用[簡易 9-patch 圖片生成器](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=320&name=example){:target="_blank"}。
 
 請確認給應用程式使用的圖示和 Play Store 素材有遵循 Google 的[設計規範](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en){:target="_blank"} (英)。
 
 ## 針對 iOS 平台
 
-應用程式和所有該應用程式支援的裝置裡，圖像檔案都必須是高解析度圖片。根據不同裝置，每張圖片的像素長寬乘以特定縮放大小的數字。我們建議先以  375 X 667 像素 (iPhone 6/7)當作一倍 @1x 畫布，再放大成更大比例的素材。
+應用程式和所有該應用程式支援的裝置裡，圖像檔案都必須是高解析度圖片。根據不同裝置，每張圖片的像素長寬乘以特定縮放大小的數字。我們建議先以 375x667 像素 (iPhone 6/7)當作一倍 @1x 畫布，再放大成更大比例的素材。
 
 簡單來說，只需要提供 1 倍、2 倍和 3 倍大小的素材給工程師。就是這樣簡單。你一定知道怎麼做！
 
-確認應用程式圖示和 App Store 素材都有符合 App Store 規範 (請參見 Human Interface Guidelines 和 App Icons on iPhone, iPad and Apple Watch。)另外，Apple 會駁回有透明圖層的 PNG 檔案，所以要多檢查一遍。
+確認應用程式圖示和 App Store 素材都有符合 App Store 規範 (請參見 Human Interface Guidelines 和 App Icons on iPhone, iPad and Apple Watch)。另外，Apple 會駁回有透明圖層的 PNG 檔案，所以要多檢查一遍。
 
 ## 客戶可能會提的問題
 
