@@ -54,7 +54,7 @@ exerpt: "每個開發人員對於實做設計有不同的方法。對於像是�
 - **Default** 預設的狀態。
 - **Hover**，滑鼠游標移到元素上面的狀態。
 - **Active**，按下按鈕瞬間的狀態。
-- **Focus**，使使用鍵盤操作或以滑鼠選取的狀態（單行、多行文字欄。）
+- **Focus**，使使用鍵盤操作或以滑鼠選取的狀態 (單行、多行文字欄)。
 - **Visited**，狀態顯示為已造訪過的連結。
 
 好的命名慣例會長得像這樣：
@@ -72,7 +72,7 @@ exerpt: "每個開發人員對於實做設計有不同的方法。對於像是�
 - *ic_asset_name_disabled*
 - *ic_asset_name_activated*
 
-推薦閱讀這篇好文章來深入瞭解：[給設計師看的 Android 素材命名方式（英）](https://medium.com/@AkhilDad/a-designers-guide-for-naming-android-assets-f790359d11e5#.8gk28dx78){:target="_blank"}
+推薦閱讀這篇好文章來深入瞭解：[給設計師看的 Android 素材命名方式](https://medium.com/@AkhilDad/a-designers-guide-for-naming-android-assets-f790359d11e5#.8gk28dx78){:target="_blank"} (英)
 
 ## 針對 Android 平台
 
@@ -84,7 +84,7 @@ exerpt: "每個開發人員對於實做設計有不同的方法。對於像是�
 - xxhdpi: 490 dpi
 - xxxhdpi: 640 dpi
 
-**小技巧：** 有空可以看看[如何統整檔案](https://gist.github.com/melvitax/fd592a162ad4fe48bd57){:target="_blank"}此珍貴資訊。
+**小技巧：** 有空可以看看[如何統整檔案](https://gist.github.com/melvitax/fd592a162ad4fe48bd57){:target="_blank"} (英) 此珍貴資訊。
 
 另外，SVG 圖片在很多情況下可以當做點陣圖 (bitmap) 的替代品。雖然 Android 本身並不支援，但可以輕易地從第三方資源套件顯示出來。它們佔用非常少空間 (尤其是壓縮版本：*svgz*)，)可以無限縮放且不會降低細節或品質，並且不需要為每個螢幕解析度單獨設置版本。只要記得請教工程師，要用哪種方式傳遞素材檔案。
 
@@ -93,21 +93,21 @@ exerpt: "每個開發人員對於實做設計有不同的方法。對於像是�
 
 {% include image.html img="9_patch_Android.png" img2x="9_patch_Android@2x.png" alt="9-patch scaling for Android" %}
 
-如果有素材是多次使用於應用程式當中，並且能夠縮放成不同尺寸的，可以使用 9-patch 縮放 (例如：按鈕。) 像是圖示之類的東西可能無法正確縮放。所以，很遺憾地，必須手動調整所有解析度的大小。9-patch 的導線一定是 1 像素寬並且是黑色的 (#000000)，不然會無法辨識。切圖範圍則須比素材本身大 2 像素（左右或是上下 1 個像素寬。）因此，若素材是 48x48 像素，切圖範圍就是 50x50 像素。因為不能把 9-patch 圖片縮小，所以必須盡可能以最小尺寸交付，如此應用程式的整體性能會更好。使用 Android 的 Draw9Patch 工具輕鬆建立或是檢查 9-patch 圖片。更多有關於 9-patch 圖片詳細資料，請看 [Android Developers](http://developer.android.com/tools/help/draw9patch.html){:target="_blank"}網站。還可以利用[簡易 9-patch 圖片生成器 (Simple nine-patch generator)](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=320&name=example){:target="_blank"}。
+如果有素材是多次使用於應用程式當中，並且能夠縮放成不同尺寸的，可以使用 9-patch 縮放 (例如：按鈕)。像是圖示之類的東西可能無法正確縮放。所以，很遺憾地，必須手動調整所有解析度的大小。9-patch 的導線一定是 1 像素寬並且是黑色的 (#000000)，不然會無法辨識。切圖範圍則須比素材本身大 2 像素 (左右或是上下 1 個像素寬)。因此，若素材是 48x48 像素，切圖範圍就是 50x50 像素。因為不能把 9-patch 圖片縮小，所以必須盡可能以最小尺寸交付，如此應用程式的整體性能會更好。使用 Android 的 Draw9Patch 工具輕鬆建立或是檢查 9-patch 圖片。更多有關於 9-patch 圖片詳細資料，請看 [Android Developers](http://developer.android.com/tools/help/draw9patch.html){:target="_blank"}網站。還可以利用[簡易 9-patch 圖片生成器 (Simple nine-patch generator)](https://romannurik.github.io/AndroidAssetStudio/nine-patches.html#&sourceDensity=320&name=example){:target="_blank"}。
 
-請確認給應用程式使用的圖示和 Play Store 素材有遵循 Google 的[設計規範 (英) ](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en){:target="_blank"}。
+請確認給應用程式使用的圖示和 Play Store 素材有遵循 Google 的[設計規範](https://support.google.com/googleplay/android-developer/answer/1078870?hl=en){:target="_blank"} (英)。
 
 ## 針對 iOS 平台
 
-應用程式和所有該應用程式支援的裝置裡，圖像檔案都必須是高解析度圖片。根據不同裝置，每張圖片的像素長寬乘以特定縮放大小的數字。我們建議先以  375 X 667 像素（iPhone 6/7）當作一倍 @1x 畫布，再放大成更大比例的素材。
+應用程式和所有該應用程式支援的裝置裡，圖像檔案都必須是高解析度圖片。根據不同裝置，每張圖片的像素長寬乘以特定縮放大小的數字。我們建議先以  375 X 667 像素 (iPhone 6/7)當作一倍 @1x 畫布，再放大成更大比例的素材。
 
 簡單來說，只需要提供 1 倍、2 倍和 3 倍大小的素材給工程師。就是這樣簡單。你一定知道怎麼做！
 
-確認應用程式圖示和 App Store 素材都有符合 App Store 規範（請參見 Human Interface Guidelines 和 App Icons on iPhone, iPad and Apple Watch。）另外，Apple 會駁回有透明圖層的 PNG 檔案，所以要多檢查一遍。
+確認應用程式圖示和 App Store 素材都有符合 App Store 規範 (請參見 Human Interface Guidelines 和 App Icons on iPhone, iPad and Apple Watch。)另外，Apple 會駁回有透明圖層的 PNG 檔案，所以要多檢查一遍。
 
 ## 客戶可能會提的問題
 
-{% include qa.html question="所有素材都準備好了嗎？所有 iPhone/Android 的素材都做好了嗎？" answer="給客戶放置所有素材的連結（例如：以 Jira Ticket 附帶素材檔案或放置素材的 Google Drive 連結。）" %}
+{% include qa.html question="所有素材都準備好了嗎？所有 iPhone/Android 的素材都做好了嗎？" answer="給客戶放置所有素材的連結 (例如：以 Jira Ticket 附帶素材檔案或放置素材的 Google Drive 連結。)" %}
 
 #### 在本階段問問自己：
   - 素材的命名都有跟開發人員討論過，並同意嗎？
@@ -119,6 +119,6 @@ exerpt: "每個開發人員對於實做設計有不同的方法。對於像是�
 完成一整套符合所有目標裝置的設計素材。
 
 ## 延伸閱讀
-- [讓 Sketch 有更好的 Android 流程（英）](https://medium.com/@lmindler/using-sketch-3-and-a-bit-of-fairy-dust-for-a-better-android-workflow-f667d0048855#.lgpmpu10m){:target="_blank"}
-- [以開發人員的角度進行設計（英）](https://medium.com/going-your-way-anyway/design-like-a-developer-b92f7a8f4520#.1ynw77olc){:target="_blank"}
-- [應該使用 Material Design 的原因（英）](https://www.netguru.co/blog/why-should-you-use-material-design){:target="_blank"}
+- [讓 Sketch 有更好的 Android 流程](https://medium.com/@lmindler/using-sketch-3-and-a-bit-of-fairy-dust-for-a-better-android-workflow-f667d0048855#.lgpmpu10m){:target="_blank"} (英)
+- [以開發人員的角度進行設計](https://medium.com/going-your-way-anyway/design-like-a-developer-b92f7a8f4520#.1ynw77olc){:target="_blank"} (英)
+- [應該使用 Material Design 的原因](https://www.netguru.co/blog/why-should-you-use-material-design){:target="_blank"} (英)

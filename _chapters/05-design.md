@@ -56,8 +56,8 @@ exerpt: "進行設計的目的是讓功能實現；以可用的資源解決問�
 在研究階段之後適合立即開始打造風格規範。在最初的版本，風格規範應該至少包含顏色與字型。進入視覺設計階段時，要更新到完整的版本。
 
 **良好的風格規範應該有什麼？**
-- **顏色** （主要使用的顏色和每一個顏色逐漸變化的程度）<br>
-實用工具： [Coolors](https://coolors.co/app){:target="_blank"}、[Color Adobe](https://color.adobe.com/explore/?filter=most-popular&time=all){:target="_blank"}
+- **顏色** (主要使用的顏色和每一個顏色逐漸變化的程度)<br>
+實用工具：[Coolors](https://coolors.co/app){:target="_blank"}、[Color Adobe](https://color.adobe.com/explore/?filter=most-popular&time=all){:target="_blank"}
 - **文字排版** (字型和文字大小)<br>
 為了讓設計保持簡潔，限制使用的字體數量和尺寸。根據經驗，從最多兩種字型開始：一個給標題使用，另一個給內文使用。在大多數情況下，不會需要用到更多。<br>
 我們強烈建議使用免費字型。如果想要使用付費字型，就要小心確認字型的使用授權。客戶可能不願意為字型額外付費，所以要確認他們真的想花錢在字型上。
@@ -66,7 +66,7 @@ exerpt: "進行設計的目的是讓功能實現；以可用的資源解決問�
 付費字型：[MyFonts](http://www.myfonts.com/){:target="_blank"} 和 [Typekit](https://typekit.com/){:target="_blank"}<br>
 苦惱於字型搭配嗎？試試 [Typewolf](https://www.typewolf.com/){:target="_blank"} 或 [FontPairs](https://fontpair.co/){:target="_blank"}<br>
 
-- **元件資源庫 (Components Library)**（狀態的設計）<br>
+- **元件資源庫 (Components Library，狀態的設計)**<br>
 以元件為基礎的思考對工程師有幫助。設計元件可以恰好地轉譯進程式碼。從工程師的視角來看，元件看起來就像是可以組合在一起的樂高積木。<br>
 例如：
   - 按鈕 (一般、滑鼠移入、選中、不能使用的狀態)
@@ -89,11 +89,11 @@ exerpt: "進行設計的目的是讓功能實現；以可用的資源解決問�
 
 **3. 空白狀態**
 
-元件已經啟動，卻是空的。沒有資料、沒有條目。或許是鼓勵使用者行動的好時機：「 做這件事！ 」或是給予獎勵：「做得好，全部都搞定了。」
+元件已經啟動，卻是空的。沒有資料、沒有條目。或許是鼓勵使用者行動的好時機：「做這件事！」或是給予獎勵：「做得好，全部都搞定了。」
 
 **4. 只有單一資料的狀態**
 
-現在總算有資料了。在資料輸入的情況，這可能出現在一按下鍵盤之後。在一份清單當中，它可能是在有一個項目的時候（或是只剩下一個項目的時候。）
+現在總算有資料了。在資料輸入的情況，這可能出現在一按下鍵盤之後。在一份清單當中，它可能是在有一個項目的時候 (或是只剩下一個項目的時候)。
 
 **5. 有一些資料的狀態**
 
@@ -101,7 +101,7 @@ exerpt: "進行設計的目的是讓功能實現；以可用的資源解決問�
 
 **6. 過多資料的狀態**
 
-使用者以某種方法過度使用造成的狀態。過多結果（可以立刻替這些資料分頁），過多字母（能夠以 …省略）等。
+使用者以某種方法過度使用造成的狀態。過多結果 (可以立刻替這些資料分頁)，過多字母 (能夠以 …省略) 等。
 
 **7. 錯誤狀態**
 
@@ -127,7 +127,7 @@ exerpt: "進行設計的目的是讓功能實現；以可用的資源解決問�
 使用[最常見的手勢](https://blogs.adobe.com/creativecloud/in-app-gestures-and-mobile-app-user-experience/){:target="_blank"}讓 App 更具互動性。請記住，使用手機的時候，沒有像使用電腦看網頁一樣，能夠「右鍵點擊。」試著在使用者可能預期的區域設定最常見、直覺的手勢。
 
 **行動 App 互動的重要性**<br>
-閱讀：[微互動：設計良好 app 的秘密](https://intersection.tw/742c369a464e){:target="_blank"}（[原文](https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf){:target="_blank"}）<br>
+閱讀：[微互動：設計良好 app 的秘密](https://intersection.tw/742c369a464e){:target="_blank"} ([原文](https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf){:target="_blank"})<br>
 
 ## 團隊設計: 最佳作法
 
@@ -234,11 +234,11 @@ donts="不要害怕發問：記住！沒有笨問題。
 
 ## 客戶可能會提的問題
 
-{% include qa.html question="為什麼以團隊進行設計會更好？" answer="技能搭配和合作經驗的範圍會更廣（互補團隊的成員都有各自獨特的技能，像是 UX、視覺設計或是插畫。）團隊成員能夠立即互相驗證不良的推測與錯誤方案，會更有效率地解決問題。由於靈巧的工作指派（設計師都有各自能做得更快的工作，）效率也會提升。團隊能夠提供更大的新想法能量，還可以立刻獲得熟知脈絡的不同見解，產品成功的機會大大增加。" %}
+{% include qa.html question="為什麼以團隊進行設計會更好？" answer="技能搭配和合作經驗的範圍會更廣 (互補團隊的成員都有各自獨特的技能，像是 UX、視覺設計或是插畫。)團隊成員能夠立即互相驗證不良的推測與錯誤方案，會更有效率地解決問題。由於靈巧的工作指派 (設計師都有各自能做得更快的工作，)效率也會提升。團隊能夠提供更大的新想法能量，還可以立刻獲得熟知脈絡的不同見解，產品成功的機會大大增加。" %}
 
 {% include qa.html question="設計與線稿 (wireframe) 的差異在哪？" answer="線稿是運用基本視覺指引，定義專案的架構、內容與功能的藍圖。在只使用簡單的元素，不必因為視覺而分神的情況下，能夠更專心地找出最佳的使用者經驗解決方案，更快速進行反覆修正且更具成本效益。" %}
 
-{% include qa.html question="為什麼字型要付費呢？" answer="付費字型通常代表更好的品質，有更多樣式和粗細選擇（也讓設計師在結構設計上更不受限、）額外的字符號與合字 (ligature)，以及適當的字距 (kerning) 調整。付費字型有助於建構視覺特徵，使之脫穎而出。雖然看似不太重要，但網站與行動裝置的產品有 95% 的內容都是文字排版。使用品質良好的字型也代表產品設計有機會是高品質。" %}
+{% include qa.html question="為什麼字型要付費呢？" answer="付費字型通常代表更好的品質，有更多樣式和粗細選擇 (也讓設計師在結構設計上更不受限、)額外的字符號與合字 (ligature)，以及適當的字距 (kerning) 調整。付費字型有助於建構視覺特徵，使之脫穎而出。雖然看似不太重要，但網站與行動裝置的產品有 95% 的內容都是文字排版。使用品質良好的字型也代表產品設計有機會是高品質。" %}
 
 {% include qa.html question="為何不直接買現有的圖示，而要訂做一套？" answer="圖示與插畫並非只求漂亮即可，而是要傳達訊息。使用訂做的圖像，能夠確信圖片傳達正確的訊息給使用者。就像是品牌使用統一的顏色與字型，獨特的視覺風格有助於跟競爭對手做區隔，也可以傳達一致的視覺語言。" %}
 
@@ -262,15 +262,15 @@ donts="不要害怕發問：記住！沒有笨問題。
 - 設計 ([參考範例 ](https://netguru.invisionapp.com/share/ZD9VDND6E#/screens/212677302){:target="_blank"})
 
 ## 延伸閱讀
-- [產品設計背後的心理學：在分心時代保持專心（英）](https://www.netguru.co/blog/psychology-behind-the-product-design-staying-efficient-in-the-age-of-distractions){:target="_blank"}
-- [如何讓 Sketch 更好用（英）](https://www.netguru.co/blog/how-to-make-sketch-even-better){:target="_blank"}
-- [如何「不」替手機 App 設計介面（英）](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}
-- [我們賦予產品意義 – Netguru 公司的設計流程：the Approa（英）](https://www.netguru.co/blog/design-flow-at-netguru-pt.-1){:target="_blank"}
-- [預期設計 第 1 部分（英） ](https://www.netguru.co/blog/anticipatory-design-part-1){:target="_blank"}
-- [預期設計 第 2 部分（英） ](https://www.netguru.co/blog/anticipatory-design-2){:target="_blank"}
-- [設計的 9 種狀態（英）](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85#.hmieefed1){:target="_blank"}
-- [Google Material Design 的 9 個原則（英）](https://blog.prototypr.io/googles-9-principles-of-material-design-fb3fef64dcf){:target="_blank"}
-- [被誤用的手持裝置 UX 模式（英）](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570){:target="_blank"}
-- [如何設計手持裝置的原生 App（英）](https://medium.com/@uxhow/how-to-design-native-mobile-apps-55d383fcb2b2){:target="_blank"}
-- [使用者介面設計的黃金準則（英）](https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b){:target="_blank"}
-- [空白狀態：讓手持裝置 App「會更好」的必要設計（英）](https://uxplanet.org/empty-state-mobile-app-nice-to-have-essential-f11c29f01f3){:target="_blank"}
+- [產品設計背後的心理學：在分心時代保持專心](https://www.netguru.co/blog/psychology-behind-the-product-design-staying-efficient-in-the-age-of-distractions){:target="_blank"} (英)
+- [如何讓 Sketch 更好用](https://www.netguru.co/blog/how-to-make-sketch-even-better){:target="_blank"} (英)
+- [如何「不」替手機 App 設計介面](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"} (英)
+- [我們賦予產品意義 – Netguru 公司的設計流程：the Approa](https://www.netguru.co/blog/design-flow-at-netguru-pt.-1){:target="_blank"} (英)
+- [預期設計 第 1 部分](https://www.netguru.co/blog/anticipatory-design-part-1){:target="_blank"} (英)
+- [預期設計 第 2 部分](https://www.netguru.co/blog/anticipatory-design-2){:target="_blank"} (英)
+- [設計的 9 種狀態](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85#.hmieefed1){:target="_blank"} (英)
+- [Google Material Design 的 9 個原則](https://blog.prototypr.io/googles-9-principles-of-material-design-fb3fef64dcf){:target="_blank"} (英)
+- [被誤用的手持裝置 UX 模式](https://medium.com/@kollinz/misused-mobile-ux-patterns-84d2b6930570){:target="_blank"} (英)
+- [如何設計手持裝置的原生 App](https://medium.com/@uxhow/how-to-design-native-mobile-apps-55d383fcb2b2){:target="_blank"} (英)
+- [使用者介面設計的黃金準則](https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b){:target="_blank"} (英)
+- [空白狀態：讓手持裝置 App「會更好」的必要設計](https://uxplanet.org/empty-state-mobile-app-nice-to-have-essential-f11c29f01f3){:target="_blank"} (英)
