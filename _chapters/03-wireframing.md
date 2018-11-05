@@ -16,7 +16,7 @@ exerpt: "身為設計師，絕不能跳過線稿階段。線稿階段是銜接�
 **相關成員**
 - 設計師
 - 客戶
-- 工程師
+- 開發人員
 
 身為設計師，絕不能跳過線稿階段。線稿階段是銜接前期研究與設計視覺化的橋樑，我們可以透過線稿在專案早期開發階段反覆快速地進行測試修正。這不只是因為它能幫我們節省大量時間，也能避免浪費時間在永無止境的調整上，同時確保我們的流程更加穩固。讓我們的願景更明確、更具邏輯性。根據線稿的成果，最終設計對客戶而言也會更加務實與具有價值助益。此階段的產出通常是一組使用者流程和線稿。
 
@@ -42,7 +42,7 @@ exerpt: "身為設計師，絕不能跳過線稿階段。線稿階段是銜接�
 
 
 ### 單頁畫面線稿
-單頁畫面的線稿（也稱為示意圖或藍圖，）是頁面架構、構圖和資訊階層的視覺指南。目的是能夠以充分表達、使用者友善和商業效益的方式來排列網站內容和元素。由於線稿要專注在不受華麗的視覺效果影響，因此要拿掉所有視覺元素，如顏色，圖表，效果…等。可以看一下單頁線稿的範例。[單頁畫面線稿](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}.
+單頁畫面的線稿（也稱為示意圖或藍圖，）是頁面架構、構圖和資訊階層的視覺指南。目的是能夠以充分表達、使用者友善和商業效益的方式來排列網站內容和元素。由於線稿要專注在不受華麗的視覺效果影響，因此要拿掉所有視覺元素，如顏色、圖表、效果…等，可以看一下[單頁畫面線稿](https://netguru.invisionapp.com/share/HZADD9DD8#/screens/218094218){:target="_blank"}的範例。
 
 ## 在線稿中該納入哪些元素？
 
@@ -75,7 +75,7 @@ exerpt: "身為設計師，絕不能跳過線稿階段。線稿階段是銜接�
 | 不要使用太多淺灰色；是可以使用淺灰色，不過，專注在一種就好。"%}
 
 {% include dosndonts.html introduction="2. 保持一致：呈現解決方案的最佳方式是在將線稿的設計保持一致" dos="
-在 UI 元素中的視覺展現保持一致。理想情況下，通過可重複使用的元件來呈現例如：[Sketch 的元件功能（英）](https://www.sketchapp.com/learn/documentation/symbols/).
+在 UI 元素中的視覺展現保持一致。理想情況下，通過可重複使用的元件來呈現例如：[Sketch 的元件功能](https://www.sketchapp.com/learn/documentation/symbols/)（英）。
 | 請注意字型大小及間距。
 | 開始將想法數位化之前，先簡單地畫下來：這可以在早期的反覆修正中節省許多時間。
 " donts="
@@ -90,7 +90,7 @@ exerpt: "身為設計師，絕不能跳過線稿階段。線稿階段是銜接�
 不要在關鍵設計元素中使用佔位符文本，例如導航欄或行動呼籲（ 例如：Lorem Ipsum…。）
 |如果要顯示一系列的資料，如表格或磚塊式排列 (tile)，每個元素不要使用相同的文案。"%}
 
-{% include dosndonts.html introduction="4. 不要只有自己使用線稿。這個過程的主要目的是以溝通帶來潛在可能，並且比你獨自工作時，更有機會發現更好的解決方案。
+{% include dosndonts.html introduction="4. 不要把線稿只拿來自己使用。這個過程的主要目的是以溝通帶來潛在可能，並且比你獨自工作時，更有機會發現更好的解決方案。
 " dos="
 對新的想法保持開放的態度。
 | 向客戶展示線稿之前，請從你的專案團隊中獲取意見：他們了解產品且了解客戶。
@@ -165,7 +165,7 @@ exerpt: "身為設計師，絕不能跳過線稿階段。線稿階段是銜接�
 - [靠這些簡單的提示來改善你的網路商店體驗（英）](https://www.netguru.co/blog/ecommerce-ux-tips){:target="_blank"}
 - [如何找到線稿的價值](https://intersection.tw/99a830480da){:target="_blank"}
 - [線稿：一個很棒的溝通工具，很不理想的設計工具（英）](https://medium.com/@danritz/wireframes-a-good-communication-tool-a-poor-design-tool-1bc64b033962#.jp1i8lyxt){:target="_blank"}
-- [產品設計衝刺：決策（第三天）](https://library.gv.com/the-product-design-sprint-decide-day-3-7d4804bd2fd1#.fhdrt1bfx){:target="_blank"}
+- [產品設計 Sprint: 決策（第三天）](https://library.gv.com/the-product-design-sprint-decide-day-3-7d4804bd2fd1#.fhdrt1bfx){:target="_blank"}
 - [為你的線稿選擇合適的保真度（英）](https://blinkux.com/blog/choosing-the-right-level-of-fidelity-for-your-wireframes/){:target="_blank"}
 - [InVision 使用者測試（英）](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"}
 - [行動 App 介面該避免哪些設計（英）](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"}

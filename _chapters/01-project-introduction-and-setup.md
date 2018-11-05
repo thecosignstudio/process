@@ -31,7 +31,7 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 - 產品有清楚的範疇 (scope) 嗎？
   - 是/否（在此階段，產品應該已經界定範疇。沒有的話，就要進行一次範疇界定流程。）
 - 專案的構想是否已經足以進行設計？
-  - 我們在 Netguru 會進行[產品設計衝刺 (Product Design Sprints)](https://www.netguru.co/services/product-design-sprint){:target="_blank"}，幫助客戶充實想法。
+  - 我們在 Netguru 會進行[產品設計 Sprint](https://www.netguru.co/services/product-design-sprint){:target="_blank"}，幫助客戶充實想法。
 - 設計給哪個平台？
 - 如果是網頁設計，要做響應式 (responsive) 嗎？
 - 工程開發階段是由我們的團隊進行嗎？
