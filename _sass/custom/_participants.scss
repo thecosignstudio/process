@@ -16,4 +16,14 @@
     color: $blue-steel;
     text-decoration: underline;
   }
+
+  &[href="javascript:void(0)"] {
+    cursor: default;
+
+    &:active,
+    &:focus,
+    &:hover {
+      text-decoration: none;
+    }
+  }
 }
