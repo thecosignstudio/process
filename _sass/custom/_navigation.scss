@@ -18,6 +18,7 @@
   text-align: center;
 
   @media screen and (min-width: 768px) {
+    flex: 0 0 auto;
     margin-right: 48px;
     text-align: left;
 
