@@ -2,6 +2,26 @@
   margin-top: 48px;
 }
 
+@mixin home-about-cta-link($btn-bg-color) {
+  border-radius: 4px;
+  background-color: #{$btn-bg-color};
+  color: $white;
+  display: inline-block;
+  font-size: 14px;
+  line-height: 2.5em;
+  padding: 0 12px;
+  transition: background-color 0.2s ease-out;
+
+  &:active,
+  &:focus,
+  &:hover {
+    background-color: lighten($btn-bg-color, 8%);
+    color: $white;
+    text-decoration: none;
+    transition: background-color 0.2s ease-in;
+  }
+}
+
 .home-about-cosign-logo {
   background-image: url('../assets/home_imgs/cosign.png');
   background-repeat: no-repeat;
@@ -23,12 +43,16 @@
   }
 }
 
-.home-about-cosign-link {
+.home-about-cosign-cta {
   text-align: center;
 
   @media screen and (min-width: 768px) {
     text-align: left;
   }
+}
+
+.home-about-link--cosign {
+  @include home-about-cta-link($blue-steel);
 }
 
 .home-about-intersection-logo {
@@ -50,10 +74,11 @@
   background-size: cover;
   display: inline-block;
   height: 16px;
+  vertical-align: sub;
   width: 16px;
 }
 
-.home-about-intersection-link {
+.home-about-intersection-cta {
   text-align: center;
 
   @media screen and (min-width: 768px) {
@@ -61,13 +86,6 @@
   }
 }
 
-.home-about-link {
-  color: $white-shade-medium;
-
-  &:active,
-  &:focus,
-  &:hover {
-    color: $white-shade-dark;
-    text-decoration: underline;
-  }
+.home-about-link--intersection {
+  @include home-about-cta-link($white-shade-night);
 }
