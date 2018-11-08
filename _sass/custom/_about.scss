@@ -43,6 +43,26 @@
   }
 }
 
+.home-about-cosign-quote {
+  padding: 0 12px;
+  position: relative;
+}
+
+.home-about-cosign-quote-left,
+.home-about-cosign-quote-right {
+  font-family: 'Arbutus Slab'; 
+  font-size: 16px;
+}
+
+
+
+.home-about-cosign-quote-left {
+  display: block;
+  left: 0;
+  position: absolute;
+}
+
+
 .home-about-cosign-cta {
   text-align: center;
 
