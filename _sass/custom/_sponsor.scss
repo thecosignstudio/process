@@ -74,7 +74,11 @@
 }
 
 .home-partner-logo-link {
-  display: block;
+  display: inline-block;
+
+  &:first-child {
+    display: block;
+  }
 }
 
 .home-sponsor-ixda-logo {
@@ -92,6 +96,17 @@
   }
 }
 
+.home-sponsor-uiclub-logo {
+  display: inline-block;
+  background-image: url('../assets/home_imgs/logo_uiclub.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  margin-top: 8px;
+  height: 72px;
+  width: 72px;
+}
+
 .home-sponsor-monospace-logo {
   display: inline-block;
   background-image: url('../assets/home_imgs/logo_monospace.png');
@@ -99,8 +114,8 @@
   background-repeat: no-repeat;
   background-size: 100% auto;
   margin-top: 8px;
-  height: 57px;
-  width: 132px;
+  height: 72px;
+  width: 72px;
 }
 
 .home-partner-seperator {
