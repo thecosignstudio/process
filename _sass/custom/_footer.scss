@@ -5,7 +5,7 @@
 }
 
 .home-footer-mail-link {
-  color: $white-shade-medium;
+  color: $white-shade-light;
 
   &:active,
   &:focus,
@@ -13,4 +13,12 @@
     color: $white-shade-dark;
     text-decoration: underline;
   }
+}
+
+.icon-home-footer-mail {
+  margin-right: 12px;
+}
+
+.home-footer-mail-label {
+  color: $white-shade-dark;
 }

@@ -43,7 +43,67 @@
   width: 120px;
 }
 
-.home-sponsor-seperator {
+.home-partner-layout {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 48px;
+
+  @media screen and (min-width: 768px) {
+    flex-wrap: nowrap;
+  } 
+}
+
+.home-partner-title {
+  flex: 1 0 100%;
+  text-align: center;
+
+  @media screen and (min-width: 768px) {
+    flex: 1 1 50%;
+    text-align: left;
+  }
+}
+
+.home-partner-logo {
+  flex: 1 0 100%;
+  text-align: center;
+
+  @media screen and (min-width: 768px) {
+    flex: 1 1 50%;
+    text-align: left;
+  }
+}
+
+.home-partner-logo-link {
+  display: block;
+}
+
+.home-sponsor-ixda-logo {
+  display: inline-block;
+  background-image: url('../assets/home_imgs/logo_ixda.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  margin-top: 8px;
+  height: 57px;
+  width: 108px;
+
+  @media screen and (min-width: 768px) {
+    margin-top: 0;
+  }
+}
+
+.home-sponsor-monospace-logo {
+  display: inline-block;
+  background-image: url('../assets/home_imgs/logo_monospace.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  margin-top: 8px;
+  height: 57px;
+  width: 132px;
+}
+
+.home-partner-seperator {
   border-bottom: 1px solid $white-shade-lighter;
   display: block;
   margin: 10px auto;
