@@ -45,6 +45,7 @@ theme: minima
 sass:
   sass_dir: _sass
 plugins:
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
