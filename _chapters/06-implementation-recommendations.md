@@ -122,3 +122,6 @@ exerpt: "每個開發人員對於實做設計有不同的方法。對於像是�
 - [讓 Sketch 有更好的 Android 流程](https://medium.com/@lmindler/using-sketch-3-and-a-bit-of-fairy-dust-for-a-better-android-workflow-f667d0048855#.lgpmpu10m){:target="_blank"} (英)
 - [以開發人員的角度進行設計](https://medium.com/going-your-way-anyway/design-like-a-developer-b92f7a8f4520#.1ynw77olc){:target="_blank"} (英)
 - [應該使用 Material Design 的原因](https://www.netguru.co/blog/why-should-you-use-material-design){:target="_blank"} (英)
+
+### 本章節譯者
+[Duke Lee](https://www.facebook.com/DukeLeeTW){:target="_blank"}、[Gwynne Li](https://www.facebook.com/GwynneLL){:target="_blank"}、[Money Chien](https://www.facebook.com/profile.php?id=100010171684035){:target="_blank"}、[Susan Lin](https://www.linkedin.com/in/shuyulin105/){:target="_blank"}、劉亮吟

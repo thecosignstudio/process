@@ -275,3 +275,6 @@ donts="不要害怕發問：記住！沒有笨問題。
 - [如何設計手持裝置的原生 App](https://medium.com/@uxhow/how-to-design-native-mobile-apps-55d383fcb2b2){:target="_blank"} (英)
 - [使用者介面設計的黃金準則](https://uxplanet.org/golden-rules-of-user-interface-design-19282aeb06b){:target="_blank"} (英)
 - [空白狀態：讓手持裝置 App「會更好」的必要設計](https://uxplanet.org/empty-state-mobile-app-nice-to-have-essential-f11c29f01f3){:target="_blank"} (英)
+
+### 本章節譯者
+[Duke Lee](https://www.facebook.com/DukeLeeTW){:target="_blank"}、Kay Tai、Lou Yugalitree

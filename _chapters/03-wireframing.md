@@ -169,3 +169,6 @@ exerpt: "身為設計師，絕不能跳過線稿階段。線稿階段是銜接�
 - [為你的線稿選擇合適的保真度](https://blinkux.com/blog/choosing-the-right-level-of-fidelity-for-your-wireframes/){:target="_blank"} (英)
 - [InVision 使用者測試](http://blog.invisionapp.com/invision-usertesting/){:target="_blank"} (英)
 - [行動 App 介面該避免哪些設計](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"} (英)
+
+### 本章節譯者
+[Ming Chou](https://www.facebook.com/shigure0912){:target="_blank"}、[Susan Lin](https://www.linkedin.com/in/shuyulin105/){:target="_blank"}、Felly Wu

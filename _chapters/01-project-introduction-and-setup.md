@@ -233,3 +233,6 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 - [對設計師的期望](https://www.netguru.co/blog/what-expect-designer){:target="_blank"} (英)
 - [團隊態度是促使專案成功的關鍵](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"} (英)
 - [逐步說明：如何選擇設計師](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"} (英)
+
+### 本章節譯者
+[ymcheung](https://ymcheung.tw){:target="_blank"}、[李盈熲 Mika](http://linkedin.com/in/yingchiungli){:target="_blank"}、劉亮吟
