@@ -171,4 +171,4 @@ exerpt: "身為設計師，絕不能跳過線稿階段。線稿階段是銜接�
 - [行動 App 介面該避免哪些設計](https://www.netguru.co/blog/how-not-to-design-an-interface-for-your-mobile-app){:target="_blank"} (英)
 
 ### 本章節譯者
-[Ming Chou](https://www.facebook.com/shigure0912){:target="_blank"}、[Susan Lin](https://www.linkedin.com/in/shuyulin105/){:target="_blank"}、Felly Wu
+[Ming Chou](https://www.facebook.com/shigure0912){:target="_blank"}、[Money Chien](https://www.facebook.com/profile.php?id=100010171684035){:target="_blank"}、[Susan Lin](https://www.linkedin.com/in/shuyulin105/){:target="_blank"}、Felly Wu
