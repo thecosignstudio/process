@@ -7,20 +7,37 @@
   z-index: 10;
 }
 
+.home-nav-row {
+  align-items: center;
+}
+
+.home-nav-cosign {
+  display: block;
+  background-image: url('../assets/home_imgs/cosign_logo_g.svg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 42px;
+  width: 75px;
+}
+
 .home-nav-list {
   display: flex;
+  margin: 12px 0 0;
   padding: 0;
+
+  @media screen and (min-width: 768px) {
+    margin: 0;
+  }
 }
 
 .home-nav-item {
   flex: 1 1 auto;
   list-style: none;
-  text-align: center;
 
   @media screen and (min-width: 768px) {
     flex: 0 0 auto;
     margin-right: 48px;
-    text-align: left;
 
     &:last-child {
       margin-right: 0;
