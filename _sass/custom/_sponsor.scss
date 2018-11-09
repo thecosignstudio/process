@@ -102,20 +102,20 @@
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 100% auto;
-  margin-top: 8px;
-  height: 72px;
+  margin: 8px 12px 0 0;
+  height: 84px;
   width: 72px;
 }
 
 .home-sponsor-monospace-logo {
   display: inline-block;
-  background-image: url('../assets/home_imgs/logo_monospace.png');
-  background-position: center center;
+  background-image: url('../assets/home_imgs/logo_monospace.svg');
+  background-position: center 56%;
   background-repeat: no-repeat;
   background-size: 100% auto;
   margin-top: 8px;
-  height: 72px;
-  width: 72px;
+  height: 92px;
+  width: 84px;
 }
 
 .home-partner-seperator {
