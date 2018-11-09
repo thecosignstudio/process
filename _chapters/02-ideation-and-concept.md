@@ -312,3 +312,6 @@ Source: [https://www.nngroup.com/articles/which-ux-research-methods](https://www
 - [https://www.uxmatters.com](https://www.uxmatters.com/mt/archives/2012/08/stakeholder-research-precedes-ux-research.php#top ){:target="_blank"}
 - [https://www.usertesting.com](https://www.usertesting.com/blog/2013/03/04/when-to-test-incorporating-usability-testing-into-product-design/){:target="_blank"}
 - [http://guidetouxr.com](http://guidetouxr.com/p/index.html?Podcasts ){:target="_blank"}
+
+### 本章節譯者
+[劉進輝](https://www.behance.net/JasonCK){:target="_blank"}、[Nora Tzuyu Huang](https://tzuyuh.weebly.com/){:target="_blank"}、劉亮吟、Rimes

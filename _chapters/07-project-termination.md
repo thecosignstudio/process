@@ -68,3 +68,6 @@ exerpt: "建議完成每個流程且查看不同裝置上的每個畫面。將�
 ## 進行過此階段的理想結果
 1. 團隊對於設計的問題都已經解答。
 2. 客戶知道未來可提供的幫助 (定期檢查、反覆修正)。
+
+### 本章節譯者
+[Zora Shen](https://www.linkedin.com/in/yanianshen){:target="_blank"}
