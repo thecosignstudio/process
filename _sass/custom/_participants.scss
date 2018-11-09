@@ -1,3 +1,8 @@
+.home-participants-title {
+  color: $white-shade-dark;
+  margin: 12px 0 4px;
+}
+
 .home-participants {
   margin-top: 12px;
   padding: 0;
@@ -13,7 +18,7 @@
   &:active,
   &:focus,
   &:hover {
-    color: $blue-steel;
+    color: lighten($blue-steel, 12%);
     text-decoration: underline;
   }
 
@@ -23,6 +28,7 @@
     &:active,
     &:focus,
     &:hover {
+      color: $blue-steel;
       text-decoration: none;
     }
   }
