@@ -4,6 +4,14 @@
   padding: 24px 0;
 }
 
+.home-footer-mail {
+  text-align: center;
+
+  @media screen and (min-width: 768px) {
+    text-align: right;
+  }
+}
+
 .home-footer-mail-link {
   color: $white-shade-light;
   display: inline-block;
