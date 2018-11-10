@@ -73,5 +73,5 @@ exerpt: "建議完成每個流程且查看不同裝置上的每個畫面。將�
 [Zora Shen](https://www.linkedin.com/in/yanianshen){:target="_blank"}
 
 <a class="chapter-cc-license-link" href="https://creativecommons.org/licenses/by-nc/3.0/tw/" rel="nofollow" target="_blank">
-  <i class="chapter-cc-license" alt="CC 授權：姓名標示-非商業性 3.0 台灣"></i>
+  <i class="chapter-cc-license" alt="創用 CC 授權：姓名標示-非商業性 3.0 台灣"></i>
 </a>

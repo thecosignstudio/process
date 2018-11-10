@@ -280,5 +280,5 @@ donts="不要害怕發問：記住！沒有笨問題。
 [Duke Lee](https://www.facebook.com/DukeLeeTW){:target="_blank"}、Kay Tai、Lou Yugalitree
 
 <a class="chapter-cc-license-link" href="https://creativecommons.org/licenses/by-nc/3.0/tw/" rel="nofollow" target="_blank">
-  <i class="chapter-cc-license" alt="CC 授權：姓名標示-非商業性 3.0 台灣"></i>
+  <i class="chapter-cc-license" alt="創用 CC 授權：姓名標示-非商業性 3.0 台灣"></i>
 </a>
