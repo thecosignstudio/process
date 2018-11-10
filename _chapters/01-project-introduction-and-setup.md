@@ -236,3 +236,7 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 
 ### 本章節譯者
 [ymcheung](https://ymcheung.tw){:target="_blank"}、[李盈熲 Mika](http://linkedin.com/in/yingchiungli){:target="_blank"}、劉亮吟
+
+<a class="chapter-cc-license-link" href="https://creativecommons.org/licenses/by-nc/3.0/tw/" rel="nofollow" target="_blank">
+  <i class="chapter-cc-license" alt="CC 授權：姓名標示-非商業性 3.0 台灣"></i>
+</a>

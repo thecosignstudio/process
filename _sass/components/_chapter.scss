@@ -161,3 +161,16 @@
     color: $orange-color;
   }
 }
+
+.chapter-cc-license-link {
+  display: inline-block;
+}
+
+.chapter-cc-license {
+  background-image: url('https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  display: inline-block;
+  height: 31px;
+  width: 88px;
+}

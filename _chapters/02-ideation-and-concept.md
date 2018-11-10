@@ -315,3 +315,7 @@ Source: [https://www.nngroup.com/articles/which-ux-research-methods](https://www
 
 ### 本章節譯者
 [劉進輝](https://www.behance.net/JasonCK){:target="_blank"}、[Nora Tzuyu Huang](https://tzuyuh.weebly.com/){:target="_blank"}、劉亮吟、Rimes
+
+<a class="chapter-cc-license-link" href="https://creativecommons.org/licenses/by-nc/3.0/tw/" rel="nofollow" target="_blank">
+  <i class="chapter-cc-license" alt="CC 授權：姓名標示-非商業性 3.0 台灣"></i>
+</a>
