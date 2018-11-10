@@ -1,11 +1,9 @@
 .c-quote {
   margin: (1.278 * $base-sizing) 0;
   padding-left: 0;
-  text-align: center;
 
   @media #{$md-up} {
     padding-left: 6rem;
-    text-align: left;
   }
 
   &__text {
