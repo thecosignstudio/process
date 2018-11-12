@@ -19,13 +19,13 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 **相關成員**
 - 客戶
 - 設計師
-- 業務開發代表
-- 專案經理
+- 業務開發代表 (BD)
+- 專案經理 (PM)
 - 開發人員
 
 ## Kick-off 會議檢查清單
 ### 在首次與客戶見面之前：
-與專案經理開會，蒐集所有專案的訊息。讓專案經理 (PM)、業務開發 (BD) 和開發團隊知道：不要把相同的問題問客戶兩遍。你要知道的事情：
+與專案經理開會，蒐集所有專案的訊息。讓專案經理、業務開發和開發團隊知道：不要把相同的問題問客戶兩遍。你要知道的事情：
 - 客戶已有正在使用的產品嗎？
   - 如果有，可以考慮先做 [UX 評估](https://www.netguru.co/services/ux-review){:target="_blank"}。
 - 產品有清楚的範疇 (scope) 嗎？
@@ -40,11 +40,11 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 - **讓客戶知道**
   - 產品設計是一組流程，即是可以讓產品或服務變得更好的反覆修改 (iterations)。客戶和使用者的目標皆達成時，即是完成最後一次修改。
   - 設計不僅僅只看外觀，還有其運作原理。讓客戶知道你的角色與期望。在一開始就要設立界線與期望。有幫助的連結：
-    - [從設計師身上可期望的事情](https://www.netguru.co/blog/what-expect-designer){:target="_blank"}
-    - [當你付錢找來設計師時，可以獲得的事情](https://www.netguru.co/blog/hiring-designers){:target="_blank"}
-    - [8 種建立/維護成功的客戶與設計師之間關係的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"}
+    - [從設計師身上可期望的事情](https://www.netguru.co/blog/what-expect-designer){:target="_blank"} (英)
+    - [當你付錢找來設計師時，可以獲得的事情](https://www.netguru.co/blog/hiring-designers){:target="_blank"} (英)
+    - [8 種建立/維護成功的客戶與設計師之間關係的方法](https://www.netguru.co/blog/8-ways-to-establish-and-maintain-a-successful-client-designer-relationship){:target="_blank"} (英)
 - **在專案的早期階段，避免多平台設計。**
-如果客戶要求多平台設計，需找另外一位設計師來幫忙。如果你認為範疇夠大，一定要建議組成設計團隊。請看細節：[為什麼團隊採用的方法對於產品設計成功與否很關鍵？](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"}
+如果客戶要求多平台設計，需找另外一位設計師來幫忙。如果你認為範疇夠大，一定要建議組成設計團隊。請看細節：[為什麼團隊採用的方法對於產品設計成功與否很關鍵？](https://www.netguru.co/blog/why-a-team-approach-is-the-key-to-successful-product-design){:target="_blank"} (英)
 - **強調不可能精準地預測使用者行為。**
 我們依據研究和現有資料，解決方案的準確程度只有經過相關測試才能達成。
 - **我們無法保證生意上的成功。**
@@ -53,7 +53,7 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 
 ### 首次會面 - 從客戶獲取訊息：
 **一般訊息**
-- 最後期限是什麼時候？ (設計/推出日期)
+- 最後期限是什麼時候？(設計/推出日期)
 - 你自己認為此功能的成功因素？
 - 你認為我們一起合作能夠成功的因素？
 - 你曾經蒐集過任何使用者反映的意見嗎？
@@ -62,9 +62,9 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 
 #### 針對 UX 評估的問題：
 
-- 在電話裡，試著建立評鑑的範圍
+- 在電話裡，試著建立評估的範圍
   - 越小越好。還可以更集中的話，就太棒了。
-  - 嘗試瞭解客戶對於評鑑的需求與期望。
+  - 嘗試瞭解客戶對於評估的需求與期望。
   - 嘗試找出對客戶來說很關鍵的使用者旅程。
   - 在完美的情況下，範圍會縮小到只有一個。
 - 電話談過後，與團隊內部討論客戶需求，詢問各種可能遇到的阻礙。
@@ -87,16 +87,16 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 - 確認有向客戶說明過溝通工具的使用方法。例如：[InVision](https://support.invisionapp.com/hc/en-us/articles/209192426-How-do-I-comment-on-a-prototype-){:target="_blank"} 的留言功能，解釋 [tour-points](https://support.invisionapp.com/hc/en-us/articles/204183549){:target="_blank"} 和留言的不同。
 
 #### 意見回饋
-- 客戶有足夠的時間給你意見回饋嗎？如果沒有，要試著要求有空的利害關係人積極參與溝通。
-- 讓客戶能夠理解積極與合作方法的價值 (回饋與溝通。)
+- 客戶有足夠的時間給你意見回饋嗎？如果沒有，要試著要求有空的相關成員積極參與溝通。
+- 讓客戶能夠理解積極與合作方法的價值 (回饋與溝通)。
 - 確認在客戶的部分只有一個最終回饋點。
-- 確認你有機會向所有利害關係人展示解決方案。
+- 確認你有機會向所有相關成員展示解決方案。
 - 確認客戶知道我們不是根據幾篇固定數量的評論做事，而是常態的回饋與反覆修改 (feedback-and-iteration) 模式。
 
 #### 過往經驗：
 - 客戶之前有跟設計師合作過嗎？
-    - 如果沒有，試著在會面的過程中，培養客戶對於設計的最佳實做方法和基本原則。
-    - 如果有，客戶跟設計師合作的經驗是怎麼樣？
+  - 如果沒有，試著在會面的過程中，培養客戶對於設計的最佳實做方法和基本原則。
+  - 如果有，客戶跟設計師合作的經驗是怎麼樣？
 - 客戶理解設計師的角色嗎？
 
 #### 里程碑與優先順序
@@ -238,5 +238,5 @@ exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與�
 [ymcheung](https://ymcheung.tw){:target="_blank"}、[李盈熲 Mika](http://linkedin.com/in/yingchiungli){:target="_blank"}、劉亮吟
 
 <a class="chapter-cc-license-link" href="https://creativecommons.org/licenses/by-nc/3.0/tw/" rel="nofollow" target="_blank">
-  <i class="chapter-cc-license" alt="CC 授權：姓名標示-非商業性 3.0 台灣"></i>
+  <i class="chapter-cc-license" alt="創用 CC 授權：姓名標示-非商業性 3.0 台灣"></i>
 </a>

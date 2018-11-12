@@ -44,20 +44,31 @@
 }
 
 .home-about-cosign-quote {
-  padding: 0 0 0 20px;
+  padding: 12px 24px;
+  position: relative;
+}
+
+.home-about-cosign-quote-end {
   position: relative;
 }
 
 .home-about-cosign-quote-left,
 .home-about-cosign-quote-right {
+  color: $white-shade-lighter;
   font-family: 'Arbutus Slab'; 
-  font-size: 16px;
+  font-size: 32px;
+  position: absolute;
 }
 
 .home-about-cosign-quote-left {
   display: block;
   left: 0;
-  position: absolute;
+  top: 6px;
+}
+
+.home-about-cosign-quote-right {
+  bottom: -14px;
+  right: -24px;
 }
 
 .home-about-cosign-cta {

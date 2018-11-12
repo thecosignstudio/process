@@ -174,5 +174,5 @@ exerpt: "身為設計師，絕不能跳過線稿階段。線稿階段是銜接�
 [Ming Chou](https://www.facebook.com/shigure0912){:target="_blank"}、[Money Chien](https://www.facebook.com/profile.php?id=100010171684035){:target="_blank"}、[Susan Lin](https://www.linkedin.com/in/shuyulin105/){:target="_blank"}、Felly Wu
 
 <a class="chapter-cc-license-link" href="https://creativecommons.org/licenses/by-nc/3.0/tw/" rel="nofollow" target="_blank">
-  <i class="chapter-cc-license" alt="CC 授權：姓名標示-非商業性 3.0 台灣"></i>
+  <i class="chapter-cc-license" alt="創用 CC 授權：姓名標示-非商業性 3.0 台灣"></i>
 </a>

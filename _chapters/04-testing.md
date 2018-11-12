@@ -269,8 +269,8 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
 - [如何以遠端易用性測試改進介面設計](https://www.netguru.co/blog/improve-ui-remote-usability-testing) (英)
 
 ### 本章節譯者
-[Cos Chen](https://coschen.icu){:target="_blank"}、[何慕晨](https://www.linkedin.com/in/%25E6%2585%2595%25E6%2599%25A8-%25E4%25BD%2595-532130a2){:target="_blank"}、[Gwynne Li](https://www.facebook.com/GwynneLL){:target="_blank"}、林婉婷
+[Cos Chen](https://coschen.icu){:target="_blank"}、[Gwynne Li](https://www.facebook.com/GwynneLL){:target="_blank"}、[何慕晨](https://www.linkedin.com/in/%25E6%2585%2595%25E6%2599%25A8-%25E4%25BD%2595-532130a2){:target="_blank"}、[林婉婷](https://www.linkedin.com/in/wantinglin93){:target="_blank"}
 
 <a class="chapter-cc-license-link" href="https://creativecommons.org/licenses/by-nc/3.0/tw/" rel="nofollow" target="_blank">
-  <i class="chapter-cc-license" alt="CC 授權：姓名標示-非商業性 3.0 台灣"></i>
+  <i class="chapter-cc-license" alt="創用 CC 授權：姓名標示-非商業性 3.0 台灣"></i>
 </a>

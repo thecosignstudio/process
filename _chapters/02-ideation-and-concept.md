@@ -156,7 +156,7 @@ exerpt: "創意發想與概念階段是設計流程中的根本基礎，在此�
 - 要明確設定想要實現的目標
 - 非常推薦回顧一遍[商業模式圖 (英)](https://upload.wikimedia.org/wikipedia/commons/1/10/Business_Model_Canvas.png){:target="_blank"}，這不是明確的問題範例，但它顯示了業務和產品的基本要素，你可以把它當作收集想法的靈感。
 
-既然所有東西都是可追蹤的，就來談談你要追蹤的確切目標吧。找出客戶的 KPI (關鍵績效指標)，好的 KPI 需要考慮商業脈絡、成功預測、顯示早期預警的訊號，並驗證已實現的結果。可以使用此資源製作[量身定制的 KPI 材料](http://www.bscdesigner.com/kpi-system-example.htm){:target="_blank"}。它們可以是使用 Paypal 的新註冊使用者，也可以是使用信用卡購買的客戶，一定要從一開始就知道你的目標有多高，有時候，分析起來很有挑戰性，更多細節請閱讀：[針對最具挑戰性的指標及 KPI 的 12 步驟系統](http://www.bscdesigner.com/kpi-system.htm){:target="_blank"}。
+既然所有東西都是可追蹤的，就來談談你要追蹤的確切目標吧。找出客戶的 KPI (關鍵績效指標)，好的 KPI 需要考慮商業脈絡、成功預測、顯示早期預警的訊號，並驗證已實現的結果。可以使用此資源製作[量身定制的 KPI 材料](http://www.bscdesigner.com/kpi-system-example.htm){:target="_blank"}。它們可以是使用 Paypal 的新註冊使用者，也可以是使用信用卡購買的客戶，一定要從一開始就知道你的目標有多高，有時候，分析起來很有挑戰性，更多細節請閱讀：[針對最具挑戰性的指標及 KPI 的 12 步驟系統](http://www.bscdesigner.com/kpi-system.htm){:target="_blank"} (英)。
 
 ### 定義使用者/定位顧客
 無論你的設計是什麽，你都必須弄清楚目標族群是誰。很多人都認為自己的產品適合所有人，但試圖讓你的產品吸引所有人不但費力且昂貴。你要做的是明確想出目標族群，並把投入在此細分市場上。更深入了解目標族群將提高效率，且最終將提高你的影響力，因為一旦知道使用者是誰，就會知道如何為他們設計。
@@ -171,7 +171,7 @@ exerpt: "創意發想與概念階段是設計流程中的根本基礎，在此�
 - 有蒐集使用者回饋嗎？
 
 ### 定義使用者的目標
-為了解使用者的需求及目標，可以使用[任務故事 (英)](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"}。根據換位思考 (empathy) 和此方法，可以發現使用者真正所需、他們必須採取什麽行動來實現目標。知道這點後，可以建立更好的[顧客旅程地圖](http://boxesandarrows.com/an-introduction-to-user-journeys/){:target="_blank"}，讓使用者更快速完成目標。
+為了解使用者的需求及目標，可以使用[任務故事](https://blog.intercom.com/using-job-stories-design-features-ui-ux/){:target="_blank"} (英)。根據換位思考 (empathy) 和此方法，可以發現使用者真正所需、他們必須採取什麽行動來實現目標。知道這點後，可以建立更好的[顧客旅程地圖](http://boxesandarrows.com/an-introduction-to-user-journeys/){:target="_blank"}，讓使用者更快速完成目標。
 
 為了定義出更好的使用者目標，可以回答下列的問題：
 
@@ -317,5 +317,5 @@ Source: [https://www.nngroup.com/articles/which-ux-research-methods](https://www
 [劉進輝](https://www.behance.net/JasonCK){:target="_blank"}、[Nora Tzuyu Huang](https://tzuyuh.weebly.com/){:target="_blank"}、劉亮吟、Rimes
 
 <a class="chapter-cc-license-link" href="https://creativecommons.org/licenses/by-nc/3.0/tw/" rel="nofollow" target="_blank">
-  <i class="chapter-cc-license" alt="CC 授權：姓名標示-非商業性 3.0 台灣"></i>
+  <i class="chapter-cc-license" alt="創用 CC 授權：姓名標示-非商業性 3.0 台灣"></i>
 </a>

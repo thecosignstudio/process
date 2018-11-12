@@ -4,8 +4,17 @@
   padding: 24px 0;
 }
 
+.home-footer-mail {
+  text-align: center;
+
+  @media screen and (min-width: 768px) {
+    text-align: right;
+  }
+}
+
 .home-footer-mail-link {
   color: $white-shade-light;
+  display: inline-block;
 
   &:active,
   &:focus,
@@ -21,4 +30,30 @@
 
 .home-footer-mail-label {
   color: $white-shade-dark;
+}
+
+.home-footer-cc-license {
+  text-align: center;
+
+  @media screen and (min-width: 768px) {
+    text-align: right;
+  }
+}
+
+.home-footer-cc-license-link {
+  display: inline-block;
+  margin-top: 20px;
+
+  @media screen and (min-width: 768px) {
+    margin-top: 0; 
+  }
+}
+
+.icon-home-footer-cc-license {
+  background-image: url('https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-nd.svg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  display: inline-block;
+  height: 31px;
+  width: 88px;
 }
