@@ -1,6 +1,12 @@
 .home-participants-title {
   color: $white-shade-dark;
+  font-size: 1.125rem;
   margin: 12px 0 4px;
+  text-align: center;
+
+  @media screen and (min-width: 768px) {
+    text-align: left;
+  }
 }
 
 .home-participants {
@@ -10,6 +16,11 @@
 
 .home-participant-item {
   list-style: none;
+  text-align: center;
+
+  @media screen and (min-width: 768px) {
+    text-align: left;
+  }
 }
 
 .home-participant-link {
