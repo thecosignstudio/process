@@ -5,6 +5,7 @@
   text-align: center;
 
   @media screen and (min-width: 768px) {
+    margin: 0;
     text-align: left;
   }
 }
@@ -25,12 +26,14 @@
 
 .home-participant-link {
   color: $blue-steel;
+  transition: color 0.2s ease-out;
 
   &:active,
   &:focus,
   &:hover {
     color: lighten($blue-steel, 12%);
     text-decoration: underline;
+    transition: color 0.2s ease-in;
   }
 
   &[href="javascript:void(0)"] {
