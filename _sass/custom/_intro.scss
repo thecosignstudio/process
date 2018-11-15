@@ -65,19 +65,19 @@
 }
 
 .home-intro-highlight-icon-github {
-  @include intro-highlight-icon(66.66667%);
+  @include intro-highlight-icon(68%);
 
   background-image: url('../assets/home_imgs/bygithub.svg');
 }
 
 .home-intro-highlight-icon-process {
-  @include intro-highlight-icon(83.33333%);
+  @include intro-highlight-icon(84%);
 
   background-image: url('../assets/home_imgs/theprocess.svg');
 }
 
 .home-intro-highlight-icon-legend {
-  @include intro-highlight-icon(83.33333%);
+  @include intro-highlight-icon(92%);
 
   background-image: url('../assets/home_imgs/wordlegend.svg');
 }
