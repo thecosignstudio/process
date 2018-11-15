@@ -11,6 +11,7 @@
 
 .home-sponsor-title {
   flex: 1 0 100%;
+  font-size: 1.125rem;
   text-align: center;
 
   @media screen and (min-width: 768px) {
@@ -55,6 +56,8 @@
 
 .home-partner-title {
   flex: 1 0 100%;
+  font-size: 1.125rem;
+  margin-top: 20px;
   text-align: center;
 
   @media screen and (min-width: 768px) {
@@ -64,21 +67,30 @@
 }
 
 .home-partner-logo {
+  align-items: center;
+  display: flex;
   flex: 1 0 100%;
-  text-align: center;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
 
   @media screen and (min-width: 768px) {
     flex: 1 1 50%;
+  }
+}
+
+.home-partner-item {
+  flex: 0 0 50%;
+  list-style: none;
+  text-align: center;
+
+  @media screen and (min-width: 768px) {
     text-align: left;
   }
 }
 
 .home-partner-logo-link {
-  display: inline-block;
-
-  &:first-child {
-    display: block;
-  }
+  display: inline-block; 
 }
 
 .home-sponsor-ixda-logo {
@@ -102,8 +114,8 @@
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 100% auto;
-  margin: 8px 12px 0 0;
-  height: 84px;
+  margin-top: 8px;
+  height: 72px;
   width: 72px;
 }
 
@@ -114,15 +126,26 @@
   background-repeat: no-repeat;
   background-size: 100% auto;
   margin-top: 8px;
-  height: 92px;
-  width: 84px;
+  height: 84px;
+  width: 76px;
+}
+
+.home-sponsor-murmurline-logo {
+  display: inline-block;
+  background-image: url('../assets/home_imgs/logo_murmurline.png');
+  background-position: center 56%;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  margin-top: 8px;
+  height: 72px;
+  width: 72px;
 }
 
 .home-partner-seperator {
   border-bottom: 1px solid $white-shade-lighter;
   display: block;
-  margin: 10px auto;
-  width: 50%;
+  margin: 16px auto;
+  width: 75%;
 
   @media screen and (min-width: 768px) {
     display: none;

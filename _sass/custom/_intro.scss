@@ -13,20 +13,11 @@
 }
 
 .home-intro-highlights {
-  display: flex;
-  overflow-x: auto;
-  margin-top: 12px;
   padding: 0;
 }
 
 .home-intro-highlight-item {
-  flex: 1 1 auto;
   list-style: none;
-  margin-right: 20px;
-
-  &:last-child {
-    margin-right: 0;
-  }
 }
 
 @mixin intro-links {
@@ -65,23 +56,28 @@
 }
 
 .home-intro-highlight-icon-github {
-  @include intro-highlight-icon(66.66667%);
+  @include intro-highlight-icon(68%);
 
   background-image: url('../assets/home_imgs/bygithub.svg');
 }
 
 .home-intro-highlight-icon-process {
-  @include intro-highlight-icon(83.33333%);
+  @include intro-highlight-icon(84%);
 
   background-image: url('../assets/home_imgs/theprocess.svg');
 }
 
 .home-intro-highlight-icon-legend {
-  @include intro-highlight-icon(83.33333%);
+  @include intro-highlight-icon(92%);
 
   background-image: url('../assets/home_imgs/wordlegend.svg');
 }
 
 .home-intro-highlight-title {
+  font-size: 0.75rem;
   text-align: center;
+
+  @media screen and (min-width: 768px) {
+    font-size: 1rem;
+  }
 }

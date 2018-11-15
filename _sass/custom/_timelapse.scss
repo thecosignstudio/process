@@ -3,16 +3,11 @@
 }
 
 .home-timelapse-video {
-  // background-color: $white-shade-dark;
   padding-top: 56.25%;
   position: relative;
 
   @media screen and (min-width: 768px) {
-    padding-top: 42.1875%;
-  }
-
-  @media screen and (min-width: 992px) {
-    padding-top: 36%;
+    padding-top: 28.125%;
   }
 }
 
@@ -24,13 +19,4 @@
   top: 0;
   height: 100%;
   width: 100%;
-
-  @media screen and (min-width: 768px) {
-    margin: 0 auto;
-    width: 75%;
-  }
-
-  @media screen and (min-width: 992px) {
-    width: 50%;
-  }
 }
