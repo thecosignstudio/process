@@ -175,11 +175,11 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
 - **該如何進行測試?**
   進行 A/B 測試實驗的正確方法是遵循科學的實驗過程，包含以下步驟：
   1. **研究你的網站數據：**
-  使用 Google Analytics 等網站分析工具，找到網站轉換管道 (conversion funnel) 的問題區域。例如：從表現很差的指標找出瓶頸頁面。
+  使用 Google Analytics 等網站分析工具，找到網站轉換漏斗 (conversion funnel) 的問題區域。例如：從表現很差的指標找出瓶頸頁面。
   2. **觀察使用者行為：**
   利用訪客行為分析工具，找出讓訪客無法轉換的內容。例如：首頁的行動呼籲按鈕不明顯。
   3. **建立假設：**
-  根據訪客行為分析工具找出的洞見，建立以增加轉換率為目標的假設。例如，「增加行動呼與按鈕大小，使按鈕變得更明顯，以增加轉換率。」
+  根據訪客行為分析工具找出的洞見，建立以增加轉換率為目標的假設。例如：「增加行動呼與按鈕大小，使按鈕變得更明顯，以增加轉換率。」
   4. **測試假設：**
   根據假設，在原始頁面建立另外一個版本進行 A/B 測試。例如：「針對有更大行動呼籲按鈕的版本 A/B 測試原始主頁。」根據每月訪客數量、當前轉換率以及轉換率預期變化計算測試持續的時間。
   5. **分析測試數據、做成結論：**
@@ -203,10 +203,10 @@ exerpt: "數位產品的任何部分均可測試：設計理念、程式碼、�
 
 - **連結：**<br>
   - 從 8 個熱點分析案例，揭露訪客使用行為[按此](https://www.hotjar.com/heatmaps)(英)，作者為 Hotjar 團隊。
-  - 如何使用熱點圖增加轉換率[按此] (英)(https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/)，作者是 AdEspresso 的 Dan Virgillito。
-  - 利用熱點圖提升轉換率的實做指南請見[連結一](https://vwo.com/blog/increase-conversions-using-heatmaps/) (英)與[連結二] (英)(https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/)。
+  - 如何使用熱點圖增加轉換率[按此](https://adespresso.com/academy/blog/the-ultimate-guide-for-using-heat-maps-to-increase-conversions/) (英)，作者是 AdEspresso 的 Dan Virgillito。
+  - 利用熱點圖提升轉換率的實做指南請見[連結一](https://vwo.com/blog/increase-conversions-using-heatmaps/) (英)與[連結二](https://mouseflow.com/blog/2016/10/how-to-boost-your-conversion-rate-and-lower-your-bounce-rate-with-heatmaps/) (英)。
 - **如何使用？**<br>
-	使用 [Hotjar](https://www.hotjar.com/) 就能在網站任一頁製作熱點圖，密碼保護與動態的頁面也可以。想了解不同類型的熱點圖 (如滑鼠點擊、鍵盤敲擊、游標移動與滾輪滑動等，)請參見[此連結](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps) (英)。
+	使用 [Hotjar](https://www.hotjar.com/) 就能在網站任一頁製作熱點圖，密碼保護與動態的頁面也可以。想了解不同類型的熱點圖 (如滑鼠點擊、鍵盤敲擊、游標移動與滾輪滑動等)，請參見[此連結](https://docs.hotjar.com/docs/types-of-heatmaps#section-scroll-heatmaps) (英)。
 
 [**分析**](https://blog.kissmetrics.com/expert-google-analytics-reports/){:target="_blank"}
 - **使用產品：**<br>

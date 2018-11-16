@@ -46,10 +46,10 @@ exerpt: "進行設計的目的是讓功能實現；以可用的資源解決問�
 **大約所需時間：4 小時。**造訪[此連結](https://netguru.invisionapp.com/boards/3M37AJO452DFW/){:target="_blank"}查看情緒板範本。
 
 **如何準備情緒板？**<br>
-我們使用 Boards by inVision 的理由：
+我們使用 Boards by InVision 的理由：
 - 較有彈性
 - 有立即可用的樣板
-- 提供加入圖片、字型和附件的功能選項
+- 提供加入圖片、字型和附件的功能選項<br>
 當然，可以隨意選擇自己使用的工具！
 
 ## 風格規範
