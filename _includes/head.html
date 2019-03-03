@@ -6,14 +6,14 @@
 
   <title>{{page.title}} - {{ site.book_title }}[{{ page.chapter_number }}]</title>
   <meta name="description" content="{{ page.exerpt }}">
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
   <meta property="og:type"        content="article" />
   <meta property="og:locale"      content="zh_TW" />
   <meta property="og:title"       content="{{page.title}} - {{ site.book_title }}[{{ page.chapter_number }}]" />
   <meta property="og:description" content="{{ page.exerpt }}" />
-  <meta property="og:image"       content="{{ site.url }}/process/assets/og_imgs/{{ page.chapter_number }}.png" />
+  <meta property="og:image"       content="{{ site.url }}{{ site.baseurl }}/assets/og_imgs/{{ page.chapter_number }}.png" />
 
   <link rel="stylesheet" href="{{ "/process/css/main.css" }}">
   <link rel="stylesheet" href="{{ "/process/css/selection-sharer.css" }}" />
