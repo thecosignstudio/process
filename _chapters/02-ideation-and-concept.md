@@ -2,6 +2,8 @@
 title: "創意發想與概念"
 chapter_number: "02"
 exerpt: "創意發想與概念階段是設計流程中的根本基礎，在此時間點，要獲取主要需求共識以及決定日後發展大方向"
+translator: "劉進輝, Nora Tzuyu Huang, 劉亮吟, Rimes"
+modified: 2019-03-03T23:59:59+08:00
 ---
 
 # 創意發想與概念

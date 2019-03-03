@@ -2,6 +2,8 @@
 title: "專案啟動與設置"
 chapter_number: "01"
 exerpt: "你的工作從拿起紙和筆之前就已經開始了。從準備與客戶第一次的會議就已經啟動設計流程"
+translator: "ymcheung, 李盈熲 Mika, 劉亮吟"
+modified: 2019-03-03T23:59:59+08:00
 ---
 
 # 專案啟動與設置

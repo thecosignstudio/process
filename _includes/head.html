@@ -24,7 +24,21 @@
     "@type": "schema:Article",
     "@id": "{{ site.url }}{{ page.url }}",
     "schema:inLanguage": "zh-TW",
-    "schema:name": "{{page.title}}"
+    "schema:name": "{{page.title}}",
+    "schema:headline": "{{page.title}}",
+    "schema:image": "https://thecosignstudio.github.io/process/assets/og_imgs/07.png",
+    "author": {
+      "@type": "Person",
+      "schema:name": "{{page.translator}}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "The Cosign Studio",
+      "logo": "https://thecosignstudio.github.io/process/assets/home_imgs/cosign_logo_b.svg",
+      "url": "https://www.facebook.com/groups/207617269772052/"
+    },
+    "datePublished": "2018-11-09",
+    "dateModified": "{{page.modified}}"
   }
   </script>
   

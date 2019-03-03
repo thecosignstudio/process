@@ -2,6 +2,8 @@
 title: "製作線稿"
 chapter_number: "03"
 exerpt: "身為設計師，絕不能跳過線稿階段。線稿階段是銜接前期研究與設計視覺化的橋樑"
+translator: "Ming Chou, Money Chien, Susan Lin, Felly Wu"
+modified: 2019-03-03T23:59:59+08:00
 ---
 
 # 製作線稿
