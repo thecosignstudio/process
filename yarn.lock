@@ -1475,7 +1475,7 @@ glob-stream@^3.1.5:
   dependencies:
     glob "^4.3.1"
     glob2base "^0.0.12"
-    minimatch "^2.0.1"
+    minimatch "^3.0.2"
     ordered-read-streams "^0.1.0"
     through2 "^0.6.1"
     unique-stream "^1.0.0"
@@ -1501,7 +1501,7 @@ glob@^4.3.1:
   dependencies:
     inflight "^1.0.4"
     inherits "2"
-    minimatch "^2.0.1"
+    minimatch "^3.0.2"
     once "^1.3.0"
 
 glob@^7.0.0, glob@^7.0.3, glob@^7.0.5:
@@ -1523,7 +1523,7 @@ glob@~3.1.21:
   dependencies:
     graceful-fs "~1.2.0"
     inherits "1"
-    minimatch "~0.2.11"
+    minimatch "^3.0.2"
 
 global-modules@^1.0.0:
   version "1.0.0"
@@ -1568,7 +1568,7 @@ globule@~0.1.0:
   dependencies:
     glob "~3.1.21"
     lodash "^4.17.11"
-    minimatch "~0.2.11"
+    minimatch "^3.0.2"
 
 glogg@^1.0.0:
   version "1.0.1"
