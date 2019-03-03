@@ -4,14 +4,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" type="image/png" href="../assets/content_imgs/favicon.ico"/>
 
-  <title>{{page.title}}</title>
+  <title>{{page.title}} - {{ site.book_title }}[{{ page.chapter_number }}]</title>
   <meta name="description" content="{{ page.exerpt }}">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:type"        content="article" />
   <meta property="og:locale"      content="zh_TW" />
-  <meta property="og:title"       content="{{page.title}}" />
+  <meta property="og:title"       content="{{page.title}} - {{ site.book_title }}[{{ page.chapter_number }}]" />
   <meta property="og:description" content="{{ page.exerpt }}" />
   <meta property="og:image"       content="{{ site.url }}/process/assets/og_imgs/{{ page.chapter_number }}.png" />
 
