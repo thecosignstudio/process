@@ -120,7 +120,7 @@ modified: 2019-03-03T23:59:59+08:00
 根據使用者的互動、上傳資料和各種應用程式狀態的改變，這些狀態會在頁面上不斷循環。只要能夠細心設計這些變化，就能夠為不管身處在哪種情況的使用者，打造優良的體驗。
 
 ## 針對手機原生應用程式的設計細節
-如果你是原生應用程式的新手，閱讀 Android (Material Design) 和 iOS (Human Interface Guidelines) 作業系統官方規範是最好的方式。
+如果你是原生應用程式的新手，最好的方式是閱讀 Android (Material Design) 和 iOS (Human Interface Guidelines) 作業系統官方規範。
 
 **Android 裝置**：[Material Design Guidelines](https://material.io/guidelines/){:target="_blank"}
 
