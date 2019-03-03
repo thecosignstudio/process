@@ -26,6 +26,8 @@ github_username:  jekyll
 
 encoding: utf-8
 
+timezone: Asia/Taipei
+
 # BOOK SETTINGS
 book_title: "專業人士的設計流程"
 

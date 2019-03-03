@@ -2,6 +2,8 @@
 title: "結束專案"
 chapter_number: "07"
 exerpt: "建議完成每個流程且查看不同裝置上的每個畫面。將解決方案告訴團隊、討論潛在問題和開發瓶頸"
+translator: "Zora Shen"
+modified: 2019-03-03T23:59:59+08:00
 ---
 
 # 結束專案
