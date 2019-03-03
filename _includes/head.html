@@ -17,6 +17,16 @@
 
   <link rel="stylesheet" href="{{ "/process/css/main.css" }}">
   <link rel="stylesheet" href="{{ "/process/css/selection-sharer.css" }}" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "schema:Article",
+    "@id": "{{ site.url }}{{ page.url }}",
+    "schema:inLanguage": "zh-TW",
+    "schema:name": "{{page.title}}"
+  }
+  </script>
   
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
