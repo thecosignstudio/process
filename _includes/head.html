@@ -28,9 +28,7 @@
     "schema:headline": "{{ site.book_title }} - {{page.title}}",
     "schema:description": "{{ page.exerpt }}",
     "schema:image": "{{ site.url }}{{ site.baseurl }}/assets/og_imgs/{{ page.chapter_number }}.png",
-    "mainEntityOfPage": {
-      "@type": "CollectionPage"
-    },
+    "mainEntityOfPage": "{{ site.url }}{{ site.baseurl }}/",
     "author": {
       "@type": "Person",
       "schema:name": "{{page.translator}}"
@@ -38,8 +36,14 @@
     "publisher": {
       "@type": "Organization",
       "name": "The Cosign Studio",
-      "logo": "https://thecosignstudio.github.io/process/assets/home_imgs/cosign_logo_b_2019.png",
-      "url": "https://www.facebook.com/groups/207617269772052/"
+      "url": "https://www.facebook.com/groups/207617269772052/",
+      "logo": {
+        "@type": "ImageObject",
+        "name": "The Cosign Studio Logo",
+        "width": "400",
+        "height": "300",
+        "url": "https://thecosignstudio.github.io/process/assets/home_imgs/cosign_logo_b_2019.png"
+      }
     },
     "datePublished": "2018-11-09",
     "dateModified": "{{page.modified}}"
