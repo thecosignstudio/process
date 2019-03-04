@@ -22,11 +22,11 @@
   {
     "@context": "http://schema.org",
     "@type": "schema:Article",
-    "@id": "{{ site.url }}{{ page.url }}",
+    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
     "schema:inLanguage": "zh-TW",
-    "schema:name": "{{page.title}}",
-    "schema:headline": "{{page.title}}",
-    "schema:image": "https://thecosignstudio.github.io/process/assets/og_imgs/07.png",
+    "schema:name": "{{ site.book_title }} - {{page.title}}",
+    "schema:headline": "{{ site.book_title }} - {{page.title}}",
+    "schema:image": "{{ site.url }}{{ site.baseurl }}/assets/og_imgs/{{ page.chapter_number }}.png",
     "mainEntityOfPage": {
       "@type": "CollectionPage"
     },
