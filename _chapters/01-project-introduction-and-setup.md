@@ -237,7 +237,7 @@ last_modified_at: 2019-03-07T23:59:59+08:00
 - [逐步說明：如何選擇設計師](https://www.netguru.co/blog/how-to-choose-a-designer-step-by-step-guide){:target="_blank"} (英)
 
 ### 本章節譯者
-[ymcheung](https://ymcheung.tw){:target="_blank"}、[李盈熲 Mika](http://linkedin.com/in/yingchiungli){:target="_blank"}、劉亮吟
+[ymcheung](https://read.cv/ymcheung){:target="_blank"}、[李盈熲 Mika](http://linkedin.com/in/yingchiungli){:target="_blank"}、劉亮吟
 
 <a class="chapter-cc-license-link" href="https://creativecommons.org/licenses/by-nc/3.0/tw/" rel="nofollow" target="_blank">
   <i class="chapter-cc-license" alt="創用 CC 授權：姓名標示-非商業性 3.0 台灣"></i>
