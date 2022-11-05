@@ -4,14 +4,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" type="image/png" href="../assets/content_imgs/favicon.ico"/>
 
-  <title>{{ page.title }} (第 {{ page.chapter_number }} 章)</title>
+  <title>[{{ page.chapter_number }}] {{ page.title }}</title>
   <meta name="description" content="{{ page.excerpt }}">
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 
   <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
   <meta property="og:type"        content="article" />
+  <meta property="og:site_name"   content="{{ site.book_title }}" />
   <meta property="og:locale"      content="zh_TW" />
-  <meta property="og:title"       content="{{page.title}} - {{ site.book_title }}[{{ page.chapter_number }}]" />
+  <meta property="og:title"       content="[{{ page.chapter_number }}] {{ page.title }}" />
   <meta property="og:description" content="{{ page.excerpt }}" />
   <meta property="og:image"       content="{{ site.url }}{{ site.baseurl }}/assets/og_imgs/{{ page.chapter_number }}.png" />
 
