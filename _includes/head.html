@@ -4,15 +4,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" type="image/png" href="../assets/content_imgs/favicon.ico"/>
 
-  <title>{{page.title}} - {{ site.book_title }}[{{ page.chapter_number }}]</title>
-  <meta name="description" content="{{ page.exerpt }}">
+  <title>{{ page.title }} (第 {{ page.chapter_number }} 章)</title>
+  <meta name="description" content="{{ page.excerpt }}">
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 
   <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
   <meta property="og:type"        content="article" />
   <meta property="og:locale"      content="zh_TW" />
   <meta property="og:title"       content="{{page.title}} - {{ site.book_title }}[{{ page.chapter_number }}]" />
-  <meta property="og:description" content="{{ page.exerpt }}" />
+  <meta property="og:description" content="{{ page.excerpt }}" />
   <meta property="og:image"       content="{{ site.url }}{{ site.baseurl }}/assets/og_imgs/{{ page.chapter_number }}.png" />
 
   <link rel="stylesheet" href="{{ "/process/css/main.css" }}">
@@ -20,33 +20,46 @@
 
   <script type="application/ld+json">
   {
-    "@context": "http://schema.org",
-    "@type": "schema:Article",
-    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
-    "schema:inLanguage": "zh-TW",
-    "schema:name": "{{ site.book_title }} - {{page.title}}",
-    "schema:headline": "{{ site.book_title }} - {{page.title}}",
-    "schema:description": "{{ page.exerpt }}",
-    "schema:image": "{{ site.url }}{{ site.baseurl }}/assets/og_imgs/{{ page.chapter_number }}.png",
-    "mainEntityOfPage": "{{ site.url }}{{ site.baseurl }}/",
-    "author": {
-      "@type": "Person",
-      "schema:name": "{{page.translator}}"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "The Cosign Studio",
-      "url": "https://www.facebook.com/groups/207617269772052/",
-      "logo": {
-        "@type": "ImageObject",
-        "name": "The Cosign Studio Logo",
-        "width": "400",
-        "height": "300",
-        "url": "https://thecosignstudio.github.io/process/assets/home_imgs/cosign_logo_b_2019.png"
+    "@context": "https://schema.org",
+    "@graph":
+    [
+      {
+        "@type": "Website",
+        name: "{{ site.book_title }}",
+        url: "{{ site.url }}",
+      },
+      {
+        "@type": "Article",
+        "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+        "inLanguage": "zh-TW",
+        "name": "{{ site.book_title }} - {{page.title}}",
+        "headline": "{{ page.title }} [{{ page.chapter_number }}]",
+        "description": "{{ page.excerpt }}",
+        "image": "{{ site.url }}{{ site.baseurl }}/assets/og_imgs/{{ page.chapter_number }}.png",
+        "mainEntityOfPage": "{{ site.url }}{{ site.baseurl }}/",
+        "author":
+        {
+          "@type": "Person",
+          "name": "{{ page.translator }}"
+        },
+        "publisher":
+        {
+          "@type": "Organization",
+          "name": "The Cosign Studio",
+          "url": "https://www.facebook.com/groups/207617269772052/",
+          "logo":
+          {
+            "@type": "ImageObject",
+            "name": "The Cosign Studio Logo",
+            "width": "400",
+            "height": "300",
+            "url": "https://thecosignstudio.github.io/process/assets/home_imgs/cosign_logo_b_2019.png"
+          }
+        },
+        "datePublished": "2018-11-09",
+        "dateModified": "{{ page.last_modified_at }}"
       }
-    },
-    "datePublished": "2018-11-09",
-    "dateModified": "{{page.last_modified_at}}"
+    ]
   }
   </script>
   <script async src="https://cdn.splitbee.io/sb.js"></script>

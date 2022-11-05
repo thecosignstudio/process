@@ -1,7 +1,7 @@
 ---
 title: "設計"
 chapter_number: "05"
-exerpt: "進行設計的目的是讓功能實現；以可用的資源解決問題"
+excerpt: "進行設計的目的是讓功能實現；以可用的資源解決問題"
 translator: "Duke Lee, Kay Tai, Lou Yugalitree"
 last_modified_at: 2019-03-06T23:59:59+08:00
 ---

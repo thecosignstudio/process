@@ -1,7 +1,7 @@
 ---
 title: "實做建議"
 chapter_number: "06"
-exerpt: "每個開發人員對於實做設計有不同的方法。對於像是背景和按鈕這樣的互動元素等可擴充素材特別重要"
+excerpt: "每個開發人員對於實做設計有不同的方法。對於像是背景和按鈕這樣的互動元素等可擴充素材特別重要"
 translator: "Gwynne Li, Money Chien, Stella Chen, Susan Lin, 劉亮吟"
 last_modified_at: 2019-03-08T23:59:59+08:00
 ---
